@@ -4,6 +4,7 @@
 brew install chruby
 
 vim ~/.zshenv
+
 source /usr/local/share/chruby/chruby.sh
 
 ### gem
