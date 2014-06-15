@@ -3,9 +3,14 @@
 ### chruby
 brew install chruby
 
+### source chruby.sh to environment 
 vim ~/.zshenv
 
 source /usr/local/share/chruby/chruby.sh
+
+### speed up gem install no docs
+echo "gem: --no-document" >> ~/.gemrc
+
 
 ### gem
 gem env
