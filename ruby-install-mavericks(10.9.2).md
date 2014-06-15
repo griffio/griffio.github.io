@@ -3,10 +3,10 @@
 ### chruby
 brew install chruby
 
-### source chruby.sh to environment 
-vim ~/.zshenv
-
-source /usr/local/share/chruby/chruby.sh
+### install chruby and source chruby to environment 
+brew install chruby ruby-install
+echo "source /usr/local/opt/chruby/share/chruby/chruby.sh" >> ~/.zshenv
+echo "source /usr/local/opt/chruby/share/chruby/auto.sh" >> ~/.zshenv
 
 ### speed up gem install no docs
 echo "gem: --no-document" >> ~/.gemrc
