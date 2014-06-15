@@ -3,7 +3,7 @@
 ### chruby
 brew install chruby
 
-vim ~/.zshrc
+vim ~/.zshenv
 source /usr/local/share/chruby/chruby.sh
 
 ### gem
