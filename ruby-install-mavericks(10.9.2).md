@@ -2,7 +2,9 @@
 
 ### remove existing
 brew uninstall ruby
+
 brew prune
+
 rm ~/.gemrc
 
 ### install chruby and source chruby to environment 
