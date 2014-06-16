@@ -14,6 +14,12 @@ echo "source /usr/local/opt/chruby/share/chruby/chruby.sh" >> ~/.zshenv
 
 echo "source /usr/local/opt/chruby/share/chruby/auto.sh" >> ~/.zshenv
 
+echo "source /usr/local/opt/chruby/share/chruby/chruby.sh" >> ~/.bashrc
+
+echo "source /usr/local/opt/chruby/share/chruby/auto.sh" >> ~/.bashrc
+
+check .bash_profile includes source ~/.bashrc
+
 ruby-install ruby 2.0.0
 
 chruby ruby-2.0.0-p451
