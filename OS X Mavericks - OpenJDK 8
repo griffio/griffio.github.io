@@ -9,6 +9,8 @@ xcode-select --install
 xcode 4.6.3 select -> /usr/bin/lipo <- commandline tools 
 sudo ln -s /Library/Developer/CommandLineTools/usr/bin/lipo /usr/bin
 
+Requirements
+
 Oracle JDK 7
 Mercurial
 Git
