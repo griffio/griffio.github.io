@@ -1,0 +1,23 @@
+OS X Mavericks - OpenJDK 8 - Build
+
+https://wikis.oracle.com/display/OpenJDK/Mac+OS+X+Port
+http://gvsmirnov.ru/blog/tech/2014/02/07/building-openjdk-8-on-osx-maverick.html
+
+sudo xcode-select -switch /Applications/Xcode.app
+xcode-select --install
+
+xcode 4.6.3 select -> /usr/bin/lipo <- commandline tools 
+sudo ln -s /Library/Developer/CommandLineTools/usr/bin/lipo /usr/bin
+
+Oracle JDK 7
+Mercurial
+Git
+XCode 4.6.3
+XQuartz-2.7.5
+
+http://www.mail-archive.com/macosx-port-dev@openjdk.java.net/msg00215.html
+/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSUserNotification.h:16
+
+hg clone http://hg.openjdk.java.net/jdk8/jdk8
+bash ./get_source.sh
+bash ./configure && make
