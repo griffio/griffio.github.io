@@ -1,0 +1,39 @@
+https://crosswalk-project.org
+
+Download Stable 7.36.154.12
+Download samples https://github.com/crosswalk-project/crosswalk-samples
+
+OSX Python 2.7.5
+> brew install ant  (1.9.4)
+
+Java SDK Path
+
+> export JAVA_HOME = `usr/libexec/java_home -v 1.7` (/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home)
+
+Android SDK Path
+
+http://dl.google.com/android/android-sdk_r23.0.2-macosx.zip
+
+> export PATH=/Users/griffio/Dev/android-sdk-macosx:
+/Users/griffio/Dev/android-sdk-macosx/platform-tools:
+/Users/griffio/Dev/android-sdk-macosx/build-tools:
+/Users/griffio/Dev/android-sdk-macosx/tools:$PATH
+
+> android
+ Android SDK Platform-tools 19.0.1
+ Android SDK Build tools 18.0.1
+ Android 4.3 (API 18)
+
+
+> /Users/griffio/crosswalk-7.36.154.12
+
+python make_apk.py
+ --package=griffio.hello
+ --manifest=/Users/griffio/crosswalk-samples-0.6/hello_world/manifest.json
+ --name=helloWorld
+
+adb devices -l 
+List of devices attached 
+0585d3d2               device usb:FA400000 product:razor model:Nexus_7 device:flo
+
+adb install helloWorld_0.0.0.1_arm.apk
