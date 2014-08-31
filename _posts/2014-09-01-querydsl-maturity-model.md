@@ -13,7 +13,7 @@ summary: using querydsl
 
 ## Usage Maturity Model
 
-### Level 3 - [Projections](#projections) and [Delegates](#delegates)
+### Level 3 - [Projections](#projections) &amp; [Delegates](#delegates)
 
 ### Level 2 - [Collections](#collections) 
 
