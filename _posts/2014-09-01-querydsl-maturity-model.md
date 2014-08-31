@@ -8,13 +8,17 @@ summary: using querydsl
 ---
 
 # www.querydsl.com
+
 ## query dsl (pron /ˈdiːsəl/)
 
 ## Usage Maturity Model
 
-### Level 3 - [Projections](https://github.com/griffio/griffio.github.io/wiki/Projections) and [Delegates](https://github.com/griffio/griffio.github.io/wiki/Delegates)
-### Level 2 - [Collections](https://github.com/griffio/griffio.github.io/wiki/Collections) 
-### Level 1 - [Predicates](https://github.com/griffio/griffio.github.io/wiki/Predicates)
+### Level 3 - [Projections](#projections) and [Delegates](#delegates)
+
+### Level 2 - [Collections](#collections) 
+
+### Level 1 - [Predicates](#predicates)
+
 ### Level 0 - No usage (Swamp of POJO)
 
 ---
@@ -198,6 +202,7 @@ public class PresentableSalaryProjection extends MappingProjection<PresentableSa
 
 ---
 An @QueryProjection can also be placed on the Entity constructor itself and, in this example, is generated as QSalaryDetail.create().
+
 ~~~java    
 @QueryProjection 
 public SalaryDetail(String salaryName, BigDecimal salary) {
@@ -223,7 +228,9 @@ e.g. Expression from...where(QSalaryDetail.salaryDetail.isSalaryRelevant())
 Replace the 'static cow' below with a Query Delegate.
 
 ### Before
+
 ~~~java
+
 public class RelevantSalaryUtil {
 
     public static final String NON_RELEVANT_SALARY = "other";
@@ -233,7 +240,9 @@ public class RelevantSalaryUtil {
     }
 }
 ~~~
+
 ### After
+
 ~~~java
 @QueryDelegate(SalaryDetail.class)
 public static BooleanExpression isSalaryRelevant(QSalaryDetail detail) {
