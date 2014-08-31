@@ -7,7 +7,7 @@ published: true
 summary: using querydsl
 ---
 
-# www.querydsl.com
+# [www.querydsl.com](www.querydsl.com)
 
 ## query dsl (pron /ˈdiːsəl/)
 
@@ -29,8 +29,8 @@ summary: using querydsl
 
 ~~~java
 BooleanExpression isBonus = QSalaryDetail.salaryDetail.salaryName.equalsIgnoreCase("Bonus");
-BooleanExpression isGreaterThanThreshold = QSalaryDetail.salaryDetail.salary.goe(paydayThreshold);
-BooleanExpression predicate = isBonus.and(isGreaterThanThreshold);
+BooleanExpression isGreaterThanThreshold = QSalaryDetail.salaryDetail.salary.goe(payThreshold);
+BooleanExpression specification = isBonus.and(isGreaterThanThreshold);
 ~~~
 
 ### Types
@@ -45,7 +45,7 @@ com.mysema.query.types.path
 ~~~java
 BooleanBuilder isSalaryThresholdRelevant = new BooleanBuilder(
     QSalaryDetail.salaryDetail.salaryName.eq(salary.getSalaryName());
-
+    
     if (!other.salaryName().equalsIgnoreCase("other")) {
         booleanBuilder.and(QSalaryDetail.salaryDetail.salary.gt(thresholdForPayPeriod));
     }
@@ -100,7 +100,7 @@ List<String> uniqueSalaryNames = CollQueryFactory
 
 ---
 
-Aggregate or 'fold' a collection using Mundane Java. Even the Guava library doesn't advocate higher-order functional programming using Java.       
+Simply aggregate or 'fold' of a collection. Even the Guava library doesn't advocate higher-order functional programming using Java.       
 
 ### Before 
 
@@ -153,8 +153,11 @@ Can be used for the View Model, within the JPA environment it can provide a deta
 ~~~java
 List<PresentableSalary> projection = CollQueryFactory
     .from(QEmployeeSalary.employeeSalary, employeeSalaries)
-    .list(new QPresentableSalary(QEmployeeSalary.employeeSalary.employeeRef, QEmployeeSalary.employeeSalary.payDate, QEmployeeSalary.employeeSalary.salaryDetails));
+    .list(new QPresentableSalary(QEmployeeSalary.employeeSalary.employeeRef,
+        QEmployeeSalary.employeeSalary.payDate, QEmployeeSalary.employeeSalary.salaryDetails));
+~~~
 
+~~~java
 public class PresentableSalary implements Serializable {
  
     private final Long employeeRef;
@@ -175,7 +178,7 @@ public class PresentableSalary implements Serializable {
     public LocalDate getPayDate() {
  	return payDate;
     }
-
+    
     public Long employeeRef() {
       	return this.employeeRef;	
     }
@@ -221,7 +224,9 @@ public SalaryDetail(String salaryName, BigDecimal salary) {
 
 com.mysema.query.annotations
 
-Instead of static 'helper' methods to create queries, consider using annotated delegate methods to provide query extensions. Make your own DSL.
+Instead of static 'helper' methods to create queries, consider using annotated delegate methods to provide query extensions.
+
+Make your own DSL.
 
 e.g. Expression from...where(QSalaryDetail.salaryDetail.isSalaryRelevant())
 
