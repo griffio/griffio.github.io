@@ -119,7 +119,9 @@ List<SalaryDetail> aggregatedSalaries = CollQueryFactory.from(QSalaryDetail.sala
 com.mysema.query.annotations
 
 Can be used for the View Model, within the JPA environment it can provide a detached model, or DTO layer. 
+
 ***
+
 ```java
 List<PresentableSalary> projection = CollQueryFactory
     .from(QEmployeeSalary.employeeSalary, employeeSalaries)
