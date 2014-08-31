@@ -180,6 +180,8 @@ public SalaryDetail(String salaryName, BigDecimal salary) {
    this.salaryName = salaryName;
    this.salary = salary;
 }
+```
+***
 # Delegates
 
 ### @QueryDelegate
@@ -211,4 +213,4 @@ public class RelevantSalaryUtil {
 public static BooleanExpression isSalaryRelevant(QSalaryDetail detail) {
     return detail.salaryName.notEqualsIgnoreCase("other");
 }
-``````
+```
