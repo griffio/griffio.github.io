@@ -1,42 +1,8 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Griffio.github.io by griffio</title>
-
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Griffio.github.io</h1>
-        <p>Site</p>
-        <ul>
-         {% for post in site.posts %}
-           <li>
-              <a href="{{ post.url }}">{{ post.title }}</a>
+<ul>
+{% for post in site.posts %}
+<li>
+<a href="{{ post.url }}">{{ post.title }}</a>
                   {{ post.excerpt }}
-           </li>
-          {% endfor %}
-        </ul>
-        <p class="view"><a href="https://github.com/griffio">View My GitHub Profile</a></p>
-
-      </header>
-      <section>
-        <h3>
-<a name="site" class="anchor" href="#site"><span class="octicon octicon-link"></span></a>Site</h3>
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
-  </body>
-</html>
+</li>
+{% endfor %}
+</ul>
