@@ -112,3 +112,70 @@ List<SalaryDetail> aggregatedSalaries = CollQueryFactory.from(QSalaryDetail.sala
     .list(QSalaryDetail.create(QSalaryDetail.salaryDetail.salaryName,    
         GroupBy.sum(QSalaryDetail.salaryDetail.salary))));
 ```
+# Projections 
+
+### @QueryProjection
+
+com.mysema.query.annotations
+
+Can be used for the View Model, within the JPA environment it can provide a detached model, or DTO layer. 
+***
+```java
+List<PresentableSalary> projection = CollQueryFactory
+    .from(QEmployeeSalary.employeeSalary, employeeSalaries)
+    .list(new QPresentableSalary(QEmployeeSalary.employeeSalary.employeeRef, QEmployeeSalary.employeeSalary.payDate, QEmployeeSalary.employeeSalary.salaryDetails));
+
+public class PresentableSalary implements Serializable {
+ 
+    private final Long employeeRef;
+    private final List<SalaryDetail> salaryDetails;
+    private final LocalDate payDate;
+  
+    @QueryProjection
+    public PresentableSalary(Long employeeRef, LocalDate payDate, List<SalaryDetail> salaryDetails) {
+        this.employeeRef = employeeRef;
+        this.payDate = payDate;
+    	this.salaryDetails = salaryDetails;
+    }
+ 
+    public List<SalaryDetail> salaryDetails() {
+        return salaryDetails;
+    }
+ 
+    public LocalDate getPayDate() {
+ 	return payDate;
+    }
+
+    public Long employeeRef() {
+      	return this.employeeRef;	
+    }
+
+}
+```
+### MappingProjection<T> - Optionally support construction of several different projections
+
+com.mysema.query.types
+
+```java
+public class PresentableSalaryProjection extends MappingProjection<PresentableSalary> {
+ 
+    public PresentableSalaryProjection() {
+        super(PresentableSalary.class, employee.employeeRef, payroll.payDate, salary.salaryDetails);
+    }
+ 
+    @Override
+    protected PresentableSalary map(Tuple row) {
+        return new PresentableSalary(row.get(employee.employeeRef), row.get(payroll.payDate), row.get(salary.salaryDetails));
+    }
+ 
+}
+```
+***
+An @QueryProjection can also be placed on the Entity constructor itself and, in this example, is generated as QSalaryDetail.create().
+```java    
+@QueryProjection 
+public SalaryDetail(String salaryName, BigDecimal salary) {
+   this.salaryName = salaryName;
+   this.salary = salary;
+}
+```
