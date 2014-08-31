@@ -1,0 +1,3 @@
+auto: true
+pygments: true
+exclude: [".gitignore", "readme.md", "Gemfile", "Gemfile.lock"]
