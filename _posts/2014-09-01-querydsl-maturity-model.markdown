@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: post
 title: querydsl - Usage Maturity Model
 category: java
 tags: java querydsl
-year: 2014
-month: 9
-day: 1
 published: true
 summary: using querydsl
 ---
