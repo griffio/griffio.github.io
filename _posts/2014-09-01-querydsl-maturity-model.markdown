@@ -178,4 +178,35 @@ public SalaryDetail(String salaryName, BigDecimal salary) {
    this.salaryName = salaryName;
    this.salary = salary;
 }
+# Delegates
+
+### @QueryDelegate
+
+com.mysema.query.annotations
+
+Instead of static 'helper' methods to create queries, consider using annotated delegate methods to provide query extensions. Make your own DSL.
+
+e.g. Expression from...where(QSalaryDetail.salaryDetail.isSalaryRelevant())
+
+***
+
+Replace the 'static cow' below with a Query Delegate.
+
+### Before
+```java
+public class RelevantSalaryUtil {
+
+    public static final String NON_RELEVANT_SALARY = "other";
+
+    public static boolean isSalaryRelevant(String salaryName) {
+        return !NON_RELEVANT_SALARY.equals(salaryName);
+    }
+}
 ```
+### After
+```java
+@QueryDelegate(SalaryDetail.class)
+public static BooleanExpression isSalaryRelevant(QSalaryDetail detail) {
+    return detail.salaryName.notEqualsIgnoreCase("other");
+}
+``````
