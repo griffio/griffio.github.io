@@ -17,38 +17,48 @@ summary: using querydsl
 ### Level 1 - [Predicates](https://github.com/griffio/griffio.github.io/wiki/Predicates)
 ### Level 0 - No usage (Swamp of POJO)
 
-***
+---
 
 # Predicates
+
 ### They're the thing which gets us to the thing.
-```java
+
+~~~java
 BooleanExpression isBonus = QSalaryDetail.salaryDetail.salaryName.equalsIgnoreCase("Bonus");
 BooleanExpression isGreaterThanThreshold = QSalaryDetail.salaryDetail.salary.goe(paydayThreshold);
 BooleanExpression predicate = isBonus.and(isGreaterThanThreshold);
-```
+~~~
+
 ### Types
-```java
+
+~~~java
 com.mysema.query.types.expr
 com.mysema.query.types.path
-```
-***
-```java
+~~~
+
+---
+
+~~~java
 BooleanBuilder isSalaryThresholdRelevant = new BooleanBuilder(
     QSalaryDetail.salaryDetail.salaryName.eq(salary.getSalaryName());
 
     if (!other.salaryName().equalsIgnoreCase("other")) {
         booleanBuilder.and(QSalaryDetail.salaryDetail.salary.gt(thresholdForPayPeriod));
     }
-```
-***
-```java
+~~~
+
+---
+
+~~~java
 CaseBuilder caseOfSalaryname = new CaseBuilder()
         .when(QSalaryDetail.salaryDetail.isSalaryRelevant()
             .and(QSalaryDetail.salaryDetail.salary.goe(thresholdForPayPeriod)))
         .then(QSalaryDetail.salaryDetail.salaryName)
         .otherwise("other");
-```
-***
+~~~
+
+---
+
 # Collections
 
 ### CollQueryFactory
@@ -58,7 +68,8 @@ com.mysema.query.collections
 Query entities that are generated can be used with a CollQueryFactory to replace this Mundane Java code that maps an input collection to an output collection.
 
 ### Before 
-```java
+
+~~~java
 private List<String> uniqueSalaryNames(Collection<EmployeeSalary> employeeSalaries) {
     Set<String> result = Sets.newHashSet();
         for (EmployeeSalary salary : employeeSalaries) {
@@ -70,20 +81,26 @@ private List<String> uniqueSalaryNames(Collection<EmployeeSalary> employeeSalari
         }
     return newArrayList(result);
 }
-```
+~~~
+
 ### After 
-```java
+
+~~~java
 List<String> uniqueSalaryNames = CollQueryFactory
     .from(QEmployeeSalary.employeeSalary, employeeSalary)
     .innerJoin(QEmployeeSalary.employeeSalary.salaryDetail, QSalaryDetail.salaryDetail)
     .where(QSalaryDetail.salaryDetail.isSalaryRelevant())
     .distinct()
     .list(QEmployeeSalary.employeeSalary.salaryName);
-```
-***
+~~~
+
+---
+
 Aggregate or 'fold' a collection using Mundane Java. Even the Guava library doesn't advocate higher-order functional programming using Java.       
+
 ### Before 
-```java
+
+~~~java
 public BigDecimal sum(List<SalaryDetail> salaryDetails) {
    BigDecimal sum = BigDecimal.ZERO;
    for (SalaryDetail salaryDetail : salaryDetails) {
@@ -91,14 +108,19 @@ public BigDecimal sum(List<SalaryDetail> salaryDetails) {
    }
    return sum;
 };
-```
+
+~~~
+
 ### After 
-```java
+
+~~~java
 BigDecimal sum = CollQueryFactory
    .from(QSalaryDetail.salaryDetail, salaryDetails)
    .singleResult(QSalaryDetail.salaryDetail.salary.sum());     
-```
-***
+~~~
+
+---
+
 ### ResultTransformer
 
 com.mysema.query
@@ -106,12 +128,12 @@ com.mysema.query
 A post-processor transformer for aggregation that works with com.mysema.query.group.* classes.
 
 Takes a collection and returns a collection containing a new projection of the aggregate for each group. Here, multiple salaries with the same name will be grouped into a new element containing the sum total of the group.
-```java
+~~~java
 List<SalaryDetail> aggregatedSalaries = CollQueryFactory.from(QSalaryDetail.salaryDetail, salaryDetails)
     .transform(GroupBy.groupBy(QSalaryDetail.salaryDetail.salaryName)
     .list(QSalaryDetail.create(QSalaryDetail.salaryDetail.salaryName,    
         GroupBy.sum(QSalaryDetail.salaryDetail.salary))));
-```
+~~~
 # Projections 
 
 ### @QueryProjection
@@ -120,9 +142,9 @@ com.mysema.query.annotations
 
 Can be used for the View Model, within the JPA environment it can provide a detached model, or DTO layer. 
 
-***
+---
 
-```java
+~~~java
 List<PresentableSalary> projection = CollQueryFactory
     .from(QEmployeeSalary.employeeSalary, employeeSalaries)
     .list(new QPresentableSalary(QEmployeeSalary.employeeSalary.employeeRef, QEmployeeSalary.employeeSalary.payDate, QEmployeeSalary.employeeSalary.salaryDetails));
@@ -153,12 +175,13 @@ public class PresentableSalary implements Serializable {
     }
 
 }
-```
+~~~
+
 ### MappingProjection<T> - Optionally support construction of several different projections
 
 com.mysema.query.types
 
-```java
+~~~java
 public class PresentableSalaryProjection extends MappingProjection<PresentableSalary> {
  
     public PresentableSalaryProjection() {
@@ -171,17 +194,20 @@ public class PresentableSalaryProjection extends MappingProjection<PresentableSa
     }
  
 }
-```
-***
+~~~
+
+---
 An @QueryProjection can also be placed on the Entity constructor itself and, in this example, is generated as QSalaryDetail.create().
-```java    
+~~~java    
 @QueryProjection 
 public SalaryDetail(String salaryName, BigDecimal salary) {
    this.salaryName = salaryName;
    this.salary = salary;
 }
-```
-***
+~~~
+
+---
+
 # Delegates
 
 ### @QueryDelegate
@@ -192,12 +218,12 @@ Instead of static 'helper' methods to create queries, consider using annotated d
 
 e.g. Expression from...where(QSalaryDetail.salaryDetail.isSalaryRelevant())
 
-***
+---
 
 Replace the 'static cow' below with a Query Delegate.
 
 ### Before
-```java
+~~~java
 public class RelevantSalaryUtil {
 
     public static final String NON_RELEVANT_SALARY = "other";
@@ -206,11 +232,11 @@ public class RelevantSalaryUtil {
         return !NON_RELEVANT_SALARY.equals(salaryName);
     }
 }
-```
+~~~
 ### After
-```java
+~~~java
 @QueryDelegate(SalaryDetail.class)
 public static BooleanExpression isSalaryRelevant(QSalaryDetail detail) {
     return detail.salaryName.notEqualsIgnoreCase("other");
 }
-```
+~~~
