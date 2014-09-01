@@ -7,7 +7,7 @@ published: true
 summary: using querydsl
 ---
 
-# [www.querydsl.com](www.querydsl.com)
+# [www.querydsl.com](http://www.querydsl.com)
 
 ## query dsl (pron /ˈdiːsəl/)
 
