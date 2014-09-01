@@ -103,7 +103,7 @@ BigDecimal sum = CollQueryFactory
    .singleResult(QSalaryDetail.salaryDetail.salary.sum());     
 ~~~
 
-Replace this mundane Java that maps an input collection to an output collection.
+Replace this mundane Java that maps an input collection of salaries to an output collection of unique names.
 
 ### Before 
 
@@ -140,7 +140,7 @@ com.mysema.query
 
 A post-processor transformer for aggregation that works with com.mysema.query.group classes.
 
-This example takes a collection and returns a collection containing a new projection of the aggregate and salaries with the same name will be grouped into a new element containing the total salary of the group.
+This example takes a collection of salaries and returns an aggregate collection where salaries with the same name will be grouped into a new projection containing the total salary of that group.
 
 ~~~java
 List<SalaryDetail> aggregatedSalaries = CollQueryFactory.from(QSalaryDetail.salaryDetail, salaryDetails)
@@ -195,7 +195,9 @@ public class PresentableSalary implements Serializable {
 }
 ~~~
 
-### MappingProjection<T> - Optionally support the construction of several different projections
+### MappingProjection<T> 
+
+Optionally use a template to support the construction of different projections from a resultset.
 
 com.mysema.query.types
 
