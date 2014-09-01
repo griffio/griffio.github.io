@@ -27,7 +27,7 @@ summary: using querydsl
 
 ### They're the thing which gets us to the thing.
 
-A specification can describe composable expressions that separates this logic from the operators on the instance itself.
+A specification can describe composable expressions that separates this logic from the operators of the instance itself.
 
 ~~~java
 boolean isBonus = salaryDetail.getSalaryName().equalsIgnoreCase("Bonus");
