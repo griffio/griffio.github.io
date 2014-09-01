@@ -9,17 +9,17 @@ summary: using querydsl
 
 # [www.querydsl.com](http://www.querydsl.com)
 
-## query dsl (pron /ˈdiːsəl/)
+### querydsl (pron /ˈdiːsəl/)
 
 ## Usage Maturity Model
 
-### Level 3 - [Projections](#projections) &amp; [Delegates](#delegates)
+## Level 3 - [Projections](#projections) &amp; [Delegates](#delegates)
 
-### Level 2 - [Collections](#collections) 
+## Level 2 - [Collections](#collections) 
 
-### Level 1 - [Predicates](#predicates)
+## Level 1 - [Predicates](#predicates)
 
-### Level 0 - No usage (Swamp of POJO)
+## Level 0 - No usage (Swamp of POJO)
 
 ---
 
@@ -27,18 +27,20 @@ summary: using querydsl
 
 ### They're the thing which gets us to the thing.
 
-A specification can describe composable expressions that separates this logic from the operators of the instance itself.
+Describes logical composable expressions about an entity that are separate from operators acting on the entity itself.
+
+Predicates can be represented as Specifications, e.g. "isBonusAboveThreshold", that describes an explict constraint.
 
 ~~~java
-boolean isBonus = salaryDetail.getSalaryName().equalsIgnoreCase("Bonus");
+boolean isBonusSalary = salaryDetail.getSalaryName().equalsIgnoreCase("Bonus");
 boolean isGreaterThanThreshold = salaryDetail.getSalary().compareTo(payThreshold) >= 0;
-boolean isBonus && isGreaterThanThreshold;
+boolean isBonusSalary && isGreaterThanThreshold;
 ~~~
 
 ~~~java
-BooleanExpression isBonus = QSalaryDetail.salaryDetail.salaryName.equalsIgnoreCase("Bonus");
+BooleanExpression isBonusSalary = QSalaryDetail.salaryDetail.salaryName.equalsIgnoreCase("Bonus");
 BooleanExpression isGreaterThanThreshold = QSalaryDetail.salaryDetail.salary.goe(payThreshold);
-BooleanExpression specification = isBonus.and(isGreaterThanThreshold);
+BooleanExpression isBonusAboveThreshold = isBonus.and(isGreaterThanThreshold);
 ~~~
 
 ### Types
