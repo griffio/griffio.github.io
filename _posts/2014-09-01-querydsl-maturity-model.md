@@ -239,8 +239,11 @@ Instead of static 'helper' methods to create queries, consider using annotated d
 
 Make your own DSL.
 
-e.g. Expression from...where(QSalaryDetail.salaryDetail.isSalaryRelevant())
+An expression can contain the explict query delegate method.
 
+~~~java
+from...where(QSalaryDetail.salaryDetail.isSalaryRelevant())
+~~~
 ---
 
 Replace the 'static cow' below with a Query Delegate.
@@ -248,7 +251,6 @@ Replace the 'static cow' below with a Query Delegate.
 ### Before
 
 ~~~java
-
 public class RelevantSalaryUtil {
 
     public static final String NON_RELEVANT_SALARY = "other";
