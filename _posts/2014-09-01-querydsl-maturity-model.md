@@ -31,11 +31,15 @@ Describes logical composable expressions about an entity that are separate from 
 
 Predicates can be represented as Specifications, e.g. "isBonusAboveThreshold", that describes an explict constraint.
 
+### Before
+
 ~~~java
 boolean isBonusSalary = salaryDetail.getSalaryName().equalsIgnoreCase("Bonus");
 boolean isGreaterThanThreshold = salaryDetail.getSalary().compareTo(payThreshold) >= 0;
 boolean isBonusSalary && isGreaterThanThreshold;
 ~~~
+
+### After
 
 ~~~java
 BooleanExpression isBonusSalary = QSalaryDetail.salaryDetail.salaryName.equalsIgnoreCase("Bonus");
