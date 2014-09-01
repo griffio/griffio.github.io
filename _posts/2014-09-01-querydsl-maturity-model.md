@@ -27,6 +27,12 @@ summary: using querydsl
 
 ### They're the thing which gets us to the thing.
 
+A specification can describe composable expressions that separates the logic from invoking operators on the instance itself.
+
+~~~java
+salaryDetail.salary.compareTo(payThreshold) >= 0;
+~~~
+
 ~~~java
 BooleanExpression isBonus = QSalaryDetail.salaryDetail.salaryName.equalsIgnoreCase("Bonus");
 BooleanExpression isGreaterThanThreshold = QSalaryDetail.salaryDetail.salary.goe(payThreshold);
