@@ -100,7 +100,7 @@ List<String> uniqueSalaryNames = CollQueryFactory
 
 ---
 
-Simply aggregate or 'fold' of a collection. Even the Guava library doesn't advocate higher-order functional programming using Java.       
+Simply aggregate or 'fold' a collection. Even the Guava library doesn't advocate higher-order functional programming using Java.       
 
 ### Before 
 
@@ -129,9 +129,9 @@ BigDecimal sum = CollQueryFactory
 
 com.mysema.query
 
-A post-processor transformer for aggregation that works with com.mysema.query.group.* classes.
+A post-processor transformer for aggregation that works with com.mysema.query.group classes.
 
-Takes a collection and returns a collection containing a new projection of the aggregate for each group. Here, multiple salaries with the same name will be grouped into a new element containing the sum total of the group.
+This example takes a collection and returns a collection containing a new projection of the aggregate and salaries with the same name will be grouped into a new element containing the total salary of the group.
 
 ~~~java
 List<SalaryDetail> aggregatedSalaries = CollQueryFactory.from(QSalaryDetail.salaryDetail, salaryDetails)
@@ -146,7 +146,7 @@ List<SalaryDetail> aggregatedSalaries = CollQueryFactory.from(QSalaryDetail.sala
 
 com.mysema.query.annotations
 
-Can be used for the View Model, within the JPA environment it can provide a detached model, or DTO layer. 
+This can be used for the View Model, within the JPA environment it can provide a detached model, or DTO layer. 
 
 ---
 
@@ -186,7 +186,7 @@ public class PresentableSalary implements Serializable {
 }
 ~~~
 
-### MappingProjection<T> - Optionally support construction of several different projections
+### MappingProjection<T> - Optionally support the construction of several different projections
 
 com.mysema.query.types
 
@@ -206,7 +206,7 @@ public class PresentableSalaryProjection extends MappingProjection<PresentableSa
 ~~~
 
 ---
-An @QueryProjection can also be placed on the Entity constructor itself and, in this example, is generated as QSalaryDetail.create().
+The @QueryProjection can also be placed on the Entity constructor itself and, in this example, is generated as the method QSalaryDetail.create().
 
 ~~~java    
 @QueryProjection 
