@@ -103,7 +103,7 @@ BigDecimal sum = CollQueryFactory
    .singleResult(QSalaryDetail.salaryDetail.salary.sum());     
 ~~~
 
-Query entities that are generated can be used with a CollQueryFactory to replace this Mundane Java code that maps an input collection to an output collection.
+Replace this mundane Java that maps an input collection to an output collection.
 
 ### Before 
 
