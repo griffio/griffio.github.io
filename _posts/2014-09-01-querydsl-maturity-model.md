@@ -65,8 +65,6 @@ BooleanBuilder isSalaryThresholdRelevant = new BooleanBuilder(
     }
 ~~~
 
----
-
 ~~~java
 CaseBuilder caseOfSalaryname = new CaseBuilder()
         .when(QSalaryDetail.salaryDetail.isSalaryRelevant()
@@ -82,6 +80,28 @@ CaseBuilder caseOfSalaryname = new CaseBuilder()
 ### CollQueryFactory
 
 com.mysema.query.collections
+
+Simply aggregate or 'fold' a collection. Even the Guava library doesn't advocate higher-order functional programming using Java.       
+
+### Before 
+
+~~~java
+public BigDecimal sum(List<SalaryDetail> salaryDetails) {
+   BigDecimal sum = BigDecimal.ZERO;
+   for (SalaryDetail salaryDetail : salaryDetails) {
+      sum = sum.add(salaryDetail.getSalary());
+   }
+   return sum;
+};
+~~~
+
+### After 
+
+~~~java
+BigDecimal sum = CollQueryFactory
+   .from(QSalaryDetail.salaryDetail, salaryDetails)
+   .singleResult(QSalaryDetail.salaryDetail.salary.sum());     
+~~~
 
 Query entities that are generated can be used with a CollQueryFactory to replace this Mundane Java code that maps an input collection to an output collection.
 
@@ -110,31 +130,6 @@ List<String> uniqueSalaryNames = CollQueryFactory
     .where(QSalaryDetail.salaryDetail.isSalaryRelevant())
     .distinct()
     .list(QEmployeeSalary.employeeSalary.salaryName);
-~~~
-
----
-
-Simply aggregate or 'fold' a collection. Even the Guava library doesn't advocate higher-order functional programming using Java.       
-
-### Before 
-
-~~~java
-public BigDecimal sum(List<SalaryDetail> salaryDetails) {
-   BigDecimal sum = BigDecimal.ZERO;
-   for (SalaryDetail salaryDetail : salaryDetails) {
-      sum = sum.add(salaryDetail.getSalary());
-   }
-   return sum;
-};
-
-~~~
-
-### After 
-
-~~~java
-BigDecimal sum = CollQueryFactory
-   .from(QSalaryDetail.salaryDetail, salaryDetails)
-   .singleResult(QSalaryDetail.salaryDetail.salary.sum());     
 ~~~
 
 ---
