@@ -31,7 +31,7 @@ Describes logical composable expressions about an entity that are separate from 
 
 Predicates can be represented as Specifications, e.g. "isBonusAboveThreshold", that describes an explict constraint.
 
-### Before
+#### Before
 
 ~~~java
 boolean isBonusSalary = salaryDetail.getSalaryName().equalsIgnoreCase("Bonus");
@@ -39,7 +39,7 @@ boolean isGreaterThanThreshold = salaryDetail.getSalary().compareTo(payThreshold
 boolean isBonusSalary && isGreaterThanThreshold;
 ~~~
 
-### After
+#### After
 
 ~~~java
 BooleanExpression isBonusSalary = QSalaryDetail.salaryDetail.salaryName.equalsIgnoreCase("Bonus");
@@ -47,7 +47,7 @@ BooleanExpression isGreaterThanThreshold = QSalaryDetail.salaryDetail.salary.goe
 BooleanExpression isBonusAboveThreshold = isBonus.and(isGreaterThanThreshold);
 ~~~
 
-### Types
+#### Types
 
 ~~~java
 com.mysema.query.types.expr
@@ -83,7 +83,7 @@ com.mysema.query.collections
 
 Simply aggregate or 'fold' a collection. Even the Guava library doesn't advocate higher-order functional programming using Java.       
 
-### Before 
+#### Before 
 
 ~~~java
 public BigDecimal sum(List<SalaryDetail> salaryDetails) {
@@ -95,7 +95,7 @@ public BigDecimal sum(List<SalaryDetail> salaryDetails) {
 };
 ~~~
 
-### After 
+#### After 
 
 ~~~java
 BigDecimal sum = CollQueryFactory
@@ -105,7 +105,7 @@ BigDecimal sum = CollQueryFactory
 
 Replace this mundane Java that maps an input collection of salaries to an output collection of unique names.
 
-### Before 
+#### Before 
 
 ~~~java
 private List<String> uniqueSalaryNames(Collection<EmployeeSalary> employeeSalaries) {
@@ -121,7 +121,7 @@ private List<String> uniqueSalaryNames(Collection<EmployeeSalary> employeeSalari
 }
 ~~~
 
-### After 
+#### After 
 
 ~~~java
 List<String> uniqueSalaryNames = CollQueryFactory
@@ -256,7 +256,7 @@ from...where(QSalaryDetail.salaryDetail.isSalaryRelevant())
 
 Replace the 'static cow' below with a Query Delegate.
 
-### Before
+#### Before
 
 ~~~java
 public class RelevantSalaryUtil {
@@ -269,7 +269,7 @@ public class RelevantSalaryUtil {
 }
 ~~~
 
-### After
+#### After
 
 ~~~java
 @QueryDelegate(SalaryDetail.class)
