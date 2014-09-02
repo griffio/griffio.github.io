@@ -79,7 +79,7 @@ CaseBuilder caseOfSalaryname = new CaseBuilder()
 
 com.mysema.query.collections
 
-Simply aggregate or 'fold' a collection. Even the Guava library doesn't advocate higher-order functional programming using Java.       
+Simply aggregate or 'fold' a collection. Even the [Guava]  (https://code.google.com/p/guava-libraries/wiki/FunctionalExplained) library doesn't advocate higher-order functional programming to simplify this imperative Java.   
 
 #### Before 
 
