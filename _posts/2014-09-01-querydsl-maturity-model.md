@@ -21,7 +21,7 @@ summary: using querydsl
 
 ---
 
-# Predicates
+## Predicates
 
 ### They're the thing which gets us to the thing.
 
@@ -73,7 +73,7 @@ CaseBuilder caseOfSalaryname = new CaseBuilder()
 
 ---
 
-# Collections
+## Collections
 
 ### CollQueryFactory
 
@@ -147,7 +147,7 @@ List<SalaryDetail> aggregatedSalaries = CollQueryFactory.from(QSalaryDetail.sala
         GroupBy.sum(QSalaryDetail.salaryDetail.salary))));
 ~~~
 
-# Projections 
+## Projections 
 
 ### @QueryProjection
 
@@ -235,7 +235,7 @@ public SalaryDetail(String salaryName, BigDecimal salary) {
 
 ---
 
-# Delegates
+## Delegates
 
 ### @QueryDelegate
 
