@@ -174,10 +174,12 @@ public class PresentableSalary implements Serializable {
     private final LocalDate payDate;
   
     @QueryProjection
-    public PresentableSalary(Long employeeRef, LocalDate payDate, List<SalaryDetail> salaryDetails) {
-        this.employeeRef = employeeRef;
-        this.payDate = payDate;
-    	this.salaryDetails = salaryDetails;
+    public PresentableSalary(Long employeeRef, 
+        LocalDate payDate,
+        List<SalaryDetail> salaryDetails) {
+           this.employeeRef = employeeRef;
+           this.payDate = payDate;
+    	   this.salaryDetails = salaryDetails;
     }
  
     public List<SalaryDetail> salaryDetails() {
@@ -205,12 +207,18 @@ com.mysema.query.types
 public class PresentableSalaryProjection extends MappingProjection<PresentableSalary> {
  
     public PresentableSalaryProjection() {
-        super(PresentableSalary.class, employee.employeeRef, payroll.payDate, salary.salaryDetails);
+        super(PresentableSalary.class,
+              employee.employeeRef,
+              payroll.payDate,
+              salary.salaryDetails);
     }
  
     @Override
     protected PresentableSalary map(Tuple row) {
-        return new PresentableSalary(row.get(employee.employeeRef), row.get(payroll.payDate), row.get(salary.salaryDetails));
+        return new PresentableSalary(
+            row.get(employee.employeeRef), 
+            row.get(payroll.payDate), 
+            row.get(salary.salaryDetails));
     }
  
 }
