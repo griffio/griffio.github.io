@@ -7,11 +7,9 @@ published: true
 summary: using querydsl
 ---
 
-# [www.querydsl.com](http://www.querydsl.com)
+# Querydsl - Usage Maturity Model
 
-### querydsl (pron /ˈdiːsəl/)
-
-## Usage Maturity Model
+## [www.querydsl.com](http://www.querydsl.com)
 
 ## Level 3 - [Projections](#projections) &amp; [Delegates](#delegates)
 
