@@ -58,9 +58,9 @@ com.mysema.query.types.path
 BooleanBuilder isSalaryThresholdRelevant = new BooleanBuilder(
     QSalaryDetail.salaryDetail.salaryName.eq(salary.getSalaryName());
     
-    if (!other.salaryName().equalsIgnoreCase("other")) {
-        booleanBuilder.and(QSalaryDetail.salaryDetail.salary.gt(thresholdForPayPeriod));
-    }
+if (!other.salaryName().equalsIgnoreCase("other")) {
+    booleanBuilder.and(QSalaryDetail.salaryDetail.salary.gt(thresholdForPayPeriod));
+}
 ~~~
 
 ~~~java
