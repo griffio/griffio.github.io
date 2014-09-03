@@ -241,11 +241,11 @@ public SalaryDetail(String salaryName, BigDecimal salary) {
 
 com.mysema.query.annotations
 
-Instead of static 'helper' methods to create queries, consider using annotated delegate methods to provide query extensions.
-
 Make your own DSL.
 
-An expression can contain the explict query delegate method.
+Instead of static'helper' methods to create business logic constraints, consider using annotated delegate methods to provide query extensions.
+
+The delegate method is exposed directly in the query and expresses the intent of the constraint explictly. 
 
 ~~~java
 from...where(QSalaryDetail.salaryDetail.isSalaryRelevant())
