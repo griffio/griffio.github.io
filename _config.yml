@@ -1,2 +1,4 @@
 auto: true
 exclude: [".gitignore", "readme.md", "Gemfile", "Gemfile.lock"]
+gems:
+  - jekyll-sitemap
