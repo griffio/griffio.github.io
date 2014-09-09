@@ -153,7 +153,7 @@ List<SalaryDetail> aggregatedSalaries = CollQueryFactory.from(QSalaryDetail.sala
 
 com.mysema.query.annotations
 
-This can be used for the View Model, within the JPA environment it can provide a detached model, or DTO layer. 
+This can be used to select the columns for the View Model, within the JPA environment it can provide a detached model, or DTO layer. 
 
 ---
 
