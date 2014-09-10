@@ -27,7 +27,7 @@ summary: using querydsl
 
 Describes logical composable expressions about an entity that are separate from operators acting on the entity itself.
 
-Predicates can be represented as Specifications, e.g. "isBonusAboveThreshold", that describes an explict constraint.
+Predicates can be represented as Specifications, e.g. "isBonusAboveThreshold", that describes an explicit constraint.
 
 #### Before
 
@@ -254,7 +254,7 @@ Make your own DSL.
 
 Instead of static'helper' methods to create business logic constraints, consider using annotated delegate methods to provide query extensions.
 
-The delegate method is exposed directly in the query and expresses the intent of the constraint explictly. 
+The delegate method is exposed directly in the query and expresses the intent of the constraint explicitly. 
 
 ~~~java
 from...where(QSalaryDetail.salaryDetail.isSalaryRelevant())
