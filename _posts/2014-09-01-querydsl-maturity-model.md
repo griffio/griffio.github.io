@@ -54,16 +54,20 @@ com.mysema.query.types.path
 
 ---
 
+BooleanBuilder is a mutable predicate instance.
+
 ~~~java
-BooleanBuilder isSalaryThresholdRelevant = new BooleanBuilder(
-    QSalaryDetail.salaryDetail.salaryName.eq(salary.getSalaryName());
-    
-if (!other.salaryName().equalsIgnoreCase("other")) {
-    booleanBuilder.and(QSalaryDetail.salaryDetail.salary.gt(thresholdForPayPeriod));
+BooleanBuilder isReleventSalaryName = new BooleanBuilder();
+for (String salaryName : relevantSalaryNames) {
+    isSalaryThresholdRelevant.or(QSalaryDetail.salaryDetail.salaryName.eq(salaryName);      
 }
+isReleventSalaryName.and(QSalaryDetail.salaryDetail.salary.gt(thresholdForPayPeriod));
 ~~~
 
 ~~~java
+
+CaseBuilder is the expression produced by a matching predicate or a default expression. 
+
 CaseBuilder caseOfSalaryname = new CaseBuilder()
         .when(QSalaryDetail.salaryDetail.isSalaryRelevant()
             .and(QSalaryDetail.salaryDetail.salary.goe(thresholdForPayPeriod)))
