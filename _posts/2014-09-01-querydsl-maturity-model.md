@@ -154,6 +154,8 @@ List<SalaryDetail> aggregatedSalaries = CollQueryFactory.from(QSalaryDetail.sala
         GroupBy.sum(QSalaryDetail.salaryDetail.salary))));
 ~~~
 
+---
+
 ## Projections 
 
 ### @QueryProjection
