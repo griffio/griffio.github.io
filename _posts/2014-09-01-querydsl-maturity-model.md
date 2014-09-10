@@ -59,7 +59,7 @@ BooleanBuilder is a mutable predicate instance.
 ~~~java
 BooleanBuilder isReleventSalaryName = new BooleanBuilder();
 for (String salaryName : relevantSalaryNames) {
-    isSalaryThresholdRelevant.or(QSalaryDetail.salaryDetail.salaryName.eq(salaryName);      
+    isReleventSalaryName.or(QSalaryDetail.salaryDetail.salaryName.eq(salaryName);      
 }
 isReleventSalaryName.and(QSalaryDetail.salaryDetail.salary.gt(thresholdForPayPeriod));
 ~~~
