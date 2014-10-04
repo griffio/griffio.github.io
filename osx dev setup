@@ -28,3 +28,8 @@ Add line
 /usr/local/bin/zsh
 chsh -s /usr/local/bin/zsh
 prompted to create .zshrc
+
+http://antigen.sharats.me
+curl https://raw.github.com/zsh-users/antigen/master/antigen.zsh > antigen.zsh
+source antigen.zsh
+antigen bundle zsh-users/zsh-syntax-highlighting
