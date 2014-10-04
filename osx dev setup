@@ -19,3 +19,12 @@ Installs in Users home by default
 open ~/Applications/"Google Chrome.app"
 
 brew cask install dropbox
+
+ZSH 
+brew install zsh
+sudo -e /etc/shells
+
+Add line
+/usr/local/bin/zsh
+chsh -s /usr/local/bin/zsh
+prompted to create .zshrc
