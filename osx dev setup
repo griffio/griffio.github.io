@@ -8,6 +8,8 @@ Install Homebrew using OS X default ruby
 
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+http://caskroom.io
+
 brew install caskroom/cask/brew-cask
 
 brew cask install google-chrome
