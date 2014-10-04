@@ -1,0 +1,19 @@
+https://developer.apple.com/devcenter/mac/index.action#downloads
+
+Recent version of command_line_tools_for_os_x_mavericks (250mb installed)
+
+HomeBrew script will prompt to install developer tools if not already present
+
+Install Homebrew using OS X default ruby
+
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+brew install caskroom/cask/brew-cask
+
+brew cask install google-chrome
+
+Installs in Users home by default
+
+open ~/Applications/"Google Chrome.app"
+
+brew cask install dropbox
