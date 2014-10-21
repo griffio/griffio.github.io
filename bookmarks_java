@@ -1,9 +1,11 @@
+Jvm
+
+http://java.jiderhamn.se/2014/02/
 
 ORM
 
 http://www.adam-bien.com/roller/abien/entry/mocking_jpa_entitymanager_with_query
 http://blog.mysema.com/2013/11/hibernate-challenges-entity-persistence.html
-
 
 Rxjava
 
@@ -11,7 +13,8 @@ Querydsl
 
 https://github.com/arnaudroger/SimpleFlatMapper
 
-
 Testing
 
 http://kaczanowscy.pl/tomek/
+
+
