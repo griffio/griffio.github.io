@@ -110,7 +110,7 @@ BigDecimal sum = CollQueryFactory
 
 ---
 
-Replace this nested filter that maps an input collection of salaries to an output collection their unique names.
+Replace this nested filter that maps an input collection of salaries to an output collection of their unique names.
 
 #### Before 
 
