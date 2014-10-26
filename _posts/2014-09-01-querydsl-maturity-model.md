@@ -108,7 +108,9 @@ BigDecimal sum = CollQueryFactory
    .singleResult(QSalaryDetail.salaryDetail.salary.sum());     
 ~~~
 
-Replace this mundane Java that maps an input collection of salaries to an output collection of unique names.
+---
+
+Replace this nested filter that maps an input collection of salaries to an output collection their unique names.
 
 #### Before 
 
@@ -250,7 +252,7 @@ public SalaryDetail(String salaryName, BigDecimal salary) {
 
 com.mysema.query.annotations
 
-Make your own DSL.
+Making your own DSL.
 
 Instead of static'helper' methods to create business logic constraints, consider using annotated delegate methods to provide query extensions.
 
