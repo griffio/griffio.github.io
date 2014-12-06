@@ -11,7 +11,9 @@ summary: using querydsl
 
 ## [www.querydsl.com](http://www.querydsl.com)
 
-## Level 3 - [Projections](#projections) &amp; [Delegates](#delegates)
+## Level 4 - [Delegates](#delegates)
+
+## Level 3 - [Projections](#projections)
 
 ## Level 2 - [Collections](#collections) 
 
