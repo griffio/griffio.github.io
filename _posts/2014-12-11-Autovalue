@@ -82,4 +82,23 @@ public abstract class Cash {
 
 ---
 
+Best Practice: Add a package private constructor prevent external subclassing
+
+~~~java
+@AutoValue
+public abstract class Cash {
+    
+    Cash() {}
+ 
+    public abstract Currency currency();
+    public abstract BigDecimal amount();
+
+    public static Cash create(Currency currency, BigDecimal amount) {
+        return new AutoValue_Cash(currency, amount.setScale(2, RoundingMode.HALF_UP));
+    }
+
+}
+~~~
+
+
 
