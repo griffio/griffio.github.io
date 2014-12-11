@@ -1,13 +1,13 @@
 ---
 layout: post
-title: autovalue - Gradle
+title: autovalue - supported with Gradle 2.1 or higher
 category: java
 tags: java autovalue gradle
 published: true
 summary: using autovalue
 ---
 
-# AutoValue - using with Gradle 2.1 or higher
+# AutoValue - supported with Gradle 2.1 or higher
 
 ## [https://github.com/google/auto](https://github.com/google/auto)
 
