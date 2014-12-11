@@ -7,7 +7,7 @@ published: true
 summary: using autovalue
 ---
 
-# AutoValue - using with Gradle 2.2
+# AutoValue - using with Gradle 2.1 or higher
 
 ## [https://github.com/google/auto](https://github.com/google/auto)
 
@@ -37,7 +37,7 @@ repositories {
 gradle compileJava task will use the plugin to detect @AutoValue classes and generate the java source to
 src/generated/auto-value/<package/AutoValue_Classname]
 
-The AutoValue_ class won't exist before the annotation processor runs. The create method can return null initially.
+The AutoValue_ class wont exist before the annotation processor runs. The create method can return null initially.
 
 ---
 
@@ -99,6 +99,9 @@ public abstract class Cash {
 
 }
 ~~~
+
+Source code [https://github.com/griffio/autovalue-gradle](https://github.com/griffio/autovalue-gradle)
+
 
 
 
