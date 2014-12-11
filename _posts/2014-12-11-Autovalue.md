@@ -22,14 +22,14 @@ Gradle 2.1 introduces a simpler plugin specification.
 This improves project build scaffolding where it can be shared without copy/pasting blocks of xml (maven) or
 groovy script.
 
-Choice of plugins - https://plugins.gradle.org
+Community plugins - [https://plugins.gradle.org](https://plugins.gradle.org)
 
-build.gradle definition for [https://github.com/ewerk/gradle-plugins/tree/master/auto-value-plugin](auto-value-plugin)
+build.gradle for [https://github.com/ewerk/gradle-plugins/tree/master/auto-value-plugin](auto-value-plugin)
 
 ~~~groovy
 plugins {
     id 'java'
-    id 'com.ewerk.gradle.plugins.auto-value' version '1.0.0'
+    id 'com.ewerk.gradle.plugins.auto-value' version '1.0.1'
 }
 
 repositories {
@@ -39,7 +39,7 @@ repositories {
 ~~~
 
 gradle compileJava task will use the plugin to detect @AutoValue classes and generate the java source to
-src/generated/auto-value/<package/AutoValue_Classname]
+src/auto-value/<package/AutoValue_Classname]
 
 The AutoValue_ class wont exist before the annotation processor runs. The create method can return null initially.
 
@@ -81,7 +81,6 @@ public abstract class Cash {
 
 ~~~java
     Cash fiver = Cash.create(Currency.getInstance(Locale.UK), new BigDecimal("5.00"));
-}
 ~~~
 
 ---
@@ -105,7 +104,3 @@ public abstract class Cash {
 ~~~
 
 Source code [https://github.com/griffio/autovalue-gradle](https://github.com/griffio/autovalue-gradle)
-
-
-
-
