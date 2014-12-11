@@ -1,15 +1,19 @@
 ---
 layout: post
-title: autovalue - supported with Gradle 2.1 or higher
+title: autovalue - immutable value types using annotation processor support from Gradle build
 category: java
 tags: java autovalue gradle
 published: true
 summary: using autovalue
 ---
 
-# AutoValue - supported with Gradle 2.1 or higher
+# AutoValue - immutable value types using annotation processor support
 
 ## [https://github.com/google/auto](https://github.com/google/auto)
+
+#### Intro
+
+Create immutable value types using annotation processor support from within Gradle build
 
 #### Setup
 
