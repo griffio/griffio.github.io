@@ -13,7 +13,9 @@ summary: using autovalue
 
 #### Intro
 
-Create immutable value types using annotation processor support from within Gradle build
+Create immutable value types using annotation processor support from within Gradle build.
+
+[Why?What?How?](https://docs.google.com/presentation/d/14u_h-lMn7f1rXE1nDiLX0azS3IkgjGl5uxp5jGJ75RE/edit?pli=1#slide=id.g2a5e9c4a8_00)
 
 #### Setup
 
