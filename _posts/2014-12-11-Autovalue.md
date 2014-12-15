@@ -24,9 +24,9 @@ Gradle 2.1 introduces a simpler plugin specification.
 This improves project build scaffolding where it can be shared without copy/pasting blocks of xml (maven) or
 groovy script.
 
-Community plugins - [https://plugins.gradle.org](https://plugins.gradle.org)
+Community plugins listing [https://plugins.gradle.org](https://plugins.gradle.org)
 
-build.gradle for [https://github.com/ewerk/gradle-plugins/tree/master/auto-value-plugin](auto-value-plugin)
+build.gradle uses [ewerk auto-value-plugin](https://github.com/ewerk/gradle-plugins/tree/master/auto-value-plugin)
 
 ~~~groovy
 plugins {
