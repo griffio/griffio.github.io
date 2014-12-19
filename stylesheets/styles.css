@@ -258,3 +258,27 @@ footer {
 code, pre {
   font-family: Menlo, Monaco, "Courier New", monospace;
 }
+
+.griffio, .griffio-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.griffio-nav {
+  order: -1;
+}
+
+@media (min-width: 720px) {
+  .griffio-body {
+    flex-direction: row;
+    flex: 1;
+  }
+  .griffio-content {
+    flex: 1;
+  }
+  .griffio-nav, .griffio-ads {
+    /* 12em is the width of the columns */
+    flex: 0 0 12em;
+  }
+}
+
