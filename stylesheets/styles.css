@@ -276,8 +276,7 @@ code, pre {
   .griffio-content {
     flex: 1;
   }
-  .griffio-nav, .griffio-ads {
-    /* 12em is the width of the columns */
+  .griffio-nav, .griffio-side {
     flex: 0 0 12em;
   }
 }
