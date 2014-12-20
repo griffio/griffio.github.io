@@ -1,13 +1,13 @@
 ---
 layout: post
-title: autovalue - immutable value types using annotation processor support from Gradle build
+title: autovalue - create immutable value types using annotation processor support from a Gradle build
 category: java
-tags: java autovalue gradle
+tags: autovalue gradle
 published: true
 summary: using autovalue
 ---
 
-# AutoValue - immutable value types using annotation processor support
+# AutoValue - create immutable value types using annotation processor support 
 
 ## [https://github.com/google/auto](https://github.com/google/auto)
 
@@ -25,7 +25,7 @@ The Gradle community plugins listing [https://plugins.gradle.org](https://plugin
 
 The build.gradle below uses the local java plugin and [ewerk auto-value-plugin](https://github.com/ewerk/gradle-plugins/tree/master/auto-value-plugin).
 
-A plugin is effectivley importing an external build script that can create additional configurations and add dependecencies.
+A plugin is effectivley importing an external build script that can create additional configurations and add dependencies.
 
 ~~~groovy
 plugins {
@@ -39,10 +39,10 @@ repositories {
 
 ~~~
 
-gradle compileJava task will use the plugin to detect @AutoValue classes and generate the java source to
-src/auto-value/<package/AutoValue_Classname]
+The gradle compileJava task will use the plugin to detect @AutoValue classes and generate the java source to a default location src/auto-value/<package/AutoValue_Classname]. This specific location means it won't conflict with other similar plugins.
 
-The AutoValue_ class wont exist before the annotation processor runs. The create method can return null initially.
+The AutoValue_ class wont exist before the annotation processor runs. The static create method can return null initially.
+More than one static factory creation method can be used and given any name.
 
 ---
 
@@ -57,6 +57,10 @@ public abstract class Cash {
 
     public static Cash create(Currency currency, BigDecimal amount) {
         return new AutoValue_Cash(currency, amount.setScale(2, RoundingMode.HALF_UP));
+    }
+
+    public static Cash fromString(Currency currency, String amount) {
+        return create(currency, new BigDecimal(amount));
     }
 
 }
@@ -86,7 +90,7 @@ public abstract class Cash {
 
 ---
 
-Best Practice: Add a package private constructor prevent external subclassing
+Best Practice: Add a package private constructor to prevent external subclassing.
 
 ~~~java
 @AutoValue
