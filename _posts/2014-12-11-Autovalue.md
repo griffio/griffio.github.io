@@ -13,20 +13,19 @@ summary: using autovalue
 
 #### Intro
 
-Create immutable value types using annotation processor support from within Gradle build.
+This is used to create immutable value types using Javac annotation processor support from within the Gradle JavaCompile task.
 
 [Why?What?How?](https://docs.google.com/presentation/d/14u_h-lMn7f1rXE1nDiLX0azS3IkgjGl5uxp5jGJ75RE/edit?pli=1#slide=id.g2a5e9c4a8_00)
 
 #### Setup
 
-Gradle 2.1 introduces a simpler plugin specification.
+Gradle 2.1 introduces a simpler plugin specification. This improves project build scaffolding where it can be shared without the copy/pasta blocks of xml (maven) or groovy script.
 
-This improves project build scaffolding where it can be shared without copy/pasting blocks of xml (maven) or
-groovy script.
+The Gradle community plugins listing [https://plugins.gradle.org](https://plugins.gradle.org).
 
-Community plugins listing [https://plugins.gradle.org](https://plugins.gradle.org)
+The build.gradle below uses the local java plugin and [ewerk auto-value-plugin](https://github.com/ewerk/gradle-plugins/tree/master/auto-value-plugin).
 
-build.gradle uses [ewerk auto-value-plugin](https://github.com/ewerk/gradle-plugins/tree/master/auto-value-plugin)
+A plugin is effectivley importing an external build script that can create additional configurations and add dependecencies.
 
 ~~~groovy
 plugins {
