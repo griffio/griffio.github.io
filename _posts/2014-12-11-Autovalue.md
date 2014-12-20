@@ -15,7 +15,7 @@ summary: using autovalue
 
 This is used to create immutable value types using Javac annotation processor support from within the Gradle JavaCompile task.
 
-[Why?What?How?](https://docs.google.com/presentation/d/14u_h-lMn7f1rXE1nDiLX0azS3IkgjGl5uxp5jGJ75RE/edit?pli=1#slide=id.g2a5e9c4a8_00)
+[Why?, What? and How?](https://docs.google.com/presentation/d/14u_h-lMn7f1rXE1nDiLX0azS3IkgjGl5uxp5jGJ75RE/edit?pli=1#slide=id.g2a5e9c4a8_00)
 
 #### Setup
 
