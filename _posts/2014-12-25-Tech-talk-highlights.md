@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech talk highlights
+title: Tech talk highlights 2014
 category: java
 tags: conference tech
 published: true
