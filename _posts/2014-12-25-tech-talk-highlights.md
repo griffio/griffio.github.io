@@ -1,3 +1,12 @@
+---
+layout: post
+title: Tech talk highlights
+category: java
+tags: conference tech
+published: true
+summary: highlighted tech talks 2014
+---
+
 # 2014 Tech Talk Highlights
 * [OSCON 2014: React's Architecture; Christopher Chedeau](https://www.youtube.com/watch?v=tXeBZ3WujTs&list=PLb0IAmt7-GS1hdDcokpVp1MBk-IaeaSgP&index=7)
 * [Turning the database inside out with Apache Samza by Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0&list=UU_QIfHvN9auy2CoOdSfMWDw)
