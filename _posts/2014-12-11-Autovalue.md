@@ -1,6 +1,6 @@
 ---
 layout: post
-title: autovalue - create immutable value types using annotation processor support from a Gradle build
+title: Autovalue - create immutable value types using annotation processor support from a Gradle build
 category: java
 tags: autovalue gradle
 published: true
