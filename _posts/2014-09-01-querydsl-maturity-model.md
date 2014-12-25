@@ -1,6 +1,6 @@
 ---
 layout: post
-title: querydsl - Usage Maturity Model
+title: Querydsl - Usage Maturity Model
 category: java
 tags: java querydsl
 published: true
