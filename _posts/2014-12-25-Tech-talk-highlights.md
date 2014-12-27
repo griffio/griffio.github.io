@@ -22,4 +22,4 @@ summary: highlighted tech talks 2014
 * [Web Components: Drunk on the Panacea - Angelina Fabbro](http://vimeo.com/110972839)
 * [Stewardship: The Sobering Parts - Brian Goetz](https://www.youtube.com/watch?v=2y5Pv4yN0b0)
 * [Testing the Hard Stuff and Staying Sane - John Hughes](https://www.youtube.com/watch?v=zi0rHwfiX1Q)
-* [Tim Ewald - Clojure: Programming with Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw)
+* [Clojure: Programming with Hand Tools - Tim Ewald](https://www.youtube.com/watch?v=ShEez0JkOFw)
