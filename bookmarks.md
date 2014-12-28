@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bookmarks
+id: bookmarks
+---
+
 # Bookmarks
 
 ## Apps
@@ -9,4 +15,3 @@
 ## Java
 
 ## Javascript
-
