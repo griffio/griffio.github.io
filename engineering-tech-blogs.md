@@ -1,3 +1,9 @@
+---
+layout: default
+title: Engineering Tech Blogs
+id: engineering-tech-blogs
+---
+
 # Regular company 'Engineering' Blogs with Github repos
 
 http://nerds.airbnb.com -
