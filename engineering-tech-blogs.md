@@ -8,6 +8,6 @@ id: engineering-tech-blogs
 
 {% for member in site.data.techblogs %}
 
-* [{{ techblog.blog }}]({{ techblog.blog }})
+* {% techblog.blog %}
 
 {% endfor %}
