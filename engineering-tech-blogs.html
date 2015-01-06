@@ -7,6 +7,6 @@ id: engineering-tech-blogs
 <h1>Regular company 'Engineering' Blogs with Github repos</h1>
 <ul>
 {% for techblog in site.data.techblogs %}
-<li><a href="{{ techblog.url }}">{{ techblog.github }}</a>{% include github-icon-svg.html %}</li>
+<li><a href="{{ techblog.url }}">{{ techblog.github }}</a><a href="https://github.com/techblog.github">{% include github-icon-svg.html %}</a></li>
 {% endfor %}
 </ul>
