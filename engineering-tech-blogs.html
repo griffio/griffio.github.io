@@ -1,0 +1,14 @@
+---
+layout: default
+title: Engineering Tech Blogs
+id: engineering-tech-blogs
+---
+
+Regular company 'Engineering' Blogs with Github repos
+
+{% for member in site.data.techblogs %}
+
+<a href="{{ techblog.blog }}">{{ techblog.blog }}</a>
+<a href="https://github.com/{{ techblog.github }}">{{ techblog.github }}</a>
+
+{% endfor %}
