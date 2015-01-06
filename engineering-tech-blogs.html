@@ -4,8 +4,9 @@ title: Engineering Tech Blogs
 id: engineering-tech-blogs
 ---
 
-Regular company 'Engineering' Blogs with Github repos
-
+<h1>Regular company 'Engineering' Blogs with Github repos</h1>
+<ul>
 {% for techblog in site.data.techblogs %}
-<a href="{{ techblog.url }}">{{ techblog.url }}</a>
+<li><a href="{{ techblog.url }}">{{ techblog.url }}</a></li>
 {% endfor %}
+</ul>
