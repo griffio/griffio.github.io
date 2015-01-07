@@ -5,9 +5,9 @@ id: engineering-tech-blogs
 ---
 
 <h1>Regular company 'Engineering' Blogs with Github repos</h1>
-<ul>
+<div>
 {% assign sorted_techblogs = (site.data.techblogs | sort: 'github') %}
 {% for techblog in sorted_techblogs %}
-<li><a href="https://github.com/{{ techblog.github }}">{% include github-icon-svg.html %}</a><a href="{{ techblog.url }}">{{ techblog.github }}</a></li>
+<span><a href="https://github.com/{{ techblog.github }}">{% include github-icon-svg.html %}</a><a href="{{ techblog.url }}">{{ techblog.github }}</a></span>
 {% endfor %}
-</ul>
+</div>
