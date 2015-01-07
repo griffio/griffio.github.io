@@ -5,9 +5,10 @@ id: engineering-tech-blogs
 ---
 
 <h1>Regular company 'Engineering' Blogs with Github repos</h1>
-<div>
+
+<div class="flex-container">
 {% assign sorted_techblogs = (site.data.techblogs | sort: 'github') %}
 {% for techblog in sorted_techblogs %}
-<span><a href="{{ techblog.url }}">{{ techblog.github }}</a><a href="https://github.com/{{ techblog.github }}">{% include github-icon-svg.html %}</a>|</span>
+<div  class="flex-item"><a href="{{ techblog.url }}">{{ techblog.github }}</a><a href="https://github.com/{{ techblog.github }}">{% include github-icon-svg.html %}</a>|</div>
 {% endfor %}
 </div>
