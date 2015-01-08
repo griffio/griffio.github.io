@@ -262,7 +262,7 @@ code, pre {
 # flexbox
 
 .techblogs-flex-layout {
-  flex: 1 1 0%;
+  -webkit-flex: 1 1 0%; flex: 1 1 0%;
   padding: 0.5rem;
 }
 
