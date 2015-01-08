@@ -261,6 +261,11 @@ code, pre {
 
 # flexbox
 
+.techblogs-flex-layout {
+  flex: 1 1 0%;
+  padding: 0.5rem;
+}
+
 .flex-container {
   display: -webkit-flex; display: flex; 
   -webkit-flex-flow: row wrap; flex-flow: row wrap;
