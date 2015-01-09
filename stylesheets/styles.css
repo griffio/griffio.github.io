@@ -294,3 +294,7 @@ code, pre {
     -moz-user-select: none;
 }
 
+.flex-item .small-octicon {
+    padding-left: 1em;
+}
+
