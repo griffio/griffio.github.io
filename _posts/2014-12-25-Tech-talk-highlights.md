@@ -24,3 +24,4 @@ summary: highlighted tech talks 2014
 * [Stewardship: The Sobering Parts - Brian Goetz](https://www.youtube.com/watch?v=2y5Pv4yN0b0)
 * [Testing the Hard Stuff and Staying Sane - John Hughes](https://www.youtube.com/watch?v=zi0rHwfiX1Q)
 * [Clojure: Programming with Hand Tools - Tim Ewald](https://www.youtube.com/watch?v=ShEez0JkOFw)
+* [Jepsen II: Linearizable Boogaloo - Kyle Kingsbury](https://www.youtube.com/watch?v=QdkS6ZjeR7Q)
