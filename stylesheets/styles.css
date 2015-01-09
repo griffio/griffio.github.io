@@ -273,7 +273,7 @@ code, pre {
 } 
 
 .flex-item { 
-  -webkit-flex: 1 auto; flex: 1 auto; 
+  -webkit-flex: 1 auto; flex: 1 auto; min-width: 100px;
 }
 
 @font-face {
