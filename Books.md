@@ -1,4 +1,4 @@
-# Selection of Techincal Books
+# Selection of Technical Books
 
 ### 1960s
 
