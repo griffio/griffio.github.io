@@ -26,6 +26,7 @@ title: "Selection of Technical Books"
 - [The Old New Thing](https://openlibrary.org/books/OL9702480M/The_Old_New_Thing)
 - [Java Concurrency In Practice](https://openlibrary.org/books/OL25208908M/Java_Concurrency_in_Practice)
 - [Release It!]( https://openlibrary.org/books/OL8592978M/Release_It!)
+- [Effective_Java](https://openlibrary.org/works/OL6223299W/Effective_Java)
 - [Java Puzzlers](https://openlibrary.org/books/OL17173106M/Java_puzzlers)
 
 ### 2010s
