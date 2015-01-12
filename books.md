@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Selection of Technical Books"
+---
+
 # Selection of Technical Books
 
 ### 1960s
