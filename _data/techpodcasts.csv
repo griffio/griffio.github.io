@@ -1,16 +1,22 @@
 name,url,tag
-dotnetrocks,http://www.dotnetrocks.com,software
+dotnetrocks,http://www.dotnetrocks.com,programming
 nodeup,http://nodeup.com,nodejs
 javascript jabber, http://javascriptjabber.com,web
-hanselminutes,http://hanselminutes.com,software
+hanselminutes,http://hanselminutes.com,programming
 giantrobots,http://podcasts.thoughtbot.com/giantrobots,thoughtbot
 shoptalkshow,http://shoptalkshow.com,web
-chariotsolutions,http://techcast.chariotsolutions.com,software
+chariotsolutions,http://techcast.chariotsolutions.com,programming
 risky-business,http://risky.biz/netcasts/risky-business,security
-software engineering radio,http://www.se-radio.net,software
-freshtilledsoil,http://www.freshtilledsoil.com/blog,software
-thechangelog,http://thechangelog.com/podcast,software
+software engineering radio,http://www.se-radio.net,programming
+freshtilledsoil,http://www.freshtilledsoil.com/blog,programming
+thechangelog,http://thechangelog.com/podcast,programming
 redhat,http://asylum.libsyn.com,java
 gitminutes,http://www.gitminutes.com,git
 thinkrelevance,http://thinkrelevance.com/blog/tags/podcast,clojure
 thewebplatform,http://thewebplatform.libsyn.com,web
+turing cool,http://turing.cool,programming
+word break,http://word-break.com,web
+programming throwdown,http://www.programmingthrowdown.com,programming
+ruby rogues,http://rubyrogues.com,ruby
+hello world,http://wildermuth.com/hwpod,programming
+test talks,http://joecolantonio.com/testtalks,testing
