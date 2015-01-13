@@ -1,5 +1,3 @@
-# Tech Podcasts
-
 ---
 layout: default
 title: Tech Podcasts
