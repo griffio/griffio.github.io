@@ -30,4 +30,4 @@ Java Compiler commandline options for annotation processing
 
  * -proc
    * -proc:none is used for Annotation Processor development. Disables Processing
-   * -proc:only is used when generating source only. Class files are not generated externally
+   * -proc:only is used for processers that are validating source or generating source only. Class files are not generated externally
