@@ -26,6 +26,8 @@ Java Compiler commandline options for annotation processing
   -processorpath <path>      Specify where to find annotation processors
   -d <directory>             Specify where to place generated class files
   -s <directory>             Specify where to place generated source files
+  -XprintRounds              Print information about rounds of annotation processing
+  -XprintProcessorInfo       Print information about which annotations a processor is asked to process
 ```
 
  * -proc
