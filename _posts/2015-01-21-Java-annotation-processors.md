@@ -17,7 +17,7 @@ Presentation slides [Pdf](https://oracleus.activeevents.com/2014/connect/fileDow
 
 Java Compiler commandline options for annotation processing
 
-```bash
+```
  javac <options> <source files>
   -verbose                   Output messages about what the compiler is doing
   -proc:{none,only}          Control whether annotation processing and/or compilation is done.
