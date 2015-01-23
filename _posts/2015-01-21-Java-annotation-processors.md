@@ -30,9 +30,14 @@ Java Compiler commandline options for annotation processing
   -XprintProcessorInfo       Print information about which annotations a processor is asked to process
 ```
 
- * -proc
-   * -proc:none is used for Annotation Processor development. Disables Processing
-   * -proc:only is used for processers that are validating source or generating source only. Class files are not generated externally
+The interface for an annotation processor is provided from javax.annotation.processing.Processor.
+The java compiler will discover annotation processor implementations on the classpath using the java.util.ServiceLoader mechanism if provided - See [Auto Service](https://github.com/google/auto/tree/master/service).
+
+* -processor can be used to explictly to provide the implementation class instead. No other annotation processors will be executed.
+
+* -proc:[none,only]
+  * -proc:none is used for Annotation Processor development. Disables Processing
+  * -proc:only is used for processers that are validating source or generating source only. Class files are not generated externally
 
 The annotation processing is performed in one or more rounds until all input files are consumed that contain annotations, since newly generated files may contain annotations.
 
