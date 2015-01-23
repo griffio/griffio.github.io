@@ -9,7 +9,6 @@ summary: Java Annotation Processors
 
 # Java Annotation Processors
 
-
 ### Plugging into the Java Compiler
 
 Presentation slides [Pdf](https://oracleus.activeevents.com/2014/connect/fileDownload/session/14BBC4CA8DD69CBF9BA12D7B6601C106/CON4265_McManus-Plugging-into-the-Java-Compiler.pdf)
@@ -39,7 +38,7 @@ The java compiler will discover annotation processor implementations on the clas
   * -proc:none is used for Annotation Processor development. Disables Processing
   * -proc:only is used for processers that are validating source or generating source only. Class files are not generated externally
 
-The annotation processing is performed in one or more rounds until all input files are consumed that contain annotations, since newly generated files may contain annotations.
+The annotation processing is performed in one or more rounds until all input files are consumed that contain matching annotations, since newly generated files may contain annotations.
 
 e.g
 
@@ -58,3 +57,9 @@ e.g
    * annotations: []
    * last round: true
  
+---
+
+Annotation Processing wraps the Java Compiler and an compilation errors may cause the javac process to exit with a non-zero value failing any dependent build.
+
+When multiple annotation processors are invoked any duplicate source/class files that may have be aggregated will cause the Java Filer process to fail. e.g When two anotation processors output code for the same annotation.
+
