@@ -59,7 +59,7 @@ e.g
  
 ---
 
-Annotation Processing wraps the Java Compiler and an compilation errors may cause the javac process to exit with a non-zero value failing any dependent build.
+Annotation Processing wraps the Java Compiler and compilation errors may cause the javac process to exit with a non-zero value failing any dependent build.
 
 When multiple annotation processors are invoked any duplicate source/class files that may have be aggregated will cause the Java Filer process to fail. e.g When two anotation processors output code for the same annotation.
 
