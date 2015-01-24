@@ -20,13 +20,13 @@ Java Compiler commandline options for annotation processing
 ```
  javac <options> <source files>
   -verbose                   Output messages about what the compiler is doing
-  -proc:{none,only}          Control whether annotation processing and/or compilation is done.
+  -proc:{none,only}          Control whether annotation processing and/or compilation is done
   -processor <class1>[,<class2>,<class3>...] Names of the annotation processors to run; bypasses default discovery process
   -processorpath <path>      Specify where to find annotation processors
   -d <directory>             Specify where to place generated class files
   -s <directory>             Specify where to place generated source files
   -XprintRounds              Print information about rounds of annotation processing
-  -XprintProcessorInfo       Print information about which annotations a processor is asked to process
+  -XprintProcessorInfo       Print information about which annotations a processor i asked to process
 ```
 
 The interface for an annotation processor is provided from javax.annotation.processing.Processor.
