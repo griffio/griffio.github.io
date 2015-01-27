@@ -25,3 +25,4 @@ summary: highlighted tech talks 2014
 * [Testing the Hard Stuff and Staying Sane - John Hughes](https://www.youtube.com/watch?v=zi0rHwfiX1Q)
 * [Clojure: Programming with Hand Tools - Tim Ewald](https://www.youtube.com/watch?v=ShEez0JkOFw)
 * [Jepsen II: Linearizable Boogaloo - Kyle Kingsbury](https://www.youtube.com/watch?v=QdkS6ZjeR7Q)
+* [The 7 Principles of rich web applications - Guillermo Rauch](https://www.youtube.com/watch?v=p2F-128e3sI)
