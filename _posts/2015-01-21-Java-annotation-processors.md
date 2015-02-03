@@ -17,7 +17,7 @@ Presentation slides [Pdf](https://oracleus.activeevents.com/2014/connect/fileDow
 
 Java Compiler commandline options for annotation processing
 
-```
+~~~
  javac <options> <source files>
   -verbose                   Output messages about what the compiler is doing
   -proc:{none,only}          Control whether annotation processing and/or compilation is done
@@ -27,7 +27,7 @@ Java Compiler commandline options for annotation processing
   -s <directory>             Specify where to place generated source files
   -XprintRounds              Print information about rounds of annotation processing
   -XprintProcessorInfo       Print information about which annotations a processor i asked to process
-```
+~~~
 
 The interface for an annotation processor is provided from javax.annotation.processing.Processor.
 The java compiler will discover annotation processor implementations on the classpath using the java.util.ServiceLoader mechanism if provided - See [Auto Service](https://github.com/google/auto/tree/master/service).
