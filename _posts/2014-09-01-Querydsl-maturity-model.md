@@ -7,8 +7,6 @@ published: true
 summary: using querydsl
 ---
 
-# Querydsl - Usage Maturity Model
-
 ## [www.querydsl.com](http://www.querydsl.com)
 
 ## Level 4 - [Delegates](#delegates)

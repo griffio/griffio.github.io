@@ -7,7 +7,6 @@ published: true
 summary: highlighted tech talks 2014
 ---
 
-# 2014 Tech Talk Highlights
 * [Immutable offline webapps - James Halliday](http://m.youtube.com/watch?v=J9_VaU4N3Rg)
 * [React's Architecture - Christopher Chedeau](https://www.youtube.com/watch?v=tXeBZ3WujTs&list=PLb0IAmt7-GS1hdDcokpVp1MBk-IaeaSgP&index=7)
 * [Turning the database inside out with Apache Samza - Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0&list=UU_QIfHvN9auy2CoOdSfMWDw)

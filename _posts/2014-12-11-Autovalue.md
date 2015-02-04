@@ -7,8 +7,6 @@ published: true
 summary: using autovalue
 ---
 
-# AutoValue - create immutable value types using annotation processor support 
-
 ## [https://github.com/google/auto](https://github.com/google/auto)
 
 #### Intro
