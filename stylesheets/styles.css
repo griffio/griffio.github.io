@@ -259,7 +259,6 @@ code, pre {
   font-family: Menlo, Monaco, "Courier New", monospace;
 }
 
-# flexbox
 
 .techblogs-flex-layout {
   -webkit-flex: 1 1 0%; flex: 1 1 0%;
@@ -297,4 +296,3 @@ code, pre {
 .flex-item .small-octicon {
     padding-left: 0.5em;
 }
-
