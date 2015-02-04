@@ -12,7 +12,7 @@ title:            Griffio
 author:
   name:           'GRIFFIO'
   url:            https://twitter.com/griffio_work
-
+baseurl:          /
 paginate:         5
 
 # Custom vars
