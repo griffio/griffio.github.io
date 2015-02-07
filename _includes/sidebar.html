@@ -27,7 +27,7 @@
             {% endif %}
             {% endfor %}
 
-            <a class="sidebar-nav-item" href="{{ site.github.repo }}"><span class="octicon-mark-github small-octicon"></span></a>
+            <a class="sidebar-nav-item" href="{{ site.github.repo }}">{% include github-icon-svg.html %}</a>
 
             <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
         </nav>
