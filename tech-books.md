@@ -3,8 +3,6 @@ layout: page
 title: "Selection of Technical Books"
 ---
 
-## Selection of Technical Books
-
 ### 1960s
 
 - [Mythical Man Month](https://openlibrary.org/books/OL1110870M/The_mythical_man-month)
