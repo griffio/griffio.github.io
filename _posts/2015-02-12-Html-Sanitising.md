@@ -1,3 +1,12 @@
+---
+layout: post
+title: Html Sanitising vs Html Escaping
+category: tech
+tags: xss
+published: true
+summary: Html Sanitising vs Html Escaping
+---
+
 ## Html Sanitising vs Html Escaping
 
 Sanitising of html is a policy applied to markup content similar to when a movie is "cut" to match a certain allowed rating.
