@@ -9,8 +9,10 @@ summary: Html Sanitising vs Html Escaping
 
 ## Html Sanitising vs Html Escaping
 
-Sanitising of html is a policy applied to markup content similar to when a movie is "cut" to match a certain allowed rating.
-e.g Profanity is restricted to PG and above.
+Content, html and text, that originated from external sources must be integrated into the primary content stream so that it cannot subvert the output programmatically.
+e.g A user inputs some data and now expects it to be reflected in the page structure.
+
+Sanitisation of html is an explicit policy applied to the markup similar to the requirement when a movie is "cut" to match the restrictions of the rating. E.g Cutting out specific acts of violence for PG.
 
 Escaping content makes it structurally compatible with Html and is similar to "pixilating" or "obfuscating" the offending elements to make it appear harmless.
 e.g A movie that over-dubs a swear word for TV release. e.g Ghostbusters
