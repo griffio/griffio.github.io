@@ -75,7 +75,8 @@ public abstract class Cash {
     public abstract BigDecimal amount();
 
     @JsonCreator
-    public static Cash create(@JsonProperty("currency") Currency currency, @JsonProperty("amount") BigDecimal amount) {
+    public static Cash create(@JsonProperty("currency") Currency currency, 
+                              @JsonProperty("amount") BigDecimal amount) {
         return new AutoValue_Cash(currency, amount.setScale(2, RoundingMode.HALF_UP));
     }
 
