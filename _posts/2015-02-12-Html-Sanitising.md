@@ -17,7 +17,7 @@ The sanitisation of html by use of an explicit "whitelist" policy, applied to th
 
 ---
 
-[Html Sanitizer](https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project#tab=Main)
+[OWASP Html Sanitizer](https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project#tab=Main)
 
 ~~~ java
 PolicyFactory policy = new HtmlPolicyBuilder()
