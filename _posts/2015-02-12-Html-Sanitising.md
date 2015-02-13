@@ -39,8 +39,6 @@ String safeHTML = policy.sanitize(untrustedHTML);
 Escaping non-compliant content makes it structurally compatible with Html and is similar to "pixilating" or "obfuscating" the offending elements to make it appear harmless.
 e.g A movie that over-dubs a swear word for TV release. e.g Ghostbusters
 
-[Securing the tangled Web](http://queue.acm.org/detail.cfm?id=2663760)
-
 Html Escaping only uses the following five ASCII characters ("&apos;" is not defined in Html 4.01 and is excluded)
 
 |Input  | Output
@@ -52,6 +50,8 @@ Html Escaping only uses the following five ASCII characters ("&apos;" is not def
 | ">"   | "&gt;"   |
 
 ### Utilities
+
+[Securing the tangled Web](http://queue.acm.org/detail.cfm?id=2663760)
 
 http://docs.guava-libraries.googlecode.com/git/javadoc/com/google/common/html/HtmlEscapers.html
 
