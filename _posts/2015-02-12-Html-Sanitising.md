@@ -22,6 +22,7 @@ e.g A movie that over-dubs a swear word for TV release. e.g Ghostbusters
 ---
 
 [Html Sanitizer](https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project#tab=Main)
+
 ~~~ java
 PolicyFactory policy = new HtmlPolicyBuilder()
    .allowElements("p")
@@ -49,8 +50,14 @@ Html Escaping only uses the following five ASCII characters ("&apos;" is not def
 | "<"   | "&lt;"   |
 | ">"   | "&gt;"   |
 
+
+### Utilities
+
 http://docs.guava-libraries.googlecode.com/git/javadoc/com/google/common/html/HtmlEscapers.html
+
+~~~
 com.google.common.html;
+~~~
 
 ~~~ javascript
 HtmlEscapers.htmlEscaper().escape("<script>alert('Boo!');</script>;");
