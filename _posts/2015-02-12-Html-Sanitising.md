@@ -13,10 +13,7 @@ Content, html and text, that originated from external sources must be integrated
 
 A user inputs some data and now expects it to be reflected in the page structure. [Creative Usernames](https://labs.spotify.com/2013/06/18/creative-usernames).
 
-Sanitisation of html must be an explicit "whitelist" policy applied to the markup similar to the requirement when a movie is "cut" to match the restrictions of the rating. E.g A rating specifies there can be no strong profanity.
-It could be argued that film ratings are not applied consistently because it is more like an exclusion "blacklist".
-
-
+The sanitisation of html by use of an explicit "whitelist" policy, applied to the markup, "cuts" out any unspecified elements similar to the requirement when a movie is "cut" down to match the restrictions of rating classification(e.g A rating specifies there can be no strong profanity). It could be argued that film ratings are not applied consistently because it is more like an exclusion list than a "whitelist".
 
 ---
 
