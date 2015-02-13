@@ -150,7 +150,8 @@ A post-processor transformer for aggregation that works with com.mysema.query.gr
 This example takes a collection of salaries and returns an aggregate collection where salaries with the same name will be grouped into a new projection containing the total salary of that group.
 
 ~~~java
-List<SalaryDetail> aggregatedSalaries = CollQueryFactory.from(QSalaryDetail.salaryDetail, salaryDetails)
+List<SalaryDetail> aggregatedSalaries = 
+    CollQueryFactory.from(QSalaryDetail.salaryDetail, salaryDetails)
     .transform(GroupBy.groupBy(QSalaryDetail.salaryDetail.salaryName)
     .list(QSalaryDetail.create(QSalaryDetail.salaryDetail.salaryName,    
         GroupBy.sum(QSalaryDetail.salaryDetail.salary))));
