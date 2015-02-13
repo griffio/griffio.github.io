@@ -16,10 +16,7 @@ A user inputs some data and now expects it to be reflected in the page structure
 Sanitisation of html must be an explicit "whitelist" policy applied to the markup similar to the requirement when a movie is "cut" to match the restrictions of the rating. E.g A rating specifies there can be no strong profanity.
 It could be argued that film ratings are not applied consistently because it is more like an exclusion "blacklist".
 
-Escaping content makes it structurally compatible with Html and is similar to "pixilating" or "obfuscating" the offending elements to make it appear harmless.
-e.g A movie that over-dubs a swear word for TV release. e.g Ghostbusters
 
-[Securing the tangled Web](http://queue.acm.org/detail.cfm?id=2663760)
 
 ---
 
@@ -41,6 +38,11 @@ String safeHTML = policy.sanitize(untrustedHTML);
 ~~~
 
 ---
+
+Escaping content makes it structurally compatible with Html and is similar to "pixilating" or "obfuscating" the offending elements to make it appear harmless.
+e.g A movie that over-dubs a swear word for TV release. e.g Ghostbusters
+
+[Securing the tangled Web](http://queue.acm.org/detail.cfm?id=2663760)
 
 Html Escaping only uses the following five ASCII characters ("&apos;" is not defined in Html 4.01 and is excluded)
 
