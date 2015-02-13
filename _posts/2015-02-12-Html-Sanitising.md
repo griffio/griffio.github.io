@@ -10,7 +10,8 @@ summary: Html Sanitising vs Html Escaping
 ## Html Sanitising vs Html Escaping
 
 Content, html and text, that originated from external sources must be integrated into the primary content stream so that it cannot subvert the output programmatically.
-e.g A user inputs some data and now expects it to be reflected in the page structure.
+
+A user inputs some data and now expects it to be reflected in the page structure. [Creative Usernames](https://labs.spotify.com/2013/06/18/creative-usernames).
 
 Sanitisation of html is an explicit "whitelist" policy applied to the markup similar to the requirement when a movie is "cut" to match the restrictions of the rating. E.g PG Rating specifies how many uses of a profanity can occur.
 
@@ -49,7 +50,6 @@ Html Escaping only uses the following five ASCII characters ("&apos;" is not def
 | "&"   | "&amp;"  |
 | "<"   | "&lt;"   |
 | ">"   | "&gt;"   |
-
 
 ### Utilities
 
