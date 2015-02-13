@@ -13,7 +13,7 @@ Content, html and text, that originated from external sources must be integrated
 
 A user inputs some data and now expects it to be reflected in the page structure. [Creative Usernames](https://labs.spotify.com/2013/06/18/creative-usernames).
 
-The sanitisation of html by use of an explicit "whitelist" policy, applied to the markup, "cuts" out any unspecified elements similar to the requirement when a movie is "cut" down to match the restrictions of rating classification(e.g A rating specifies there can be no strong profanity). It could be argued that film ratings are not applied consistently because it is more like an exclusion list than a "whitelist".
+The sanitisation of html using an explicit "whitelist" policy of allowed elements "cuts" out unspecified elements from the stream similar to the requirement that a movie is "cut" down to match a target rating classification (e.g a rating specifies there cannot be strong profanity used). It could be argued that film ratings are not applied consistently because it is more like an exclusion list than a "whitelist".
 
 ---
 
@@ -36,7 +36,7 @@ String safeHTML = policy.sanitize(untrustedHTML);
 
 ---
 
-Escaping content makes it structurally compatible with Html and is similar to "pixilating" or "obfuscating" the offending elements to make it appear harmless.
+Escaping non-compliant content makes it structurally compatible with Html and is similar to "pixilating" or "obfuscating" the offending elements to make it appear harmless.
 e.g A movie that over-dubs a swear word for TV release. e.g Ghostbusters
 
 [Securing the tangled Web](http://queue.acm.org/detail.cfm?id=2663760)
