@@ -53,7 +53,7 @@ Html Escaping only uses the following five ASCII characters ("&apos;" is not def
 
 [Securing the tangled Web](http://queue.acm.org/detail.cfm?id=2663760)
 
-http://docs.guava-libraries.googlecode.com/git/javadoc/com/google/common/html/HtmlEscapers.html
+[HtmlEscapers](http://docs.guava-libraries.googlecode.com/git/javadoc/com/google/common/html/HtmlEscapers.html)
 
 ~~~
 com.google.common.html;
