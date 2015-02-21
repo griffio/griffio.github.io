@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "octicons";
+  font-style: normal;
+  font-weight: normal;
+  src: url("/octicons/octicons-192e5fbb927be7cdb8bdfa0ecb98d3574bd395e58f9d00e5dcdfce5bc9660ac0.woff") format("woff");
+}
+
+.octicon-mark-github:before {
+    content: "";
+}
+
+.small-octicon {
+    font: 21px/1 octicons;
+    display: inline-block;
+    text-decoration: none;
+    -moz-user-select: none;
+}
