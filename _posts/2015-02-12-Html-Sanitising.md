@@ -21,16 +21,16 @@ The sanitisation of html using an explicit "whitelist" policy of allowed element
 
 ~~~ java
 PolicyFactory policy = new HtmlPolicyBuilder()
-   .allowElements("p")
-   .allowElements(
-       new ElementPolicy() {
-         public String apply(String elem, List<String> attrs) {
-           attrs.add("class");
-           attrs.add("header-" + elem);
-           return "div";
-         }
-       }, "h1", "h2", "h3", "h4", "h5", "h6"))
-   .build();
+ .allowElements("p")
+ .allowElements(
+   new ElementPolicy() {
+     public String apply(String elem, List<String> 
+       attrs.add("class");
+       attrs.add("header-" + elem);
+       return "div";
+     }
+   }, "h1", "h2", "h3", "h4", "h5", "h6"))
+ .build();
 String safeHTML = policy.sanitize(untrustedHTML);
 ~~~
 
@@ -61,3 +61,8 @@ com.google.common.html;
 ~~~ javascript
 HtmlEscapers.htmlEscaper().escape("<script>alert('Boo!');</script>;");
 ~~~
+
+### CSS & JavaScript
+
+Additional languages that can be subverted in the output stream require distinct sanitising and encoding.
+
