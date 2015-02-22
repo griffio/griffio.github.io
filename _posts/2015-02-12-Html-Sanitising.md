@@ -24,9 +24,9 @@ PolicyFactory policy = new HtmlPolicyBuilder()
    .allowElements("p")
    .allowElements(
        new ElementPolicy() {
-         public String apply(String elementName, List<String> attrs) {
+         public String apply(String elem, List<String> attrs) {
            attrs.add("class");
-           attrs.add("header-" + elementName);
+           attrs.add("header-" + elem);
            return "div";
          }
        }, "h1", "h2", "h3", "h4", "h5", "h6"))
@@ -36,8 +36,7 @@ String safeHTML = policy.sanitize(untrustedHTML);
 
 ---
 
-Escaping non-compliant content makes it structurally compatible with Html and is similar to "pixilating" or "obfuscating" the offending elements to make it appear harmless.
-e.g A movie that over-dubs a swear word for TV release. e.g Ghostbusters
+Escaping non-compliant content makes it structurally compatible with Html and is similar to "pixilating" or "obfuscating" the offending elements to make it appear harmless (e.g A movie that had profanity over-dubs for its TV release was Ghostbusters).
 
 Html Escaping only uses the following five ASCII characters ("&apos;" is not defined in Html 4.01 and is excluded)
 
