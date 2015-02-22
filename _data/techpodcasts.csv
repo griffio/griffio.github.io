@@ -1,15 +1,15 @@
 name,url,tag
-dotnetrocks,http://www.dotnetrocks.com,programming
+dotnetrocks,http://www.dotnetrocks.com,developers
 nodeup,http://nodeup.com,nodejs
 javascript jabber, http://javascriptjabber.com,web
-hanselminutes,http://hanselminutes.com,programming
+hanselminutes,http://hanselminutes.com,developers
 giantrobots,http://podcasts.thoughtbot.com/giantrobots,thoughtbot
 shoptalkshow,http://shoptalkshow.com,web
-chariotsolutions,http://techcast.chariotsolutions.com,programming
+chariotsolutions,http://techcast.chariotsolutions.com,developers
 risky-business,http://risky.biz/netcasts/risky-business,security
 software engineering radio,http://www.se-radio.net,programming
-freshtilledsoil,http://www.freshtilledsoil.com/blog,programming
-thechangelog,http://thechangelog.com/podcast,programming
+freshtilledsoil,http://www.freshtilledsoil.com/blog,ux
+thechangelog,http://thechangelog.com/podcast,developers
 redhat,http://asylum.libsyn.com,java
 gitminutes,http://www.gitminutes.com,git
 thinkrelevance,http://thinkrelevance.com/blog/tags/podcast,clojure
@@ -20,7 +20,7 @@ programming throwdown,http://www.programmingthrowdown.com,programming
 ruby rogues,http://rubyrogues.com,ruby
 hello world,http://wildermuth.com/hwpod,programming
 test talks,http://joecolantonio.com/testtalks,testing
-entreprogrammers, http://entreprogrammers.com/category/podcast,programming
+entreprogrammers,http://entreprogrammers.com/category/podcast,programming
 getupandcode,http://getupandcode.com/category/podcast,programming
 codenewbie,http://www.codenewbie.org/podcast,programming
 wideteams,http://www.wideteams.com/episode-guide,programming
