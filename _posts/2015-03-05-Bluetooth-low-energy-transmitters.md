@@ -7,24 +7,20 @@ published: true
 summary: iBeacons and BLE transmitters
 ---
 
-https://developer.apple.com/ibeacon/
-https://mapsconnect.apple.com
-http://beekn.net
-http://beekn.net/guide-to-ibeacons/
-http://www.ibeacon.com
-http://www.codemag.com/Article/1405051
+[Apple](https://developer.apple.com/ibeacon/)
+[Apple Maps Connect](https://mapsconnect.apple.com)
+[beekn](http://beekn.net/guide-to-ibeacons/)
+[ibeacon](http://www.ibeacon.com)
 
 ### Vendors
 
-http://estimote.com
-https://twitter.com/estimote
+[estimote](http://estimote.com)
 
-http://kontakt.io/
-https://twitter.com/kontakt_io
+[kontaktio](http://kontakt.io/)
 
 ### Example Apps
 
-http://travelradar.awwapps.com
-http://www.beaconsandwich.com
-https://itunes.apple.com/gb/app/estimote/id686915066?mt=8
-https://itunes.apple.com/us/app/robin-powered/id948856282
+[travel radar](http://travelradar.awwapps.com)
+[beacon sandwich](http://www.beaconsandwich.com)
+[estimote](https://itunes.apple.com/gb/app/estimote/id686915066?mt=8)
+[Robin Powered](https://itunes.apple.com/us/app/robin-powered/id948856282)
