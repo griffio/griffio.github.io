@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bluetooth low energy transmitters
+title: Bluetooth low energy beacons
 category: tech
 tags: ibeacon
 published: true
