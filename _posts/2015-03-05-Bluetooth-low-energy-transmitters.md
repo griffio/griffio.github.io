@@ -7,7 +7,7 @@ published: true
 summary: iBeacons and BLE transmitters
 ---
 
-"Beacons aren't the thing. They're the thing that gets us to the thing."
+### "Beacons aren't the thing. They're the thing that gets us to the thing."
 
 
 [Apple](https://developer.apple.com/ibeacon/)
