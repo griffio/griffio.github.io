@@ -9,22 +9,27 @@ summary: iBeacons and BLE transmitters
 
 ### "Beacons aren't the thing. They're the thing that gets us to the thing."
 
+* [Apple](https://developer.apple.com/ibeacon/)
 
-[Apple](https://developer.apple.com/ibeacon/)
+* [Apple Maps Connect](https://mapsconnect.apple.com)
+  * Indoor Maps
+  * Accessible to the general public
+  * Annual visitors in excess of 1 million per year
+  * Availability of complete, accurate, and scaled reference maps
+  * Enabled with Wi-Fi throughout
+  * Associated app is authorized by venue owner
 
-[Apple Maps Connect](https://mapsconnect.apple.com)
+* [beekn](http://beekn.net/guide-to-ibeacons/)
 
-[beekn](http://beekn.net/guide-to-ibeacons/)
+* [ibeacon](http://www.ibeacon.com)
 
-[ibeacon](http://www.ibeacon.com)
-
-[Airspace Retail](http://airspace.cc)
+* [Airspace Retail](http://airspace.cc)
 
 ### Vendors
 
-[estimote](http://estimote.com)
+* [estimote](http://estimote.com)
 
-[kontaktio](http://kontakt.io/)
+* [kontaktio](http://kontakt.io/)
 
 ### Example Apps
 
