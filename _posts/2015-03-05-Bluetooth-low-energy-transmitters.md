@@ -25,6 +25,8 @@ summary: iBeacons and BLE transmitters
 
 * [Airspace Retail](http://airspace.cc)
 
+* [Pointr](http://www.pointrlabs.com)
+
 ### Vendors
 
 * [estimote](http://estimote.com)
