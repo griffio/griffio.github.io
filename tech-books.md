@@ -10,6 +10,7 @@ title: "Selection of Technical Books"
 ### 1980s
 
 - [Peopleware](https://openlibrary.org/books/OL31274M/Peopleware)
+- [Structure and Interpretation of Computer Programs](https://openlibrary.org/works/OL3267304W/Structure_and_Interpretation_of_Computer_Programs)
 
 ### 1990s
 
