@@ -15,25 +15,25 @@ title: "Selection of Technical Books"
 ### 1990s
 
 - [Delphi Component Design](https://openlibrary.org/books/OL1002863M/Delphi_component_design)
-- [Multithreading applications in Win32](https://openlibrary.org/books/OL1008159M/Multithreading_applications_in_Win32)
 - [Essential COM](https://openlibrary.org/books/OL698253M/Essential_COM)
+- [Multithreading applications in Win32](https://openlibrary.org/books/OL1008159M/Multithreading_applications_in_Win32)
 - [Transactional COM+](https://openlibrary.org/books/OL7408130M/Transactional_COM)
 
 ### 2000s
 
 - [Agile Software Development, Principles, Patterns, and Practices](https://openlibrary.org/books/OL9297484M/Agile_Software_Development_Principles_Patterns_and_Practices)
-- [The Old New Thing](https://openlibrary.org/books/OL9702480M/The_Old_New_Thing)
-- [Java Concurrency In Practice](https://openlibrary.org/books/OL25208908M/Java_Concurrency_in_Practice)
-- [Release It!]( https://openlibrary.org/books/OL8592978M/Release_It!)
 - [Effective_Java](https://openlibrary.org/works/OL6223299W/Effective_Java)
+- [Java Concurrency In Practice](https://openlibrary.org/books/OL25208908M/Java_Concurrency_in_Practice)
 - [Java Puzzlers](https://openlibrary.org/books/OL17173106M/Java_puzzlers)
+- [Release It!]( https://openlibrary.org/books/OL8592978M/Release_It!)
+- [The Old New Thing](https://openlibrary.org/books/OL9702480M/The_Old_New_Thing)
 
 ### 2010s
 
 - [Implementing Domain-Driven Design](http://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
+- [JavaScript Allongé](https://leanpub.com/javascript-allonge)
 - [Responsive Web Design](https://openlibrary.org/books/OL24620876M/Responsive_Web_Design)
 - [Scalable and Modular Architecture for CSS](https://smacss.com/)
-- [JavaScript Allongé](https://leanpub.com/javascript-allonge)
 
 
 
