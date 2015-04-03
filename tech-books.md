@@ -33,9 +33,7 @@ title: "Selection of Technical Books"
 - [Implementing Domain-Driven Design](http://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
 - [Responsive Web Design](https://openlibrary.org/books/OL24620876M/Responsive_Web_Design)
 - [Scalable and Modular Architecture for CSS](https://smacss.com/)
-
-
-
+- [JavaScript Allongé](https://leanpub.com/javascript-allonge)
 
 
 
