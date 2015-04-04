@@ -26,7 +26,7 @@ title: "Selection of Technical Books"
 - [Multithreading applications in Win32](https://openlibrary.org/books/OL1008159M/Multithreading_applications_in_Win32)
   -  Concurrency idioms on Windows; Mutexes, Semaphores, Non-Blocking IO.
 - [Transactional COM+](https://openlibrary.org/books/OL7408130M/Transactional_COM)
-  - Book on scalabilty disguised as a COM book
+  - Book on scalability disguised as a COM book
 
 ### 2000s
 
