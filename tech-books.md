@@ -20,7 +20,7 @@ title: "Selection of Technical Books"
 - [Delphi Component Design](https://openlibrary.org/books/OL1002863M/Delphi_component_design)
   - Highly technical and still relevant; Best description of Virtual methods etc
 - [Design patterns elements of reusable object-oriented software](https://openlibrary.org/books/OL22173620M/Design_patterns)
-  - For historical reference only. "This belongs in a museum" - Indiana Jones
+  - For archeological reference only. "This belongs in a museum" - Indiana Jones
 - [Essential COM](https://openlibrary.org/books/OL698253M/Essential_COM)
   - Interfaces, binary compatibility.
 - [Multithreading applications in Win32](https://openlibrary.org/books/OL1008159M/Multithreading_applications_in_Win32)
