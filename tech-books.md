@@ -31,7 +31,7 @@ title: "Selection of Technical Books"
 ### 2000s
 
 - [Agile Software Development, Principles, Patterns, and Practices](https://openlibrary.org/books/OL9297484M/Agile_Software_Development_Principles_Patterns_and_Practices)
-  - Awareness of issues when using Class based OOP languages like Java
+  - Awareness of best practices when using Class based OOP languages like Java
 - [Effective_Java](https://openlibrary.org/works/OL6223299W/Effective_Java)
   - All the Java idioms; Hashcode/Equals etc
 - [Java Concurrency In Practice](https://openlibrary.org/books/OL25208908M/Java_Concurrency_in_Practice)
