@@ -24,7 +24,7 @@ title: "Selection of Technical Books"
 - [Essential COM](https://openlibrary.org/books/OL698253M/Essential_COM)
   - Interfaces, binary compatibility.
 - [Multithreading applications in Win32](https://openlibrary.org/books/OL1008159M/Multithreading_applications_in_Win32)
-  - Standard concurrency idioms on Windows; Mutexes, Semaphores, Non-Blocking IO.
+  -  Concurrency idioms on Windows; Mutexes, Semaphores, Non-Blocking IO.
 - [Transactional COM+](https://openlibrary.org/books/OL7408130M/Transactional_COM)
   - Book on scalabilty disguised as a COM book
 
