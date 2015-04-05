@@ -19,10 +19,11 @@ Environment drives Culture; Culture drives Brand.
 
 Links
 
-[News] (http://www.sfgate.com/business/article/Facebook-West-designed-by-Frank-Gehry-3814171.php)
+[mpk20](https://twitter.com/hashtag/mpk20)
 
-[Frank Gehry -  "This is it," architect Frank Gehry said in his new office, surrounded by art books, a plywood desk and his signature cardboard chairs. "I'm 74, and I don't want to move again. I'm in pig heaven."]
-(http://articles.latimes.com/2003/jun/10/business/fi-playa10)
+[News](http://www.sfgate.com/business/article/Facebook-West-designed-by-Frank-Gehry-3814171.php)
+
+[Frank Gehry -  "This is it," architect Frank Gehry said in his new office, surrounded by art books, a plywood desk and his signature cardboard chairs. "I'm 74, and I don't want to move again. I'm in pig heaven."](http://articles.latimes.com/2003/jun/10/business/fi-playa10)
 
 [PeopleWare](https://openlibrary.org/books/OL31274M/Peopleware)
 
