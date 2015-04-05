@@ -7,13 +7,13 @@ published: true
 summary: Facebook Open-plan for thousands
 ---
 
-According to reports on the Internet, Facebook have created an Open plan Php "sweat shop", called MPK20, designed by architect Frank Gehry LLC.
+According to reports on the Internet, Facebook have created some kind of Open plan Php "sweat shop", code named mpk20, designed by architect Frank Gehry LLC.
 
 For some this will be Utopia or pig heaven, where each employee can be augmented with a pair of ear-cans and a copy of Peopleware*.
 
 But now that Facebook have planted a stake in the ground such an extreme position opens up a spectrum of commercial advantage for other “hacker” shops to differentiate themselves in the same market for these employees.
 
-Environment drives Culture; Culture drives Brand.
+*Environment drives Culture; Culture drives Brand*.
 
 ---
 
