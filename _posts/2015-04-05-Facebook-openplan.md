@@ -13,11 +13,7 @@ For some this will be Utopia or pig heaven, where each employee can be augmented
 
 But now that Facebook have planted a stake in the ground such an extreme position opens up a spectrum of commercial advantage for other “hacker” shops to differentiate themselves in the same market for these employees.
 
-*Environment drives Culture; Culture drives Brand*.
-
----
-
-Links
+### Environment drives Culture; Culture drives Brand.
 
 [mpk20](https://twitter.com/hashtag/mpk20)
 
