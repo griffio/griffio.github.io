@@ -25,4 +25,4 @@ summary: highlighted tech talks 2014
 * [Clojure: Programming with Hand Tools - Tim Ewald](https://www.youtube.com/watch?v=ShEez0JkOFw)
 * [Jepsen II: Linearizable Boogaloo - Kyle Kingsbury](https://www.youtube.com/watch?v=QdkS6ZjeR7Q)
 * [The 7 Principles of rich web applications - Guillermo Rauch](https://www.youtube.com/watch?v=p2F-128e3sI)
-* [RailsConf 2014 - Keynote: Writing Software by David Heinemeier Hansson](https://www.youtube.com/watch?v=9LfmrkyP81M)
+* [RailsConf 2014 - Keynote: Writing Software - David Heinemeier Hansson](https://www.youtube.com/watch?v=9LfmrkyP81M)
