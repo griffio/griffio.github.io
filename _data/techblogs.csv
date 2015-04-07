@@ -18,7 +18,7 @@ groupon,https://engineering.groupon.com,groupon
 pulse,http://eng.pulse.me,pulse-eng
 yelp,http://engineeringblog.yelp.com,yelp
 foursquare,http://engineering.foursquare.com,foursquare
-ebay,http://www.ebaytechblog.com/category/software-engineering,ebay
+ebay,http://www.ebaytechblog.com,ebay
 strava,http://engineering.strava.com,strava
 klout,http://blog.klout.com/category/engineering,klout
 spotify,http://labs.spotify.com,spotify
@@ -90,3 +90,4 @@ intercom,http://blog.intercom.io/category/engineering,intercom
 freeagent,http://engineering.freeagent.com,fac
 gumtree,http://www.gumtree.com/devteam,gumtreeuk
 gocardless,https://gocardless.com/blog/tagged/engineering,gocardless
+livingsocial,https://techblog.livingsocial.com,livingsocial
