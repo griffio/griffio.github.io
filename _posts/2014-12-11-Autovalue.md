@@ -37,7 +37,7 @@ repositories {
 
 ~~~
 
-The gradle compileJava task will use the plugin to detect @AutoValue classes and generate the java source to a default location src/auto-value/<package/AutoValue_Classname]. This specific location means it won't conflict with other similar plugins.
+The gradle compileJava task will use the plugin to detect @AutoValue classes and generate the java source to a default location "src/auto-value/<package/AutoValue_Classname". This specific location means it won't conflict with other similar plugins.
 
 The AutoValue_ class wont exist before the annotation processor runs. The static create method can return null initially.
 More than one static factory creation method can be used and given any name.
