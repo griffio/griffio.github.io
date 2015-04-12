@@ -1,24 +1,23 @@
 desc,url,github,jobs
-airbnb nerds,http://nerds.airbnb.com,airbnb,""
-bazaar voice,http://blog.developer.bazaarvoice.com,bazaarvoice,""
-etsy,http://codeascraft.com,etsy,""
-netflix,http://techblog.netflix.com,netflix,""
-linkedin,http://engineering.linkedin.com/blog,linkedin,""
-square inc,http://corner.squareup.com,square,""
-tumblr,http://engineering.tumblr.com,tumblr,""
-yammer,http://eng.yammer.com,yammer,""
-twitter,https://blog.twitter.com/engineering,twitter,""
-instagram,http://instagram-engineering.tumblr.com,instagram,""
-stripe,https://stripe.com/blog,stripe,""
-pinterest,http://engineering.pinterest.com,pinterest,""
-bocoup,http://weblog.bocoup.com,bocoup,""
-paypal,https://www.paypal-engineering.com,paypal,""
-walmart labs,http://www.walmartlabs.com/the-blog,walmartlabs,""
-groupon,https://engineering.groupon.com,groupon,""
-pulse,http://eng.pulse.me,pulse-eng,""
-yelp,http://engineeringblog.yelp.com,yelp,""
-foursquare,http://engineering.foursquare.com,foursquare,""
-ebay,http://www.ebaytechblog.com,ebay,""
+airbnb nerds,http://nerds.airbnb.com,airbnb,https://www.adjust.com/careers
+bazaar voice,http://blog.developer.bazaarvoice.com,bazaarvoice,http://www.bazaarvoice.com/careers
+etsy,http://codeascraft.com,etsy,https://www.etsy.com/careers
+netflix,http://techblog.netflix.com,netflix,https://jobs.netflix.com
+linkedin,http://engineering.linkedin.com/blog,linkedin,https://www.linkedin.com/job
+square inc,http://corner.squareup.com,square,https://squareup.com/careers
+tumblr,http://engineering.tumblr.com,tumblr,https://www.tumblr.com/jobs
+yammer,http://eng.yammer.com,yammer,https://about.yammer.com/careers
+twitter,https://blog.twitter.com/engineering,twitter,https://about.twitter.com/careers
+instagram,http://instagram-engineering.tumblr.com,instagram,https://instagram.com/about/jobs
+stripe,https://stripe.com/blog,stripe,https://stripe.com/jobs
+pinterest,http://engineering.pinterest.com,pinterest,https://about.pinterest.com/en/careers/engineering
+bocoup,http://weblog.bocoup.com,bocoup,http://bocoup.com/workat
+paypal,https://www.paypal-engineering.com,paypal,http://www.ebaycareers.com
+walmart labs,http://www.walmartlabs.com/the-blog,walmartlabs,http://www.walmartlabs.com/careers
+groupon,https://engineering.groupon.com,groupon,https://jobs.groupon.com/
+yelp,http://engineeringblog.yelp.com,yelp,http://www.yelp.com/careers
+foursquare,http://engineering.foursquare.com,foursquare,https://foursquare.com/jobs
+ebay,http://www.ebaytechblog.com,ebay,http://www.ebaycareers.com
 strava,http://engineering.strava.com,strava,""
 klout,http://blog.klout.com/category/engineering,klout,""
 spotify,http://labs.spotify.com,spotify,""
