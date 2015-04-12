@@ -1,93 +1,93 @@
-desc,url,github
-airbnb nerds,http://nerds.airbnb.com,airbnb
-bazaar voice,http://blog.developer.bazaarvoice.com,bazaarvoice
-etsy,http://codeascraft.com,etsy
-netflix,http://techblog.netflix.com,netflix
-linkedin,http://engineering.linkedin.com/blog,linkedin
-square inc,http://corner.squareup.com,square
-tumblr,http://engineering.tumblr.com,tumblr
-yammer,http://eng.yammer.com,yammer
-twitter,https://blog.twitter.com/engineering,twitter
-instagram,http://instagram-engineering.tumblr.com,instagram
-stripe,https://stripe.com/blog,stripe
-pinterest,http://engineering.pinterest.com,pinterest
-bocoup,http://weblog.bocoup.com,bocoup
-paypal,https://www.paypal-engineering.com,paypal
-walmart labs,http://www.walmartlabs.com/the-blog,walmartlabs
-groupon,https://engineering.groupon.com,groupon
-pulse,http://eng.pulse.me,pulse-eng
-yelp,http://engineeringblog.yelp.com,yelp
-foursquare,http://engineering.foursquare.com,foursquare
-ebay,http://www.ebaytechblog.com,ebay
-strava,http://engineering.strava.com,strava
-klout,http://blog.klout.com/category/engineering,klout
-spotify,http://labs.spotify.com,spotify
-soundcloud,http://backstage.soundcloud.com,soundcloud
-stormpath,http://www.stormpath.com/blog,stormpath
-gosquared,https://engineering.gosquared.com,gosquared
-balanced payments,http://blog.balancedpayments.com,balanced
-eventbrite,https://engineering.eventbrite.com,eventbrite
-prezi,http://engineering.prezi.com,prezi
-dropbox,https://tech.dropbox.com,dropbox
-adjust,http://big-elephants.com,adjust
-boxever,http://www.boxever.com/tech-blog,boxever
-mix radio,http://dev.mixrad.io/blog,mixradio
-facebook,https://www.facebook.com/Engineering,facebook
-quora,http://engineering.quora.com,quora
-webengage,http://engineering.webengage.com,webengage
-simple,https://www.simple.com/engineering,simpleFinance
-github,https://github.com/blog/category/engineering,github
-flickr,http://code.flickr.net,flickr
-cloudera,http://blog.cloudera.com/blog,cloudera
-heroku,http://engineering.heroku.com,heroku
-rdio,https://algorithms.rdio.com,rdio
-bitly,http://word.bitly.com,bitly
-yahoo,http://yahooeng.tumblr.com,yahoo
-rightscale,http://eng.rightscale.com,rightscale
-imvu,http://engineering.imvu.com,imvu
-hoteltonight,http://engineering.hoteltonight.com,hoteltonight
-appfolio,http://engineering.appfolio.com,appfolio
-indeed,http://engineering.indeed.com,indeedeng
-prismatic,http://blog.getprismatic.com/tag/engineering,prismatic
-modus,http://moduscreate.com/blog,moduscreateorg
-aweber,https://engineering.aweber.com,aweber
-timehop,http://tales.timehop.com,timehop
-giantswarm,http://blog.giantswarm.io,giantswarm
-push technology,http://www.pushtechnology.com/category/development,pushtechnology
-keyhole software, https://keyholesoftware.com/blog,in-the-keyhole
-clicktravel,http://www.clicktravel.com/engineering-blog,clicktravel
-stylight,http://engineering.stylight.com,stylight
-flipboard,http://engineering.flipboard.com,flipboard
-spring,https://spring.io/blog/category/engineering,spring-projects
-just eat,http://tech.just-eat.com,justeat
-instructure,http://instructure.github.io/blog,instructure
-future processing,http://www.future-processing.pl/technical-blog,futureprocessing
-adzerk,http://adzerk.com/tech,adzerk
-circle,http://engineering.circle.com,circlefin
-lyst,http://developers.lyst.com,ssaw
-venmo,http://engineering.venmo.com,venmo
-atlassian dev,http://blogs.atlassian.com/blog-cat/developer,atlassian
-hailo,https://sudo.hailoapp.com,hailocab
-jane street,https://blogs.janestreet.com,janestreet
-ny times,http://developers.nytimes.com,nytimes
-panda strike,https://www.pandastrike.com/blog,pandastrike
-alphasights,http://engineering-blog.alphasights.com,alphasights
-olery,http://developer.olery.com,olery
-meet me,http://engineering.meetme.com,meetme
-buzzfeed,http://www.buzzfeed.com/techblog,buzzfeed
-adroll,http://tech.adroll.com/blog,adroll
-realestate,http://techblog.realestate.com.au,realestate-com-au
-appnexus,http://techblog.appnexus.com,appnexus
-game changer,http://tech.gc.com,gamechanger
-tapjoy,http://home.tapjoy.com/tech/engineering-blog,tapjoy
-bellycard,https://tech.bellycard.com,bellycard
-shutterstock,http://bits.shutterstock.com,shutterstock
-gilt,http://tech.gilt.com,gilt
-plumbee,http://engineering.plumbee.com,plumbee
-zulily,http://engineering.zulily.com,zulily
-braintree payments,https://www.braintreepayments.com/blogs/braintrust,braintree
-intercom,http://blog.intercom.io/category/engineering,intercom
-freeagent,http://engineering.freeagent.com,fac
-gumtree,http://www.gumtree.com/devteam,gumtreeuk
-gocardless,https://gocardless.com/blog/tagged/engineering,gocardless
-livingsocial,https://techblog.livingsocial.com,livingsocial
+desc,url,github,jobs
+airbnb nerds,http://nerds.airbnb.com,airbnb,""
+bazaar voice,http://blog.developer.bazaarvoice.com,bazaarvoice,""
+etsy,http://codeascraft.com,etsy,""
+netflix,http://techblog.netflix.com,netflix,""
+linkedin,http://engineering.linkedin.com/blog,linkedin,""
+square inc,http://corner.squareup.com,square,""
+tumblr,http://engineering.tumblr.com,tumblr,""
+yammer,http://eng.yammer.com,yammer,""
+twitter,https://blog.twitter.com/engineering,twitter,""
+instagram,http://instagram-engineering.tumblr.com,instagram,""
+stripe,https://stripe.com/blog,stripe,""
+pinterest,http://engineering.pinterest.com,pinterest,""
+bocoup,http://weblog.bocoup.com,bocoup,""
+paypal,https://www.paypal-engineering.com,paypal,""
+walmart labs,http://www.walmartlabs.com/the-blog,walmartlabs,""
+groupon,https://engineering.groupon.com,groupon,""
+pulse,http://eng.pulse.me,pulse-eng,""
+yelp,http://engineeringblog.yelp.com,yelp,""
+foursquare,http://engineering.foursquare.com,foursquare,""
+ebay,http://www.ebaytechblog.com,ebay,""
+strava,http://engineering.strava.com,strava,""
+klout,http://blog.klout.com/category/engineering,klout,""
+spotify,http://labs.spotify.com,spotify,""
+soundcloud,http://backstage.soundcloud.com,soundcloud,""
+stormpath,http://www.stormpath.com/blog,stormpath,""
+gosquared,https://engineering.gosquared.com,gosquared,""
+balanced payments,http://blog.balancedpayments.com,balanced,""
+eventbrite,https://engineering.eventbrite.com,eventbrite,""
+prezi,http://engineering.prezi.com,prezi,""
+dropbox,https://tech.dropbox.com,dropbox,""
+adjust,http://big-elephants.com,adjust,""
+boxever,http://www.boxever.com/tech-blog,boxever,""
+mix radio,http://dev.mixrad.io/blog,mixradio,""
+facebook,https://www.facebook.com/Engineering,facebook,""
+quora,http://engineering.quora.com,quora,""
+webengage,http://engineering.webengage.com,webengage,""
+simple,https://www.simple.com/engineering,simpleFinance,""
+github,https://github.com/blog/category/engineering,github,""
+flickr,http://code.flickr.net,flickr,""
+cloudera,http://blog.cloudera.com/blog,cloudera,""
+heroku,http://engineering.heroku.com,heroku,""
+rdio,https://algorithms.rdio.com,rdio,""
+bitly,http://word.bitly.com,bitly,""
+yahoo,http://yahooeng.tumblr.com,yahoo,""
+rightscale,http://eng.rightscale.com,rightscale,""
+imvu,http://engineering.imvu.com,imvu,""
+hoteltonight,http://engineering.hoteltonight.com,hoteltonight,""
+appfolio,http://engineering.appfolio.com,appfolio,""
+indeed,http://engineering.indeed.com,indeedeng,""
+prismatic,http://blog.getprismatic.com/tag/engineering,prismatic,""
+modus,http://moduscreate.com/blog,moduscreateorg,""
+aweber,https://engineering.aweber.com,aweber,""
+timehop,http://tales.timehop.com,timehop,""
+giantswarm,http://blog.giantswarm.io,giantswarm,""
+push technology,http://www.pushtechnology.com/category/development,pushtechnology,""
+keyhole software, https://keyholesoftware.com/blog,in-the-keyhole,""
+clicktravel,http://www.clicktravel.com/engineering-blog,clicktravel,""
+stylight,http://engineering.stylight.com,stylight,""
+flipboard,http://engineering.flipboard.com,flipboard,""
+spring,https://spring.io/blog/category/engineering,spri,ng-projects,""
+just eat,http://tech.just-eat.com,justeat,""
+instructure,http://instructure.github.io/blog,instructure,""
+future processing,http://www.future-processing.pl/technical-blog,futureprocessing,""
+adzerk,http://adzerk.com/tech,adzerk,""
+circle,http://engineering.circle.com,circlefin,""
+lyst,http://developers.lyst.com,ssaw,""
+venmo,http://engineering.venmo.com,venmo,""
+atlassian dev,http://blogs.atlassian.com/blog-cat/developer,atlassian,""
+hailo,https://sudo.hailoapp.com,hailocab,""
+jane street,https://blogs.janestreet.com,janestreet,""
+ny times,http://developers.nytimes.com,nytimes,""
+panda strike,https://www.pandastrike.com/blog,pandastrike,""
+alphasights,http://engineering-blog.alphasights.com,alphasights,""
+olery,http://developer.olery.com,olery,""
+meet me,http://engineering.meetme.com,meetme,""
+buzzfeed,http://www.buzzfeed.com/techblog,buzzfeed,""
+adroll,http://tech.adroll.com/blog,adroll,""
+realestate,http://techblog.realestate.com.au,realestate-com-au,""
+appnexus,http://techblog.appnexus.com,appnexus,""
+game changer,http://tech.gc.com,gamechanger,""
+tapjoy,http://home.tapjoy.com/tech/engineering-blog,tapjoy,""
+bellycard,https://tech.bellycard.com,bellycard,""
+shutterstock,http://bits.shutterstock.com,shutterstock,""
+gilt,http://tech.gilt.com,gilt,""
+plumbee,http://engineering.plumbee.com,plumbee,""
+zulily,http://engineering.zulily.com,zulily,""
+braintree payments,https://www.braintreepayments.com/blogs/braintrust,braintree,""
+intercom,http://blog.intercom.io/category/engineering,intercom,""
+freeagent,http://engineering.freeagent.com,fac,""
+gumtree,http://www.gumtree.com/devteam,gumtreeuk,""
+gocardless,https://gocardless.com/blog/tagged/engineering,gocardless,""
+livingsocial,https://techblog.livingsocial.com,livingsocial,""
