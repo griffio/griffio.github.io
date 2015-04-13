@@ -7,6 +7,8 @@ title: "Selection of Technical Books"
 
 - [Mythical Man Month](https://openlibrary.org/books/OL1110870M/The_mythical_man-month)
   - Latency vs throughput; No silver bullet etc
+- [LISP Programmers Manual 1.5](http://mitpress.mit.edu/books/lisp-15-programmers-manual)
+  - Data formed of symbolic expressions, referred to as S-expressions
 
 ### 1980s
 
