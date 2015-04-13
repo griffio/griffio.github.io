@@ -5,7 +5,7 @@
     display: -webkit-flex;
 }
 
-.DataSpec-blog, .DataSpec-repo {
+.DataSpec-blog, .DataSpec-repo, .DataSpec-work {
     padding: 0.75em;
     flex: 1;
     -webkit-flex: 1;
