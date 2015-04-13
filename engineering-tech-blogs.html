@@ -11,7 +11,7 @@ id: engineering-tech-blogs
 {% for techblog in sorted_techblogs %}
 <div class="DataSpec"><a class="DataSpec-blog" href="{{ techblog.url }}">{{ techblog.desc }}</a>
 <a class="DataSpec-repo" href="https://github.com/{{ techblog.github }}"><span class="octicon-mark-github small-octicon"></span>/{{ techblog.github }}</a>
-<a class="DataSpec-workat" href="{{ techblog.jobs }}">Work there</a>  
+<a class="DataSpec-workthere" href="{{ techblog.jobs }}">Work there</a>  
 </div>
 {% endfor %}
 </div>
