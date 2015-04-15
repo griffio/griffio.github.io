@@ -7,7 +7,9 @@ published: true
 summary: Using Kotlin std library to pipeline characters
 ---
 
-A example in [Kotlin](http://kotlinlang.org) to show a "functional" pipeline that transforms the input text   resulting in a Map associating the character to its occurrence.
+An example in [Kotlin](http://kotlinlang.org) to show a "functional" pipeline that transforms the input text   resulting in a Map associating the character to its occurrence.
+
+This simple example will be compared to an imperative example and a Java 8 stream implementation.
 
 ~~~
 
