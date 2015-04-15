@@ -23,7 +23,12 @@ This simple Kotlin example will be compared to an imperative example and a Java 
 result = {M=1, i=4, s=4, p=2}
 ~~~
 
-The two stages in the pipeline are grouping and transforming, and are implemented in Kotin by the Standard Library, generating two collections. An imperative implementation would typically use just one result map.
+The two stages in the pipeline are grouping and transforming, and are implemented in Kotin by the Standard Library, generating two collections.
+
++ Each unique character is associated with a list of the same characters
++ The size of each list is returned as the new value in the destination map key
+
+An imperative implementation would typically use just one result map and not require the intermediate list grouping.
 
 This shows that the Kotlin groupBy operation will always create a list associated with each key.
 
