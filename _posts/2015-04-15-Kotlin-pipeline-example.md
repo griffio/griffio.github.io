@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kotlin Pipeline Example with std library
+title: Kotlin Pipeline Example
 category: kotlin
 tags: kotlin
 published: true
