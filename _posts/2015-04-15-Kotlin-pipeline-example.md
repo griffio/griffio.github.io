@@ -12,13 +12,11 @@ An example in [Kotlin](http://kotlinlang.org) to show a "functional" pipeline th
 This simple Kotlin example will be compared to an imperative example and a Java 8 stream implementation.
 
 ~~~
-
  val input = "Mississippi"
 
  val result = input.groupBy{it}.mapValues{it.getValue().size()}
 
  println("result = ${result}")
- 
 ~~~
 
 ~~~
@@ -28,8 +26,8 @@ result = {M=1, i=4, s=4, p=2}
 The two stages in the pipeline are grouping and transforming, and are implemented in Kotin by the Standard Library, generating two collections. An imperative implementation would typically use just one result map.
 
 This shows that the Kotlin groupBy operation will always create a list associated with each key.
-~~~
 
+~~~
 public inline fun <T, K> Array<out T>.groupByTo(map: MutableMap<K, MutableList<T>>, toKey: (T) -> K): Map<K, MutableList<T>> {
     for (element in this) {
         val key = toKey(element)
@@ -38,12 +36,11 @@ public inline fun <T, K> Array<out T>.groupByTo(map: MutableMap<K, MutableList<T
     }
     return map
 }
-
 ~~~
 
 This shows that the Kotlin mapValue operation will transform the value associated with each key in a destination map using the provided function.
-~~~
 
+~~~
 public inline fun <K, V, R, C : MutableMap<K, R>> Map<K, V>.mapValuesTo(destination: C, transform: (Map.Entry<K, V>) -> R): C {
     for (e in this) {
         val newValue = transform(e)
