@@ -33,7 +33,8 @@ An imperative implementation, or a Fold operator, would typically  create one re
 This shows that the Kotlin groupBy operation will always create a list associated with each key.
 
 ~~~
-public inline fun <T, K> Array<out T>.groupByTo(map: MutableMap<K, MutableList<T>>, toKey: (T) -> K): Map<K, MutableList<T>> {
+public inline fun <T, K> Array<out T>.groupByTo(map: MutableMap<K, MutableList<T>>, 
+                                         toKey: (T) -> K): Map<K, MutableList<T>> {
     for (element in this) {
         val key = toKey(element)
         val list = map.getOrPut(key) { ArrayList<T>() }
@@ -46,7 +47,8 @@ public inline fun <T, K> Array<out T>.groupByTo(map: MutableMap<K, MutableList<T
 This shows that the Kotlin mapValue operation will transform the value associated with each key in a destination map using the provided function.
 
 ~~~
-public inline fun <K, V, R, C : MutableMap<K, R>> Map<K, V>.mapValuesTo(destination: C, transform: (Map.Entry<K, V>) -> R): C {
+public inline fun <K, V, R, C : MutableMap<K, R>> Map<K, V>.mapValuesTo(destination: C,
+                                                transform: (Map.Entry<K, V>) -> R): C {
     for (e in this) {
         val newValue = transform(e)
         destination.put(e.key, newValue)
@@ -76,8 +78,8 @@ Kotlin version - imperative
 Java 8 version - default collector is based on Hashmap - changed to LinkedHashMap
 
 ~~~java
- public static <T, K, A, D> Collector<T, ?, Map<K, D>> inputGroupingBy(Function<? super T, ? extends K> classifier,
-                                                                   Collector<? super T, A, D> downstream) {
+ public static <T, K, A, D> Collector<T, ?, Map<K, D>> inputGroupingBy(Function<? super T,
+                         ? extends K> classifier, Collector<? super T, A, D> downstream) {
     return Collectors.groupingBy(classifier, LinkedHashMap::new, downstream);
   }
 
@@ -85,7 +87,9 @@ Java 8 version - default collector is based on Hashmap - changed to LinkedHashMa
 
     String input = "Mississippi";
 
-    Map<Character, Long> result = input.chars().mapToObj(c -> (char) c).collect(inputGroupingBy(c -> c, Collectors.counting()));
+    Map<Character, Long> result = input.chars()
+               .mapToObj(c -> (char) c)
+               .collect(inputGroupingBy(c -> c, Collectors.counting()));
 
     System.out.println(result);
 
