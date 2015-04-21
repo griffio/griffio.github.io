@@ -43,9 +43,9 @@ title: "Selection of Technical Books"
 - [Release It!]( https://openlibrary.org/books/OL8592978M/Release_It!)
   - Pre "Dev Ops" war stories and applicable solutions 
 - [The Old New Thing](https://openlibrary.org/books/OL9702480M/The_Old_New_Thing)
-  - Technical archeology in practice. Lessons from the past.
+  - Technical archeology in practice. Lessons from the past
 - [How To Design Programs](http://htdp.org)
-  - Everyone should learn how to design programs.
+  - Everyone should learn how to design programs
 
 ### 2010s
 
