@@ -99,7 +99,7 @@ Java 8 version - default collector is based on Hashmap - changed to LinkedHashMa
 Alternative library support with [Guava Multiset](https://code.google.com/p/guava-libraries/wiki/NewCollectionTypesExplained#Multiset
 ) - counting words
 
-~~~
+~~~java
     HashMultiset<Character> letterFrequency = HashMultiset.create(Lists.charactersOf(input));
     lettersFrequency.count("s");
 ~~~
