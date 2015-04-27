@@ -10,6 +10,10 @@ title: "Selection of Technical Books"
 - [LISP Programmers Manual 1.5](http://mitpress.mit.edu/books/lisp-15-programmers-manual)
   - Data formed of symbolic expressions, referred to as S-expressions
 
+### 1970s
+- [Algorithms + Data Structures = Programs](https://openlibrary.org/books/OL5191055M/Algorithms_data_structures_programs)
+  - Pascal
+
 ### 1980s
 
 - [Peopleware](https://openlibrary.org/books/OL31274M/Peopleware)
