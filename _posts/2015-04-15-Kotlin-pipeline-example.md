@@ -23,7 +23,7 @@ This simple Kotlin example will be compared to an imperative example and a Java 
 result = {M=1, i=4, s=4, p=2}
 ~~~
 
-The two stages in the pipeline are grouping and transforming, and are implemented in Kotin by the Standard Library, generating two collections.
+The two stages in the pipeline are grouping and transforming, separated by the infix syntax, implemented in the Kotin Standard Library. Each operation produces a collection.
 
 + Each unique character is associated with a list of the same characters
 + The size of each list is returned as the new value in the destination map key
