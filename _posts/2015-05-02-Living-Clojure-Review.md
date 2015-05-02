@@ -29,7 +29,7 @@ The book introduces [transit](https://github.com/cognitect/transit-clj) as the C
 
 Clojure script is covered in chapter 7: Creating Web Applications with Clojure. The powerful Om reactive framework is mentioned.
 
-**In part two** are the daily code exercises over 7 weeks that require the developer to fill in the blanks to complete the problems listed at [www.4clojure.com](https://www.4clojure.com/). 
+**In part two** there are daily code exercises over 7 weeks that ask the developer to fill in the blanks to complete the problems listed at [www.4clojure.com](https://www.4clojure.com/). 
 
 It is possible to compress this time span by completing more each day. But the aim is to ‘think Clojure’ at least once a day over half a dozen weeks.
 
