@@ -35,4 +35,4 @@ It is possible to compress this time span by completing more each day. But the a
 
 **The final chapters** shows where Clojure is heading in version 1.7 and examines the [Transducers](http://clojure.org/transducers) concept - the separation of data and transformation pipelines.
 
-Overall the book aims to bring an existing developer up to date in the world of Clojure, where the current state of the art exists; Once there, another new book to be published, [Clojure Applied: From Practice to Practitioner](https://pragprog.com/book/vmclojeco/clojure-applied), takes the next steps with extended lessons on the best practices.
+Overall the book aims to bring an existing developer up to date in the world of Clojure, where the current state of the art exists; once there, another new book to be published, [Clojure Applied: From Practice to Practitioner](https://pragprog.com/book/vmclojeco/clojure-applied), takes the next steps with extended lessons on the best practices.
