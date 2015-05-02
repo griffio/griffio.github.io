@@ -19,7 +19,7 @@ The book is aimed at programmers with a background in existing languages who wan
 
 The Clojure environment exists on the Java Virtual Machine and more recently as a Javascript language overlay with [Clojure script](https://github.com/clojure/clojurescript).
 
-This allows Clojure programmers to extend the idea that the front-end extends to the server too using the same language. Often cited as an example of increased productivity by Io.js/Node.js developers.
+This allows Clojure programmers to share the idea that the front-end extends to the server too using the same language. Often cited as an example of increased productivity by Io.js/Node.js developers.
 
 The book has two logical parts.
  
