@@ -11,7 +11,7 @@ summary: Living Clojure Review
 
 ![Living Clojure Book](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/living_clojure.png)
 
-**The subtitle** is “An Introduction and Training Plan for Developers”. This book was published late April 2015, and at 220 pages, I preferred to wait and review the physical book for this type of introductory text.
+**The subtitle is** “An Introduction and Training Plan for Developers”. This book was published late April 2015, and at 220 pages, I preferred to wait and review the physical book for this type of introductory text.
 
 The book is aimed at programmers with a background in existing languages who want to step into the Clojure environment.
 
@@ -29,10 +29,10 @@ The book introduces [transit](https://github.com/cognitect/transit-clj) as the C
 
 Clojure script is covered in chapter 7: Creating Web Applications with Clojure. The powerful Om reactive framework is mentioned.
 
-**In part two** are the daily code exercises over 7 weeks that require the developer to fill in the blanks to complete the problems listed at https://www.4clojure.com/. 
+**In part two** are the daily code exercises over 7 weeks that require the developer to fill in the blanks to complete the problems listed at [www.4clojure.com](https://www.4clojure.com/). 
 
 It is possible to compress this time span by completing more each day. But the aim is to ‘think Clojure’ at least once a day over half a dozen weeks.
 
-**The final** chapters shows where Clojure is heading in version 1.7 and examines the [Transducers](http://clojure.org/transducers) concept - the separation of data and transformation pipelines.
+**The final chapters** shows where Clojure is heading in version 1.7 and examines the [Transducers](http://clojure.org/transducers) concept - the separation of data and transformation pipelines.
 
 Overall the book aims to bring an existing developer up to date in the world of Clojure, where the current state of the art exists; Once there, another new book to be published, [Clojure Applied: From Practice to Practitioner](https://pragprog.com/book/vmclojeco/clojure-applied), takes the next steps with extended lessons on the best practices.
