@@ -9,7 +9,7 @@ summary: Living Clojure Review
 
 [Living Clojure on Safari Books Online](https://www.safaribooksonline.com/library/view/living-clojure/9781491909270/)
 
-![Living Clojure Book](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/living_clojure.png)
+![Living Clojure Book](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/living_clojure.jpg)
 
 **The subtitle is** “An Introduction and Training Plan for Developers”. This book was published late April 2015, and at 220 pages, I preferred to wait and review the physical book for this type of introductory text.
 
