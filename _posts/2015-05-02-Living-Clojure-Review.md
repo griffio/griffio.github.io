@@ -11,9 +11,9 @@ summary: Living Clojure Review
 
 ![Living Clojure Book](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/living_clojure.jpg)
 
-**The subtitle is** “An Introduction and Training Plan for Developers”. This book was published late April 2015, and at 220 pages, I preferred to wait and review the printed copty for this type of introductory text.
+**The subtitle is** “An Introduction and Training Plan for Developers”. This book was published late April 2015, and at 220 pages, I preferred to wait and review the printed copy for this type of introductory text.
 
-The book is aimed at programmers with a background in existing languages who want to step into the Clojure environment.
+The book is aimed at programmers with a background in existing languages who want to step into the Clojure environment. It does assume that the reader has access to the correct runtime dependencies like the JVM. 
 
 **A slim book** but dense with information to bootstrap the process of learning Clojure in a curated way by the author [Carin Meier](https://twitter.com/gigasquid). The code examples don’t take up too much space due to the compactness of Clojure itself.
 
