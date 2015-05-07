@@ -14,7 +14,7 @@ This simple Kotlin example will be compared to an imperative example and a Java 
 ~~~
  val input = "Mississippi"
 
- val result = input groupBy{it} mapValues{it.getValue().size()}
+ val result = input groupBy{it} mapValues{it.value.size()}
 
  println("result = ${result}")
 ~~~
