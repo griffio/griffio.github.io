@@ -9,3 +9,5 @@ http://www.hanselman.com/blog/TragediesOfTheRemoteWorkerLooksLikeYoureTheOnlyOne
 http://femgineer.com/2015/01/how-to-build-a-happy-and-productive-remote-team/
 
 https://speakerdeck.com/erniemiller/humane-development
+
+http://blog.workingon.co/working-remotely-with-workingon/
