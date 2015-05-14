@@ -8,7 +8,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 {% for post in site.posts %}
    <url>
-      <loc>http://griffio.github.io/{{ post.url | remove: 'index.html' }}</loc>
+      <loc>http://griffio.github.io{{ post.url | remove: 'index.html' }}</loc>
    </url>
 {% endfor %}
 
@@ -16,7 +16,7 @@
 {% if page.layout != nil %}
 {% if page.layout != 'feed' %}
    <url>
-      <loc>http://griffio.github.io/{{ page.url | remove: 'index.html' }}</loc>
+      <loc>http://griffio.github.io{{ page.url | remove: 'index.html' }}</loc>
    </url>
 {% endif %}
 {% endif %}
