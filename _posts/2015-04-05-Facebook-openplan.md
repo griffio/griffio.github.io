@@ -7,7 +7,9 @@ published: true
 summary: Facebook Open-plan for thousands
 ---
 
-According to Internet reports, Facebook have created some kind of Open-plan PHP driven "sweat shop", code named [mpk20](https://twitter.com/hashtag/mpk20), designed by the architect shop Frank Gehry LLC.
+According to Internet reports, Facebook have created a single working space that fits thousands of employees, code named [mpk20](https://twitter.com/hashtag/mpk20), designed by the architect shop Frank Gehry LLC.
+
+Their goal was to create the perfect engineering space for teams to work together.
 
 For some this will be [Utopia](http://www.sfgate.com/business/article/Facebook-West-designed-by-Frank-Gehry-3814171.php) or [pig heaven](http://articles.latimes.com/2003/jun/10/business/fi-playa10), other employees will need to be augmented with a pair of ear-cans and only wish they had read [PeopleWare](https://openlibrary.org/books/OL31274M/Peopleware) instead.
 
