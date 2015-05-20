@@ -1,6 +1,6 @@
 title,url,blurb,tag
 Why LINQ Matters:Cloud Composability Guaranteed,https://queue.acm.org/detail.cfm?id=2141937,"The benefits of composability are becoming clear in software engineering",programming
-Don’t Come to the Dark Side,http://www.dau.mil/pubscats/ATL%20Docs/Sep-Oct11/Ward.pdf," “They shouldn’t build those Death Stars anymore. They keep getting blown up”,engineering
+Don’t Come to the Dark Side,http://www.dau.mil/pubscats/ATL%20Docs/Sep-Oct11/Ward.pdf,“They shouldn’t build those Death Stars anymore. They keep getting blown up”,engineering
 Your Mouse is a Database,http://queue.acm.org/detail.cfm?id=2169076,"Web and mobile applications are increasingly composed of asynchronous and realtime streaming services and push notifications",programming
 Adopt Open Source Process Constraints,http://tomayko.com/writings/adopt-an-open-source-process-constraints,"Your team should work like an open source project",software
 Making Sense of Stream Processing,http://blog.confluent.io/2015/01/29/making-sense-of-stream-processing,"Your team should work like an open source project",engineering
