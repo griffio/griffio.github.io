@@ -253,7 +253,7 @@ public SalaryDetail(String salaryName, BigDecimal salary) {
 
 com.mysema.query.annotations
 
-Making your own DSL.
+Making your own DSL. Add the business concepts into the query model, these could be temporal, flags, comparisions.
 
 Instead of static'helper' methods to create business logic constraints, consider using annotated delegate methods to provide query extensions.
 
@@ -264,7 +264,7 @@ from...where(QSalaryDetail.salaryDetail.isSalaryRelevant())
 ~~~
 ---
 
-Replace the 'static cow' below with a Query Delegate.
+Replace the 'static utility' below with a Query Delegate.
 
 #### Before
 
