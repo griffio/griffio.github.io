@@ -8,8 +8,12 @@ id: tech-articles
 <div class="flex-container">
 {% assign sorted_techarticles = (site.data.techarticles | sort: 'title') %}
 {% for techarticle in sorted_techarticles %}
-<div class="DataSpec"><a class="DataSpec-blog" href="{{ techarticle.url }}">{{ techarticle.title }}</a>
-<blockquote>{{ techarticle.blurb }}</blockquote>
+<blockquote>
+{{ techarticle.blurb }} ...
+<footer>
+<cite><div class="DataSpec"><a class="DataSpec-blog" href="{{ techarticle.url }}">{{ techarticle.title }}</a></cite>
+</footer>
+</blockquote>
 </div>
 {% endfor %}
 </div>
