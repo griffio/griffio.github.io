@@ -11,7 +11,11 @@ id: tech-articles
 <blockquote>
 {{ techarticle.blurb }} ...
 <footer>
-<cite><div class="DataSpec"><a class="DataSpec-blog" href="{{ techarticle.url }}">{{ techarticle.title }}</a></cite>
+<cite>
+<div class="DataSpec">
+<a class="DataSpec-blog" href="{{ techarticle.url }}">{{ techarticle.title }}</a>
+</div>
+</cite>
 </footer>
 </blockquote>
 </div>
