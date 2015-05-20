@@ -23,7 +23,7 @@ summary: using querydsl
 
 ## Predicates
 
-### They're the thing that gets us to the thing.
+### Predicates aren't the thing. They're the thing that gets us to the thing.
 
 Describes logical composable expressions about an entity that are separate from operators acting on the entity itself.
 
