@@ -253,7 +253,7 @@ public SalaryDetail(String salaryName, BigDecimal salary) {
 
 com.mysema.query.annotations
 
-Making your own DSL. Add the business concepts into the query model, these could be temporal, flags, comparisions.
+Making your own DSL. Add the business concepts into the query model, these could be temporal, flags, comparisons.
 
 Instead of static'helper' methods to create business logic constraints, consider using annotated delegate methods to provide query extensions.
 
