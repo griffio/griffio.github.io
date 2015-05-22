@@ -73,7 +73,8 @@ class Correction(var resource : String) {
 
     fun correct(word: String): String {
         var candidates = listOf(word)
-        candidates = known(candidates) or known(edits1(word).toList()) or known_edits2(word) or candidates
+        candidates = known(candidates) or known(edits1(word).toList())
+            or known_edits2(word) or candidates
         return candidates.maxBy { wordsN.count(it) }.orEmpty()
     }
 
