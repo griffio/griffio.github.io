@@ -15,6 +15,8 @@ Mostly Kotlin with some assistance from Guava library for HashMultiset, Splitter
 
 Adding "or" infix extension to List<String> to return first non empty List of Lists (a or b or c).
 
+[Correction.kt](https://github.com/griffio/kotlin-gradle-projects/blob/master/src/main/kotlin/griffio/spelling/Correction.kt)
+
 ~~~java
 
 class Correction(var resource : String) {
