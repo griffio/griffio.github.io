@@ -7,9 +7,13 @@ published: true
 summary: Kotlin spelling correct example
 ---
 
-Converted from [Novig's spell-correct](http://norvig.com/spell-correct.html)
+Converted from [Novig's spell-correct](http://norvig.com/spell-correct.html).
+
+A  "big.txt" file is loaded to train the spelling correcter with the permutations and probabilty count of words (see wordsN).
 
 Mostly Kotlin with some assistance from Guava library for HashMultiset, Splitter and CharMatcher.
+
+Adding "or" infix extension to List<String> to return first non empty List of Lists (a or b or c).
 
 ~~~java
 
