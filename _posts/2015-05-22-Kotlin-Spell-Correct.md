@@ -11,7 +11,7 @@ Converted from [Novig's spell-correct](http://norvig.com/spell-correct.html)
 
 Mostly Kotlin with some assistance from Guava library for HashMultiset, Splitter and CharMatcher.
 
-```javascript
+~~~java
 
 class Correction(var resource : String) {
 
@@ -66,4 +66,4 @@ fun main(args: Array<String>) {
     println(Correction("/big.txt").correct("transparen")) //transparent
 }
 
-```
+~~~
