@@ -13,3 +13,5 @@ https://speakerdeck.com/erniemiller/humane-development
 http://blog.workingon.co/working-remotely-with-workingon/
 
 http://blog.speak.io/10-must-have-tools-for-remote-workers-and-digital-nomads/
+
+http://spin.atomicobject.com/2015/01/30/remote-first-communication/
