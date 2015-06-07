@@ -1,0 +1,16 @@
+
+https://packagecontrol.io/installation#st3
+
+https://packagecontrol.io/packages/Solarized%20Toggle
+
+~~~json
+{
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
+	"font_face": "Menlo",
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
+~~~
