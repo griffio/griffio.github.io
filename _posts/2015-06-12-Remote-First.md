@@ -11,11 +11,11 @@ summary: Remote First Culture
 
 ### What is a Remote First culture?
 
-Companies that adopt remote working practices are going to be way ahead in how their brand is ultimately perceived i.e The opposite of [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/). But favourably instead; by potential employees who now want to be employed there.
+Companies that adopt remote working practices are going to be way ahead in how their brand is ultimately perceived i.e The opposite of [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/). But favourably instead by potential employees who now want to be employed there.
 
 Environment Drives Culture, Culture Drives Brand.
 
-Company management may be better swayed into adopting Remote First when a positive reception can cause the share price to increase rather than it makes employees happy or motivated.
+Company management, ones with pointy hair, may be better swayed into adopting Remote First Culture when a positive reception can cause the share price to increase rather than it makes employees happy or motivated.
 
 What can it solve?
 
@@ -23,7 +23,7 @@ Remote First adoption by a Company means that these weaknesses are exposed and c
 
 * Attendance does not always equal productivity
 
-* Salaries, [Rents](https://www.zumper.com/blog/2015/03/san-francisco-rent-prices-continue-rapid-rise-february/) and Commuting costs increasing in San Francisco|London make remote working more rational and logical.
+* Salaries, [Rents](https://www.zumper.com/blog/2015/03/san-francisco-rent-prices-continue-rapid-rise-february/) and Commuting costs increasing in San Francisco/London make remote working more rational and logical.
  * Either that or Tech knowledge workers will have to live in conditions next to their place of [employment](https://www.apple.com/supplier-responsibility/progress-report/)
  
 * If you are communicating by email then you are effectively remote. 
