@@ -15,9 +15,9 @@ Environment Drives Culture, Culture Drives Brand.
 
 Company management, ones with pointy hair, may be swayed into adopting a Remote First Culture when a positive reception can cause the share price to increase rather than it simply makes employees happy/motivated.
 
-What can it solve when we assume workers are not co-located as the first assumption?
+**What can it solve when the perception that workers are co-located is not the first assumption?**
 
-Remote First adoption by a Company means that the weaknesses below are exposed and can be acted on.
+Remote First adoption by Companies means that the weaknesses below are exposed and can be acted on.
 
 * Attendance does not always equal productivity
 
