@@ -41,15 +41,14 @@ Be intentional
 
 * If one team member is remote, all the team is effectively remote in attitude
 
-* Video technologies allow everyone to show up to meetings equally so they can make decisions too.
+* Video technologies allow everyone to show up to meetings equally so they can make decisions too
 
-* Remotes should not lag behind the decision makers because of the perception that speed is the deciding factor.
+* Remotes should not lag behind the decision makers because of the perception that speed is the deciding factor
 
-* Do not make distributed teams across timezones work outside of their normal scheduled hours.
+* Do not make distributed teams across timezones work outside of their normal scheduled hours
 
-* Software Development is not always 9-5, “Second Shift” is possible.
-
-* Todays software is built around the idea that you are not co-located - Mobile messaging, VOIP. 
+* Todays software is built around the idea that you are not co-located - Mobile messaging, VOIP
+  * Companies that make this kind of software and are not Remote First, its like saying your products don't work
 
 * Tools gaining growth and mindshare that work locally and remote such as Slack, Trello, Distributed version control.
 
