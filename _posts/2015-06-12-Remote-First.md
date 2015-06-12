@@ -2,11 +2,15 @@
 
 ### What is a Remote First culture?
 
-Companies that adopt remote working practices are going to be way ahead in how their brand is ultimately perceived (i.e [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/)). But favourably instead by the potential employees who now want to be employed there.
+Companies that adopt remote working practices are going to be way ahead in how their brand is ultimately perceived (i.e not like [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/)). But favourably instead;by potential employees who now want to be employed there.
 
 Environment Drives Culture, Culture Drives Brand.
 
-Company management may be better swayed to adopt Remote First when a positive perception causes the Share Price to increase rather than, for emotional reasons, it makes employees happy|motivated.
+Company management may be better swayed into adopting Remote First when a positive reception can cause the share price to increase rather than it makes employees happy|motivated.
+
+What can it solve?
+
+Remote First adoption by a Company means that these weaknesses are exposed and can be acted on.
 
 * Attendance does not always equal productivity
 
@@ -19,7 +23,7 @@ Company management may be better swayed to adopt Remote First when a positive pe
 * Email is ineffective communication to raise tickets and get answers.
  * e.g Try contacting your IT Helpdesk - this what it feels like to be remote.
 
-Remote First adoption by a Company means that these weaknesses are exposed and can be acted on.
+Be intentional
 
 Video technologies allow everyone to show up to meetings equally so they can make decisions too.
 
@@ -47,11 +51,10 @@ For Geographically distributed teams, conduct meetings that are sensitive to tim
  Commuting is an expensive habit.
  Depending on your circumstances the best time of productivity is lost commuting.
 
-## Companies with intentional qualities
 
 As discussed,  How do you compete for hires against Facebook?
 If you are Apple you can compete by building a [big space ship](http://www.cupertino.org/index.aspx?page=1107).
+
 If the perception of your company is mediocre|stagnant because its only known from when in put Computers|Radio|Retail on the Internet in 1999.
-Remote First offers a methodology and brand to output instead providing pingpong-table, free-meals culture.
-Brand is a form of group-think and can be toxic if inhaled internally. Output only.
-Corporate marketing|HR often creates the brand first and implements it top-down.
+
+Remote First offers a methodology and a brand instead of adhoc benefits - pingpong-table, free-meals culture.
