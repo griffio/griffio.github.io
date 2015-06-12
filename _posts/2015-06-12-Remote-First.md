@@ -42,6 +42,8 @@ Remote First adoption by Companies means that the weaknesses below are exposed a
 
 **Be intentional**
 
+* Lots of employees choose to work in the same location. Provide a quality working environment and not Desk Farms
+
 * If one team member is remote, all the team is effectively remote in attitude
 
 * Video technologies allow everyone to show up to meetings equally so they can make decisions too
