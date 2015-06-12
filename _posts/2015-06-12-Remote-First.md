@@ -1,3 +1,12 @@
+---
+layout: post
+title: Remote First
+category: remote
+tags: remote
+published: true
+summary: Remote First Culture
+---
+
 ## Remote First
 
 ### What is a Remote First culture?
