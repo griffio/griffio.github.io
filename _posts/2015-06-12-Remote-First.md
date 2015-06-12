@@ -69,3 +69,10 @@ If you are Apple you can compete by building a [big space ship](http://www.cuper
 If the perception of your company is mediocre/stagnant, only known from when it first put Radio on the Internet in 1999, Remote First offers a methodology and a brand instead of ephemeral benefits - ping pong, catered lunches.
 
 Initially, Teams can adopt practices faster than the whole company. Start there.
+
+___
+
+* Further Resources
+  * http://spin.atomicobject.com/2015/01/30/remote-first-communication/
+  * http://beero.ps/2015/02/02/on-distributed-teams-and-not-being-remote/
+  * http://femgineer.com/2015/01/how-to-build-a-happy-and-productive-remote-team/
