@@ -61,7 +61,7 @@ Be intentional
 
 ___
 
-As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for hires against Facebook?
+As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for hires against Facebook, for example?
 
 If you are Apple you can compete by building a [big space ship](http://www.cupertino.org/index.aspx?page=1107).
 
