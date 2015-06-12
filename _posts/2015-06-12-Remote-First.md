@@ -40,7 +40,7 @@ Remote First adoption by Companies means that the weaknesses below are exposed a
  
 * Depending on your circumstances the best time for productivity is lost commuting.
 
-Be intentional
+**Be intentional**
 
 * If one team member is remote, all the team is effectively remote in attitude
 
@@ -57,6 +57,7 @@ Be intentional
 
 * Remote teams can become increasingly skilful
   * The skill set to acquire in the next few years is distributed working practices
+  
 ___
 
 As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for hires?
