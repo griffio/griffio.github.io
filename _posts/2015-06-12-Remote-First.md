@@ -9,13 +9,13 @@ summary: Remote First Culture
 
 ### What is a Remote First culture?
 
-Companies that adopt remote working practices are going to be way ahead in how their brand is ultimately perceived ,i.e The opposite of [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/), and favourably instead by potential employees who now want to be employed there.
+Companies that adopt remote working practices are going to be way ahead in how their brand is ultimately perceived , i.e The opposite of [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/), and favourably instead by potential employees who now want to be employed there.
 
 Environment Drives Culture, Culture Drives Brand.
 
 Company management, ones with pointy hair, may be swayed into adopting a Remote First Culture when a positive reception can cause the share price to increase rather than it simply makes employees happy/motivated.
 
-What can it solve?
+What can it solve when we assume workers are not co-located as the first assumption?
 
 Remote First adoption by a Company means that the weaknesses below are exposed and can be acted on.
 
@@ -31,11 +31,11 @@ Remote First adoption by a Company means that the weaknesses below are exposed a
   * e.g Try contacting your IT Helpdesk - this what it feels like to be remote.
 
 * Provincial culture - local teams working in Desk Farms - local assumptions.
-  * Ever experienced contacting these teams by email to source information? 
+  * Poor knowlege sharing. Ever experienced contacting these teams by email to source information? 
 
-* Contingency Planning. Disaster recovery
+* Single Point of Failure. Contingency Planning. Disaster recovery
  
-* Depending on your circumstances the best time of productivity is lost commuting.
+* Depending on your circumstances the best time for productivity is lost commuting.
 
 Be intentional
 
@@ -43,7 +43,7 @@ Be intentional
 
 * Video technologies allow everyone to show up to meetings equally so they can make decisions too.
 
-* Remotes should not lag behind the decision makers because of the perception of speed is the deciding factor.
+* Remotes should not lag behind the decision makers because of the perception that speed is the deciding factor.
 
 * Do not make distributed teams across timezones work outside of their normal scheduled hours.
 
@@ -53,7 +53,7 @@ Be intentional
 
 * Tools gaining growth and mindshare that work locally and remote such as Slack, Trello, Distributed version control.
 
-* Remote teams can become increasingly skilful.
+* Remote teams can become increasingly skilful
 
 * The skill set to acquire in the next few years is distributed working practices
 
