@@ -24,16 +24,16 @@ Remote First adoption by a Company means that the weaknesses below are exposed a
 * Attendance does not always equal productivity
 
 * Salaries, [Rents](https://www.zumper.com/blog/2015/03/san-francisco-rent-prices-continue-rapid-rise-february/) and Commuting costs increasing in San Francisco/London make remote working more rational and logical.
- * Either that or Tech knowledge workers will have to live in conditions next to their place of [employment](https://www.apple.com/supplier-responsibility/progress-report/)
+  * Either that or Tech knowledge workers will have to live in conditions next to their place of [employment](https://www.apple.com/supplier-responsibility/progress-report/)
  
 * If you are communicating by email then you are effectively remote. 
- * Do employees read their emails aloud when working side by side?
+  * Do employees read their emails aloud when working side by side?
 
 * Email is ineffective communication to raise tickets and get answers.
- * e.g Try contacting your IT Helpdesk - this what it feels like to be remote.
+  * e.g Try contacting your IT Helpdesk - this what it feels like to be remote.
 
 * Provincial culture - local teams working in Desk Farms - local assumptions.
- ** Ever experienced contacting your IT helpdesk? 
+  * Ever experienced contacting your IT helpdesk? 
 
 * Contingency Planning. Disaster recovery
  
@@ -67,6 +67,6 @@ As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for 
 
 If you are Apple you can compete by building a [big space ship](http://www.cupertino.org/index.aspx?page=1107).
 
-If the perception of your company is mediocre/stagnant, being known from when it put Computers/Radio/Retail on the Internet in 1999,Remote First offers a methodology and a brand instead of adhoc benefits - pingpong-table, free-meals culture.
+If the perception of your company is mediocre/stagnant, only known from when it first put Computers/Radio/Retail on the Internet in 1999, Remote First offers a methodology and a brand instead of adhoc benefits - ping pong, free meals culture.
 
 Teams can adopt practices faster than companies. Start there.
