@@ -33,7 +33,7 @@ Remote First adoption by a Company means that the weaknesses below are exposed a
   * e.g Try contacting your IT Helpdesk - this what it feels like to be remote.
 
 * Provincial culture - local teams working in Desk Farms - local assumptions.
-  * Ever experienced contacting your IT helpdesk? 
+  * Ever experienced contacting these teams by email to source information? 
 
 * Contingency Planning. Disaster recovery
  
