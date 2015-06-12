@@ -21,6 +21,8 @@ Remote First adoption by Companies means that the weaknesses below are exposed a
 
 * Attendance does not always equal productivity
 
+* Lack of diversity in hiring and rentention of valuable knowlegde if employees have to leave
+  
 * Salaries, [Rents](https://www.zumper.com/blog/2015/03/san-francisco-rent-prices-continue-rapid-rise-february/) and Commuting costs increasing in San Francisco/London make remote working more rational and logical.
   * Either that or Tech knowledge workers will have to live in conditions next to their place of [employment](https://www.apple.com/supplier-responsibility/progress-report/)
  
@@ -34,6 +36,7 @@ Remote First adoption by Companies means that the weaknesses below are exposed a
   * Poor knowlege sharing. Ever experienced contacting these teams by email to source information? 
 
 * Single Point of Failure. Contingency Planning. Disaster recovery
+  * Marching ants 
  
 * Depending on your circumstances the best time for productivity is lost commuting.
 
@@ -53,17 +56,13 @@ Be intentional
 * Tools gaining growth and mindshare that work locally and remote such as Slack, Trello, Distributed version control.
 
 * Remote teams can become increasingly skilful
-
-* The skill set to acquire in the next few years is distributed working practices
-
-* Marching ants - Offices located in hubs
-
+  * The skill set to acquire in the next few years is distributed working practices
 ___
 
-As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for hires against Facebook, for example?
+As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for hires?
 
 If you are Apple you can compete by building a [big space ship](http://www.cupertino.org/index.aspx?page=1107).
 
-If the perception of your company is mediocre/stagnant, only known from when it first put Computers/Radio/Retail on the Internet in 1999, Remote First offers a methodology and a brand instead of adhoc benefits - ping pong, free meals culture.
+If the perception of your company is mediocre/stagnant, only known from when it first put Radio on the Internet in 1999, Remote First offers a methodology and a brand instead of ephemeral benefits - ping pong, catered lunches.
 
-Teams can adopt practices faster than companies. Start there.
+Initially, Teams can adopt practices faster than the whole company. Start there.
