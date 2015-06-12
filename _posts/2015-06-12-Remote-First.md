@@ -11,11 +11,11 @@ summary: Remote First Culture
 
 ### What is a Remote First culture?
 
-Companies that adopt remote working practices are going to be way ahead in how their brand is ultimately perceived (i.e not like [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/)). But favourably instead;by potential employees who now want to be employed there.
+Companies that adopt remote working practices are going to be way ahead in how their brand is ultimately perceived i.e The opposite of [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/). But favourably instead; by potential employees who now want to be employed there.
 
 Environment Drives Culture, Culture Drives Brand.
 
-Company management may be better swayed into adopting Remote First when a positive reception can cause the share price to increase rather than it makes employees happy|motivated.
+Company management may be better swayed into adopting Remote First when a positive reception can cause the share price to increase rather than it makes employees happy or motivated.
 
 What can it solve?
 
@@ -65,6 +65,4 @@ As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for 
 
 If you are Apple you can compete by building a [big space ship](http://www.cupertino.org/index.aspx?page=1107).
 
-If the perception of your company is mediocre|stagnant because its only known from when it put Computers|Radio|Retail on the Internet in 1999.
-
-Remote First offers a methodology and a brand instead of adhoc benefits - pingpong-table, free-meals culture.
+If the perception of your company is mediocre/stagnant, being known from when it put Computers/Radio/Retail on the Internet in 1999,Remote First offers a methodology and a brand instead of adhoc benefits - pingpong-table, free-meals culture.
