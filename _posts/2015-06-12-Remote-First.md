@@ -52,9 +52,10 @@ For Geographically distributed teams, conduct meetings that are sensitive to tim
  Depending on your circumstances the best time of productivity is lost commuting.
 
 
-As discussed,  How do you compete for hires against Facebook?
+As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for hires against Facebook?
+
 If you are Apple you can compete by building a [big space ship](http://www.cupertino.org/index.aspx?page=1107).
 
-If the perception of your company is mediocre|stagnant because its only known from when in put Computers|Radio|Retail on the Internet in 1999.
+If the perception of your company is mediocre|stagnant because its only known from when it put Computers|Radio|Retail on the Internet in 1999.
 
 Remote First offers a methodology and a brand instead of adhoc benefits - pingpong-table, free-meals culture.
