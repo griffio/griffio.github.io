@@ -36,7 +36,7 @@ Be intentional
 
 Video technologies allow everyone to show up to meetings equally so they can make decisions too.
 
-If one team member is remote, all team is effectively remote in attitude
+If one team member is remote, all the team is effectively remote in attitude
 
 Remotes should not lag behind the decision makers because of the perception of speed is the deciding factor.
 
@@ -66,3 +66,5 @@ As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for 
 If you are Apple you can compete by building a [big space ship](http://www.cupertino.org/index.aspx?page=1107).
 
 If the perception of your company is mediocre/stagnant, being known from when it put Computers/Radio/Retail on the Internet in 1999,Remote First offers a methodology and a brand instead of adhoc benefits - pingpong-table, free-meals culture.
+
+Teams can adopt practices faster than companies. Start there.
