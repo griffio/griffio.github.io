@@ -17,3 +17,5 @@ http://blog.speak.io/10-must-have-tools-for-remote-workers-and-digital-nomads/
 http://spin.atomicobject.com/2015/01/30/remote-first-communication/
 
 http://spin.atomicobject.com/2014/08/12/remote-teams-best-practices/
+
+http://www.buzzfeed.com/benronne/how-buzzfeed-tech-never-loses-the-remote-employees
