@@ -33,7 +33,7 @@ Remote First adoption by companies means that the weaknesses below are exposed a
   * e.g Try contacting your IT Helpdesk - this what it feels like to be remote.
 
 * Provincial culture - local teams working in Desk Farms - local assumptions.
-  * Poor knowlege sharing. Ever experienced contacting these teams by email to source information? 
+  * Poor knowledge sharing. Ever experienced contacting these teams by email to source information? 
 
 * Single Point of Failure. Contingency Planning. Disaster recovery.
   * Marching ants.
