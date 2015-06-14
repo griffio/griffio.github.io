@@ -13,7 +13,7 @@ Companies that adopt remote working practices are going to be way ahead in how t
 
 Environment Drives Culture, Culture Drives Brand.
 
-Company management, ones with pointy hair, may be see benefits to adopting a remote first culture when an external positive response causes the Company share price to increase rather than it simply makes employees happy/motivated.
+Company management, ones with pointy hair, may only see benefits to adopting a remote first culture when an external positive response causes the Company share price to increase rather than it simply makes employees happy/motivated.
 
 **What communication problems can be improved when the first assumption is that teams are not co-located?**
 
