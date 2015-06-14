@@ -13,49 +13,49 @@ Companies that adopt remote working practices are going to be way ahead in how t
 
 Environment Drives Culture, Culture Drives Brand.
 
-Company management, ones with pointy hair, may be swayed into adopting a Remote First Culture when a positive reception can cause the share price to increase rather than it simply makes employees happy/motivated.
+Company management, ones with pointy hair, may be see benefits to adopting a remote first culture when an external positive response causes the Company share price to increase rather than it simply makes employees happy/motivated.
 
 **What communication problems can be improved when the first assumption is that teams are not co-located?**
 
-Remote First adoption by Companies means that the weaknesses below are exposed and can be acted on.
+Remote First adoption by companies means that the weaknesses below are exposed and can be acted on for the benefit of all employees.
 
 * Attendance does not always equal productivity
 
-* Lack of diversity in hiring and rentention of valuable knowledge if employees have to leave
+* Lack of diversity in hiring or retention of valuable knowledge if employees have to leave
   
 * Salaries, [Rents](https://www.zumper.com/blog/2015/03/san-francisco-rent-prices-continue-rapid-rise-february/) and Commuting costs increasing in San Francisco/London make remote working more rational and logical.
   * Either that or Tech knowledge workers will have to live in conditions next to their place of [employment](https://www.apple.com/supplier-responsibility/progress-report/)
  
-* If you are communicating by email then you are effectively remote. 
+* If you are communicating by email then you are effectively remote.
   * Do employees read their emails aloud when working side by side?
 
-* Email is ineffective communication to raise tickets and get answers.
+* Email is an ineffective communication tool to raise tickets and get answers.
   * e.g Try contacting your IT Helpdesk - this what it feels like to be remote.
 
 * Provincial culture - local teams working in Desk Farms - local assumptions.
   * Poor knowlege sharing. Ever experienced contacting these teams by email to source information? 
 
-* Single Point of Failure. Contingency Planning. Disaster recovery
-  * Marching ants 
+* Single Point of Failure. Contingency Planning. Disaster recovery.
+  * Marching ants.
  
 * Depending on your circumstances the best time for productivity is lost commuting.
 
 **Be intentional**
 
-* Lots of teams choose to work in the same location. Provide a quality working environment and not Desk Farms
+* If teams choose to work in the same location. Provide a quality working environment and not Desk Farms.
 
-* If one team member is remote, all the team is effectively remote in attitude
+* If one team member is remote, all the team is effectively remote in attitude.
 
-* Video technologies allow everyone to show up to meetings equally so they can make decisions too
+* Video technologies allow everyone to show up to meetings equally so they can make decisions too.
 
-* Remotes should not lag behind the decision makers because of the perception that speed is the deciding factor
+* Remotes should not lag behind the decision makers because of the perception that speed is the deciding factor.
 
-* Do not make distributed teams across timezones work outside of their normal scheduled hours
+* Do not make distributed teams across timezones work outside of their normal scheduled hours.
 
-* Todays software is built around the idea that you are not co-located - Mobile messaging, VOIP
-  * Companies that make this kind of software and are not Remote First, its like saying your products don't work
+* Todays software is built around the idea that you are not co-located - Mobile messaging, VOIP.
+  * Companies that make this kind of software and are not Remote First, its like saying your products don't work.
 
-* Tools gaining growth and mindshare that work locally and remote such as Slack, Trello, Distributed version control.
+* Tools gaining growth and mindshare that work locally and remote such as Slack, Trello, Distributed version. control.
 
 * Remote first teams can become increasingly skilful and have better empathy
   * The skill set to acquire in the next few years is distributed working practices
