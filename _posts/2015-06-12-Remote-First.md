@@ -76,3 +76,4 @@ ___
   * [remote-first-communication](http://spin.atomicobject.com/2015/01/30/remote-first-communication/)
   * [on-distributed-teams-and-not-being-remote](http://beero.ps/2015/02/02/on-distributed-teams-and-not-being-remote/)
   * [how-to-build-a-happy-and-productive-remote-team](http://femgineer.com/2015/01/how-to-build-a-happy-and-productive-remote-team/)
+  * [how-buzzfeed-tech-never-loses-the-remote-employees](http://www.buzzfeed.com/benronne/how-buzzfeed-tech-never-loses-the-remote-employees)
