@@ -9,7 +9,7 @@ summary: Remote First Culture
 
 ### What is a Remote First culture?
 
-Companies that adopt remote working practices are going to be way ahead in how their brand is ultimately perceived, i.e opposite of [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/), and that is favourably by potential employees who now want to be employed there.
+Companies that adopt remote first working practices are going to be way ahead in how their brand is ultimately perceived, i.e the opposite of [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/), and that is favourably by potential employees who now want to be employed there.
 
 Environment Drives Culture, Culture Drives Brand.
 
