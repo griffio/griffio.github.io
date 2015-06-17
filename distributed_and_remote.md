@@ -19,3 +19,5 @@ http://spin.atomicobject.com/2015/01/30/remote-first-communication/
 http://spin.atomicobject.com/2014/08/12/remote-teams-best-practices/
 
 http://www.buzzfeed.com/benronne/how-buzzfeed-tech-never-loses-the-remote-employees
+
+http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html
