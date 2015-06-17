@@ -66,7 +66,7 @@ As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for 
 
 If you are Apple you can compete by building a [big space ship](http://www.cupertino.org/index.aspx?page=1107).
 
-If the perception of your company is mediocre/stagnant, the inertia from when it first put Radio on the Internet in 1999, then remote first offers a methodology and a brand instead of ephemeral benefits - ping pong, catered lunches.
+If the perception of your company is still taken from the inertia when it first put Radio on the Internet in 1999, then Remote First offers a methodology and a brand to make it relevant instead of adding ephemeral benefits like ping pong, catered lunches.
 
 Initially, Teams can adopt practices faster than the whole company. Start there.
 
