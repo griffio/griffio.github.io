@@ -39,7 +39,7 @@ title: "Selection of Technical Books"
 - [Agile Software Development, Principles, Patterns, and Practices](https://openlibrary.org/books/OL9297484M/Agile_Software_Development_Principles_Patterns_and_Practices)
   - Awareness of best practices when using Class based OOP languages like Java
 - [Effective_Java](https://openlibrary.org/works/OL6223299W/Effective_Java)
-  - All the Java idioms; Hashcode/Equals etc
+  - All the Java idioms; The more you know the more you learn.
 - [Java Concurrency In Practice](https://openlibrary.org/books/OL25208908M/Java_Concurrency_in_Practice)
   - Highly technical and dense coverage of Java Memory Model
 - [Java Puzzlers](https://openlibrary.org/books/OL17173106M/Java_puzzlers)
