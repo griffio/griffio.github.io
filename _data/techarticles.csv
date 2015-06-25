@@ -11,3 +11,4 @@ public relations, for nature cannot be fooled",engineering
 Improving Performance on Twitter.com,https://blog.twitter.com/2012/improving-performance-on-twittercom,"To improve the twitter.com experience for everyone, we’ve been working to take back control of our front-end performance by moving the rendering to the server",engineering
 The Expression Problem,http://homepages.inf.ed.ac.uk/wadler/papers/expression/expression.txt,"Whether a language can solve the Expression Problem is a salient indicator of its capacity for expression",programming
 The Curse of the Excluded Middle,https://queue.acm.org/detail.cfm?ref=rss&id=2611829,"Mostly functional programming does not work",programming
+Overused Code Reuse,http://ithare.com/overused-code-reuse,"It’s tempting to use someone else’s code rather than write it yourself."
