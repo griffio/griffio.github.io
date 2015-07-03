@@ -27,6 +27,8 @@ summary: iBeacons and BLE transmitters
 
 * [Pointr](http://www.pointrlabs.com)
 
+* [Tessel](https://tessel.io/blog/94736742342/getting-started-with-ble-tessel)
+
 ### Vendors
 
 * [estimote](http://estimote.com)
