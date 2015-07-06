@@ -9,3 +9,5 @@
 [Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg)
 
 [Envy prototype](https://vimeo.com/131329120)
+
+[Securing Web APIs – Patterns & Anti-Patterns](https://vimeo.com/131635255)
