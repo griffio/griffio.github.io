@@ -29,11 +29,14 @@ summary: iBeacons and BLE transmitters
 
 * [Tessel](https://tessel.io/blog/94736742342/getting-started-with-ble-tessel)
 
+* [Meridian](http://meridianapps.com/)
+
 ### Vendors
 
 * [estimote](http://estimote.com)
 
 * [kontaktio](http://kontakt.io/)
+
 
 ### Example Apps
 
