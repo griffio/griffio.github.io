@@ -23,3 +23,6 @@ http://www.buzzfeed.com/benronne/how-buzzfeed-tech-never-loses-the-remote-employ
 http://www.nytimes.com/2015/05/31/opinion/sunday/guess-who-doesnt-fit-in-at-work.html
 
 http://swizec.com/blog/why-offices-are-where-work-goes-to-die/swizec/6695
+
+http://blog.tutum.co/2015/03/24/tutums-take-on-a-distributed-team/
+
