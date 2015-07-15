@@ -26,3 +26,6 @@ http://swizec.com/blog/why-offices-are-where-work-goes-to-die/swizec/6695
 
 http://blog.tutum.co/2015/03/24/tutums-take-on-a-distributed-team/
 
+http://blog.idonethis.com/communication-remote-distributed-team/
+
+
