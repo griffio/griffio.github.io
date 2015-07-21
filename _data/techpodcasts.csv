@@ -1,76 +1,76 @@
-name,url,tag
-dotnetrocks,http://www.dotnetrocks.com,developers
-nodeup,http://nodeup.com,nodejs
-javascript jabber, http://javascriptjabber.com,web
-hanselminutes,http://hanselminutes.com,developers
-giantrobots,http://podcasts.thoughtbot.com/giantrobots,thoughtbot
-shoptalkshow,http://shoptalkshow.com,web
-chariotsolutions,http://techcast.chariotsolutions.com,developers
-risky-business,http://risky.biz/netcasts/risky-business,security
-software engineering radio,http://www.se-radio.net,programming
-freshtilledsoil,http://www.freshtilledsoil.com/blog,ux
-thechangelog,http://thechangelog.com/podcast,developers
-redhat,http://asylum.libsyn.com,java
-gitminutes,http://www.gitminutes.com,git
-cognitect,http://blog.cognitect.com/cognicast,clojure
-thewebplatform,http://thewebplatform.libsyn.com,web
-turing cool,http://turing.cool,programming
-word break,http://word-break.com,web
-programming throwdown,http://www.programmingthrowdown.com,programming
-ruby rogues,http://rubyrogues.com,ruby
-hello world,http://wildermuth.com/hwpod,programming
-test talks,http://joecolantonio.com/testtalks,testing
-entreprogrammers,http://entreprogrammers.com/category/podcast,programming
-getupandcode,http://getupandcode.com/category/podcast,programming
-codenewbie,http://www.codenewbie.org/podcast,programming
-wideteams,http://www.wideteams.com/episode-guide,programming
-codewinds,http://codewinds.com/podcast.html,web
-hackathonmaven,https://soundcloud.com/hackathonmaven,programming
-howtoholdapencil,http://howtoholdapencil.com,programming
-meteorpodcast,http://www.meteorpodcast.com,meteorjs
-fullstackradio,http://fullstackradio.com,programming
-kalzumeus,http://www.kalzumeus.com/category/podcasts,software
-lullabot,https://www.lullabot.com/blog/podcasts,web
-healthyhacker,http://www.healthyhacker.com,developers
-developertea,https://www.developertea.com,programming
-architecturecast,http://www.architecturecast.net,software
-techzinglive,http://techzinglive.com,software
-designdetails,http://www.designdetails.fm,design
-looselycoupled,http://looselycoupled.info,programming
-motherboardpodcast,http://www.motherboardpodcast.com,developers
-lescastcodeurs,http://lescastcodeurs.com,développeurs
-responsivewebdesign,http://responsivewebdesign.com/podcast,web
-styleguides,http://styleguides.io/podcast/index.html,web
-pushpull,http://pushpull.me,web
-upup,http://www.upup.fm,programming
-betweenscreens,http://betweenscreens.fm,developers
-gonemobile,http://gonemobile.io,web
-fragmented,http://fragmentedpodcast.com,android
-bitly,http://techpodcast.bitly.com,programming
-typetheory podcast,http://typetheorypodcast.com,programming
-runasradio,http://www.runasradio.com,microsoft
-web-monkey,https://soundcloud.com/whyisjake/web-monkey-podcast-episode-1,web
-path to performance,http://pathtoperf.com,web
-talkingcode,http://www.talkingcode.com,developers
-thecloudcast,http://www.thecloudcast.net,cloud
-functionalgeekery,http://www.functionalgeekery.com,programming
-typesafe,https://soundcloud.com/typesafe,reactive
-ttlpodcast,http://ttlpodcast.com,web
-devopscafe,http://devopscafe.org,devops
-bikeshed,http://bikeshed.fm,thoughtbot
-emberweekend,https://emberweekend.com/episodes,emberjs
-descriptive,http://descriptive.audio,programming
-slack,https://slack.com/varietypack,developers
-react podcast,http://reactpodcast.com,reactjs
-podcast init,http://www.podcastinit.com,python
-talk python to me,http://www.talkpythontome.com/episodes/all,python
-nodogma,http://nodogmapodcast.bryanhogan.net,programming
-devhell,http://devhell.info,developers
-geek whisperers,http://geek-whisperers.com/all-episodes,developers
-five minutes of js,https://fivejs.codeschool.com,javascript
-tentative,http://tentative.fm,thoughtbot
-lady loves code,http://www.ladylovescode.com/category/podcast/,developers
-theory and craft,http://www.theoryandcraft.fm/,programming
-rusty radio,http://rustyrad.io/podcast/1/,rust
-reactive,http://reactive.audio/,web
-threedevsandamaybe,http://threedevsandamaybe.com,developers
+name,url,tag,description
+dotnetrocks,http://www.dotnetrocks.com,developers,"Full Stack Radio is a podcast for developers interested in building great software products."
+nodeup,http://nodeup.com,javascript,"A nodejs podcast"
+javascript jabber,http://javascriptjabber.com,web,"A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more."
+hanselminutes,http://hanselminutes.com,developers,"Fresh Air for Developers."
+giantrobots,http://giantrobots.fm,developers,"The Giant Robots Smashing into Other Giant Robots podcast is a weekly technical podcast discussing development, design, and the business of great products."
+shoptalkshow,http://shoptalkshow.com,web,"An internet radio show about the internet with sound effects."
+chariotsolutions,http://techcast.chariotsolutions.com,developers,""
+risky-business,http://risky.biz/netcasts/risky-business,security,""
+software engineering radio,http://www.se-radio.net,programming,""
+freshtilledsoil,http://www.freshtilledsoil.com/blog,ux,""
+thechangelog,http://thechangelog.com/podcast,developers,""
+redhat,http://asylum.libsyn.com,java,""
+gitminutes,http://www.gitminutes.com,git,""
+cognitect,http://blog.cognitect.com/cognicast,clojure,""
+thewebplatform,http://thewebplatform.libsyn.com,web,""
+turing cool,http://turing.cool,programming,""
+word break,http://word-break.com,web,""
+programming throwdown,http://www.programmingthrowdown.com,programming,""
+ruby rogues,http://rubyrogues.com,ruby,""
+hello world,http://wildermuth.com/hwpod,programming,""
+test talks,http://joecolantonio.com/testtalks,testing,""
+entreprogrammers,http://entreprogrammers.com/category/podcast,programming,""
+getupandcode,http://getupandcode.com/category/podcast,programming,""
+codenewbie,http://www.codenewbie.org/podcast,programming,""
+wideteams,http://www.wideteams.com/episode-guide,programming,""
+codewinds,http://codewinds.com/podcast.html,web,""
+hackathonmaven,https://soundcloud.com/hackathonmaven,programming,""
+howtoholdapencil,http://howtoholdapencil.com,programming,""
+meteorpodcast,http://www.meteorpodcast.com,meteorjs,""
+fullstackradio,http://fullstackradio.com,programming,""
+kalzumeus,http://www.kalzumeus.com/category/podcasts,software,""
+lullabot,https://www.lullabot.com/blog/podcasts,web,""
+healthyhacker,http://www.healthyhacker.com,developers,""
+developertea,https://www.developertea.com,programming,""
+architecturecast,http://www.architecturecast.net,software,""
+techzinglive,http://techzinglive.com,software,""
+designdetails,http://www.designdetails.fm,design,""
+looselycoupled,http://looselycoupled.info,programming,""
+motherboardpodcast,http://www.motherboardpodcast.com,developers,""
+lescastcodeurs,http://lescastcodeurs.com,développeurs,""
+responsivewebdesign,http://responsivewebdesign.com/podcast,web,""
+styleguides,http://styleguides.io/podcast/index.html,web,""
+pushpull,http://pushpull.me,web,""
+upup,http://www.upup.fm,programming,""
+betweenscreens,http://betweenscreens.fm,developers,""
+gonemobile,http://gonemobile.io,web,""
+fragmented,http://fragmentedpodcast.com,android,""
+bitly,http://techpodcast.bitly.com,programming,""
+typetheory podcast,http://typetheorypodcast.com,programming,""
+runasradio,http://www.runasradio.com,microsoft,""
+web-monkey,https://soundcloud.com/whyisjake/web-monkey-podcast-episode-1,web,""
+path to performance,http://pathtoperf.com,web,""
+talkingcode,http://www.talkingcode.com,developers,""
+thecloudcast,http://www.thecloudcast.net,cloud,""
+functionalgeekery,http://www.functionalgeekery.com,programming,""
+typesafe,https://soundcloud.com/typesafe,reactive,""
+ttlpodcast,http://ttlpodcast.com,web,""
+devopscafe,http://devopscafe.org,devops,""
+bikeshed,http://bikeshed.fm,thoughtbot,""
+emberweekend,https://emberweekend.com/episodes,emberjs,""
+descriptive,http://descriptive.audio,programming,""
+slack,https://slack.com/varietypack,developers,""
+react podcast,http://reactpodcast.com,reactjs,""
+podcast init,http://www.podcastinit.com,python,""
+talk python to me,http://www.talkpythontome.com/episodes/all,python,""
+nodogma,http://nodogmapodcast.bryanhogan.net,programming,""
+devhell,http://devhell.info,developers,""
+geek whisperers,http://geek-whisperers.com/all-episodes,developers,""
+five minutes of js,https://fivejs.codeschool.com,javascript,""
+tentative,http://tentative.fm,thoughtbot,""
+lady loves code,http://www.ladylovescode.com/category/podcast/,developers,""
+theory and craft,http://www.theoryandcraft.fm/,programming,""
+rusty radio,http://rustyrad.io/podcast/1/,rust,""
+reactive,http://reactive.audio/,web,""
+threedevsandamaybe,http://threedevsandamaybe.com,developers,""
