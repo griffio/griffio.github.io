@@ -47,3 +47,8 @@ summary: iBeacons and BLE transmitters
 [estimote](https://itunes.apple.com/gb/app/estimote/id686915066?mt=8)
 
 [Robin Powered](https://itunes.apple.com/us/app/robin-powered/id948856282)
+
+
+### Updates
+
+[interact-with-ble-devices-on-the-web](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
