@@ -14,6 +14,8 @@ the SuperDrive CD-ROM on the Apple host is not accessible.
 
 The notification message is:
 
+![legacy emulation](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/legacy-emulation.png)
+
 "Your VM is configured to use legacy emulation but this host does not support it.
 Try configuring this virtual machine's CDROM to not use legacy emulation."
 
