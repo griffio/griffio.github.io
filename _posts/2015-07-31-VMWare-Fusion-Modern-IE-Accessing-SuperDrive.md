@@ -17,9 +17,9 @@ The notification message is:
 "Your VM is configured to use legacy emulation but this host does not support it.
 Try configuring this virtual machine's CDROM to not use legacy emulation."
 
-Ideally this should be done immediately after extracting the image from the download.
+Steps to fix.
 
-Steps.
+Ideally this should be done immediately after extracting the image from the download.
 
 To avoid a corrupted vmx file. [http://kb.vmware.com](http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1014782).
 
