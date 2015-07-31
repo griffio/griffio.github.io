@@ -53,4 +53,8 @@ It is not necessary to update the vm image when prompted or update vmware tools.
 
 Once Windows image has booted the CD-ROM can be accessed by using the normal connect to CD/DVD (IDE) option in the menu.
 
-It may take a few seconds to initialize.
+It may take a few seconds to initialize and the CD-ROM is accessible in MyComputer.
+
+The next time the image is started the CD-ROM will connect automatically to the SuperDrive.
+
+
