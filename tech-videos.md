@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Selection of Tech Videos"
+title: "Software Development Videos"
 id: tech-videos
 ---
 
