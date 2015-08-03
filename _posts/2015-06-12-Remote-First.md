@@ -19,20 +19,22 @@ Company management, ones with pointy hair, may only see benefits to adopting a r
 
 Remote First adoption by companies means that the weaknesses below are exposed and can be acted on for the benefit of all employees.
 
-* Attendance does not always equal productivity
+* Attendance does not always equal productivity.
 
-* Lack of diversity in hiring. Employees must not be sourced from the same location
+* Lack of diversity in hiring. Employees must not be sourced from the same location.
 
-* Retention of valuable employees is lost if they choose to relocate out of the area
-  
+* Retention of valuable employees is lost if they choose to relocate out of the area.
+
+* Lack of knowlegde sharing and the assumpution that everyone knows things at the same time.
+
 * Salaries, [Rents](https://www.zumper.com/blog/2015/03/san-francisco-rent-prices-continue-rapid-rise-february/) and Commuting costs increasing in San Francisco/London make remote working more rational and logical.
-  * Either that or Tech knowledge workers will have to live in conditions next to their place of [employment](https://www.apple.com/supplier-responsibility/progress-report/)
+  * Either that or Tech knowledge workers will have to live in conditions next to their place of [employment](https://www.apple.com/supplier-responsibility/progress-report/).
  
 * If you are communicating by email then you are effectively remote.
   * Do employees read their emails aloud when working side by side?
 
 * Email is an ineffective communication tool to raise tickets and get answers.
-  * e.g Try contacting your IT Helpdesk - this what it feels like to be remote.
+  * e.g Try contacting your IT Helpdesk - this what it feels like to get answers through an opaque channel.
 
 * Provincial culture - local teams working in Desk Farms - local assumptions.
   * Poor knowledge sharing. Ever experienced contacting teams by email to source information? You may as well have sent your email to dev/null.
@@ -59,8 +61,8 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 
 * Tools gaining growth and mindshare that work locally and remote such as [Slack](https://slack.com/), [Trello](https://trello.com/), [Distributed version control](https://github.com).
 
-* Remote first teams can become increasingly skilful and have better empathy
-  * The skill set to acquire in the next few years is distributed working practices
+* Remote first teams can become increasingly skilful and have better empathy.
+  * The skill set to acquire in the next few years is distributed working practices.
   
 ___
 
