@@ -39,8 +39,8 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 * Provincial culture - local teams working in Desk Farms - local assumptions.
   * Poor knowledge sharing. Ever experienced contacting teams by email to source information? You may as well have sent your email to dev/null.
 
-* Single Point of Failure. Contingency Planning. Disaster recovery.
-  * Marching ants.
+* Single Point of Failure. Contingency Planning. Disaster recovery. Fire Drill.
+  * Marching ants can recover.
  
 * Depending on your circumstances the best time for productivity is lost commuting.
 
