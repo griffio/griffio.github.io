@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tech Articles
+title: Software Development Articles
 id: tech-articles
 ---
 
