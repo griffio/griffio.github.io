@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software Tech Podcasts
+title: Software Development Podcasts
 id: tech-podcasts
 ---
 
