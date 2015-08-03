@@ -21,7 +21,9 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 
 * Attendance does not always equal productivity
 
-* Lack of diversity in hiring or retention of valuable knowledge if employees have to leave
+* Lack of diversity in hiring. Employees must not be sourced from the same location
+
+* Retention of valuable employees is lost if they choose to relocate out of the area
   
 * Salaries, [Rents](https://www.zumper.com/blog/2015/03/san-francisco-rent-prices-continue-rapid-rise-february/) and Commuting costs increasing in San Francisco/London make remote working more rational and logical.
   * Either that or Tech knowledge workers will have to live in conditions next to their place of [employment](https://www.apple.com/supplier-responsibility/progress-report/)
