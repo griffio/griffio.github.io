@@ -28,7 +28,8 @@ http://blog.tutum.co/2015/03/24/tutums-take-on-a-distributed-team/
 
 https://remote.co/
 
-
 http://blog.idonethis.com/communication-remote-distributed-team/
+
+http://gigasquidsoftware.com/blog/2014/10/31/notes-and-tips-on-working-from-home/
 
 
