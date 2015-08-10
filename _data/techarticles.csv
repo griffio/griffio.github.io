@@ -13,5 +13,5 @@ The Expression Problem,http://homepages.inf.ed.ac.uk/wadler/papers/expression/ex
 The Curse of the Excluded Middle,https://queue.acm.org/detail.cfm?ref=rss&id=2611829,"Mostly functional programming does not work",programming
 Overused Code Reuse,http://ithare.com/overused-code-reuse,"It’s tempting to use someone else’s code rather than write it yourself.",engineering
 REST APIs must be Hypertext-Driven,http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven,"I am getting frustrated by the number of people calling any HTTP-based interface a REST API.",engineering
-The Bugs We Have to Kill,https://www.usenix.org/system/files/login/articles/login_aug15_02_bratus.pdf,"he code that parses inputs is the first and often the only protection
+The Bugs We Have to Kill,https://www.usenix.org/system/files/login/articles/login_aug15_02_bratus.pdf,"The code that parses inputs is the first and often the only protection
 for the rest of a program from malicious inputs.",engineering
