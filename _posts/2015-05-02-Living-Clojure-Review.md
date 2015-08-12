@@ -19,7 +19,7 @@ The book is aimed at programmers with a background in existing languages who wan
 
 The Clojure environment exists on the Java Virtual Machine and more recently as a Javascript language overlay with [Clojure script](https://github.com/clojure/clojurescript).
 
-This allows Clojure programmers to share the idea that the front-end can extend into the server too, using the same language. Often cited as an example of increased productivity by Iojs/Nodejs developers.
+This allows Clojure programmers to share the idea that the front-end can extend into the server too, using the same language. Often cited as an example of increased productivity by Nodejs developers.
 
 The book has two logical parts.
  
@@ -27,7 +27,7 @@ The book has two logical parts.
 
 The book introduces [transit](https://github.com/cognitect/transit-clj) as the Clojure data format for serialisation between the client and server.
 
-Clojure script is covered in chapter 7: Creating Web Applications with Clojure. The powerful Om reactive framework is mentioned.
+Clojure script is covered in chapter 7: Creating Web Applications with Clojure. The powerful [Om](https://github.com/omcljs/om) reactive framework is mentioned.
 
 **In part two** there are daily code exercises over 7 weeks that ask the developer to fill in the blanks to complete the problems listed at [www.4clojure.com](https://www.4clojure.com/). 
 
