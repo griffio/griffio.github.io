@@ -32,4 +32,6 @@ http://blog.idonethis.com/communication-remote-distributed-team/
 
 http://gigasquidsoftware.com/blog/2014/10/31/notes-and-tips-on-working-from-home/
 
+http://wearemammoth.com/2015/06/wam-workspaces-salt-lake-city-edition
+
 
