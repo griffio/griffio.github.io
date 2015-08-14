@@ -2,8 +2,8 @@ desc,url,github,jobs
 airbnb,http://airbnb.io,airbnb,https://www.airbnb.com/careers/departments/engineering
 bazaar voice,http://blog.developer.bazaarvoice.com,bazaarvoice,http://www.bazaarvoice.com/careers
 etsy,http://codeascraft.com,etsy,https://www.etsy.com/careers
-netflix,http://techblog.netflix.com,netflix,https://jobs.netflix.com
-linkedin,http://engineering.linkedin.com/blog,linkedin,https://www.linkedin.com/job
+netflix,http://techblog.netflix.com,netflix,https://jobs.netflix.com/category/4/jobs
+linkedin,http://engineering.linkedin.com/blog,linkedin,https://www.linkedin.com/job/?trk=hb_ft_jobs
 square inc,http://corner.squareup.com,square,https://squareup.com/careers
 tumblr,http://engineering.tumblr.com,tumblr,https://www.tumblr.com/jobs
 yammer,http://eng.yammer.com,yammer,https://about.yammer.com/careers
@@ -24,7 +24,7 @@ spotify,http://labs.spotify.com,spotify,https://twitter.com/spotifyjobs
 soundcloud,http://backstage.soundcloud.com,soundcloud,https://soundcloud.com/jobs
 stormpath,http://www.stormpath.com/blog,stormpath,http://www.jobscore.com/jobs2/stormpath
 gosquared,https://engineering.gosquared.com,gosquared,https://www.gosquared.com/careers
-eventbrite,https://engineering.eventbrite.com,eventbrite,https://www.eventbrite.co.uk/jobs
+eventbrite,https://engineering.eventbrite.com,eventbrite,https://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qU29VfwK&cs=9vBbVfwW&nl=0
 prezi,http://engineering.prezi.com,prezi,https://prezi.com/jobs
 dropbox,https://tech.dropbox.com,dropbox,https://www.dropbox.com/jobs
 adjust,http://big-elephants.com,adjust,https://www.adjust.com/open_jobs/#comboFilters%5Bjob_section%5D=.tech
@@ -44,18 +44,18 @@ yahoo,http://yahooeng.tumblr.com,yahoo,https://careers.yahoo.com
 rightscale,http://eng.rightscale.com,rightscale,http://rightscale.theresumator.com
 imvu,http://engineering.imvu.com,imvu,http://www.imvu.com/jobs/index
 hoteltonight,http://engineering.hoteltonight.com,hoteltonight,https://www.hoteltonight.com/jobs
-appfolio,http://engineering.appfolio.com,appfolio,http://www.appfolio.com/jobs
+appfolio,http://engineering.appfolio.com,appfolio,http://www.appfolioinc.com/jobs-openings
 indeed,http://engineering.indeed.com,indeedeng,http://www.indeed.jobs
 prismatic,http://blog.getprismatic.com/tag/engineering,prismatic,https://boards.greenhouse.io/prismatic
 modus,http://moduscreate.com/blog,moduscreateorg,http://moduscreate.com/careers
 aweber,https://engineering.aweber.com,aweber,http://www.aweber.jobs/apply
 timehop,http://tales.timehop.com,timehop,http://timehop.com/joinus
 giantswarm,http://blog.giantswarm.io,giantswarm,https://angel.co/giant-swarm/jobs
-push technology,http://www.pushtechnology.com/category/development,pushtechnology,http://www.pushtechnology.com/about/careerss
+push technology,http://www.pushtechnology.com/category/development,pushtechnology,http://www.pushtechnology.com/about/careers/
 keyhole software,https://keyholesoftware.com/blog,in-the-keyhole,https://keyholesoftware.com/contact/careers
 clicktravel,http://www.clicktravel.com/engineering-blog,clicktravel,http://www.clicktravel.com/careers-in-travel-management
 stylight,http://engineering.stylight.com,stylight,http://www.stylight.de/Jobs
-flipboard,http://engineering.flipboard.com,flipboard,https://about.flipboard.com/careers
+flipboard,http://engineering.flipboard.com,flipboard,https://about.flipboard.com/team/engineering-team/
 spring,https://spring.io/blog/category/engineering,spring-projects,https://pivotal.io/careers
 just eat,http://tech.just-eat.com,justeat,http://tech.just-eat.com/jobs
 instructure,http://instructure.github.io/blog,instructure,http://www.instructure.com/careers
@@ -116,8 +116,7 @@ datarank,http://engineering.datarank.com,datarank,https://www.datarank.com/caree
 opentable uk,http://tech.opentable.co.uk,opentable,http://www.opentable.com/careers
 trackmaven,http://engineroom.trackmaven.com,trackmaven,https://boards.greenhouse.io/trackmaven/jobs/41377
 monetate,http://engineering.monetate.com,monetate,http://www.monetate.com/about/careers
-standardtreasury,http://blog.standardtreasury.com,standardtreasury,https://jobs.lever.co/standardtreasury
-monsanto,http://engineering.monsanto.com,monsantoco,#
+monsanto,http://engineering.monsanto.com,monsantoco,http://engineering.monsanto.com/contact/
 bigcommerce,http://bigeng.io,bigcommerce,https://www.bigcommerce.com/careers/?filter=all&team=engineering#jobs
 qubit,https://medium.com/qubit-engineering,qubitproducts,http://www.qubit.com/jobs
 meltwater,http://underthehood.meltwater.com,meltwater,http://www.meltwater.com/about/careers
