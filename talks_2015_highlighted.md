@@ -17,3 +17,5 @@
 [Learning Client Hypermedia from the Ground Up](https://vimeo.com/131642790)
 
 [JVMLS 2015 - Multi-Language Runtime](https://www.youtube.com/watch?v=kOnyJurioyw&list=PLX8CzqL3ArzUo2dtMurvpUTAaujPMeuuU&index=14)
+
+[Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8)
