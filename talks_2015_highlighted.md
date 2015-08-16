@@ -19,3 +19,5 @@
 [JVMLS 2015 - Multi-Language Runtime](https://www.youtube.com/watch?v=kOnyJurioyw&list=PLX8CzqL3ArzUo2dtMurvpUTAaujPMeuuU&index=14)
 
 [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8)
+
+[Developing ClojureScript With Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E)
