@@ -15,3 +15,4 @@ Overused Code Reuse,http://ithare.com/overused-code-reuse,"It’s tempting to us
 REST APIs must be Hypertext-Driven,http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven,"I am getting frustrated by the number of people calling any HTTP-based interface a REST API.",engineering
 The Bugs We Have to Kill,https://www.usenix.org/system/files/login/articles/login_aug15_02_bratus.pdf,"The code that parses inputs is the first and often the only protection
 for the rest of a program from malicious inputs.",engineering
+Learnable Programming,http://worrydream.com/LearnableProgramming,"Designing a programming system for understanding programs.",programming
