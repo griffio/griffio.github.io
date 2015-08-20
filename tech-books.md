@@ -61,5 +61,6 @@ title: "Software Development Books"
   - Introducing adaptable design for HTML 
 - [Scalable and Modular Architecture for CSS](https://smacss.com/)
   - Handling CSS language in large scale implementations
-
+- [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
+  - Recent text on how to write object-oriented code
 
