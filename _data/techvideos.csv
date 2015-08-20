@@ -1,8 +1,8 @@
 name,url,tag
-twitter university,https://www.youtube.com/user/TwitterUniversity/videos,engineering
+twitter university,https://www.youtube.com/user/twitteruniversity/videos,engineering
 jsla,http://vimeo.com/jsla,javascript
-newcircle,https://www.youtube.com/user/MarakanaTechTV/videos,engineering
-clojuretv,http://www.youtube.com/user/ClojureTV/videos,clojure
+newcircle,https://www.youtube.com/user/marakanatechtv/videos,engineering
+clojuretv,http://www.youtube.com/user/clojuretv/videos,clojure
 frontendops,http://www.youtube.com/user/frontendopsconf/videos,web
 ndc 2014,http://vimeo.com/ndcoslo,software
 oradev,http://vimeo.com/user4280938/videos,software
@@ -10,64 +10,65 @@ front trends,http://vimeo.com/fronttrends,web
 groupon,http://vimeo.com/grouponengineering,engineering
 fronteers,http://vimeo.com/fronteers,web
 jsconf,http://www.youtube.com/user/jsconfeu,javascript
-css conf 2014,https://www.youtube.com/playlist?list=PL37ZVnwpeshH_e3YNmABDup81_1I7rCnC,web
+css conf 2014,https://www.youtube.com/playlist?list=pl37zvnwpeshh_e3ynmabdup81_1i7rcnc,web
 bret victor,http://vimeo.com/worrydream/videos,software
-spring developers,http://www.youtube.com/user/SpringSourceDev,engineering
+spring developers,http://www.youtube.com/user/springsourcedev,engineering
 channel 9,http://channel9.msdn.com,software
 bazaarvoice,http://vimeo.com/user19280234/videos,web
 sysadmin casts,http://sysadmincasts.com,engineering
 geekout 2014,http://2014.geekout.ee/presentations,software
 geecon 2014,http://vimeo.com/geecon/videos,software
-midwest.io 2014,https://www.youtube.com/channel/UCM_G4JCv0_MY85XdRoXByRw,software
+midwest.io 2014,https://www.youtube.com/channel/ucm_g4jcv0_my85xdroxbyrw,software
 henney,http://vimeo.com/channels/761265,software
-intel ux talks,https://www.youtube.com/playlist?list=PLg-UKERBljNy2Yem3RJkYL1V70dpzkysC,ux
-jetbrains,http://www.youtube.com/user/JetBrainsTV/videos,software
-google developers,http://www.youtube.com/user/GoogleDevelopers/videos,software
+intel ux talks,https://www.youtube.com/playlist?list=plg-ukerbljny2yem3rjkyl1v70dpzkysc,ux
+jetbrains,http://www.youtube.com/user/jetbrainstv/videos,software
+google developers,http://www.youtube.com/user/googledevelopers/videos,software
 rackspace,http://www.youtube.com/user/rackspacedeveloper/videos,engineering
-square,https://www.youtube.com/channel/UCNpr4Uyoxie4Dxa_RAgpriA,engineering
-strangeLoop,http://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw/videos,engineering
-oscon 2014,http://www.youtube.com/playlist?list=PLb0IAmt7-GS1hdDcokpVp1MBk-IaeaSgP,engineering
-at&t,http://www.youtube.com/channel/UCnpDurxReTSpFs5-AhDo8Kg,software
+square,https://www.youtube.com/channel/ucnpr4uyoxie4dxa_ragpria,engineering
+strangeloop,http://www.youtube.com/channel/uc_qifhvn9auy2coodsfmwdw/videos,engineering
+oscon 2014,http://www.youtube.com/playlist?list=plb0iamt7-gs1hddcokpvp1mbk-iaeasgp,engineering
+at&t,http://www.youtube.com/channel/ucnpdurxretspfs5-ahdo8kg,software
 agile prague 2014,http://vimeo.com/user9451672,software
 ember,http://vimeo.com/emberlondon/videos,javascript
 pubnub,http://vimeo.com/pubnub/videos,engineering
 nation conf,http://vimeo.com/user24051491/videos,software
 infoq,http://www.infoq.com/presentations,engineering
-goto,https://www.youtube.com/user/GotoConferences/videos,software
-facebook,https://www.youtube.com/user/FacebookDevelopers/videos,software
-ffconf 2014,https://www.youtube.com/playlist?list=PLXmT1r4krsTqrwW2jjXIXuCtFQ-5BIn-s,web
-docker,https://www.youtube.com/channel/UC76AVf2JkrwjxNKMuPpscHQ,engineering
-redbadger,https://www.youtube.com/channel/UCHlIVrJki1BxwKe7NtFYZRg,web
+goto,https://www.youtube.com/user/gotoconferences/videos,software
+facebook,https://www.youtube.com/user/facebookdevelopers/videos,software
+ffconf 2014,https://www.youtube.com/playlist?list=plxmt1r4krstqrww2jjxixuctfq-5bin-s,web
+docker,https://www.youtube.com/channel/uc76avf2jkrwjxnkmuppschq,engineering
+redbadger,https://www.youtube.com/channel/uchlivrjki1bxwke7ntfyzrg,web
 blinkon,https://www.youtube.com/user/blinkontalks/videos,blinkon
 javazone,https://vimeo.com/javazone/videos,java
-confreaks,https://www.youtube.com/user/Confreaks/videos,software
+confreaks,https://www.youtube.com/user/confreaks/videos,software
 sassbites,https://www.youtube.com/user/sassbites/videos,web
-F8,https://developers.facebooklive.com,engineering
-concat 2015,https://www.youtube.com/channel/UCLt5urt6awCiVsBxjKn7pNw/videos,software
+f8,https://developers.facebooklive.com,engineering
+concat 2015,https://www.youtube.com/channel/uclt5urt6awcivsbxjkn7pnw/videos,software
 euroclojure,https://vimeo.com/euroclojure,software
-JS Remote Conf 2015,https://www.youtube.com/playlist?list=PLt8NYnKC3dzL95z5xksIZHxFjErPlC3Xq,javascript
-applicative 2015,https://www.youtube.com/playlist?list=PLn0nrSd4xjjZoaFwsTnmS1UFj3ob7gf7s,engineering
+js remote conf 2015,https://www.youtube.com/playlist?list=plt8nynkc3dzl95z5xksizhxfjerplc3xq,javascript
+applicative 2015,https://www.youtube.com/playlist?list=pln0nrsd4xjjzoafwstnms1ufj3ob7gf7s,engineering
 craft conf 2015, http://craft-conf.com/2015,software
 git merge conf,http://git-merge.com,git
 web rebels,https://vimeo.com/webrebels,web
 grusp,https://vimeo.com/grusp,web
-vJUG,https://www.youtube.com/channel/UCBxVkwrVRo8BnQ1g96MHZ0Q,java
-droidcon berlin 2015,https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw,android
-JSConf Budapest 2015,https://www.youtube.com/channel/UCCjbi45K7abWuGGm2yfDg5w/videos,javascript
-code genius,https://www.youtube.com/channel/UC0sJ-t9e0NLmad5aqUyRUcg/videos,javascript
+vjug,https://www.youtube.com/channel/ucbxvkwrvro8bnq1g96mhz0q,java
+droidcon berlin 2015,https://www.youtube.com/channel/ucf4o2pq8vbv8ymsawb5qrpw,android
+jsconf budapest 2015,https://www.youtube.com/channel/uccjbi45k7abwuggm2yfdg5w/videos,javascript
+code genius,https://www.youtube.com/channel/uc0sj-t9e0nlmad5aquyrucg/videos,javascript
 the working group,https://vimeo.com/theworkinggroup/videos,engineering
-dot conferences,https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA,engineering
-gradleware,https://www.youtube.com/channel/UCvClhveoEjokKIuBAsSjEwQ/videos,gradle
+dot conferences,https://www.youtube.com/channel/ucsrhwam00ay0fasnsw6exka,engineering
+gradleware,https://www.youtube.com/channel/ucvclhveoejokkiubassjewq/videos,gradle
 polyconf,https://www.youtube.com/user/polyconf/videos,software
-meteor,https://www.youtube.com/user/MeteorVideos/videos,meteor
+meteor,https://www.youtube.com/user/meteorvideos/videos,meteor
 react tutorial,http://projects.formidablelabs.com/react-tutorial,javascript
-oscon 2015,https://www.youtube.com/playlist?list=PL055Epbe6d5YhDchEvY3O4nIuSLYyrx7K,software
-MIT Open courseware,https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw,engineering
+oscon 2015,https://www.youtube.com/playlist?list=pl055epbe6d5yhdchevy3o4niuslyyrx7k,software
+mit open courseware,https://www.youtube.com/channel/ucebb1b_l6zds3xturialzow,engineering
 cascadiajs,https://www.youtube.com/user/cascadiajs/videos,javascript
-curry on!,https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w/videos,software
-Apcera,https://www.youtube.com/user/ApceraVids/videos,engineering
-Layer7Tech,https://www.youtube.com/user/Layer7Tech,engineering
-Cyber Wizard Institute,https://www.youtube.com/channel/UCzDHOdHNitu70iiva25rV7w/videos,software
-Rest Fest,https://vimeo.com/restfest/videos,rest
+curry on!,https://www.youtube.com/channel/uc-wiccsw1k3hsscuxxdrp0w/videos,software
+apcera,https://www.youtube.com/user/apceravids/videos,engineering
+layer7tech,https://www.youtube.com/user/layer7tech,engineering
+cyber wizard institute,https://www.youtube.com/channel/uczdhodhnitu70iiva25rv7w/videos,software
+rest fest,https://vimeo.com/restfest/videos,rest
 let's write code,https://www.youtube.com/user/kylerobinsonyoung/playlists,javascript
-JVM Language Summit 2015,https://www.youtube.com/playlist?list=PLX8CzqL3ArzUo2dtMurvpUTAaujPMeuuU,java
+jvm language summit 2015,https://www.youtube.com/playlist?list=plx8czql3arzuo2dtmurvputaaujpmeuuu,java
+parens of the dead,https://www.youtube.com/user/emacsrocks/videos,clojure
