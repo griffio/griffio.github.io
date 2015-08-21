@@ -23,3 +23,5 @@
 [Developing ClojureScript With Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E)
 
 [Inline Styles are About to Kill CSS](https://www.youtube.com/watch?v=NoaxsCi13yQ)
+
+[The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y)
