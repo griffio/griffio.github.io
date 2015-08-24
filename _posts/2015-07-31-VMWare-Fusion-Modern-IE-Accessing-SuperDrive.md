@@ -17,7 +17,7 @@ The notification message is:
 "Your VM is configured to use legacy emulation but this host does not support it.
 Try configuring this virtual machine's CDROM to not use legacy emulation."
 
-Steps to fix.
+**Steps to fix.**
 
 Ideally this should be done immediately after extracting the image from the download.
 
