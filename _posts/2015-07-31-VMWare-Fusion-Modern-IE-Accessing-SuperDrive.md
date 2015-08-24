@@ -1,13 +1,13 @@
 ---
 layout: post
-title: How to allow VMWare Fusion 6 with a Modern.IE XP image access to the SuperDrive
+title: How to allow VMWare Fusion 6 with a Modern.IE XP image access to the SuperDrive in OSX
 category: tip
 tags: vmware
 published: true
 summary: Fixing VMWare Fusion 6 with Modern IE XP image accessing SuperDrive
 ---
 
-### How to allow the VMWare Fusion 6 with a Modern.IE XP image access to the SuperDrive
+### How to allow the VMWare Fusion 6 with a Modern.IE XP image access to the SuperDrive in OSX
 
 The problem. After downloading the "IE8 - WinXP" VmWare image from [modern.ie](http://dev.modern.ie/tools/vms/mac/)
 the SuperDrive CD-ROM on the Apple host is not accessible. 
