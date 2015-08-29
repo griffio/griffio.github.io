@@ -12,7 +12,10 @@ Companies with intentional culture:
 - Corporate marketing often creates the brand first and implements it top-down
 
 Open Plan
-- Desk farms
+- Desk Farms
+- Ear Cans
+- Furniture Police
+- Noise
 
 #### Diversity
 
@@ -242,6 +245,15 @@ Remote API - Timeouts - options? :Retry :Fail :Ask
 
 Eventual Consistency - When “facts” are distributed: ”The storage system guarantees that if no new updates are made to the object, eventually all accesses will return the last updated value.”. It is possible that stale information can be read until such time it will eventually be consistent with latest version of data. E.g Asking a circle of friends someones birthday, eventually the group will agree on the same answer.
 
+All Businesses are understanding they exist in a marketplace where developing software is increasingly dominate. First contact will be through mobile app. Agility is determined by how directly engaged the business is in creating software
+
+Hypervisor allows multiple guest operating systems to run on a single system at the same time by virtualisation of the hardware
+
+Be an ambassador for the customer inside your company, enabled to solve the problem on their behalf
+
+Github is not a resume - its just source control that you can share with anyone. If you have created/configured/documented something for your own reference you may as well share it with everyone that comes across it
+
+
 #### REST (Representational State Transfer)
 
 Architecture style works with networked hypermedia applications. Course-grain hypermedia data transfer. Not Limited to Http
@@ -284,7 +296,7 @@ Business apps have different lifespans based on how often the requirements chang
 
 Are they just lightweight CGI processes? Does it make sense on the JVM?
 
-#### Programming
+#### Software
 
 Text Protocols JSON/XML - There are standard parser/processors in environments(browsers) support many representations of user defined data. 
 
@@ -316,24 +328,13 @@ HighCharts - Cheap. Pension modellers, Chart Zooming, IE 6,7,8 compatible
 
 Process : Business team members working on creating a product that happens to be implemented in Software with developers
 
-ORM - when application controls data - effectively moving Stored Procedures in Java
+ORM - when application controls data - effectively moving Stored Procedures into Java
 
-Stored Procs - database program - can change scheme and expose data
+Stored Procs - database program compiled - can change schema and expose data
 
 #### HTTP
 
 401 Unauthorized, 403 Forbidden, 200 OK, 201 Created, 202 Accepted
-
-All Businesses are understanding they exist in a marketplace where developing software is increasingly dominate. First contact will be through mobile app. Agility is determined by how directly engaged the business is in creating software
-
-Hypervisor allows multiple guest operating systems to run on a single system at the same time by virtualisation of the hardware
-
-Be an ambassador for the customer inside your company, enabled to solve the problem on their behalf
-
-Github is not a resume - its just source control that you can share with anyone. If you have created/configured/documented something for your own reference you may as well share it with everyone that comes across it
-
-Guava Library dependency published in an open source framework is problematic in that it is so widely installed at clients how to ensure that versions don’t clash
-Client may have latest version and some methods deprecated in version depended in Open Source Library. Your application can only use one version. Open Source Library may not get updated frequently
 
 #### Release Management
 
@@ -359,6 +360,9 @@ https://github.com/thoughtbot/guides/blob/master/protocol/git/README.md
 
 #### Versioning
 
+Guava Library dependency published in an open source framework is problematic in that it is so widely installed at clients how to ensure that versions don’t clash
+Client may have latest version and some methods deprecated in version depended in Open Source Library. Your application can only use one version. Open Source Library may not get updated frequently
+
 Git SHA as version number for dependencies
 
 Semantic Versioning 2.0.0 Given a version number MAJOR.MINOR.PATCH, increment the:
@@ -374,3 +378,6 @@ Semantic Versioning 2.0.0 Given a version number MAJOR.MINOR.PATCH, increment th
 Functionality, does it exist in Postgres already? 
 
 “document store”, ”blob storage”, “key/value storage”, “nested table”, “graph database”, “distributed table”, “log database”, “distributed filesystem”
+
+NewSql
+- Voltdb
