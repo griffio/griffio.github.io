@@ -11,7 +11,7 @@ relative_permalinks: true
 title:            Griffio
 author:
   name:           'GRIFFIO'
-  url:            https://twitter.com/griffio_work
+  url:            https://github.com/griffio
 baseurl:          /
 paginate:         15
 
