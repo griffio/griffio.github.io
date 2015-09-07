@@ -16,3 +16,4 @@ REST APIs must be Hypertext-Driven,http://roy.gbiv.com/untangled/2008/rest-apis-
 The Bugs We Have to Kill,https://www.usenix.org/system/files/login/articles/login_aug15_02_bratus.pdf,"The code that parses inputs is the first and often the only protection
 for the rest of a program from malicious inputs.",engineering
 Learnable Programming,http://worrydream.com/LearnableProgramming,"Designing a programming system for understanding programs.",programming
+Five Years Building a Culture and Handing it Off,http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off,"After 5 years, the time has come. This is my last week as Etsy’s CTO.",engineering
