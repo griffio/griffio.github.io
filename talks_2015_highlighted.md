@@ -27,3 +27,5 @@
 [JVMLS 2015 - Flexible Types in Kotlin](https://www.youtube.com/watch?v=2IhT8HACc2E)
 
 [BSD Now 103 - Ubuntu Slaughters Kittens](https://www.youtube.com/watch?t=6380&v=l6XQUciI-Sc)
+
+[You Suck at Excel with Joel Spolsky](https://www.youtube.com/watch?v=0nbkaYsR94c)
