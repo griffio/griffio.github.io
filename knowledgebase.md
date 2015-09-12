@@ -302,7 +302,8 @@ Text Protocols JSON/XML - There are standard parser/processors in environments(b
 
 Json and XML have 1 version. Deserialisers for custom binary protocol have to be distributed to clients. Protobuf, Transit - static languages, dynamic languages. Gzip.
 
-A Web Page is a tree-like structure, yet the W3C DOM is represented like Java API. e.g instead of querying, selectors, chaining.
+A Web Page is a tree-like structure, yet the W3C DOM is represented like Java API. e.g instead of querying, selectors, chaining; exposing an information model.  
+
 
 Exclusivley use JSON for Web data formats
 Don’t produce or consume XML as data
