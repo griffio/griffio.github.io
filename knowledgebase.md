@@ -20,6 +20,7 @@ Open Plan
 #### Diversity
 
 The most challenging problem in tech industry is not technical but ensuring diversity in that technical culture
+Software is about People and their motivations
 Overcoming bias
 Not everyone has a long history in tech or has a computer science background
 This could include business people who are not used to or are intimidated by trying to create Software
