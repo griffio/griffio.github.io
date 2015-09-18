@@ -26,7 +26,7 @@ Since I am moving on from [Living Clojure](https://griffio.github.io/review/2015
 
 **This is for intermediate Clojurist**; who is familiar with the syntax - has solved puzzles in the REPL - ready to begin their journey into real development practices.
 
-**"From Practice to Practitioner" is the subtitle of Clojure Applied; an introduction in this book proposes that the commitment to learing the Clojure way of thinking begins in a longer middle stage of real work. 
+**From Practice to Practitioner** is the subtitle of Clojure Applied; an introduction in this book proposes that the commitment to learing the Clojure way of thinking begins in a longer middle stage of real work. 
 
 **As part of the Pragmatic Bookshelf** series the writing tone in “Clojure Applied” follows the question - What is the problem space this book is trying to solve?
 
