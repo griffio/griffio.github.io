@@ -65,7 +65,7 @@ In three chapters covering testing, data interoperation and deployment.
 
 **Testing** - [clojure.test](https://clojure.github.io/clojure/clojure.test-api.html) with assertions vs expectations, also considers Property based testing with [test.check](https://github.com/clojure/test.check).  
 
-**Formatting Data** - Probably my favourite section, Clojure is special with a first class interop story; EDN, JSON and Transit data serialisation formats have good coverage here.
+**Formatting Data** - Probably my favourite section, Clojure is special with a first class interop story; Edn, Json and [Transit](https://github.com/cognitect/transit-format)serialisation formats have good coverage here.
 
 **Macros are not covered** in this book as a development practice; one area where the book intentionally doesn’t go.
 
