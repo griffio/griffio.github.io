@@ -62,9 +62,9 @@ Libraries that are likely to be essential for use in this phase:-
 #### Third Part: Practices
 In three chapters covering testing, data interoperation and deployment.
 
-**Testing** - [clojure.test](https://clojure.github.io/clojure/clojure.test-api.html) with assertions vs expectations, also considers Property based testing[test.check](https://github.com/clojure/test.check)  
+**Testing** - [clojure.test](https://clojure.github.io/clojure/clojure.test-api.html) with assertions vs expectations, also considers Property based testing with [test.check](https://github.com/clojure/test.check).  
 
-**Formatting Data** - Probably my favourite section, Clojure is special with a first class interop story; EDN, JSON and Transit have good coverage of data serialisation formats to exchange the model. 
+**Formatting Data** - Probably my favourite section, Clojure is special with a first class interop story; EDN, JSON and Transit data serialisation formats have good coverage here.
 
 **Macros are not covered** in this book as a development practice; one area where the book intentionally doesn’t go.
 
@@ -75,4 +75,4 @@ One example mentioned is [Immutant.org](http://immutant.org/) from Red Hat Inc. 
 The appendices discuss the roots of Clojure influenced from LISP and the elements that make up the Clojure language. The process of “Practicing and Thinking” in Clojure is guided by core principles outlined in the second appendix.
 
 **What is a Practitioner**?
-A Practitioner will often choose the most direct idiomatic solution rather than the one that involves mastery of the implementation. Although the book only mentions “Practitioner” in the title, completing the book, we can take it to mean a professional developer who specialises in the application of Clojure within their team’s product or open source software.
+A Practitioner will often choose the most direct idiomatic solution rather than the one that involves mastery of the implementation. Although the book only mentions “Practitioner” in the title, completing the book, we can take it to mean a professional developer who specialises in the application of Clojure within their team’s project or open source software.
