@@ -9,22 +9,22 @@ summary: Clojure Applied Review - From Practice to Practitioner
 
 ![Clojure Applied Book](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/clojure_applied.jpg)
 
-### [Clojure-applied] https://pragprog.com/book/vmclojeco/clojure-applied
+### [Clojure-Applied] (https://pragprog.com/book/vmclojeco/clojure-applied)
 
 From authors [Ben Vandgrift](https://twitter.com/bvandgrift) & [Alex Miller](https://twitter.com/puredanger).
 
-#### Contents
+#### Parts in the book containing 210 pages
 
-1. Foundations
-1. Applications
-1. Practices
-1. Appendices
+* Foundations
+* Applications
+* Practices
+* Appendices
 
-Since I am moving on from [Living Clojure](https://griffio.github.io/review/2015/05/02/Living-Clojure-Review/); How is “Clojure Applied” different to the [dozen or so Clojure books](http://clojure-doc.org/articles/ecosystem/books.html) available?
+Since I am moving on from [Living Clojure](https://griffio.github.io/review/2015/05/02/Living-Clojure-Review/); How is “Clojure Applied” different to the [dozen or so Clojure books](http://clojure-doc.org/articles/ecosystem/books.html) released?
 
 **It does not follow any ‘Cookbook’ style**; instead the First and Second parts are sequential in approach. The Third part titled “Practices” describe reference material for production use. Finally, the Appendices contain the philosophy behind Clojure and the precise nature of its design.
 
-**This is for intermediate Clojurist**; familiar with the syntax, has solved puzzles in the REPL, ready to begin the journey into real development practices.
+**This is for intermediate Clojurist**; who is familiar with the syntax - has solved puzzles in the REPL - ready to begin their journey into real development practices.
 
 The introduction to this book proposes that a commitment to the Clojure language begins in the middle stage. The learning curve would be steeper if the developer had to master all the implementation details. 
 
