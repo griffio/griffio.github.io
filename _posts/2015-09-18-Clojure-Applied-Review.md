@@ -11,7 +11,7 @@ summary: Clojure Applied Review - From Practice to Practitioner
 
 ### [Clojure-Applied] (https://pragprog.com/book/vmclojeco/clojure-applied)
 
-From authors [Ben Vandgrift](https://twitter.com/bvandgrift) & [Alex Miller](https://twitter.com/puredanger).
+Authors [Ben Vandgrift](https://twitter.com/bvandgrift) & [Alex Miller](https://twitter.com/puredanger).
 
 #### Parts in the book containing 210 pages
 
@@ -26,7 +26,7 @@ Since I am moving on from [Living Clojure](https://griffio.github.io/review/2015
 
 **This is for intermediate Clojurist**; who is familiar with the syntax - has solved puzzles in the REPL - ready to begin their journey into real development practices.
 
-The introduction to this book proposes that a commitment to the Clojure language begins in the middle stage. The learning curve would be steeper if the developer had to master all the implementation details. 
+**"From Practice to Practitioner" is the subtitle of Clojure Applied; an introduction in this book proposes that the commitment to learing the Clojure way of thinking begins in a longer middle stage of real work. 
 
 **As part of the Pragmatic Bookshelf** series the writing tone in “Clojure Applied” follows the question - What is the problem space this book is trying to solve?
 
