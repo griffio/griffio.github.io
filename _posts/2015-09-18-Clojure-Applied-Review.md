@@ -9,7 +9,7 @@ summary: Clojure Applied Review - From Practice to Practitioner
 
 ![Clojure Applied Book](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/clojure_applied.jpg)
 
-### [Clojure-Applied](https://pragprog.com/book/vmclojeco/clojure-applied)
+### [Clojure Applied](https://pragprog.com/book/vmclojeco/clojure-applied)
 
 Authors [Ben Vandgrift](https://twitter.com/bvandgrift) & [Alex Miller](https://twitter.com/puredanger).
 
