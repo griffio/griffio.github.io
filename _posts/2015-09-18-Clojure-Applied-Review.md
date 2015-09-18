@@ -13,7 +13,7 @@ summary: Clojure Applied Review - From Practice to Practitioner
 
 Authors [Ben Vandgrift](https://twitter.com/bvandgrift) & [Alex Miller](https://twitter.com/puredanger).
 
-#### An overview of the contents containing 211 pages
+#### This is an overview of the first printed book available (Sept 2015) containing 211 pages
 
 * Foundations
 * Applications
