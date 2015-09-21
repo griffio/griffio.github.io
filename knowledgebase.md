@@ -201,6 +201,8 @@ Math.addExact
 
 Exposes (via Unsafe) a fetch-and-add (XADD) instruction that classes such as AtomicInteger can take advantage of to implement their atomicity guarantees. This has a significant advantage over the Java 7 implementation, which instead relies on compare-and-swap (CAS). Improves Guava cache etc.
 
+Java syncronized hardware level atomic transactions using TSX instructions.
+
 #### Java Origins
 
 Java is Virtual Machine Control Language -  a ‘C’ like language with a layer of 1990’s era Object Classes, also a reaction against C++. (e.g no pointers, only Single Inheritance from an implementation class)
