@@ -33,3 +33,5 @@
 [Supercharging page load](https://www.youtube.com/watch?v=d5_6yHixpsQ)
 
 [Performance and Lies](https://www.youtube.com/watch?v=0tUrbf6Uzu8)
+
+[Memory Compression in Windows 10 RTM](https://channel9.msdn.com/Blogs/Seth-Juarez/Memory-Compression-in-Windows-10-RTM)
