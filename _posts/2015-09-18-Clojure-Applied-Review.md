@@ -48,7 +48,7 @@ The essence of this practice is to model your domain data, transform it with fun
 
 A Clojure application brings together "State and Identity" applied with techniques for managing change in the model data.
 
-Transactional units of work and concurrency combined with parallelism using reducers show the advantage of immutable data. 
+Transactional units of work and concurrency combined with parallelism using [reducers](http://clojure.org/reducers) show the advantage of immutable data.
 
 **There are half a dozen diagrams** throughout to illustrate the effect of asynchronous programming models.
 
