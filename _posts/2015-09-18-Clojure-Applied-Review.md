@@ -32,13 +32,13 @@ Since I am moving on from [Living Clojure](https://griffio.github.io/review/2015
 
 #### First Part: Foundations
 
-The core concept presented across three chapters, is to model domain entities, then, group entities with the immutable collection of our choice; finally apply sequential processing with transformational functions.
+The core concepts presented across three chapters begin with modelling domain entities, then, grouping entities with the immutable collection of our choice; finally applying sequential processing with transformational functions. We learn the key abstraction in Clojure is a Sequence.
 
-For efficiency or performance, some alternative implementation support is discussed with these additional libraries:- clojure.lang.PersistentQueue, [Transients](http://clojure.org/transients), [Medley](https://github.com/weavejester/medley)
+For efficiency or performance reasons, some alternative implementations are discussed with additional library support:- clojure.lang.PersistentQueue, [Transients](http://clojure.org/transients), [Medley](https://github.com/weavejester/medley).
 
-This doesn’t build up a single application, instead the authors illustrate modelling with some example domains e.g. Money, Customer, Cart, Orders and even trying out Planetary exploration!
+This first section doesn’t build up a single application throughout, instead the authors illustrate modelling with some example domains e.g. Money, Customer, Cart, Orders and even trying out Planetary exploration!
 
-This is finally presented, pulled together, as a Customer Order domain example using reducers to produce a final revenue style report.
+Finally, these idioms are illustrated - pulled together - as a "Customer shopping cart" domain example using reducers to produce a final revenue style report.
 
 #### Second Part: Applications
 
