@@ -32,7 +32,9 @@ Since I am moving on from [Living Clojure](https://griffio.github.io/review/2015
 
 #### First Part: Foundations
 
-The core concepts presented across three chapters begin with modelling domain entities, then, grouping entities with the immutable collection of our choice; finally applying sequential processing with transformational functions. We learn the key abstraction in Clojure is a Sequence.
+The core concepts presented across three chapters begin with modelling domain entities, then, grouping entities with the immutable collection of our choice; finally applying sequential processing with transformational functions. 
+
+**We learn the key abstraction in Clojure is a Sequence.**
 
 For efficiency or performance reasons, some alternative implementations are discussed with additional library support:- clojure.lang.PersistentQueue, [Transients](http://clojure.org/transients), [Medley](https://github.com/weavejester/medley).
 
