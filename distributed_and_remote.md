@@ -36,6 +36,8 @@ http://wearemammoth.com/2015/06/wam-workspaces-salt-lake-city-edition
 
 http://www.nopantsfest.be/
 
+http://zachholman.com/posts/remote-first/
+
 https://medium.com/s-c-a-l-e/github-scaling-on-ruby-with-a-nomadic-tech-team-4db562b96dcd
 
 http://blog.fogcreek.com/secrets-behind-etsys-remote-working-success-interview-with-brad-greenlee/
