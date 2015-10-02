@@ -19,7 +19,10 @@ Company management, [ones with pointy hair](http://dilbert.com/strip/2001-12-16)
 
 Remote First adoption by companies means that the weaknesses below are exposed and can be acted on for the benefit of all employees.
 
-* Attendance does not always equal productivity.
+* Working at the HQ or working from Home should not be a zero-sum game.
+  * You may need the flexibility to alternate dependending on what is the most effective at a given time.
+
+* For employees, attendance does not always equal productivity.
 
 * Lack of diversity in hiring. Employees must not be sourced from the same location.
 
@@ -39,7 +42,7 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 * Provincial culture - local teams working in Desk Farms - local assumptions.
   * Poor knowledge sharing. Ever experienced contacting teams by email to source information? You may as well have sent your email to dev/null.
 
-* Single Point of Failure. Contingency Planning. Disaster recovery. Fire Drill.
+* Location becomes a single point of failure. Contingency Planning. Disaster recovery. Fire Drill.
   * Marching ants can recover.
  
 * Depending on your circumstances the best time for productivity is lost commuting.
