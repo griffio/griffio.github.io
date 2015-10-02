@@ -11,9 +11,9 @@ summary: Remote First Culture
 
 Companies that adopt remote first working practices are going to be way ahead in how their brand is ultimately perceived, i.e the opposite of [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/), and that is favourably by potential employees who now want to be employed there.
 
-_Environment Drives Culture, Culture Drives Brand_.
+**Environment Drives Culture, Culture Drives Brand.**
 
-Company management, ones with pointy hair, may only see benefits to adopting a remote first culture when an external positive response causes the Company share price to increase rather than it simply makes employees happy/motivated.
+Company management, [ones with pointy hair](http://dilbert.com/strip/2001-12-16), may only see benefits to adopting a remote first culture when an external positive response causes the Company share price to increase rather than it simply makes employees happy/motivated.
 
 **What communication problems can be improved when the first assumption is that teams are not co-located?**
 
@@ -46,9 +46,13 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 
 **Be intentional**
 
-* If teams choose to work in the same location. Provide a quality working environment and not Desk Farms.
+* It's about being in control - otherwise you are simply a [minion](http://www.minionsmovie.com/minions.html).
 
-* If one team member is remote, all the team is effectively remote in attitude.
+* When the predominate method of working is online it should be apparent when the team absolutley needs to meet in person.
+
+* If teams choose to work in the same location then provide a quality working environment - not Desk Farms.
+
+* If one team member is remote, all the team is effectively remote in attitude and dedicated to supporting remote people.
 
 * Video technologies allow everyone to show up to meetings equally so they can make decisions too.
 
@@ -59,7 +63,7 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 * Todays software is built around the idea that you are not co-located - Mobile messaging, VOIP.
   * Companies that make this kind of software and are not Remote First, its like saying your products don't work.
 
-* Tools gaining growth and mindshare that work locally and remote such as [Slack](https://slack.com/), [Trello](https://trello.com/), [Distributed version control](https://github.com).
+* Tools gaining growth and mindshare that work locally and remote such as [Slack](https://slack.com/), [Trello](https://trello.com/), [Zulip](https://zulip.org/), [Distributed version control](https://github.com).
 
 * Remote first teams can become increasingly skilful and have better empathy.
   * The skill set to acquire in the next few years is distributed working practices.
