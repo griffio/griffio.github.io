@@ -22,7 +22,10 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 * Working at the HQ or working from Home should not be a zero-sum game.
   * You may need the flexibility to alternate dependending on what is the most effective at a given time.
 
+* Employees spread across floors or buildings can benefit from the change in Culture. 
+
 * For employees, attendance does not always equal productivity.
+  * Some company Cultures equate Work with just showing up and attending meetings.
 
 * Lack of diversity in hiring. Employees must not be sourced from the same location.
 
