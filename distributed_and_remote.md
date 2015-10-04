@@ -45,3 +45,5 @@ http://blog.fogcreek.com/secrets-behind-etsys-remote-working-success-interview-w
 http://shaunagordon.com/blog/2015/05/15/in-defense-of-remote-friendly-work-environments/
 
 http://jacqueswoodcock.tumblr.com/post/101676861220/a-chance-to-practice-what-i-preach-a-remote-ready
+
+https://www.compose.io/articles/making-remote-work-work-an-adventure-in-time-and-space/
