@@ -33,7 +33,7 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 
 * Lack of knowlegde sharing and the assumpution that everyone knows things at the same time.
 
-* [Salaries](http://www.glassdoor.com/Salaries/san-francisco-software-engineer-salary-SRCH_IL.0,13_IM759_KO14,31.htm), [Rents](http://priceonomics.com/the-san-francisco-rent-explosion-part-iii/) and Commuting costs increasing in San Francisco/London make remote working more rational and logical.
+* [Salaries](http://blog.onradpad.com/employees-are-paying-this-much-to-live-next-to-unicorns-in-sf/), [Rents](http://priceonomics.com/the-san-francisco-rent-explosion-part-iii/) and Commuting costs increasing in San Francisco/London make remote working more rational and logical.
   * Either that or Tech knowledge workers will have to live in conditions next to their place of [employment](https://www.apple.com/supplier-responsibility/progress-report/).
  
 * If you are communicating by email then you are effectively remote.
