@@ -41,3 +41,7 @@ http://zachholman.com/posts/remote-first/
 https://medium.com/s-c-a-l-e/github-scaling-on-ruby-with-a-nomadic-tech-team-4db562b96dcd
 
 http://blog.fogcreek.com/secrets-behind-etsys-remote-working-success-interview-with-brad-greenlee/
+
+http://shaunagordon.com/blog/2015/05/15/in-defense-of-remote-friendly-work-environments/
+
+http://jacqueswoodcock.tumblr.com/post/101676861220/a-chance-to-practice-what-i-preach-a-remote-ready
