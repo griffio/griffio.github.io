@@ -24,6 +24,8 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 
 * Employees spread across floors or buildings can benefit from the change in Culture. 
 
+* Senior Management usually works together at their local visibility level.
+
 * For employees, attendance does not always equal productivity.
   * Traditional company Culture equates Work with just showing up and attending meetings.
 
