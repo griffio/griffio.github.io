@@ -39,3 +39,7 @@
 [Bridging Language Barriers with Transit](https://www.youtube.com/watch?v=KBl8hoiuwQY)
 
 [Kolmogorov music](https://www.youtube.com/watch?v=Qg3XOfioapI)
+
+[Pattern Matching in Clojure](https://www.youtube.com/watch?v=n7aE6k8o_BU)
+
+[Styling Forms Semantically & Accessibly] (https://www.youtube.com/watch?v=j5sVESVbEzo)
