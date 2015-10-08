@@ -42,7 +42,7 @@ boolean isBonusSalary && isGreaterThanThreshold;
 ~~~java
 BooleanExpression isBonusSalary = QSalaryDetail.salaryDetail.salaryName.equalsIgnoreCase("Bonus");
 BooleanExpression isGreaterThanThreshold = QSalaryDetail.salaryDetail.salary.goe(payThreshold);
-BooleanExpression isBonusAboveThreshold = isBonus.and(isGreaterThanThreshold);
+BooleanExpression isBonusAboveThreshold = isBonusSalary.and(isGreaterThanThreshold);
 ~~~
 
 #### Types
