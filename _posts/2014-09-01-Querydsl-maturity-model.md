@@ -135,7 +135,7 @@ List<String> uniqueSalaryNames = CollQueryFactory
     .innerJoin(QEmployeeSalary.employeeSalary.salaryDetail, QSalaryDetail.salaryDetail)
     .where(QSalaryDetail.salaryDetail.isSalaryRelevant())
     .distinct()
-    .list(QEmployeeSalary.employeeSalary.salaryName);
+    .list(QEmployeeSalary.employeeSalary.salaryDetail.salaryName);
 ~~~
 
 ---
