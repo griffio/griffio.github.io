@@ -57,11 +57,11 @@ com.mysema.query.types.path
 BooleanBuilder is a mutable predicate instance.
 
 ~~~java
-BooleanBuilder isReleventSalaryName = new BooleanBuilder();
+BooleanBuilder isRelevantSalaryName = new BooleanBuilder();
 for (String salaryName : relevantSalaryNames) {
-    isReleventSalaryName.or(QSalaryDetail.salaryDetail.salaryName.eq(salaryName));      
+    isRelevantSalaryName.or(QSalaryDetail.salaryDetail.salaryName.eq(salaryName));      
 }
-isReleventSalaryName.and(QSalaryDetail.salaryDetail.salary.gt(thresholdForPayPeriod));
+isRelevantSalaryName.and(QSalaryDetail.salaryDetail.salary.gt(thresholdForPayPeriod));
 ~~~
 
 ---
