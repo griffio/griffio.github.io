@@ -68,10 +68,9 @@ isRelevantSalaryName.and(QSalaryDetail.salaryDetail.salary.gt(thresholdForPayPer
 
 CaseBuilder is the expression produced by a matching predicate or a default expression. 
 
-
 ~~~java
 
-CaseBuilder caseOfSalaryname = new CaseBuilder()
+StringExpression caseSalaryName = new CaseBuilder()
         .when(QSalaryDetail.salaryDetail.isSalaryRelevant()
             .and(QSalaryDetail.salaryDetail.salary.goe(thresholdForPayPeriod)))
         .then(QSalaryDetail.salaryDetail.salaryName)
