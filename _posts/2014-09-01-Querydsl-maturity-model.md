@@ -131,11 +131,11 @@ private List<String> uniqueSalaryNames(Collection<EmployeeSalary> employeeSalari
 
 ~~~java
 List<String> uniqueSalaryNames = CollQueryFactory
-    .from(QEmployeeSalary.employeeSalary, employeeSalary)
-    .innerJoin(QEmployeeSalary.employeeSalary.salaryDetail, QSalaryDetail.salaryDetail)
+    .from(QEmployeeSalary.employeeSalary, employeeSalaries)
+    .innerJoin(QEmployeeSalary.employeeSalary.salaryDetails, QSalaryDetail.salaryDetail)
     .where(QSalaryDetail.salaryDetail.isSalaryRelevant())
     .distinct()
-    .list(QEmployeeSalary.employeeSalary.salaryDetail.salaryName);
+    .list(QSalaryDetail.salaryDetail.salaryName);
 ~~~
 
 ---
