@@ -151,9 +151,10 @@ This example takes a collection of salaries and returns an aggregate collection 
 ~~~java
 List<SalaryDetail> aggregatedSalaries = 
     CollQueryFactory.from(QSalaryDetail.salaryDetail, salaryDetails)
+    .orderBy(salaryDetail.salaryName.asc())
     .transform(GroupBy.groupBy(QSalaryDetail.salaryDetail.salaryName)
-    .list(QSalaryDetail.create(QSalaryDetail.salaryDetail.salaryName,    
-        GroupBy.sum(QSalaryDetail.salaryDetail.salary))));
+        .list(QSalaryDetail.create(QSalaryDetail.salaryDetail.salaryName,  
+            GroupBy.sum(QSalaryDetail.salaryDetail.salary))));
 ~~~
 
 ---
