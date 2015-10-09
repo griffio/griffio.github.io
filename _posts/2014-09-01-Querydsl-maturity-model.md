@@ -150,9 +150,10 @@ This example takes a collection of salaries and returns an aggregate collection 
 
 ~~~java
 
-Map<String, BigDecimal> aggregatedSalaries = from(QSalaryDetail.salaryDetail, salaryDetails)
-     .transform(GroupBy.groupBy(caseSalaryName)
-        .as(GroupBy.sum(QSalaryDetail.salaryDetail.salary)));
+Map<String, BigDecimal> aggregatedSalaries =
+    CollQueryFactory.from(QSalaryDetail.salaryDetail, salaryDetails)
+        .transform(GroupBy.groupBy(caseSalaryName)
+            .as(GroupBy.sum(QSalaryDetail.salaryDetail.salary)));
 
 
 List<SalaryDetail> aggregatedSalaries = 
