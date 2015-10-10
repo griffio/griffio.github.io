@@ -1,37 +1,37 @@
 name,url,tag
-twitter university,https://www.youtube.com/user/twitteruniversity/videos,engineering
+twitter university,https://www.youtube.com/user/twitteruniversity/videos,developers
 jsla,http://vimeo.com/jsla,javascript
 newcircle,https://www.youtube.com/user/marakanatechtv/videos,engineering
 clojuretv,http://www.youtube.com/user/clojuretv/videos,clojure
 frontendops,http://www.youtube.com/user/frontendopsconf/videos,web
-ndc,http://vimeo.com/ndcoslo,software
-oradev,http://vimeo.com/user4280938/videos,software
+ndc,http://vimeo.com/ndcoslo,developers
+oradev,http://vimeo.com/user4280938/videos,developers
 front trends,http://vimeo.com/fronttrends,web
 groupon,http://vimeo.com/grouponengineering,engineering
 fronteers,http://vimeo.com/fronteers,web
 jsconf,http://www.youtube.com/user/jsconfeu,javascript
 bret victor,http://vimeo.com/worrydream/videos,software
 spring developers,http://www.youtube.com/user/springsourcedev,engineering
-channel 9,http://channel9.msdn.com,software
+channel 9,http://channel9.msdn.com,developers
 bazaarvoice,http://vimeo.com/user19280234/videos,web
 sysadmin casts,http://sysadmincasts.com,engineering
-geecon,http://vimeo.com/geecon/videos,software
+geecon,http://vimeo.com/geecon/videos,developers
 henney,http://vimeo.com/channels/761265,software
 intel ux talks,https://www.youtube.com/playlist?list=PLg-UKERBljNy2Yem3RJkYL1V70dpzkysC,ux
 jetbrains,http://www.youtube.com/user/jetbrainstv/videos,software
-google developers,http://www.youtube.com/user/googledevelopers/videos,software
+google developers,http://www.youtube.com/user/googledevelopers/videos,developers
 rackspace,http://www.youtube.com/user/rackspacedeveloper/videos,engineering
 square,https://www.youtube.com/user/SquareEngineering/videos,engineering
 strangeloop 2015,https://www.youtube.com/playlist?list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R,engineering
 ember,http://vimeo.com/emberlondon/videos,javascript
 pubnub,http://vimeo.com/pubnub/videos,engineering
-nation conf,http://vimeo.com/user24051491/videos,software
-infoq,http://www.infoq.com/presentations,engineering
-goto,https://www.youtube.com/user/gotoconferences/videos,software
-facebook,https://www.youtube.com/user/facebookdevelopers/videos,software
+nation conf,http://vimeo.com/user24051491/videos,engineering
+infoq,http://www.infoq.com/presentations,software
+goto,https://www.youtube.com/user/gotoconferences/videos,developers
+facebook,https://www.youtube.com/user/facebookdevelopers/videos,developers
 docker,https://www.youtube.com/user/dockerrun/videos,engineering
 redbadger,https://www.youtube.com/channel/UCHlIVrJki1BxwKe7NtFYZRg/videos,web
-blinkon,https://www.youtube.com/user/blinkontalks/videos,blinkon
+blinkon,https://www.youtube.com/user/blinkontalks/videos,web
 javazone,https://vimeo.com/javazone/videos,java
 confreaks,https://www.youtube.com/user/confreaks/videos,software
 sassbites,https://www.youtube.com/user/sassbites/videos,web
@@ -44,7 +44,7 @@ craft conf 2015, http://craft-conf.com/2015,software
 git merge conf,http://git-merge.com,git
 web rebels,https://vimeo.com/webrebels,web
 grusp,https://vimeo.com/grusp,web
-vjug,https://www.youtube.com/channel/ucbxvkwrvro8bnq1g96mhz0q,java
+vjug,https://www.youtube.com/user/virtualJUG/videos,java
 droidcon berlin 2015,https://www.youtube.com/playlist?list=PL9Pfzam3fFdeURdCGf1vlBrnMn3MxjvRS,android
 jsconf budapest 2015,https://www.youtube.com/playlist?list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm,javascript
 code genius,https://www.youtube.com/playlist?list=PLJpP2DkXrhHq_lCDqK_jsXIL0Qp-YZDJl,javascript
@@ -53,7 +53,7 @@ dot conferences,https://www.youtube.com/user/dotconferences,engineering
 gradleware,https://www.youtube.com/channel/UCvClhveoEjokKIuBAsSjEwQ/videos,gradle
 polyconf,https://www.youtube.com/user/polyconf/videos,software
 meteor,https://www.youtube.com/user/meteorvideos/videos,meteor
-react tutorial,http://projects.formidablelabs.com/react-tutorial,javascript
+react tutorial,http://projects.formidablelabs.com/react-tutorial,reactjs
 oscon 2015,https://www.youtube.com/playlist?list=PL055Epbe6d5YhDchEvY3O4nIuSLYyrx7K,software
 cascadiajs,https://www.youtube.com/user/cascadiajs/videos,javascript
 curry on!,https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w/videos,software
@@ -72,9 +72,9 @@ reacteurope,https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A/videos,reac
 cssconf australia 2015,https://www.youtube.com/playlist?list=PLZriQCloF6GDjyRxP60LBR73Ldd7soGOz,css
 githubguides,https://www.youtube.com/user/GitHubGuides/videos,software
 droidcon nyc 2015,https://www.youtube.com/playlist?list=PLnVy79PaFHMUqqvwbjyKJZv1N8rzHOCBi,android
-devopsdays 2015,http://confreaks.tv/events/devopsdayschi2015,devops
-reactrally 2015,https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw,reactjs
-foocafe,https://www.youtube.com/user/FooCafe/videos,software
+devops days 2015,http://confreaks.tv/events/devopsdayschi2015,devops
+react rally 2015,https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw,reactjs
+foocafe,https://www.youtube.com/user/FooCafe/videos,engineering
 ruby remote conf,https://www.youtube.com/playlist?list=PLJesql-aSfX5wDU8ALH2bRd_xvw27klTQ,ruby
 clojutre 2015,https://www.youtube.com/playlist?list=PLetHPRQvX4a_tA9hGP935-OyLOYaRKpnj,clojure
 java,https://www.youtube.com/user/java/videos,java
@@ -82,5 +82,5 @@ java,https://www.youtube.com/user/java/videos,java
 android dialogs,https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug,android
 container camp 2015,https://www.youtube.com/playlist?list=PLcHZXHMeDzxUrNpD2Tms-zrZn9etw6JcQ,engineering
 full stack fest barcelona 2015,https://www.youtube.com/playlist?list=PLe9psSNJBf77PgzYZ2yId2RfUkd9_lMMr,engineering
-abb devday,https://www.youtube.com/user/ABBDevDay/videos,engineering
+abb devday,https://www.youtube.com/user/ABBDevDay/videos,developers
 nordic.js 2015,https://www.youtube.com/playlist?list=PLGP3VO5jDf8y5yRtyQ4SU2JW6m9NLoNle,javascript
