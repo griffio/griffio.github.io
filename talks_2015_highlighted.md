@@ -1,4 +1,5 @@
 2015 - Highlighted Tech Talks
+[Data fetching for React applications at Facebook](https://www.youtube.com/watch?v=9sc8Pyc51uU)
 
 [We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc)
 
