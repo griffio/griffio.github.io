@@ -316,6 +316,8 @@ Inversion of Control
 - Don’t call framework code, framework calls into components
 
 The Spring Project is an example of maintaining a forward and backward compatible framework (e.g for Java 6,7,8)
+Developers can take it for granted - Engineering team for "free".
+Other JVM languages - Clojure - developer can't assume anything is available.
 
 Asynchronous Api: Failure should be a first-class concept 
 
