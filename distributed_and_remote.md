@@ -51,3 +51,5 @@ https://www.compose.io/articles/making-remote-work-work-an-adventure-in-time-and
 http://customer.io/blog/Lessons-from-becoming-a-remote-team.html
 
 http://www.theatlantic.com/business/archive/2015/10/whats-lost-in-the-office-when-most-people-work-from-home/40966/
+
+https://github.com/clef/handbook/issues/72
