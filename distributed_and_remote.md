@@ -53,3 +53,6 @@ http://customer.io/blog/Lessons-from-becoming-a-remote-team.html
 http://www.theatlantic.com/business/archive/2015/10/whats-lost-in-the-office-when-most-people-work-from-home/40966/
 
 https://github.com/clef/handbook/issues/72
+
+https://about.gitlab.com/2015/04/08/the-remote-manifesto/
+
