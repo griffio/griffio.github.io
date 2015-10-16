@@ -269,7 +269,7 @@ Roy Fielding - REST architecture style of the Internet, instead of RPC style Web
 
 e.g a Response data contains a self-linking URL. Richardson Maturity Model. “application/hal+json”; https://pushpay.io/docs/operations#post__v1_anticipatedpayments, https://reverb.com/page/api
 
-Rest API - discoverable APIs, should a version need to be specified? Semantic versioning, backward/forward compatible 
+Rest API - discoverable APIs, should a version need to be specified? Semantic versioning, backward/forward compatible, Content negotiation.
 
 Rest Pagination - Links for next and previous pages, counts
 
