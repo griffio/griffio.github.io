@@ -2,20 +2,23 @@
 
 ####Environment Drives Culture, Culture Drives Brand
 
-Companies with intentional culture: 
+Companies with intentional culture:
+
 - Atlassian
 - AtomicObject
 - Thoughtbot
-- Stack Exchange
+- Stack Overflow
 
 **Brand** is a form of group-think and can be toxic if inhaled internally. Output only
 - Corporate marketing often creates the brand first and implements it top-down
+- Brand is arrived at through the on going culture and not by simply inventing a set of values
 
 Open Plan
 - Desk Farms
 - Ear Cans
 - Furniture Police
-- Noise
+- Meetings
+- Interruptions
 
 #### Diversity
 
@@ -28,7 +31,7 @@ It makes the team better as it improves recruitment
 The focus is on sourcing not on filtering
 Hiring for potential
 Fill the blind spots
-There is business need for it
+There is a business need for it
 - e.g Bitly are a Python shop but are using GoLang to solve problems that Python is less suited for  
 Attracting new developers with ideas rather than relying on incumbent developers that keep it the same
 Therefore hiring is encouraged to be diverse
