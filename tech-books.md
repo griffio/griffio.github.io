@@ -63,4 +63,6 @@ title: "Software Development Books"
   - Handling CSS language in large scale implementations
 - [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
   - Recent text on how to write object-oriented code
+- [Building Hypermedia APIs with HTML5 and Node](https://openlibrary.org/works/OL16604906W/Building_Hypermedia_APIs_with_HTML5_and_Node)
+  - Hypermedia driven application concepts and solutions
 
