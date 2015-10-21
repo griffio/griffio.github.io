@@ -48,6 +48,9 @@ Company Tech blog
 
 ### Remote First
 
+Syncronising meetings across time zones - rolling meeting participants?
+Co-located team members need to ensure updates are syncronised to remotes.
+
 Is determined by personal situation and the way I work
 Remote teams will become increasingly skillful
 Choose the most effective location to be
@@ -62,7 +65,7 @@ Marching ants, disaster recovery - WeWork private offices located in hubs
 Contingency Planning. Disaster recovery. Fire Drill
 
 Remote Distributed Lessons : Remote working is a distributed protocol 
-If one person is remote. Everyone works as if remote
+If one person is remote. Everyone works as if remote disposition
 No local privileges 
 Catch everyone up to local conversations
 Establish communication channel for business changes
@@ -70,7 +73,7 @@ Log of updates accessible across timezones
 Every party should access video chat and be in-sync
 Capturing information locally for future distribution. For team members that haven’t even started yet
 Herding Unicorns
-Prove ability can work remote and stay sane 
+Prove ability can work remote and stay sane
 What is my threshold for productivity? Totally remote, Commute some of the week? Commute nearer?
 
 #### Co-located
