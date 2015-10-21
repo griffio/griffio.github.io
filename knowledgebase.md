@@ -85,6 +85,8 @@ Not value for money. 15-20k over 5 years
 Single Point of failure
 Best time of productivity is lost commuting
 Disregards people who are not here yet and anyone that may work on the project in the future
+Open Plan - open office space and worker wears headphones often shown in office culture photo ops
+Only achieving 1/10th of the productivity.
 
 ### Open Source
 
