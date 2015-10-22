@@ -78,6 +78,8 @@ What is my threshold for productivity? Totally remote, Commute some of the week?
 
 Create a new chat channel for a specific client - everyone involved jumps in. 
 
+DiscordApp - https://github.com/reactiflux/volunteers/issues/25
+
 #### Co-located
 
 Part of growing problem. Adding to congestion
