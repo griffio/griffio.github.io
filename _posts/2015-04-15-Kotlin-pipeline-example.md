@@ -48,7 +48,7 @@ This shows that the Kotlin mapValue operation will transform the value associate
 
 ~~~
 public inline fun <K, V, R, C : MutableMap<K, R>> Map<K, V>.mapValuesTo(destination: C,
-                                                                        transform: (Map.Entry<K, V>) -> R): C {
+                                                            transform: (Map.Entry<K, V>) -> R): C {
     for (e in this) {
         val newValue = transform(e)
         destination.put(e.key, newValue)
