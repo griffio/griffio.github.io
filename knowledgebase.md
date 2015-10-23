@@ -75,6 +75,8 @@ Capturing information locally for future distribution. For team members that hav
 Herding Unicorns
 Prove ability can work remote and stay sane
 What is my threshold for productivity? Totally remote, Commute some of the week? Commute nearer?
+Team as Small social network - people share on twitter and message each other out-of-band communication. 
+
 
 Create a new chat channel for a specific client - everyone involved jumps in. 
 
