@@ -33,7 +33,8 @@ An imperative implementation, or a Fold operator, would typically  create one re
 This shows that the Kotlin groupBy operation will always use a list associated with each key.
 
 ~~~
-public inline fun <K> String.groupByTo(map: MutableMap<K, MutableList<Char>>, toKey: (Char) -> K): Map<K, MutableList<Char>> {
+public inline fun <K> String.groupByTo(map: MutableMap<K, MutableList<Char>>,
+                                       toKey: (Char) -> K): Map<K, MutableList<Char>> {
     for (element in this) {
         val key = toKey(element)
         val list = map.getOrPut(key) { ArrayList<Char>() }
