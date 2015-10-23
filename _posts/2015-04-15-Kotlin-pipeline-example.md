@@ -7,14 +7,14 @@ published: true
 summary: Using Kotlin std library to pipeline characters
 ---
 
-An example using [Kotlin](http://kotlinlang.org), as at version 0.13.1513, to show a "functional" pipeline that transforms the input text   resulting in a Map associating the character to its occurrence.
+An example using [Kotlin](http://kotlinlang.org), as at version kotlin 1.0.0-beta-1038, to show a "functional" pipeline that transforms the input text   resulting in a Map associating the character to its occurrence.
 
 This simple Kotlin example will be compared to an imperative example and a Java 8 stream implementation.
 
 ~~~
  val input = "Mississippi"
 
- val result = input groupBy{it} mapValues{it.value.size()}
+ val result = input.groupBy {it}.mapValues { it.value.size }
 
  println("result = ${result}")
 ~~~
@@ -30,14 +30,13 @@ The two stages in the pipeline are grouping and transforming, separated by the i
 
 An imperative implementation, or a Fold operator, would typically  create one result Map and not require an intermediate list for grouping.
 
-This shows that the Kotlin groupBy operation will always create a list associated with each key.
+This shows that the Kotlin groupBy operation will always use a list associated with each key.
 
 ~~~
-public inline fun <T, K> Array<out T>.groupByTo(map: MutableMap<K, MutableList<T>>, 
-                                         toKey: (T) -> K): Map<K, MutableList<T>> {
+public inline fun <K> String.groupByTo(map: MutableMap<K, MutableList<Char>>, toKey: (Char) -> K): Map<K, MutableList<Char>> {
     for (element in this) {
         val key = toKey(element)
-        val list = map.getOrPut(key) { ArrayList<T>() }
+        val list = map.getOrPut(key) { ArrayList<Char>() }
         list.add(element)
     }
     return map
@@ -48,7 +47,7 @@ This shows that the Kotlin mapValue operation will transform the value associate
 
 ~~~
 public inline fun <K, V, R, C : MutableMap<K, R>> Map<K, V>.mapValuesTo(destination: C,
-                                                transform: (Map.Entry<K, V>) -> R): C {
+                                                                        transform: (Map.Entry<K, V>) -> R): C {
     for (e in this) {
         val newValue = transform(e)
         destination.put(e.key, newValue)
