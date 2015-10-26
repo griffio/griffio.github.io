@@ -294,6 +294,8 @@ Rest Pagination - Links for next and previous pages, counts
 
 https://api.foxycart.com/docs
 
+One advantage of HTTP Caching is that is will work with any existing serverside data access layer (sql, orm).
+
 #### Security, Secure Coding
 
 Security -Evaluating Parser vs Embedded Scripting Lang - Parser doesn’t execute code; MVEL, Groovy etc can be used for code exploits.
