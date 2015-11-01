@@ -20,7 +20,7 @@ Companies with intentional culture:
 - Corporate marketing often creates the brand first and implements it top-down
 - Brand is arrived at through the on going culture and not by simply inventing a set of values
 
-Open Plan
+**Open Plan**
 - Desk Farms
 - Ear Cans
 - Furniture Police
