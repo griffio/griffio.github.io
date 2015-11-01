@@ -11,7 +11,7 @@ Companies with intentional culture:
 - Stack Overflow
 
 
-**Making a Culture
+**Making a Culture**
 - An Organizations collective intelligence is its culture
 - Individually people are smart and have hidden talents 
 - An environment that gives employees the latitude to make use of these talents makes a Culture
