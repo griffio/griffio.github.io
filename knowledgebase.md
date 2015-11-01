@@ -10,8 +10,10 @@ Companies with intentional culture:
 - Stack Overflow
 
 
-**Culture**
-- An Organizations collective intelligence
+**Making a Culture
+- An Organizations collective intelligence is its culture
+- Individually people are smart and have hidden talents 
+- An environment that gives employees the latitude to make use of these talents makes a Culture
 
 **Brand** is a form of group-think and can be toxic if inhaled internally. Output only
 - Corporate marketing often creates the brand first and implements it top-down
