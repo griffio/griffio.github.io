@@ -32,6 +32,9 @@ Companies with intentional culture:
 The most challenging problem in tech industry is not technical but ensuring diversity in that technical culture
 Software is about People and their motivations
 Overcoming bias
+Cannot make any assumptions about a person experience
+- they didn't grow up with a personal computer
+- e.g IRC use is not known by a lot of new developer - Slack or other chat based tools may be better 
 Not everyone has a long history in tech or has a computer science background
 This could include business people who are not used to or are intimidated by trying to create Software
 It makes the team better as it improves recruitment
@@ -42,6 +45,7 @@ There is a business need for it
 - e.g Bitly are a Python shop but are using GoLang to solve problems that Python is less suited for  
 Attracting new developers with ideas rather than relying on incumbent developers that keep it the same
 Therefore hiring is encouraged to be diverse
+
 
 #### Recruiting
 
