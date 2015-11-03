@@ -73,7 +73,7 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 * Todays software is built around the idea that you are not co-located - Mobile messaging, VOIP.
   * Companies that make this kind of software and are not Remote First, its like saying your products don't work.
 
-* Tools gaining growth and mindshare that work locally and remote such as [Slack](https://slack.com/), [Discord](https://discordapp.com/), [Trello](https://trello.com/), [Zulip](https://zulip.org/), [Distributed version control](https://github.com).
+* Tools gaining growth and mindshare that work locally and remote such as [Slack](https://slack.com/), [Discord](https://discordapp.com/), [Trello](https://trello.com/), [Zulip](https://zulip.org/),[Matrix](https://matrix.org/), [Distributed version control](https://github.com).
 
 * Remote first teams can become increasingly skilful and have better empathy.
   * The skill set to acquire in the next few years is distributed working practices.
