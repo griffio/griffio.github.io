@@ -10,7 +10,6 @@ Companies with intentional culture:
 - Thoughtbot
 - Stack Overflow
 
-
 **Making a Culture**
 - An Organizations collective intelligence is its culture
 - Individually people are smart and have hidden talents 
@@ -91,8 +90,6 @@ Prove ability can work remote and stay sane
 What is my threshold for productivity? Totally remote, Commute some of the week? Commute nearer?
 Team as Small social network - people share on twitter and message each other out-of-band communication. 
 
-
-
 Create a new chat channel for a specific client - everyone involved jumps in. 
 
 DiscordApp - https://github.com/reactiflux/volunteers/issues/25
@@ -123,7 +120,6 @@ Good Open Source Project? [ReactiveX/RxJava](http://reactivex.io) Marble diagram
 . Test cases welcomed instead
 
 Open Source contribution: Dagger repo, I can see how many developers it helped out. TestNg - was first contribution
-
 
 #### Problems in Open Source
 
@@ -174,9 +170,11 @@ http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html
 Integration Tests are Applications - so not JUnit
 
 Peer Programming, not Pair Programming
+- Earliest possible moment at which to identify/fix code
 
 Code Reviews
-- knowledge sharing across the code base and across the team
+- Should not be the primary means of achieving code quality
+- Knowledge sharing across the code base and across the team
 - We can find and highlight examples of good code
 - Even if we are not actively working on same code base
 
