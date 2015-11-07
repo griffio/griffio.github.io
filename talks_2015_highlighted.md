@@ -44,4 +44,6 @@
 
 [Pattern Matching in Clojure](https://www.youtube.com/watch?v=n7aE6k8o_BU)
 
-[Styling Forms Semantically & Accessibly] (https://www.youtube.com/watch?v=j5sVESVbEzo)
+[Styling Forms Semantically & Accessibly](https://www.youtube.com/watch?v=j5sVESVbEzo)
+
+[Tackling Large Ruby Refactorings with Confidence](https://www.youtube.com/watch?v=Kr82hUeI_qI)
