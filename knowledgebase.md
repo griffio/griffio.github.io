@@ -317,6 +317,8 @@ Chain of trust
 
 Openssl goto fail -> code review fail? Code comprehension fail, the wrong eyes looking at code too familiar and excepting, code style, linting, TDD
 
+De-Serialization of untrusted data - https://cwe.mitre.org/data/definitions/502.html
+
 #### Micro Services
 
 Service - application accesses external or component that is not local. (e.g database, messaging, socket)
