@@ -59,3 +59,8 @@ https://about.gitlab.com/2015/04/08/the-remote-manifesto/
 https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/
 
 http://martinfowler.com/articles/remote-or-co-located.html
+
+https://zapier.com/blog/conspiracy-santa/
+
+https://www.youtube.com/watch?v=lBqq5ai5rLQ
+
