@@ -75,6 +75,8 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 
 * Tools gaining growth and mindshare that work locally and remote such as [Slack](https://slack.com/), [Discord](https://discordapp.com/), [Trello](https://trello.com/), [Zulip](https://zulip.org/), [Matrix](https://matrix.org/), [Distributed version control](https://github.com).
 
+* Build a culture around asking questions
+
 * Remote first teams can become increasingly skilful and have better empathy.
   * The skill set to acquire in the next few years is distributed working practices.
   
