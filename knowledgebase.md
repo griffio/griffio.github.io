@@ -276,6 +276,8 @@ Remote API - Timeouts - options? :Retry :Fail :Ask
 
 Eventual Consistency - When “facts” are distributed: ”The storage system guarantees that if no new updates are made to the object, eventually all accesses will return the last updated value.”. It is possible that stale information can be read until such time it will eventually be consistent with latest version of data. E.g Asking a circle of friends someones birthday, eventually the group will agree on the same answer.
 
+Consistency - Data appears consistant across multiple devices - messages out of sync.
+
 All Businesses are understanding they exist in a marketplace where developing software is increasingly dominate. First contact will be through mobile app. Agility is determined by how directly engaged the business is in creating software
 
 Hypervisor allows multiple guest operating systems to run on a single system at the same time by virtualisation of the hardware
