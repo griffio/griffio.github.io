@@ -22,7 +22,7 @@ Company management, [ones with pointy hair](http://dilbert.com/strip/2001-12-16)
 Remote First adoption by companies means that the weaknesses below are exposed and can be acted on for the benefit of all employees.
 
 * Working at the HQ or working from Home should not be a zero-sum game.
-  * You may need the flexibility to alternate dependending on what is the most effective at a given time.
+  * You may need the flexibility to alternate to the most effective at a given time.
 
 * Employees spread across floors or buildings can benefit from the change in Culture. 
 
