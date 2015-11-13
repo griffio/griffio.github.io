@@ -56,6 +56,8 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 
 **Be intentional**
 
+* As Remote First will raise more questions - what problems are you trying to solve?
+
 * It's about being in control - otherwise you are simply a [minion](http://www.minionsmovie.com/minions.html).
 
 * When the predominate method of working is online it should be apparent when the team absolutley needs to meet in person.
