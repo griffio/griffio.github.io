@@ -49,3 +49,5 @@
 [Tackling Large Ruby Refactorings with Confidence](https://www.youtube.com/watch?v=Kr82hUeI_qI)
 
 [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
+
+[Demystifying RxJava Subscribers](https://vimeo.com/144812843)
