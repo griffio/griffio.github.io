@@ -192,7 +192,7 @@ Language stuck in a corner, no incentive to learn it. Compared to Swift, Exlir ,
 
 There is a lot to improve in Java. Vast effort has gone into it from an active community. Suitable for long term development projects(5-10 years)
 
-Guava - Provides idioms aimed at Java 5-7 users. Overlaps with Java 8 type and versioning incompatibilities. Public api dependency on types. Heavy on Android(Dex). Not so good for Open Source Projects. Large APIs, Breaking changes to libraries that use it. Java problem making the top-level Collections interface instances mutable
+Guava - Provides idioms aimed at Java 5-7 users. Overlaps with Java 8 type and versioning incompatibilities. Public api dependency on types. Heavy on Android(Dex). Not so good for Open Source Projects. Large APIs, Breaking changes to libraries that use it. Can use guava but don't use in public api, can use shading to include needed classes. Java problem making the top-level Collections interface instances mutable.
 
 Java and Domain models - For classic OOP Java is clumsy. Tiny Types (Autovalue), composition over inheritance (Traits, Mixins for multiple inheritance ). Does Scala work better? 
 
