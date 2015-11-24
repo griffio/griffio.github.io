@@ -342,10 +342,13 @@ Json and XML have 1 version. Deserialisers for custom binary protocol have to be
 
 A Web Page is a tree-like structure, yet the W3C DOM is represented like Java API. e.g instead of querying, selectors, chaining; exposing an information model.  
 
-
 Exclusivley use JSON for Web data formats
 Don’t produce or consume XML as data
 XML is for markup documents where you need things like Attributes, Processing Instructions, Namespaces. 
+
+Convention Over Configuration
+Opinionated defaults - you have to agree with them as reasonable settings
+Sometimes can becomce a maintenance problem as application gets more complicated. Need more intentional overrides.
 
 Inversion of Control
 - Don’t call framework code, framework calls into components
