@@ -171,6 +171,7 @@ Integration Tests are Applications - so not JUnit
 
 Peer Programming, not Pair Programming
 - Earliest possible moment at which to identify/fix code
+- One, two or more developers
 
 Code Reviews
 - Should not be the primary means of achieving code quality
