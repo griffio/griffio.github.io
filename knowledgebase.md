@@ -310,7 +310,7 @@ One advantage of HTTP Caching is that is will work with any existing serverside 
 
 #### Security, Secure Coding
 
-Security -Evaluating Parser vs Embedded Scripting Lang - Parser doesn’t execute code; MVEL, Groovy etc can be used for code exploits.
+Security -Evaluating Parser vs Embedded Scripting Lang - Parser doesn’t execute code; MVEL, Groovy etc can be used for code exploits. Java Serialization is also exploitable.
 
 Secure web apps
 - Authentication, Authorisation, CSRF, XSS, Sessions, CORS, CSP, Headers, Passwords, Injection, Encryption
