@@ -380,6 +380,8 @@ ORM - when application controls data - effectively moving Stored Procedures into
 
 Stored Procs - database program compiled - can change schema and expose data
 
+Strings in code - Human readable, file paths, SQL, Names etc are all conceptually different and should be represented as different user defined types at the language level.
+
 #### HTTP
 
 401 Unauthorized, 403 Forbidden, 200 OK, 201 Created, 202 Accepted
