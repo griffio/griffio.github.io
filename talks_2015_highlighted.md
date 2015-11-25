@@ -51,3 +51,5 @@
 [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
 
 [Demystifying RxJava Subscribers](https://vimeo.com/144812843)
+
+[One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w)
