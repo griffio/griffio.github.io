@@ -172,7 +172,7 @@ Integration Tests are Applications - so not JUnit
 Peer Programming, not Pair Programming
 - Earliest possible moment at which to identify/fix code
 - One, two or more developers
-- Pair Programming is anaemic. Is it one pilot/co-pilot? Motorcycle and sidecar?
+- Pair Programming is anaemic. Is it Pilot and Co-pilot? Motorcycle and Sidecar, Pantomime Horse?
 - Peer Programming is familiar to online gaming. Immediate, get in the zone, headsets - may not even know team-mates.
 
 Code Reviews
