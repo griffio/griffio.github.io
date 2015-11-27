@@ -53,3 +53,5 @@
 [Demystifying RxJava Subscribers](https://vimeo.com/144812843)
 
 [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w)
+
+[ClojureScript for Skeptics](https://www.youtube.com/watch?v=gsffg5xxFQI)
