@@ -383,10 +383,12 @@ ORM - when application controls data - effectively moving Stored Procedures into
     - superficially can use different database dialects
     - caching and loading objects optimized 
     - pagination is not a database concept
+    - a read/write object graph of entities, difficult to design
 
 SQL - usually database specific dialect
     - duplicate work when adding columns, queries need to be maintained (c.r.u.d)
     - result mappings still required if using object oriented language
+    - generating dynamic sql, templating language
 
 Stored Procs - database program compiled - can change schema and expose data
 
