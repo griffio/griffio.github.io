@@ -379,6 +379,14 @@ HighCharts - Cheap. Pension modellers, Chart Zooming, IE 6,7,8 compatible
 Process : Business team members working on creating a product that happens to be implemented in Software with developers
 
 ORM - when application controls data - effectively moving Stored Procedures into Java
+    - adding new column doesn't require maintaining sql
+    - superficially can use different database dialects
+    - caching and loading objects optimized 
+    - pagination is not a database concept
+
+SQL - usually database specific dialect
+    - duplicate work when adding columns, queries need to be maintained (c.r.u.d)
+    - result mappings still required if using object oriented language
 
 Stored Procs - database program compiled - can change schema and expose data
 
