@@ -40,8 +40,11 @@ boolean isBonusSalary && isGreaterThanThreshold;
 #### After
 
 ~~~java
-BooleanExpression isBonusSalary = QSalaryDetail.salaryDetail.salaryName.equalsIgnoreCase("Bonus");
-BooleanExpression isGreaterThanThreshold = QSalaryDetail.salaryDetail.salary.goe(payThreshold);
+
+import static QSalaryDetail;
+
+BooleanExpression isBonusSalary = salaryDetail.salaryName.equalsIgnoreCase("Bonus");
+BooleanExpression isGreaterThanThreshold = salaryDetail.salary.goe(payThreshold);
 BooleanExpression isBonusAboveThreshold = isBonusSalary.and(isGreaterThanThreshold);
 ~~~
 
@@ -57,11 +60,14 @@ com.mysema.query.types.path
 BooleanBuilder is a mutable predicate instance.
 
 ~~~java
+
+import static QSalaryDetail;
+
 BooleanBuilder isRelevantSalaryName = new BooleanBuilder();
 for (String salaryName : relevantSalaryNames) {
-    isRelevantSalaryName.or(QSalaryDetail.salaryDetail.salaryName.eq(salaryName));      
+    isRelevantSalaryName.or(salaryDetail.salaryName.eq(salaryName));      
 }
-isRelevantSalaryName.and(QSalaryDetail.salaryDetail.salary.gt(thresholdForPayPeriod));
+isRelevantSalaryName.and(salaryDetail.salary.gt(thresholdForPayPeriod));
 ~~~
 
 ---
@@ -70,10 +76,12 @@ CaseBuilder is the expression produced by a matching predicate or a default expr
 
 ~~~java
 
+import static QSalaryDetail;
+
 StringExpression caseSalaryName = new CaseBuilder()
-        .when(QSalaryDetail.salaryDetail.isSalaryRelevant()
-            .and(QSalaryDetail.salaryDetail.salary.goe(thresholdForPayPeriod)))
-        .then(QSalaryDetail.salaryDetail.salaryName)
+        .when(salaryDetail.isSalaryRelevant()
+            .and(salaryDetail.salary.goe(thresholdForPayPeriod)))
+        .then(salaryDetail.salaryName)
         .otherwise("other");
 ~~~
 
@@ -130,12 +138,16 @@ private List<String> uniqueSalaryNames(Collection<EmployeeSalary> employeeSalari
 #### After 
 
 ~~~java
+
+import static QEmployeeSalary;
+import static QSalaryDetail;
+
 List<String> uniqueSalaryNames = CollQueryFactory
-    .from(QEmployeeSalary.employeeSalary, employeeSalaries)
-    .innerJoin(QEmployeeSalary.employeeSalary.salaryDetails, QSalaryDetail.salaryDetail)
-    .where(QSalaryDetail.salaryDetail.isSalaryRelevant())
+    .from(employeeSalary, employeeSalaries)
+    .innerJoin(employeeSalary.salaryDetails, salaryDetail)
+    .where(salaryDetail.isSalaryRelevant())
     .distinct()
-    .list(QSalaryDetail.salaryDetail.salaryName);
+    .list(salaryDetail.salaryName);
 ~~~
 
 ---
@@ -146,22 +158,25 @@ com.mysema.query
 
 A post-processor transformer for aggregation that works with com.mysema.query.group classes.
 
-This example takes a collection of salaries and returns an aggregate collection where salaries with the same name will be grouped into a new projection containing the total salary of that group.
+These examples take a collection of salaries and returns an aggregate collection where salaries with the same name will be grouped into a new projection containing the total salary of that group.
 
 ~~~java
 
+import static QSalaryDetail;
+import static GroupBy;
+
 Map<String, BigDecimal> aggregatedSalaries =
-    CollQueryFactory.from(QSalaryDetail.salaryDetail, salaryDetails)
+    CollQueryFactory.from(salaryDetail, salaryDetails)
         .transform(GroupBy.groupBy(caseSalaryName)
-            .as(GroupBy.sum(QSalaryDetail.salaryDetail.salary)));
+            .as(GroupBy.sum(salaryDetail.salary)));
 
 
-List<SalaryDetail> aggregatedSalaries = 
-    CollQueryFactory.from(QSalaryDetail.salaryDetail, salaryDetails)
+List<SalaryDetail> aggregatedSalaries = CollQueryFactory
+    .from(salaryDetail, salaryDetails)
     .orderBy(salaryDetail.salaryName.asc())
-    .transform(GroupBy.groupBy(QSalaryDetail.salaryDetail.salaryName)
-        .list(QSalaryDetail.create(QSalaryDetail.salaryDetail.salaryName,  
-            GroupBy.sum(QSalaryDetail.salaryDetail.salary))));
+    .transform(groupBy(salaryDetail.salaryName)
+        .list(create(salaryDetail.salaryName,  
+            sum(salaryDetail.salary))));
 ~~~
 
 ---
@@ -177,10 +192,13 @@ This can be used to select the columns for the View Model, within the JPA enviro
 ---
 
 ~~~java
+
+import static QEmployeeSalary;
+
 List<PresentableSalary> projection = CollQueryFactory
-    .from(QEmployeeSalary.employeeSalary, employeeSalaries)
-    .list(new QPresentableSalary(QEmployeeSalary.employeeSalary.employeeRef,
-        QEmployeeSalary.employeeSalary.payDate, QEmployeeSalary.employeeSalary.salaryDetails));
+    .from(employeeSalary, employeeSalaries)
+    .list(new QPresentableSalary(employeeSalary.employeeRef, 
+        employeeSalary.payDate, employeeSalary.salaryDetails));
 ~~~
 
 ~~~java
