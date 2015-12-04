@@ -382,8 +382,9 @@ ORM - when application controls data - effectively moving Stored Procedures into
     - adding new column doesn't require maintaining sql
     - superficially can use different database dialects
     - caching and loading objects optimized 
+    - persistance by reachability
     - pagination is not a database concept
-    - a read/write object graph of entities, difficult to design
+    - a read/write object graph of entities, difficult to design, mutable data
 
 SQL - usually database specific dialect
     - duplicate work when adding columns, queries need to be maintained (c.r.u.d)
