@@ -110,9 +110,12 @@ public BigDecimal sum(List<SalaryDetail> salaryDetails) {
 #### After 
 
 ~~~java
+
+import static QSalaryDetail;
+
 BigDecimal sum = CollQueryFactory
-   .from(QSalaryDetail.salaryDetail, salaryDetails)
-   .singleResult(QSalaryDetail.salaryDetail.salary.sum());     
+   .from(salaryDetail, salaryDetails)
+   .singleResult(salaryDetail.salary.sum());     
 ~~~
 
 ---
@@ -167,8 +170,8 @@ import static GroupBy;
 
 Map<String, BigDecimal> aggregatedSalaries =
     CollQueryFactory.from(salaryDetail, salaryDetails)
-        .transform(GroupBy.groupBy(caseSalaryName)
-            .as(GroupBy.sum(salaryDetail.salary)));
+        .transform(groupBy(caseSalaryName)
+            .as(sum(salaryDetail.salary)));
 
 
 List<SalaryDetail> aggregatedSalaries = CollQueryFactory
