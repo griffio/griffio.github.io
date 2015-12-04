@@ -60,13 +60,13 @@ blockquote {
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color:#333;
-  font-size:14px;
+  font-size:15px;
 }
 
 pre {
-  padding:8px 15px;
+  padding:3px 10px;
   background: #f8f8f8;  
-  border-radius:5px;
+  border-radius:3px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
   line-height: 1.7em;
