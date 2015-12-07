@@ -391,11 +391,16 @@ SQL - usually database specific dialect
     - result mappings still required if using object oriented language
     - generating dynamic sql, templating language
 
-Stored Procs - database program compiled and deployed - can change schema and expose data
-             - only used when client is limited and should not perform transactions
-             - voltdb can reload procs
+Stored Procs - database program compiled and deployed - can encapsulate schema data
+             - only used when client should not perform transactions 
+             - voltdb can hot-swap procs
              - limited data types, returning rows, batch dml  
              - database pooling invalidated connections on re-compile
+             - returning rows and mapping data is limited
+             - some security encapsulation - permissions/malicious sql
+             - replace a middleware layer
+             - possible reuse across systems. e.g create user proc 
+             - stored procs are like a dll or library dependency
 
 Strings in code - Human readable, file paths, SQL, Names etc are all conceptually different and should be represented as different user defined types at the language level.
 
