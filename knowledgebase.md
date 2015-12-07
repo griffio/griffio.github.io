@@ -1,8 +1,3 @@
----
-layout: page
-title: "Knowledge base"
----
-
 ###**Culture**
 
 ####Environment Drives Culture, Culture Drives Brand
