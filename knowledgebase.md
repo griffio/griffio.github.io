@@ -65,8 +65,8 @@ Company Tech blog
 Working co-located can benefit from remote first. Information queries are received on one channel (email) and
 should be copied/forward to another (chat, wiki).
 
-Syncronising meetings across time zones - rolling meeting participants?
-Co-located team members need to ensure updates are syncronised to remotes.
+Synchronising meetings across time zones - rolling meeting participants?
+Co-located team members need to ensure updates are synchronised to remotes.
 
 - Is determined by personal situation and the way I work.
 - Remote teams will become increasingly skillful
@@ -97,6 +97,8 @@ Remote Distributed Lessons
 -Team as Small social network - people share on twitter and message each other out-of-band communication.
 
 Create a new chat channel for a specific client - everyone involved jumps in.
+
+Chat channel - able pick up more “over-heard” chatter and listen into conversations.
 
 DiscordApp - https://github.com/reactiflux/volunteers/issues/25
 
