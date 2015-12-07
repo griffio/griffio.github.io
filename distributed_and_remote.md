@@ -67,3 +67,8 @@ https://www.youtube.com/watch?v=lBqq5ai5rLQ
 http://www.moishelettvin.com/2015/10/16/remotes/
 
 http://www.wsj.com/articles/what-the-future-of-working-at-home-may-look-like-1448248050
+
+https://open.buffer.com/distributed-team-benefits/
+
+https://ernie.io/2015/12/05/market-rate-is-for-lobsters/
+
