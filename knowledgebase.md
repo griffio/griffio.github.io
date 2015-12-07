@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Knowledge base"
+---
+
 ###**Culture**
 
 ####Environment Drives Culture, Culture Drives Brand
@@ -12,12 +17,10 @@ Companies with intentional culture:
 
 **Making a Culture**
 - An Organizations collective intelligence is its culture
-- Individually people are smart and have hidden talents 
-- An environment that gives employees the latitude to make use of these talents makes a Culture
+- Individually people are smart and have hidden talents
+- An environment that gives employees the latitude to make use of these talents generates a Culture
 
-**Brand** is a form of group-think and can be toxic if inhaled internally. Output only
-- Corporate marketing often creates the brand first and implements it top-down
-- Brand is arrived at through the on going culture and not by simply inventing a set of values
+**Brand** is a form of group-think and can be toxic if inhaled internally - Output only - Corporate marketing often creates the brand first and implements it topdown - Brand is arrived at through the on going culture and not by simply inventing a set of values.
 
 **Open Plan**
 - Desk Farms
@@ -28,33 +31,34 @@ Companies with intentional culture:
 
 #### Diversity
 
-The most challenging problem in tech industry is not technical but ensuring diversity in that technical culture
-Software is about People and their motivations
-Overcoming bias
-Cannot make any assumptions about a person experience
+The most challenging problem in tech industry is not technical but ensuring diversity in that technical culture.
+Software is about People and their motivations.
+- Overcoming bias.
+- Cannot make any assumptions about a persons experience
 - they didn't grow up with a personal computer
-- e.g IRC use is not known by a lot of new developer - Slack or other chat based tools may be better 
-Not everyone has a long history in tech or has a computer science background
-This could include business people who are not used to or are intimidated by trying to create Software
-It makes the team better as it improves recruitment
-The focus is on sourcing not on filtering
-Hiring for potential
-Fill the blind spots
-There is a business need for it
-- e.g Bitly are a Python shop but are using GoLang to solve problems that Python is less suited for  
-Attracting new developers with ideas rather than relying on incumbent developers that keep it the same
-Therefore hiring is encouraged to be diverse
+- e.g IRC use is not known by a lot of new developer
+- Slack or other chat based tools may be better
 
+Not everyone has a long history in tech or has a computer science background. This could include business people who are not used to or are intimidated by creating Software.
+
+- It makes the team better as it improves recruitment
+- The focus is on sourcing not on filtering
+- Hiring for potential
+- Fill the blind spots
+- There is a business need for it
+- e.g Bitly are a Python shop but are using GoLang to solve problems that Python is less suited for
+- Attracting new developers with ideas rather than relying on incumbent developers that keep it the same
+- Therefore hiring is encouraged to be diverse.
 
 #### Recruiting
 
 Hiring culture should be sourcing and inviting candidates for potential rather than filtering for exclusion
 - Trivia tests
 
-The 'donut light' for hiring should always be on
- 
+The 'donut light' for hiring should always be on.
+
 Company Tech blog
-- The shop window for developers to see environment/culture/brand 
+- The shop window for developers to see environment/culture/brand
 
 ### Remote First
 
@@ -64,46 +68,48 @@ should be copied/forward to another (chat, wiki).
 Syncronising meetings across time zones - rolling meeting participants?
 Co-located team members need to ensure updates are syncronised to remotes.
 
-Is determined by personal situation and the way I work
-Remote teams will become increasingly skillful
-Choose the most effective location to be
-Skill-set to acquire in the next few years is distributed working practices
-Commuting doesn't give value for money vs productivity
-Tools with growth and mind- share that work local and remote such as Slack, Trello
-Existing tools Git, DVCS are peer to peer
-Today's software is built around the idea that you are not co-located - Mobile messaging, VOIP 
-Cloud/web business is 24/7
-Software Development is not 9-5, "Second Shift" is possible
-Marching ants, disaster recovery - WeWork private offices located in hubs
-Contingency Planning. Disaster recovery. Fire Drill
+- Is determined by personal situation and the way I work.
+- Remote teams will become increasingly skillful
+- Choose the most effective location to be
+- Skill-set to acquire in the next few years is distributed working practices
+- Commuting doesn't give value for money vs productivity
+- Tools with growth and mind- share that work local and remote such as Slack, Trello
+- Existing tools Git, DVCS are peer to peer
+- Today's software is built around the idea that you are not co-located - Mobile messaging, VOIP
+- Cloud/web business is 24/7
+- Software Development is not 9-5, "Second Shift" is possible
+- Marching ants, disaster recovery - WeWork private offices located in hubs
+- Contingency Planning. Disaster recovery. Fire Drill
 
-Remote Distributed Lessons : Remote working is a distributed protocol 
-If one person is remote. Everyone works as if remote disposition
-No local privileges 
-Catch everyone up to local conversations
-Establish communication channel for business changes
-Log of updates accessible across timezones
-Every party should access video chat and be in-sync
-Capturing information locally for future distribution. For team members that haven’t even started yet
-Herding Unicorns
-Prove ability can work remote and stay sane
-What is my threshold for productivity? Totally remote, Commute some of the week? Commute nearer?
-Team as Small social network - people share on twitter and message each other out-of-band communication. 
+Remote Distributed Lessons
 
-Create a new chat channel for a specific client - everyone involved jumps in. 
+- Remote working is a distributed protocol
+- If one person is remote. Everyone works as if remote disposition
+- No local privileges
+- Catch everyone up to local conversations
+- Establish communication channel for business changes
+- Log of updates accessible across timezones
+- Every party should access video chat and be in-sync
+- Capturing information locally for future distribution. For team members that haven’t even started yet
+- Herding Unicorns
+- Prove ability can work remote and stay sane
+- What is my threshold for productivity? Totally remote, Commute some of the week? Commute nearer?
+-Team as Small social network - people share on twitter and message each other out-of-band communication.
+
+Create a new chat channel for a specific client - everyone involved jumps in.
 
 DiscordApp - https://github.com/reactiflux/volunteers/issues/25
 
-
 #### Co-located
 
-Part of growing problem. Adding to congestion
-Not value for money. 15-20k over 5 years
-Single Point of failure
-Best time of productivity is lost commuting
-Disregards people who are not here yet and anyone that may work on the project in the future
-Open Plan - open office space and worker wears headphones often shown in office culture photo ops
-Only achieving 1/10th of the productivity.
+- Part of growing problem
+- Adding to congestion
+- Not value for money. 15-20k over 5 years
+- Single Point of failure
+- Best time of productivity is lost commuting
+- Disregards people who are not here yet and anyone that may work on the project in the future
+- Open Plan - open office space and worker wears headphones often shown in office culture photo ops
+- Only achieving 1/10th of the productivity.
 
 ### Open Source
 
@@ -127,7 +133,7 @@ Liberal in input and conservative in output
 
 Free speech who is right?
 
-Open Source projects must support a code of conduct that defines a policy to avoid petty decisions and exclusionary behaviour. 
+Open Source projects must support a code of conduct that defines a policy to avoid petty decisions and exclusionary behaviour.
 - [NPM Inc](https://www.npmjs.com/policies/conduct)
 - [ThoughtBot](https://thoughtbot.com/open-source-code-of-conduct)
 
@@ -155,9 +161,9 @@ In the Business where does agility begin and end? Is there a radius of people th
 
 Teams can evolve faster than the parent organisation
 
-#### TDD (Test Driven Design/Development) 
+#### TDD (Test Driven Design/Development)
 
-Spend more time thinking about code to be written - more design time spent upfront is better than fixing incorrect code that made it into production (produced at initially faster rate) 
+Spend more time thinking about code to be written - more design time spent upfront is better than fixing incorrect code that made it into production (produced at initially faster rate)
 
 If defects in code are caught mainly during development, instead of getting in production environment, then some kind of TDD is being used
 
@@ -197,7 +203,7 @@ There is a lot to improve in Java. Vast effort has gone into it from an active c
 
 Guava - Provides idioms aimed at Java 5-7 users. Overlaps with Java 8 type and versioning incompatibilities. Public api dependency on types. Heavy on Android(Dex). Not so good for Open Source Projects. Large APIs, Breaking changes to libraries that use it. Can use guava but don't use in public api, can use shading to include needed classes. Java problem making the top-level Collections interface instances mutable.
 
-Java and Domain models - For classic OOP Java is clumsy. Tiny Types (Autovalue), composition over inheritance (Traits, Mixins for multiple inheritance ). Does Scala work better? 
+Java and Domain models - For classic OOP Java is clumsy. Tiny Types (Autovalue), composition over inheritance (Traits, Mixins for multiple inheritance ). Does Scala work better?
 
 Java URL class equals DNS IP address - URI
 
@@ -222,7 +228,7 @@ If you know Python, Ruby, Javascript - it is difficult to apply what you know to
 
 Kotlin is a better Java 8 - infix operators, Higher Order Functions, Builder literals, generics, packages not file system relative, Operator overloading conventions. UnChecked Exceptions.
 
-##### Java 8 
+##### Java 8
 
 Java Fork/Join Framework - Doug Lea - introduce CPU instructions, e.g CAS, into JVM and expose through a library. Can be used by various JVM languages to implement Actors, etc.
 
@@ -242,7 +248,7 @@ Java was being positioned as application platform from Corel’s WordPerfect, si
 
 A virtual machine control language for driving consumer electronics. A blue collar language that was meant to feel familiar.
 1. It has an object-oriented flavour
-2. Standard Numeric compatibility with IEEE 754 
+2. Standard Numeric compatibility with IEEE 754
 3. Java also has a systems programming flavour
 4. Distributed flavour. Class Loaders
 The most popular language this turned out to be is JavaScript, based on Scheme.
@@ -251,7 +257,7 @@ Original Reason for Java Exception Model.
 
 "The exception model that we picked up pretty much straight out of Modula 3 has been, I think, a real success. Initially, I was somewhat anxious about it,because the whole notion of having a rigorous proof that an exception will get tossed can be something ofa burden. But in the end, that is a good burden to have. When you aren’t testing for exceptions, the codeis going to break at some time in any real environment where surprising things always happen. Ariane 5 provides a vivid lesson on how important exception handling is.Although exception handling makes Java feel some-what clumsy because it forces you to think about something you’d rather ignore, your applications are ultimately much more solid and reliable."
 
-##### AOP 
+##### AOP
 
 Java language is not expressive enough without some elements of code generation, reflection or AOP to workaround inheritance as a way of adding cross cutting behaviour. When all you have are classes; more is more
 
@@ -261,7 +267,7 @@ EJB1/2 example of pre-AOP component model that ultimately failed. With AOP (Aspe
 
 JVM ecosystem can offer alternative tools e.g Clojure Leinigen, other testing frameworks ScaleCheck etc. Not stuck with Maven, Gradle, Junit
 
-#### Functional Programming 
+#### Functional Programming
 
 Data In, Data Out
 
@@ -331,14 +337,14 @@ Service - application accesses external or component that is not local. (e.g dat
 Java Micro Services - JVM optimised for longer running monolithic code - Hot Reloading, URLClassLoader services, Memory Leaks, JMX, (Karaf) OSGI, http://fabric8.io/, Kubernetes etc
 
 Really a patchwork of applications, Federated Services, separate databases, - different languages - e.g GoLang
- 
+
 Business apps have different lifespans based on how often the requirements changes. Obsolescence. Will a service need replacing in 5yrs?
 
 Are they just lightweight CGI processes? Does it make sense on the JVM?
 
 #### Software
 
-Text Protocols JSON/XML - There are standard parser/processors in environments(browsers) support many representations of user defined data. 
+Text Protocols JSON/XML - There are standard parser/processors in environments(browsers) support many representations of user defined data.
 
 Json and XML have 1 version. Deserialisers for custom binary protocol have to be distributed to clients. Protobuf, Transit - static languages, dynamic languages. Gzip.
 
@@ -346,7 +352,7 @@ A Web Page is a tree-like structure, yet the W3C DOM is represented like Java AP
 
 Exclusivley use JSON for Web data formats
 Don’t produce or consume XML as data
-XML is for markup documents where you need things like Attributes, Processing Instructions, Namespaces. 
+XML is for markup documents where you need things like Attributes, Processing Instructions, Namespaces.
 
 Convention Over Configuration
 Opinionated defaults - you have to agree with them as reasonable settings
@@ -359,7 +365,7 @@ The Spring Project is an example of maintaining a forward and backward compatibl
 Developers can take it for granted - Engineering team for "free".
 Other JVM languages - Clojure - developer can't assume anything is available.
 
-Asynchronous Api: Failure should be a first-class concept 
+Asynchronous Api: Failure should be a first-class concept
 
 Libraries vs Frameworks - Selecting Libraries is more bespoke, can be a patchwork full of holes (e.g Security). Frameworks can have better oversight (e.g. out of the box security). Monolithic but have oversight. e.g Spring Security is built on Spring
 Framework can version as a complete bill of materials (tide rises everything at the same time)
@@ -381,7 +387,7 @@ Process : Business team members working on creating a product that happens to be
 ORM - when application controls data - effectively moving Stored Procedures into Java
     - adding new column doesn't require maintaining sql
     - superficially can use different database dialects
-    - caching and loading objects optimized 
+    - caching and loading objects optimized
     - persistance by reachability
     - pagination is not a database concept
     - a read/write object graph of entities, difficult to design, mutable data
@@ -391,16 +397,16 @@ SQL - usually database specific dialect
     - result mappings still required if using object oriented language
     - generating dynamic sql, templating language
 
-Stored Procs - database program compiled and deployed - can encapsulate schema data
-             - only used when client should not perform transactions 
-             - voltdb can hot-swap procs
+Stored Procs - database program compiled and deployed - can encapsulate schema data (api)
+             - only use when client should not perform transactions
+             - VoltDB can hot-swap procs
              - limited data types, returning rows, batch dml  
              - database pooling invalidated connections on re-compile
              - returning rows and mapping data is limited
              - some security encapsulation - permissions/malicious sql
-             - replace a middleware layer
-             - possible reuse across systems. e.g create user proc 
-             - stored procs are like a dll or library dependency
+             - replacing middleware layer
+             - possible reuse across systems. e.g create user proc
+             - stored procs like a dll or library dependency
 
 Strings in code - Human readable, file paths, SQL, Names etc are all conceptually different and should be represented as different user defined types at the language level.
 
@@ -414,7 +420,7 @@ Continuous Integration - XP practice to run automated test suites periodically. 
 
 Downsides - Darkside of CI Servers, e.g. Bamboo, are like Death Stars. Used to intimidate, ravenous consumption of time/resource with a tendency to blow up
 
-Git vs Subversion: Distributed Authority vs Host Based Single Authority 
+Git vs Subversion: Distributed Authority vs Host Based Single Authority
 Git - content addressable key/value store (.git/objects) - SHA1 checksums. Files, Directories
 
 Rollbacks must be instant and easy because sometimes things are going to break and getting back to a working state quickly must be painless and fast
@@ -427,7 +433,7 @@ Git : branching
       GitFlow ( Master (current release), Develop) “—no-fastforwarding” merge commits
       Single Master, then feature/hotfix branches
       git help workflows
-       
+
 https://github.com/thoughtbot/guides/blob/master/protocol/git/README.md
 
 #### Versioning
@@ -446,10 +452,12 @@ Semantic Versioning 2.0.0 Given a version number MAJOR.MINOR.PATCH, increment th
 - Version numbers are system protocols, only names matter to be human readable
 
 #### NoSql
- 
-Functionality, does it exist in Postgres already? 
+
+Functionality, does it exist in Postgres already?
 
 “document store”, ”blob storage”, “key/value storage”, “nested table”, “graph database”, “distributed table”, “log database”, “distributed filesystem”
+
+Security - lack of auth, must be firewalled
 
 NewSql
 - Voltdb
