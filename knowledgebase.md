@@ -393,6 +393,7 @@ SQL - usually database specific dialect
     - duplicate work when adding columns, queries need to be maintained (c.r.u.d), sparse inserts, updates by usecase.
     - result mappings still required if using object oriented language
     - generating dynamic sql, templating language
+    - sales reports, data warehouse, ad-hoc queries
 
 Stored Procs - database program compiled and deployed - can encapsulate schema data (api)
              - only use when client should not perform transactions
