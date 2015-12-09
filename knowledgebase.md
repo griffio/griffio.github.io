@@ -390,7 +390,7 @@ ORM - when application controls data - effectively moving Stored Procedures into
     - a read/write object graph of entities, difficult to design, mutable data
 
 SQL - usually database specific dialect
-    - duplicate work when adding columns, queries need to be maintained (c.r.u.d)
+    - duplicate work when adding columns, queries need to be maintained (c.r.u.d), sparse inserts, updates by usecase.
     - result mappings still required if using object oriented language
     - generating dynamic sql, templating language
 
