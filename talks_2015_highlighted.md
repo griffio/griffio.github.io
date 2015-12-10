@@ -57,3 +57,5 @@
 [ClojureScript for Skeptics](https://www.youtube.com/watch?v=gsffg5xxFQI)
 
 [Programming Considered Harmful](https://www.youtube.com/watch?v=VpuVDfSXs-g)
+
+[Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8)
