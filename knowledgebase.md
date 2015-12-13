@@ -379,6 +379,8 @@ Docker Containers - binary format for executing and linking applications, packag
 
 HighCharts - Cheap. Pension modellers, Chart Zooming, IE 6,7,8 compatible
 
+Web vs Native (App Store) - Web has most reach, Native requires constant updates, IOS upto 3 versions of XCode to build versions - backward compat etc. Android many users on old versions.
+
 Process : Business team members working on creating a product that happens to be implemented in Software with developers
 
 ORM - when application controls data - effectively moving Stored Procedures into Java
