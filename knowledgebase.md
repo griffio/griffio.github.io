@@ -319,6 +319,8 @@ Security -Evaluating Parser vs Embedded Scripting Lang - Parser doesn’t execut
 
 Secure web apps
 - Authentication, Authorisation, CSRF, XSS, Sessions, CORS, CSP, Headers, Passwords, Injection, Encryption
+- XSS is the most compromising as all can circumvent the other mechanisms 
+- Context based - data place holder should be like SQL binding parameters
 
 Chain of trust
 - Downloading Putty is not safe
