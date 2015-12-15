@@ -453,6 +453,18 @@ Semantic Versioning 2.0.0 Given a version number MAJOR.MINOR.PATCH, increment th
 - Breaking Version, (^)Feature Version, (~)Patch Version (Bug fixes automatically)
 - Version numbers are system protocols, only names matter to be human readable
 
+The major number is incremented when the API to the package or application changes in backwards incompatible ways.
+
+The minor number is incremented when new features are added to the API without breaking backwards compatibility. If the major number is incremented the minor number returns to 0.
+
+The patch number is incremented when no new features are added but bug fixes are released. If the major or minor numbers are incremented this returns to 0.
+
+A pre-release is a . separated list of identifiers following a -. For example, 1.2.3-beta.1. These are optional and are only needed for pre-release versions. In this case 1.2.3 would be a release version following a pre-release like 1.2.3-beta.1.
+
+The final section of information is build metadata. This is a . separated list of identifiers following a +. This is different from pre-release information and should be ignored when determining precedence.
+
+While the spec doesn’t list anything about a v prefix on a semantic version they are sometimes present. For example, you might see a semantic version as v1.2.3. In this case the v should be ignored.
+
 #### NoSql
 
 Functionality, does it exist in Postgres already?
