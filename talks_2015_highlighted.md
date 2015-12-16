@@ -61,3 +61,5 @@
 [Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8)
 
 [The Better Parts](https://www.youtube.com/watch?v=rhV6hlL_wMc)
+
+[React.js Conf 2015 - Communicating with channels](https://www.youtube.com/watch?v=W2DgDNQZOwo)
