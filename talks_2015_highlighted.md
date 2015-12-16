@@ -59,3 +59,5 @@
 [Programming Considered Harmful](https://www.youtube.com/watch?v=VpuVDfSXs-g)
 
 [Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8)
+
+[The Better Parts](https://www.youtube.com/watch?v=rhV6hlL_wMc)
