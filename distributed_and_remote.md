@@ -72,3 +72,4 @@ https://open.buffer.com/distributed-team-benefits/
 
 https://ernie.io/2015/12/05/market-rate-is-for-lobsters/
 
+http://engineering.simondata.com/effective-communication-in-a-remote-eng-setting/
