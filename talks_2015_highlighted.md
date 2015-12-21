@@ -63,3 +63,5 @@
 [The Better Parts](https://www.youtube.com/watch?v=rhV6hlL_wMc)
 
 [React.js Conf 2015 - Communicating with channels](https://www.youtube.com/watch?v=W2DgDNQZOwo)
+
+[React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
