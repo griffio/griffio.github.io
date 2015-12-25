@@ -7,53 +7,49 @@ published: true
 summary: highlighted tech talks 2015
 ---
 
-[We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc)
+* [We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) - Hunter Loftis 
 
-[Functional Programming You Already Know](https://www.youtube.com/watch?v=lNKXTlCOGEc)
+* [Functional Programming You Already Know](https://www.youtube.com/watch?v=lNKXTlCOGEc) - Kevlin Henney
 
-[What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)
+* [What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) - Andre Staltz 
 
-[Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg)
+* [Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg) - Rich Hickey
 
-[Envy prototype](https://vimeo.com/131329120)
+* [Securing Web APIs – Patterns & Anti-Patterns](https://vimeo.com/131635255) - Dominick Baier
 
-[Securing Web APIs – Patterns & Anti-Patterns](https://vimeo.com/131635255)
+* [Learning Client Hypermedia from the Ground Up](https://vimeo.com/131642790) - Mike Amundsen
 
-[Learning Client Hypermedia from the Ground Up](https://vimeo.com/131642790)
+* [JVMLS 2015 - Multi-Language Runtime](https://www.youtube.com/watch?v=kOnyJurioyw&list=PLX8CzqL3ArzUo2dtMurvpUTAaujPMeuuU&index=14) - Mark Stoodley
 
-[JVMLS 2015 - Multi-Language Runtime](https://www.youtube.com/watch?v=kOnyJurioyw&list=PLX8CzqL3ArzUo2dtMurvpUTAaujPMeuuU&index=14)
+* [Clojure Conj 2015 - Om Next] (https://www.youtube.com/watch?v=MDZpSIngwm4) - David Nolen
 
-[Clojure Conj 2015 - Om Next] (https://www.youtube.com/watch?v=MDZpSIngwm4)
+* [Developing ClojureScript With Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E) - Bruce Hauman 
 
-[Developing ClojureScript With Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E)
+* [Inline Styles are About to Kill CSS](https://www.youtube.com/watch?v=NoaxsCi13yQ) - Colin Megill
 
-[Inline Styles are About to Kill CSS](https://www.youtube.com/watch?v=NoaxsCi13yQ)
+* [You Suck at Excel](https://www.youtube.com/watch?v=0nbkaYsR94c) - Joel Spolsky
 
-[You Suck at Excel with Joel Spolsky](https://www.youtube.com/watch?v=0nbkaYsR94c)
+* [Supercharging page load](https://www.youtube.com/watch?v=d5_6yHixpsQ) - Jake Archibald
 
-[Supercharging page load](https://www.youtube.com/watch?v=d5_6yHixpsQ)
+[Performance and Lies](https://www.youtube.com/watch?v=0tUrbf6Uzu8) - - Tom Crayford
 
-[Performance and Lies](https://www.youtube.com/watch?v=0tUrbf6Uzu8)
+[Kolmogorov music](https://www.youtube.com/watch?v=Qg3XOfioapI) - Christopher Ford
 
-[Bridging Language Barriers with Transit](https://www.youtube.com/watch?v=KBl8hoiuwQY)
+[Styling Forms Semantically & Accessibly](https://www.youtube.com/watch?v=j5sVESVbEzo) - Amanda Cheung 
 
-[Kolmogorov music](https://www.youtube.com/watch?v=Qg3XOfioapI)
+[Tackling Large Ruby Refactorings with Confidence](https://www.youtube.com/watch?v=Kr82hUeI_qI) - Jesse Toth
 
-[Styling Forms Semantically & Accessibly](https://www.youtube.com/watch?v=j5sVESVbEzo)
+[Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) - Philip Wadler
 
-[Tackling Large Ruby Refactorings with Confidence](https://www.youtube.com/watch?v=Kr82hUeI_qI)
+[One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) - Eric Meijer
 
-[Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
+[ClojureScript for Skeptics](https://www.youtube.com/watch?v=gsffg5xxFQI) - Derek Slager
 
-[One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w)
+[Programming Considered Harmful](https://www.youtube.com/watch?v=VpuVDfSXs-g) - Dave Chinner
 
-[ClojureScript for Skeptics](https://www.youtube.com/watch?v=gsffg5xxFQI)
+[Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8) - David Nolen
 
-[Programming Considered Harmful](https://www.youtube.com/watch?v=VpuVDfSXs-g)
-
-[Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8)
-
-[The Better Parts](https://www.youtube.com/watch?v=rhV6hlL_wMc)
+[The Better Parts](https://www.youtube.com/watch?v=rhV6hlL_wMc) - Douglas Crockford
 
 [React.js Conf 2015 - Communicating with channels](https://www.youtube.com/watch?v=W2DgDNQZOwo)
 
