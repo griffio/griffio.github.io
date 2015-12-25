@@ -21,7 +21,7 @@ summary: highlighted tech talks 2015
 
 * [JVMLS 2015 - Multi-Language Runtime](https://www.youtube.com/watch?v=kOnyJurioyw&list=PLX8CzqL3ArzUo2dtMurvpUTAaujPMeuuU&index=14) - Mark Stoodley
 
-* [Clojure Conj 2015 - Om Next] (https://www.youtube.com/watch?v=MDZpSIngwm4) - David Nolen
+* [Clojure Conj 2015 - Om Next](https://www.youtube.com/watch?v=MDZpSIngwm4) - David Nolen
 
 * [Developing ClojureScript With Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E) - Bruce Hauman 
 
