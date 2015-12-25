@@ -13,7 +13,7 @@ author:
   name:           'GRIFFIO'
   url:            'https://github.com/griffio'
 baseurl:          /
-paginate:         15
+paginate:         19
 
 # Custom vars
 version:          0.1.0
