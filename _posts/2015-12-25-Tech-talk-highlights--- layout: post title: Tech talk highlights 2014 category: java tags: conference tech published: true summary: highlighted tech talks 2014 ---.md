@@ -7,68 +7,54 @@ published: false
 summary: highlighted tech talks 2015
 ---
 
-Data fetching for React applications at Facebook
+[We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc)
 
-We Will All Be Game Programmers
+[Functional Programming You Already Know](https://www.youtube.com/watch?v=lNKXTlCOGEc)
 
-Functional Programming You Already Know
+[What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)
 
-What if the user was a function?
+[Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg)
 
-Clojure Made Simple
+[Envy prototype](https://vimeo.com/131329120)
 
-Envy prototype
+[Securing Web APIs – Patterns & Anti-Patterns](https://vimeo.com/131635255)
 
-Securing Web APIs – Patterns & Anti-Patterns
+[Learning Client Hypermedia from the Ground Up](https://vimeo.com/131642790)
 
-Lambda: A Peek Under the Hood
+[JVMLS 2015 - Multi-Language Runtime](https://www.youtube.com/watch?v=kOnyJurioyw&list=PLX8CzqL3ArzUo2dtMurvpUTAaujPMeuuU&index=14)
 
-Learning Client Hypermedia from the Ground Up
+[Clojure Conj 2015 - Om Next] (https://www.youtube.com/watch?v=MDZpSIngwm4)
 
-JVMLS 2015 - Multi-Language Runtime
+[Developing ClojureScript With Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E)
 
-Clojure Conj 2015 - Om Next
+[Inline Styles are About to Kill CSS](https://www.youtube.com/watch?v=NoaxsCi13yQ)
 
-Developing ClojureScript With Figwheel
+[You Suck at Excel with Joel Spolsky](https://www.youtube.com/watch?v=0nbkaYsR94c)
 
-Inline Styles are About to Kill CSS
+[Supercharging page load](https://www.youtube.com/watch?v=d5_6yHixpsQ)
 
-JVMLS 2015 - Flexible Types in Kotlin
+[Performance and Lies](https://www.youtube.com/watch?v=0tUrbf6Uzu8)
 
-BSD Now 103 - Ubuntu Slaughters Kittens
+[Bridging Language Barriers with Transit](https://www.youtube.com/watch?v=KBl8hoiuwQY)
 
-You Suck at Excel with Joel Spolsky
+[Kolmogorov music](https://www.youtube.com/watch?v=Qg3XOfioapI)
 
-Supercharging page load
+[Styling Forms Semantically & Accessibly](https://www.youtube.com/watch?v=j5sVESVbEzo)
 
-Performance and Lies
+[Tackling Large Ruby Refactorings with Confidence](https://www.youtube.com/watch?v=Kr82hUeI_qI)
 
-Memory Compression in Windows 10 RTM
+[Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU)
 
-Bridging Language Barriers with Transit
+[One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w)
 
-Kolmogorov music
+[ClojureScript for Skeptics](https://www.youtube.com/watch?v=gsffg5xxFQI)
 
-Pattern Matching in Clojure
+[Programming Considered Harmful](https://www.youtube.com/watch?v=VpuVDfSXs-g)
 
-Styling Forms Semantically & Accessibly
+[Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8)
 
-Tackling Large Ruby Refactorings with Confidence
+[The Better Parts](https://www.youtube.com/watch?v=rhV6hlL_wMc)
 
-Propositions as Types
+[React.js Conf 2015 - Communicating with channels](https://www.youtube.com/watch?v=W2DgDNQZOwo)
 
-Demystifying RxJava Subscribers
-
-One Hacker Way
-
-ClojureScript for Skeptics
-
-Programming Considered Harmful
-
-Hello Om Next!
-
-The Better Parts
-
-React.js Conf 2015 - Communicating with channels
-
-React.js Conf 2015 - Immutable Data and React
+[React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
