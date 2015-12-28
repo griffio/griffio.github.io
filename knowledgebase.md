@@ -465,6 +465,8 @@ The final section of information is build metadata. This is a . separated list o
 
 While the spec doesn’t list anything about a v prefix on a semantic version they are sometimes present. For example, you might see a semantic version as v1.2.3. In this case the v should be ignored.
 
+Or mnemonic Breaking.Feature.Fix to use instead.
+
 #### NoSql
 
 Functionality, does it exist in Postgres already?
