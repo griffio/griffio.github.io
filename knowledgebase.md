@@ -477,3 +477,19 @@ Security - lack of auth, must be firewalled
 
 NewSql
 - Voltdb
+
+#### Languages
+
+http://elixir-lang.org/
+
+http://elm-lang.org/
+
+http://haxe.org/ - strictly typed
+
+https://golang.org/
+
+http://www.idris-lang.org/ -  pure functional dependent types
+
+http://nim-lang.org -  statically typed
+
+https://www.rust-lang.org/
