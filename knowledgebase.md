@@ -493,3 +493,5 @@ http://www.idris-lang.org/ -  pure functional dependent types
 http://nim-lang.org -  statically typed
 
 https://www.rust-lang.org/
+
+http://www.purescript.org/
