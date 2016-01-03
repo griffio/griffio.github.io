@@ -52,3 +52,5 @@ summary: highlighted tech talks 2015
 * [The Better Parts](https://www.youtube.com/watch?v=rhV6hlL_wMc) - Douglas Crockford
 
 * [React.js Conf 2015 - Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) - Lee Byron
+
+* [The Website Obesity Crisis](https://vimeo.com/147806338) - Maciej Ceglowski 
