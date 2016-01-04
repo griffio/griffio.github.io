@@ -322,6 +322,8 @@ Secure web apps
 - XSS is the most compromising as all can circumvent the other mechanisms 
 - Context based - data place holder should be like SQL binding parameters
 
+[Secure Coding - www.securecoding.cert.org](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
+
 Chain of trust
 - Downloading Putty is not safe
 
