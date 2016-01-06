@@ -210,8 +210,10 @@ Java makes good use of a single machine and reduces the need to scale horizontal
 
 Mostly backward compatible. Thus Java is boring. Small changes e.g ForEach don’t impact type system. String can’t foreach over each Character of String. Boiler plate code that can be made concise. Don’t increase conceptual surface area, improve existing idioms.
 
-Spring Framework has a proven track record for use in multi-year spanning projects. Upgrade path. 5yrs+. Java 6,7,8 compatibility. Single Abstract Methods.
+Spring Framework has a proven track record for use in multi-year spanning projects. Upgrade path. 5yrs+. Java 6,7,8 compatibility (Single Abstract Methods).
 e.g Springboot > Dropwizard which was cool in 2012. Spring has all the utilities when you actually need a Kitchen sink. Dependencies are collected together as bill of materials to get the correct stack of dependencies. The tide of dependencies rise at the same time in a monolithic framework.
+
+We use something large like Spring when there are many application domains and facets that have to be supported simultaneously.
 
 QueryDsl - Java Models could be under/over specified. Query models are separate to support predicates, extension methods, Predicates and DSL. (Add Temporal meaning to the model e.g after, before, completed ).
 
