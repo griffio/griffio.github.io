@@ -75,3 +75,5 @@ https://ernie.io/2015/12/05/market-rate-is-for-lobsters/
 http://engineering.simondata.com/effective-communication-in-a-remote-eng-setting/
 
 http://likewise.am/2015/12/18/why-i-love-industrious-and-about-coworking-and-offices-more-generally/
+
+https://goremotely.wordpress.com/
