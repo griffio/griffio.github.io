@@ -499,3 +499,7 @@ http://nim-lang.org -  statically typed
 https://www.rust-lang.org/
 
 http://www.purescript.org/
+
+As a cautious developer there is a balance between learning and applying new technology without good cause. Boring is good. However, it is more difficult to have flexible employment choices when relying on mature skills. For example, Long time Javascript developers lamenting on loosing out to ReactJS developers with less experience.
+The front-side UI technologies bear the brunt of change as there is more advantage to implementing a new api, e.g ReactNative, users want faster interaction, more data like a desktop application - all about the Frames per second.
+
