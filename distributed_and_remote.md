@@ -77,3 +77,5 @@ http://engineering.simondata.com/effective-communication-in-a-remote-eng-setting
 http://likewise.am/2015/12/18/why-i-love-industrious-and-about-coworking-and-offices-more-generally/
 
 https://goremotely.wordpress.com/
+
+http://engineering.freeagent.com/2016/01/06/many-timezones-one-team/
