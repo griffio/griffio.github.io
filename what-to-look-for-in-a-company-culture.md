@@ -6,7 +6,7 @@ The companies are usually the following: a billable engagement consultancy, tech
 
 Individually, people are smart with hidden talents but unable to bring them to use due to established group-think or status quo (Everyone knows when something is not smart or is useless but have no sense of power to change it).
 
-View as a slow and steady marathon over a rat race, (Marketing, not Software Development, should be used to get ideas expressed and disseminated quickly).
+View as a slow and steady marathon over a rat race, (Product Marketing, not Software Development, should be used to get ideas expressed and disseminated quickly. Marketing is education).
 
 Productive doesn't mean producing continuously the same thing. Equate working 8hrs to producing 8 tonnes of coal. Time may be better spent on building documentation, learning from or training others.
 
