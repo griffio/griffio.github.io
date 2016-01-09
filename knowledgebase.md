@@ -6,6 +6,7 @@ Companies with intentional culture:
 
 - Atlassian
 - AtomicObject
+- Buffer
 - Github
 - Thoughtbot
 - Stack Overflow
