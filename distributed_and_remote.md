@@ -8,6 +8,8 @@ http://www.hanselman.com/blog/TragediesOfTheRemoteWorkerLooksLikeYoureTheOnlyOne
 
 http://femgineer.com/2015/01/how-to-build-a-happy-and-productive-remote-team/
 
+https://www.youtube.com/watch?v=m6yCKoSetW8 What Remote Working Means & The Tools We Use - Buffer's Founder Chat Friday
+
 https://speakerdeck.com/erniemiller/humane-development
 
 http://blog.workingon.co/working-remotely-with-workingon/
