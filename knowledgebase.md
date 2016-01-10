@@ -49,7 +49,9 @@ Not everyone has a long history in tech or has a computer science background. Th
 #### Recruiting
 
 Hiring culture should be sourcing and inviting candidates for potential rather than filtering for exclusion
-- Trivia tests
+- Trivia tests for X
+- A developer could memorize trivia for X but have never practised or used it
+- When was the last time you learned/practiced/used X did you teach/explain/show it to anyone else?
 
 The 'donut light' for hiring should always be on.
 
