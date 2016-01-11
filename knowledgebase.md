@@ -423,6 +423,9 @@ Stored Procs - database program compiled and deployed - can encapsulate schema d
 
 Strings in code - Human readable, file paths, SQL, Names etc are all conceptually different and should be represented as different user defined types at the language level.
 
+Architect for your application needs instead of forcing it to fit the stack - can be a problem with Java Frameworks.
+Startups are better at doing this and don't use often Java for this reason.
+
 #### HTTP
 
 401 Unauthorized, 403 Forbidden, 200 OK, 201 Created, 202 Accepted
