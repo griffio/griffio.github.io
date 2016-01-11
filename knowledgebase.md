@@ -155,11 +155,15 @@ Just treat it a a writing bug - Newton's Third Law of Motion: To every action th
 
 ### Agile
 
-When the communication between software developers and stake holders (people with commercial interest in building software) are communicating skilfully
+Software development as a time-boxed, risk, complexity evaluated process. Delivering software asa continuium rather than in one big bang. De-mystifying how Software is made. Like a sausage machine. Everyone is made aware how the sausage is made and how big each segment can be delivered.
+
+Becomes Agile when software developers and stake holders (people with commercial interest in building software) are communicating skilfully.
+
+Not Agile, if software developers are being approached directly for features, rather than the people who are asking for features understanding how that they can be empowered themselves to make software.
 
 In the Business where does agility begin and end? Is there a radius of people that apply?
 
-Teams can evolve faster than the parent organisation
+Teams can evolve faster than the parent organisation.
 
 #### TDD (Test Driven Design/Development)
 
