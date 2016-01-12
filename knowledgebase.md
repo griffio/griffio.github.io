@@ -72,6 +72,7 @@ Co-located team members need to ensure updates are synchronised to remotes.
 - Skill-set to acquire in the next few years is distributed working practices
 - Commuting doesn't give value for money vs productivity
 - Tools with growth and mind- share that work local and remote such as Slack, Trello
+- What tools will replace Slack? Not IRC but Slack.next.
 - Existing tools Git, DVCS are peer to peer
 - Today's software is built around the idea that you are not co-located - Mobile messaging, VOIP
 - Cloud/web business is 24/7
