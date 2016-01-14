@@ -37,6 +37,7 @@ Software is about People and their motivations.
 - Slack or other chat based tools may be better
 
 Not everyone has a long history in tech or has a computer science background. This could include business people who are not used to or are intimidated by creating Software.
+The assumption has been that developers hatched out of an egg knowing to code. New developers are not new to life and could be a scientist, teacher, journalist with years of knowledge.
 
 - It makes the team better as it improves recruitment
 - The focus is on sourcing not on filtering
