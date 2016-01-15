@@ -132,6 +132,8 @@ Open Source contribution: Dagger repo, I can see how many developers it helped o
 
 #### Problems in Open Source
 
+For every Linus there are a hundred duck-sized Tovalds.
+
 Liberal in input and conservative in output
 
 Free speech who is right?
@@ -158,7 +160,7 @@ Just treat it a a writing bug - Newton's Third Law of Motion: To every action th
 
 ### Agile
 
-Software development as a time-boxed, risk, complexity evaluated process. Delivering software asa continuium rather than in one big bang. De-mystifying how Software is made. Like a sausage machine. Everyone is made aware how the sausage is made and how big each segment can be delivered.
+Software development as a time-boxed, risk, complexity evaluated process. Delivering software in a continuium rather than in big bangs. De-mystifying how Software is made. Like a sausage machine. Everyone is made aware how the sausage is made and how big each segment can be delivered.
 
 Becomes Agile when software developers and stake holders (people with commercial interest in building software) are communicating skilfully.
 
