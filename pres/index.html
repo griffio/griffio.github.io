@@ -47,7 +47,7 @@
         <section>
             <h2>Encoding and Sanitizing Data</h2>
 
-            <small>press Space to continue</small>
+            <small>press Space or Swipe to continue</small>
 
             <p>
                 <small>created by <a href="https://github.com/griffio">griffio</a></small>
@@ -73,7 +73,11 @@
 
                 <p><b>Sanitize</b> content, ideally, against a white-list to strip out non-compliant data</p>
 
-                <p>There has to be some contextual understanding of the data <small><a href="https://griffio.github.io/tech/2015/02/12/Html-Sanitising/">griffio/html sanitizing</a></small></p>
+                <p>There has to be some contextual understanding of the data</p>
+
+                <p>
+                    <small><a href="https://griffio.github.io/tech/2015/02/12/Html-Sanitising/">griffio/html sanitizing</a></small>
+                </p>
             </section>
             <section data-background-transition="slide" data-background="assets/encoded.jpg">
                 <h2 style="color: yellow">Exploitable data is escaped</h2>
@@ -87,19 +91,35 @@
         <section>
             <h2>The Problem Space</h2>
 
-            <p>Application has hundreds of HTML templates containing dynamic variables from mixed sources</p>
+            <p>Our Application has hundreds of HTML templates containing dynamic variables from mixed sources</p>
 
             <h3>Imagine...</h3>
 
-            <p>A ticking time-bomb of potential exploits that needed to be defused before it can be used for tokens!</p>
+            <p>A ticking time-bomb of potential exploits that need to be defused before it can be used to support token based applications</p>
 
+        </section>
+
+        <section>
+            <h2>XSS - Cross site scripting</h2>
+
+            <p>Exploitation of XSS (temporarily or persistent) results in the complete compromise of the targeted application</p>
+
+<pre><code data-trim class="hljs html">The attacker enters bobbie" onmouseover="alert(1) as their name
+    <a href="/user/[username]">[username]</a>
+    Resulting in an exploit for the user agent
+    <a href="/user/bobbie" onmouseover="alert(1)"></a>
+</code></pre>
+            <p>If an attacker can access your browser environment then other security protections like XSRF can be overcome</p>
+
+            <p>
+                <small><a href="https://www.seancassidy.me/lostpass.html">seancassidy/lostpass</a></small>
+            </p>
         </section>
 
         <section>
             <h2>Making Wrong Code Look Wrong</h2>
 
-            <p>Exploits are <b>only</b> avoided by developers following best practices all the time
-            <p>
+            <p>Exploits are <b>only</b> avoided by developers following best practices all the time<p>
 
             <p>Some convention is needed to determine right from wrong</p>
             <p>
@@ -117,7 +137,10 @@ HtmlSafe safe = "&ltp&gtOnly what we explicitly allow&lt/p&gt"
  </code></pre>
             <p>Therefore values are either Safe or UnSafe</p>
 
-            <p><small><a href="https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project">owasp/java html sanitizer</a></small></p>
+            <p>
+                <small>
+                    <a href="https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project">owasp/java html sanitizer</a></small>
+            </p>
 
         </section>
 
@@ -126,34 +149,18 @@ HtmlSafe safe = "&ltp&gtOnly what we explicitly allow&lt/p&gt"
 
             <p>Enforce a white-list of allowable content through Policies and produce trusted markup</p>
 
-            <pre><code data-trim class="hljs java">
+<pre><code data-trim class="hljs java">
 String unsafe = "&lt;p...&lt;script...&lt;a href=...";
 PolicyFactory policy = Sanitizers.FORMATTING.and(Sanitizers.LINKS);
 HtmlSafe safe = HtmlSafe.from(policy.sanitize(unsafe));
-            </code></pre>
+</code></pre>
 
-            <p>Any values that are intentionally HTML are sanitized otherwise escape it!</p>
+            <p>Ensures HTML content is sanitized, otherwise escape it!</p>
 
-            <p>Baked into the template system such that only HtmlSafe types can be rendered without being escaped</p>
-
-            <p><small><a href="http://queue.acm.org/detail.cfm?id=2663760">acmqueue/preventing script injection vulnerabilities through software design</a></small> </p>
-        </section>
-        <section>
-            <h2>XSS - Cross site scripting</h2>
-
-            <p>Exploitation of XSS results in complete compromise of the victim's session (temporarily or persistent)
-                within the subverted application</p>
-
-
-<pre><code data-trim class="hljs html">The attacker enters bobbie" onmouseover="alert(1) as their name
-<a href="/user/[username]">[username]</a>
-Resulting as rendered by the template
-<a href="/user/bobbie" onmouseover="alert(1)"></a>
-		            </code></pre>
-            <p>If an attacker can access your browser environment then other attacks are now possible like XSRF</p>
+            <p>Baked into the templating system, only Safe types can be rendered without being escaped</p>
 
             <p>
-                <small><a href="https://www.seancassidy.me/lostpass.html">seancassidy/lostpass</a></small>
+                <small><a href="http://queue.acm.org/detail.cfm?id=2663760">acmqueue/preventing script injection vulnerabilities through software design</a></small>
             </p>
         </section>
         <section>
@@ -161,16 +168,29 @@ Resulting as rendered by the template
 
             <p>Like the money in your wallet, once stolen, <b>tokens</b> can be used without provenance</p>
 
-            <p>XSS is always a threat</p>
+            <p>It isn't good enough to say tokens are safe and just need to be protected against XSS</p>
 
-            <p>Requires continuous research and development!</p>
+            <p>Requires continuous research and development testing with contextual escaping filters</p>
 
             <p>
-                <small><a href="https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/">auth0/ten things you should know about tokens and cookies</a></small>
+                <small><a href="https://yahoo.github.io/secure-handlebars/xssfilters.html">yahoo/xssfilters</small>
             </p>
         </section>
-    </div>
+        <section>
+            <h2>References</h2>
 
+            <ul>
+               <li><a href="https://www.owasp.org/index.php/Top_10_2013-A1-Injection">owasp.org/index.php/top_10_2013-a1-injection</a></li>
+               <li><a href="https://griffio.github.io/tech/2015/02/12/Html-Sanitising/">griffio.github.io/tech/2015/02/12/html-sanitising</a></li>
+               <li><a href="https://www.seancassidy.me/lostpass.html">seancassidy.me/lostpass.html</a></li>
+               <li><a href="http://www.joelonsoftware.com/articles/Wrong.html">joelonsoftware.com/articles/wrong.html</a></li>
+               <li><a href="https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project">owasp.org/index.php/owasp_java_html_sanitizer_project</a></li>
+               <li><a href="http://queue.acm.org/detail.cfm?id=2663760">queue.acm.org/detail.cfm?id=2663760</a></li>
+               <li><a href="https://yahoo.github.io/secure-handlebars/xssfilters.html">yahoo.github.io/secure-handlebars/xssfilters.html</a></li>
+            </ul>
+
+        </section>
+    </div>
 </div>
 
 <script src="lib/js/head.min.js"></script>
