@@ -47,19 +47,21 @@
         <section>
             <h2>Encoding and Sanitizing Data</h2>
 
+            <small>press Space to continue</small>
+
             <p>
-                <small>Created by <a href="https://github.com/griffio">griffio</a></small>
+                <small>created by <a href="https://github.com/griffio">griffio</a></small>
             </p>
         </section>
 
         <section>
             <h2>The Phantom Menace</h2>
 
-            <p>Input originating from untrusted sources must be integrated such that it cannot control the output
+            <p>Input from untrusted sources must be integrated such that it cannot control the output
                 programmatically</p>
 
             <p>
-                <small><a href="https://www.owasp.org/index.php/Top_10_2013-A1-Injection">OWASP A1-Injection</a></small>
+                <small><a href="https://www.owasp.org/index.php/Top_10_2013-A1-Injection">owasp/injection</a></small>
             </p>
         </section>
 
@@ -71,7 +73,7 @@
 
                 <p><b>Sanitize</b> content, ideally, against a white-list to strip out non-compliant data</p>
 
-                <p>There has to be some contextual understanding of the data <small><a href="https://griffio.github.io/tech/2015/02/12/Html-Sanitising/">Html sanitizing</a></small></p>
+                <p>There has to be some contextual understanding of the data <small><a href="https://griffio.github.io/tech/2015/02/12/Html-Sanitising/">griffio/html sanitizing</a></small></p>
             </section>
             <section data-background-transition="slide" data-background="assets/encoded.jpg">
                 <h2 style="color: yellow">Exploitable data is escaped</h2>
@@ -85,7 +87,7 @@
         <section>
             <h2>The Problem Space</h2>
 
-            <p>Application has hundreds of Java Server Page (JSP) templates containing dynamic variables from mixed sources</p>
+            <p>Application has hundreds of HTML templates containing dynamic variables from mixed sources</p>
 
             <h3>Imagine...</h3>
 
@@ -96,19 +98,18 @@
         <section>
             <h2>Making Wrong Code Look Wrong</h2>
 
-            <p>Exploits are avoided by developers following best practices all the time
+            <p>Exploits are <b>only</b> avoided by developers following best practices all the time
             <p>
 
             <p>Some convention is needed to determine right from wrong</p>
             <p>
-                <small><a href="http://www.joelonsoftware.com/articles/Wrong.html">joel on software</a></small>
+                <small><a href="http://www.joelonsoftware.com/articles/Wrong.html">joel on software/wrong</a></small>
             </p>
         </section>
 
         <section>
-            <h2>Java HTML Sanitizer</h2>
+            <h2>HTML Sanitizer</h2>
             <p>Allow HTML authored by third-parties into your web application while protecting against XSS</p>
-            <p><small><a href="https://github.com/owasp/java-html-sanitizer">OWASP Java HTML Sanitizer</a></small></p>
 
  <pre><code data-trim class="hljs html">
 String unsafe = "&ltp&gtCan be anything &lt;script&gt;alert('Boo!')&lt;/script&gt;&lt/p&gt
@@ -116,17 +117,12 @@ HtmlSafe safe = "&ltp&gtOnly what we explicitly allow&lt/p&gt"
  </code></pre>
             <p>Therefore values are either Safe or UnSafe</p>
 
-            <p>
-                <small><a href=""></a></small>
-            </p>
+            <p><small><a href="https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project">owasp/java html sanitizer</a></small></p>
+
         </section>
 
         <section>
             <h2>Safe or Unsafe</h2>
-
-            <p>whether it’s safe or unsafe.
-
-            <p>
 
             <p>Enforce a white-list of allowable content through Policies and produce trusted markup</p>
 
@@ -136,14 +132,12 @@ PolicyFactory policy = Sanitizers.FORMATTING.and(Sanitizers.LINKS);
 HtmlSafe safe = HtmlSafe.from(policy.sanitize(unsafe));
             </code></pre>
 
-            <p>This is baked into the template system that only HtmlSafe types can be rendered without encoding</p>
+            <p>Any values that are intentionally HTML are sanitized otherwise escape it!</p>
 
-            <p>The developers compliance to best practice doesn't have to be assumed and cannot be circumvented</p>
+            <p>Baked into the template system such that only HtmlSafe types can be rendered without being escaped</p>
 
-            <p>The primary goal of this approach is to limit code that could potentially give rise to XSS vulnerabilities to a very small fraction of a code base</p>
-
-            <p>Any values that are intentionally html are sanitized otherwise encode</p>
- </section>
+            <p><small><a href="http://queue.acm.org/detail.cfm?id=2663760">acmqueue/preventing script injection vulnerabilities through software design</a></small> </p>
+        </section>
         <section>
             <h2>XSS - Cross site scripting</h2>
 
@@ -151,17 +145,15 @@ HtmlSafe safe = HtmlSafe.from(policy.sanitize(unsafe));
                 within the subverted application</p>
 
 
-<pre><code data-trim class="hljs html">The attacker enters bob" onmouseover="alert(1) as their name
+<pre><code data-trim class="hljs html">The attacker enters bobbie" onmouseover="alert(1) as their name
 <a href="/user/[username]">[username]</a>
 Resulting as rendered by the template
-<a href="/user/bob" onmouseover="alert(1)"></a>
+<a href="/user/bobbie" onmouseover="alert(1)"></a>
 		            </code></pre>
             <p>If an attacker can access your browser environment then other attacks are now possible like XSRF</p>
 
             <p>
-            
-            <p>
-                <small><a href=""></a></small>
+                <small><a href="https://www.seancassidy.me/lostpass.html">seancassidy/lostpass</a></small>
             </p>
         </section>
         <section>
@@ -169,11 +161,12 @@ Resulting as rendered by the template
 
             <p>Like the money in your wallet, once stolen, <b>tokens</b> can be used without provenance</p>
 
-            <p>XSS is always a threat. Stay vigilant!</p>
+            <p>XSS is always a threat</p>
+
+            <p>Requires continuous research and development!</p>
 
             <p>
-                <small><a href="https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/">ten-things-you-should-know-about-tokens-and-cookies</a>
-                </small>
+                <small><a href="https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/">auth0/ten things you should know about tokens and cookies</a></small>
             </p>
         </section>
     </div>
