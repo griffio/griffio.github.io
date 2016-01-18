@@ -81,3 +81,14 @@ http://likewise.am/2015/12/18/why-i-love-industrious-and-about-coworking-and-off
 https://goremotely.wordpress.com/
 
 http://engineering.freeagent.com/2016/01/06/many-timezones-one-team/
+
+
+Remote First
+
+Imagine a new client/customer is launching; emails sent, logins released - action stations. Anyone with a vested interest or need to know should be available on demand - project managers, client managers, infrastructure folks to monitor performance.
+Even if for a morning or a few hours all participants should be able to access "#hashtag" client.
+
+This should be familiar to people who keep updated on social media, use their mobile apps for chat. Gamers;
+how can usually random players co-operate in a game so successfully and play together? Chat, headsets, screen-in-screen video.
+
+The assumption is that no-one is co-located or has to be completely synchronous to be able to participate.
