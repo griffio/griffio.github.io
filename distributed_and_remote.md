@@ -82,6 +82,7 @@ https://goremotely.wordpress.com/
 
 http://engineering.freeagent.com/2016/01/06/many-timezones-one-team/
 
+http://engineering.freeagent.com/2016/01/19/freeagent-av-adventure-continues/
 
 Remote First
 
