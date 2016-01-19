@@ -91,7 +91,7 @@
         <section>
             <h2>The Problem Space</h2>
 
-            <p>Our Application has hundreds of HTML templates containing dynamic variables from mixed sources</p>
+            <p>Your Application has hundreds of HTML templates containing dynamic variables from mixed sources</p>
 
             <h3>Imagine...</h3>
 
@@ -157,24 +157,25 @@ HtmlSafe safe = HtmlSafe.from(policy.sanitize(unsafe));
 
             <p>Ensures HTML content is sanitized, otherwise escape it!</p>
 
-            <p>Baked into the templating system, only Safe types can be rendered without being escaped</p>
+            <p>Baked into the template rendering software only Safe types can be rendered without being escaped</p>
 
             <p>
                 <small><a href="http://queue.acm.org/detail.cfm?id=2663760">acmqueue/preventing script injection vulnerabilities through software design</a></small>
             </p>
         </section>
         <section>
-            <h2>Bearer Tokens</h2>
+            <h2>Keeping Tokens Secure</h2>
 
-            <p>Like the money in your wallet, once stolen, <b>tokens</b> can be used without provenance</p>
+            <p>Like the money in your wallet, once stolen, <b>bearer tokens</b> can be used without provenance</p>
 
-            <p>It isn't good enough to say tokens are safe and just need to be protected against XSS</p>
+            <p>Not enough to just say tokens are safe with XSS protection</p>
 
             <p>Requires continuous research and development testing with contextual escaping filters</p>
 
             <p>
                 <small><a href="https://yahoo.github.io/secure-handlebars/xssfilters.html">yahoo/xssfilters</small>
             </p>
+
         </section>
         <section>
             <h2>References</h2>
@@ -187,6 +188,7 @@ HtmlSafe safe = HtmlSafe.from(policy.sanitize(unsafe));
                <li><a href="https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project">owasp.org/index.php/owasp_java_html_sanitizer_project</a></li>
                <li><a href="http://queue.acm.org/detail.cfm?id=2663760">queue.acm.org/detail.cfm?id=2663760</a></li>
                <li><a href="https://yahoo.github.io/secure-handlebars/xssfilters.html">yahoo.github.io/secure-handlebars/xssfilters.html</a></li>
+               <li><a href="https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/">auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies</a></li>
             </ul>
 
         </section>
