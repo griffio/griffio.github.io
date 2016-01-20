@@ -95,8 +95,8 @@ Remote Distributed Lessons
 - Herding Unicorns
 - Prove ability can work remote and stay sane
 - What is my threshold for productivity? Totally remote, Commute some of the week? Commute nearer?
--Team as Small social network - people share on twitter and message each other out-of-band communication.
-
+- Team as Small social network - people share on twitter and message each other out-of-band communication.
+- Some companies adopt remote, others were born remote
 Create a new chat channel for a specific client - everyone involved jumps in.
 
 Chat channel - able pick up more “over-heard” chatter and listen into conversations.
