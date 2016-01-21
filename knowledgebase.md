@@ -31,10 +31,11 @@ Companies with intentional culture:
 The most challenging problem in tech industry is not technical but ensuring diversity in that technical culture.
 Software is about People and their motivations.
 - Overcoming bias.
+- The assumption that expertise is concentrated into one original demographic
 - Cannot make any assumptions about a persons experience
 - they didn't grow up with a personal computer
 - e.g IRC use is not known by a lot of new developers
-- Slack or other chat based tools may be better
+- Slack or other chat based tools may be better for on-boarding
 
 Not everyone has a long history in tech or has a computer science background. This could include business people who are not used to or are intimidated by creating Software.
 The assumption has been that developers hatched out of an egg knowing how to code. New developers are not new to life and could be a scientist, teacher, journalist with years of knowledge.
