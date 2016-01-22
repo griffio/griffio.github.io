@@ -209,7 +209,7 @@ Code Reviews
 
 #### Why Java?
 
-Stability - Brian Goetz. Current design goal. Use existing Java idioms, Backward compatible mostly. Language Evolution levels off
+Stability - Brian Goetz. Current design goal. Use existing Java idioms, Backward compatible mostly. Language Evolution levels off. Evolution not Revolution.
 
 Since 2000-2001 mainly because of mix open source choices and commercial like Intellij. There is no “one-stop” shop e.g Microsoft, Oracle, IBM
 
