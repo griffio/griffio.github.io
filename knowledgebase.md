@@ -159,6 +159,13 @@ Bootstrap should tighten up some of the relaxed Javascript by simply adding expl
 2013, (libuv) used in node.js , a Joyent-sponsored project. One of the core contributors rejected a pull request that eliminated the use of a gendered pronoun in libuv
 Just treat it a a writing bug - Newton's Third Law of Motion: To every action there is always an equal and opposite reaction. Then bug will never get fixed
 
+#### Documentation examples
+
+https://stripe.com/docs
+http://johnny-five.io/examples/
+http://reactivex.io/documentation/observable.html
+https://facebook.github.io/immutable-js/docs/
+
 ### Agile
 
 Software development as a time-boxed, risk, complexity evaluated process. Delivering software in a continuium rather than in big bangs. De-mystifying how Software is made. Like a sausage machine. Everyone is made aware how the sausage is made and how big each segment can be delivered.
