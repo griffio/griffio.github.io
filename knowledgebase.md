@@ -167,6 +167,9 @@ https://auth0.com/docs
 http://reactivex.io/documentation/observable.html
 https://facebook.github.io/immutable-js/docs/
 http://explainshell.com/
+https://api.foxycart.com/docs
+http://projects.spring.io/spring-restdocs/
+http://swagger.io/
 
 ### Agile
 
@@ -332,6 +335,8 @@ e.g a Response data contains a self-linking URL. Richardson Maturity Model. “a
 Rest API - discoverable APIs, should a version need to be specified? Semantic versioning, backward/forward compatible, Content negotiation.
 
 Rest Pagination - Links for next and previous pages, counts
+
+For HTTP - you get a page of HTML data and embedded in that HTML you have links and forms that tell you what you can do with that data.
 
 https://api.foxycart.com/docs
 
