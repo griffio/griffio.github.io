@@ -163,6 +163,7 @@ Just treat it a a writing bug - Newton's Third Law of Motion: To every action th
 
 https://stripe.com/docs
 http://johnny-five.io/examples/
+https://auth0.com/docs
 http://reactivex.io/documentation/observable.html
 https://facebook.github.io/immutable-js/docs/
 
