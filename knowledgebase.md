@@ -166,6 +166,7 @@ http://johnny-five.io/examples/
 https://auth0.com/docs
 http://reactivex.io/documentation/observable.html
 https://facebook.github.io/immutable-js/docs/
+http://explainshell.com/
 
 ### Agile
 
