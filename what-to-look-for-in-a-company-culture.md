@@ -1,10 +1,10 @@
 Environment drives Culture; Culture drives Brand.
 
-When looking for a new job in Software development often the focus is on the years/months experience with a specific library/framework - Java (Spring, Hibernate), JavaScript (ReactJs) or NodeJs (Perhaps NodeJs doesn't discriminate for a particular framework - yet).
+When looking for a new job in Software development often the focus in the hiring process is on the years/months experience with a specific library/framework - Java (Spring, Hibernate), JavaScript (ReactJs) or NodeJs (Perhaps NodeJs doesn't discriminate for a particular framework - yet).
 
 We may want to take a new job as a stepping stone, the quickest way to a pay rise is to change job or a salary multiplier needed for a first mortgage.
 
-The companies are usually the following: a billable engagement consultancy, tech startup, legacy tech giant, software development boutique, or a business gaining capacity for building software.
+The companies are usually the following: a billable engagement consultancy, tech startup, legacy tech giant, software development boutique, or a corporate business gaining capacity for building software.
 
 Individually people are smart with hidden talents unable to bring them to use due to established group-think or status quo (Everyone knows when something is not smart or is useless but have no sense of power to change it).
 
