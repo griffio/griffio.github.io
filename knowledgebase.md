@@ -135,7 +135,7 @@ Open Source contribution: Dagger repo, I can see how many developers it helped o
 
 #### Problems in Open Source
 
-For every Linus there are a hundred duck-sized Tovalds.
+For every Linus there are another hundred duck-sized Tovalds.
 
 Liberal in input and conservative in output
 
