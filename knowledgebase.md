@@ -10,6 +10,7 @@ Companies with intentional culture:
 - Buffer
 - Compose.io
 - Github
+- Helpscout
 - Stack Overflow
 - Thoughtbot
 
