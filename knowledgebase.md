@@ -6,11 +6,12 @@ Companies with intentional culture:
 
 - Atlassian
 - AtomicObject
-- Compose.io
+- Automattic
 - Buffer
+- Compose.io
 - Github
-- Thoughtbot
 - Stack Overflow
+- Thoughtbot
 
 **Making a Culture**
 - An Organizations collective intelligence is its culture
