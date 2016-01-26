@@ -28,7 +28,7 @@ git clone --single-branch https://github.com/syl20bnr/spacemacs ~/.emacs.d
 The OSX installed version of emacs (22.x.x) could be out of date (needs at least 24.x.x) for Spacesmacs.
 
 ~~~
-emacs --version                                                           -INS-
+emacs --version
 GNU Emacs 24.5.1
 ~~~
 
@@ -51,15 +51,15 @@ git clone --single-branch https://github.com/powerline/fonts.git
 
 #### iTerm
 
-iTerm has two font settings - configure the non-ascii font with a powerline "sauce code" font
+iTerm has two font settings - configure the non-ascii font with a powerline font e.g "sauce code"
 
-![iterm](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/public/public/spacemacs-iterm.png)
+![iterm](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/spacemacs-iterm.png)
 
-![iterm-settings](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/public/iterm-powerline-font.png)
+![iterm-settings](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/iterm-powerline-font.png)
 
 #### Terminal
 
-Terminal has one font setting - configure the ont with a powerline "" font
+Terminal has one font setting - configure with a powerline version font e.g "sauce code"
 
 ![terminal](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/public/public/spacemacs-iterm.png)
 
