@@ -38,7 +38,7 @@ You can move or remove the /usr/bin/emacs and /usr/share/emacs directories.
 
 Your terminal emacs binary should be located similar to "/usr/local/bin/emacs@ -> ../Cellar/emacs-mac/emacs-24.5-z-mac-5.9/bin/emacs".
 
-### Setting Terminal and iTerm Fonts for Powerline
+### Setting Terminal and iTerm fonts for powerline
 
 [powerline fonts](https://github.com/powerline/fonts)
 
@@ -48,8 +48,7 @@ git clone --single-branch https://github.com/powerline/fonts.git
 ./install.sh
 ~~~
 
-
-#### iTerm
+### iTerm
 
 iTerm has two font settings - configure the non-ascii font with a powerline font e.g "sauce code"
 
@@ -57,14 +56,11 @@ iTerm has two font settings - configure the non-ascii font with a powerline font
 
 ![iterm-settings](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/iterm-powerline-font.png)
 
-#### Terminal
+### Terminal
 
 Terminal has one font setting - configure with a powerline version font e.g "sauce code"
 
-![terminal](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/public/spacemacs-iterm.png)
+![terminal](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/spacemacs-terminal.png)
 
-![terminal-settings](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/iterm-powerline-font.png)
-
-
-
+![terminal-settings](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/terminal-powerline-font.png)
 
