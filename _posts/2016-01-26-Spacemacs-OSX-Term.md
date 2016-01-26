@@ -61,9 +61,9 @@ iTerm has two font settings - configure the non-ascii font with a powerline font
 
 Terminal has one font setting - configure with a powerline version font e.g "sauce code"
 
-![terminal](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/public/public/spacemacs-iterm.png)
+![terminal](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/public/spacemacs-iterm.png)
 
-![terminal-settings](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/public/iterm-powerline-font.png)
+![terminal-settings](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/iterm-powerline-font.png)
 
 
 
