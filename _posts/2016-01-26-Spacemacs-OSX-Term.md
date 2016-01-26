@@ -34,15 +34,20 @@ GNU Emacs 24.5.1
 
 You can move or remove the /usr/bin/emacs and /usr/share/emacs directories.
 
-[Use homebrew to install any newer emacs versions](https://github.com/syl20bnr/spacemacs)
+[Use Homebrew to install any newer emacs versions](https://github.com/syl20bnr/spacemacs)
 
-Your terminal emacs binary should be located similar to "/usr/local/bin/emacs@ -> ../Cellar/emacs-mac/emacs-24.5-z-mac-5.9/bin/emacs".
+Your terminal emacs binary should only be on the shell path below
+
+~~~
+/usr/local/bin/emacs@ -> ../Cellar/emacs-mac/emacs-24.5-z-mac-5.9/bin/emacs
+~~~
 
 ### Setting Terminal and iTerm fonts for powerline
 
-[powerline fonts](https://github.com/powerline/fonts)
+[Powerline Fonts](https://github.com/powerline/fonts)
 
 Install into OSX font library and update font cache
+
 ~~~
 git clone --single-branch https://github.com/powerline/fonts.git
 ./install.sh
