@@ -140,7 +140,7 @@
 String unsafe = "&ltp&gtCan be anything &lt;script&gt;alert('Boo!')&lt;/script&gt;&lt/p&gt
 HtmlSafe safe = "&ltp&gtOnly what we explicitly allow&lt/p&gt"
  </code></pre>
-            <p>Thus values are of a type determined Safe or UnSafe</p>
+            <p>Values are a type determined Safe or UnSafe</p>
 
             <p>
                 <small>
@@ -162,7 +162,7 @@ HtmlSafe safe = HtmlSafe.from(policy.sanitize(unsafe));
 
             <p>Ensures HTML content is sanitized, otherwise escape it!</p>
 
-            <p>Baked into the template rendering software only Safe types can be rendered without being escaped</p>
+            <p>Baked into the templating engine only Safe types can be rendered without being escaped</p>
 
             <p>
                 <small><a href="http://queue.acm.org/detail.cfm?id=2663760">acmqueue/preventing script injection vulnerabilities through software design</a></small>
