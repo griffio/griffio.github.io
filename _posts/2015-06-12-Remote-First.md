@@ -86,9 +86,9 @@ ___
 
 As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for hires?
 
-A Global Superpower is defined by having an aircraft carrier - a tech superpower has a corporate spaceship campus.
-
 If you are Apple you can compete by building a [big space ship](http://www.cupertino.org/index.aspx?page=1107).
+
+A Global Superpower is defined by having an aircraft carrier - a tech superpower has a corporate spaceship campus.
 
 If the perception of your company is still taken from the inertia when it first put Radio on the Internet in 1999, then Remote First offers a methodology and a brand to make it relevant instead of adding ephemeral benefits like ping pong, catered lunches.
 
