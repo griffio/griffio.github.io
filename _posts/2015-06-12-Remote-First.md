@@ -86,7 +86,7 @@ ___
 
 As [discussed](/facebook/2015/04/05/Facebook-openplan/), how do you compete for hires?
 
-Superpowers are defined by having an aircraft carrier - tech superpowers have a corporate spaceship campus.
+A Global Superpower is defined by having an aircraft carrier - a tech superpower has a corporate spaceship campus.
 
 If you are Apple you can compete by building a [big space ship](http://www.cupertino.org/index.aspx?page=1107).
 
