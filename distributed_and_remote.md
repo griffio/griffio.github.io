@@ -90,6 +90,8 @@ https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-pr
 
 http://pajamas.io/
 
+http://blog.cloudpeeps.com/top-10-companies-winning-at-remote-work-culture/
+
 Remote First
 
 Imagine a new client/customer is launching; emails sent, logins released - action stations. Anyone with a vested interest or need to know should be available on demand - project managers, client managers, infrastructure folks to monitor performance.
