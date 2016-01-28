@@ -4,15 +4,13 @@
 
 Companies with intentional culture:
 
-- Atlassian
-- AtomicObject
-- Automattic
-- Buffer
-- Compose.io
-- Github
-- Helpscout
-- Stack Overflow
-- Thoughtbot
+- Atlassian https://blogs.atlassian.com/2015/11/how-atlassian-builds-innovation-culture/
+- AtomicObject https://atomicobject.com/culture
+- Automattic https://automattic.com/work-with-us/
+- Buffer https://open.buffer.com/buffer-values/
+- Helpscout https://www.helpscout.net/blog/remote-culture/
+- Stack Overflow https://blog.stackoverflow.com/company/culture/
+- Thoughtbot http://playbook.thoughtbot.com
 
 **Making a Culture**
 - An Organizations collective intelligence is its culture
