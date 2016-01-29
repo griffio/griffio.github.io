@@ -98,6 +98,8 @@ Remote Distributed Lessons
 - What is my threshold for productivity? Totally remote, Commute some of the week? Commute nearer?
 - Team as Small social network - people share on twitter and message each other out-of-band communication.
 - Some companies adopt remote, others were born remote
+- Just write everything down even when in same office space
+
 Create a new chat channel for a specific client - everyone involved jumps in.
 
 Chat channel - able pick up more “over-heard” chatter and listen into conversations.
