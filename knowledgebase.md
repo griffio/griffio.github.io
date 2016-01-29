@@ -175,7 +175,7 @@ http://swagger.io/
 
 Software development as a time-boxed, risk, complexity evaluated process. Delivering software in a continuium rather than in big bangs. De-mystifying how Software is made. Like a sausage machine. Everyone is made aware how the sausage is made and how big each segment can be delivered.
 
-Becomes Agile when software developers and stake holders (people with commercial interest in building software) are communicating skilfully.
+Becomes Agile when software developers and stake holders (people with commercial interest in building software) are communicating skilfully and keeping iterating on the question of what they are actually trying to build.
 
 Not Agile, if software developers are being approached directly for features, rather than the people who are asking for features understanding how that they can be empowered themselves to make software.
 
