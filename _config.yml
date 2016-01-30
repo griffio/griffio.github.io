@@ -1,11 +1,6 @@
-auto: true
 exclude: [".gitignore", "readme.md", "Gemfile", "Gemfile.lock"]
 gems:
   - jekyll-sitemap
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Griffio
@@ -16,7 +11,7 @@ baseurl:          /
 paginate:         19
 
 # Custom vars
-version:          0.1.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/griffio
