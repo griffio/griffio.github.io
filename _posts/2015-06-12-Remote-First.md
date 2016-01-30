@@ -13,7 +13,7 @@ It improves the working practices for employees taking into consideration that t
 
 Companies that adopt remote first working practices are going to be way ahead in how their brand is ultimately perceived, i.e the opposite of [Yahoo](http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/), and that is favourably by potential employees who now want to be employed there.
 
-**Environment Drives Culture, Culture Drives Brand.**
+**Environment Drives Culture; Culture Drives Brand**
 
 Company management, [ones with pointy hair](http://dilbert.com/strip/2001-12-16), may only see benefits to adopting a remote first culture when an external positive response causes the Company share price to increase rather than it simply makes employees happy/motivated.
 
@@ -75,7 +75,7 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 * Todays software is built around the idea that you are not co-located - Mobile messaging, VOIP.
   * Companies that make this kind of software and are not Remote First, its like saying your products don't work.
 
-* Tools gaining growth and mindshare that work locally and remote such as [Slack](https://slack.com/), [Discord](https://discordapp.com/), [Trello](https://trello.com/), [Zulip](https://zulip.org/), [Matrix](https://matrix.org/), [Distributed version control](https://github.com).
+* Tools gaining growth and mindshare that work locally and remote such as [Slack](https://slack.com/), [Discord](https://discordapp.com/), [Trello](https://trello.com/), [Zulip](https://zulip.org/), [Matrix](https://matrix.org/), [Distributed version control](https://github.com), [Yodlr](https://getyodlr.com).
 
 * Build a culture around asking questions
 
