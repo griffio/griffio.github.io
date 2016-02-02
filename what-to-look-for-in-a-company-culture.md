@@ -14,4 +14,6 @@ Productive doesn't mean producing continuously the same thing. Equates working 8
 
 Culture is developed through the latitude given to the employees natural tendency to do the right thing. Managers are important bulkheads that shield team members from excessive bureaucracy and meetings.
 
+If a company doesn't care enough creating a better working environment what is the chance it cares about creating culture?
+
 “As long as workers are crowded into noisy, sterile, disruptive space, it’s not worth improving anything but the workplace." - Excerpt From: Tom DeMarco. “Peopleware: Productive Projects and Teams, Third Edition.”
