@@ -16,6 +16,7 @@ Companies with intentional culture:
 - An Organizations collective intelligence is its culture
 - Individually people are smart and have hidden talents
 - An environment that gives employees the latitude to make use of these talents generates a Culture
+- If a company doesn't care enough creating a better working environment what is the chance it cares about creating culture?
 
 **Brand** is a form of group-think and can be toxic if inhaled internally - Output only - Corporate marketing often creates the brand first and implements it topdown - Brand is arrived at through the on going culture and not by simply inventing a set of values.
 
@@ -180,6 +181,8 @@ Software development as a time-boxed, risk, complexity evaluated process. Delive
 Becomes Agile when software developers and stake holders (people with commercial interest in building software) are communicating skilfully and keeping iterating on the question of what they are actually trying to build.
 
 Not Agile, if software developers are being approached directly for features, rather than the people who are asking for features understanding how that they can be empowered themselves to make software.
+
+If a company doesn't care enough creating a better working environment what is the chance it cares about creating better software?
 
 In the Business where does agility begin and end? Is there a radius of people that apply?
 
