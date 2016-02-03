@@ -11,7 +11,7 @@ An example using [Kotlin](http://kotlinlang.org), as at version kotlin 1.0.0-bet
 
 This simple Kotlin example will be compared to an imperative example and a Java 8 stream implementation.
 
-~~~
+~~~scala
  val input = "Mississippi"
 
  val result = input.groupBy {it}.mapValues { it.value.size }
@@ -19,7 +19,7 @@ This simple Kotlin example will be compared to an imperative example and a Java 
  println("result = ${result}")
 ~~~
 
-~~~
+~~~scala
 result = {M=1, i=4, s=4, p=2}
 ~~~
 
@@ -32,7 +32,7 @@ An imperative implementation, or a Fold operator, would typically  create one re
 
 This shows that the Kotlin groupBy operation will always use a list associated with each key.
 
-~~~
+~~~scala
 public inline fun <K> String.groupByTo(map: MutableMap<K, MutableList<Char>>,
                                        toKey: (Char) -> K): Map<K, MutableList<Char>> {
     for (element in this) {
@@ -46,7 +46,7 @@ public inline fun <K> String.groupByTo(map: MutableMap<K, MutableList<Char>>,
 
 This shows that the Kotlin mapValue operation will transform the value associated with each key in a destination map using the provided function.
 
-~~~
+~~~scala
 public inline fun <K, V, R, C : MutableMap<K, R>> Map<K, V>.mapValuesTo(destination: C,
                                                             transform: (Map.Entry<K, V>) -> R): C {
     for (e in this) {
@@ -61,7 +61,7 @@ ___
 
 Kotlin version - imperative
 
-~~~
+~~~scala
 
  var result = linkedMapOf<Char, Int>()
 
@@ -100,7 +100,7 @@ Alternative library support with [Guava Multiset](https://code.google.com/p/guav
 ) - counting letters
 
 ~~~java
-    HashMultiset<Character> letterFrequency = HashMultiset.create(Lists.charactersOf(input));
-    lettersFrequency.count("s");
+  HashMultiset<Character> letterFrequency = HashMultiset.create(Lists.charactersOf(input));
+  lettersFrequency.count("s");
 ~~~
 

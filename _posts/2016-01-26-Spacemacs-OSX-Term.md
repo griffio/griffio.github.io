@@ -68,4 +68,3 @@ Terminal has one font setting - configure with a powerline version font e.g "sau
 ![terminal](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/spacemacs-terminal.png)
 
 ![terminal-settings](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/terminal-powerline-font.png)
-

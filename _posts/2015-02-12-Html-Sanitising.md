@@ -19,7 +19,7 @@ The sanitisation of html using an explicit "whitelist" policy of allowed element
 
 [OWASP Html Sanitizer](https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project#tab=Main)
 
-~~~ java
+~~~java
 PolicyFactory policy = new HtmlPolicyBuilder()
  .allowElements("p")
  .allowElements(
@@ -60,7 +60,7 @@ Html Escaping only uses the following five ASCII characters ("&apos;" is not def
 com.google.common.html;
 ~~~
 
-~~~ javascript
+~~~javascript
 HtmlEscapers.htmlEscaper().escape("<script>alert('Boo!');</script>;");
 ~~~
 

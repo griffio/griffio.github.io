@@ -1,6 +1,5 @@
 exclude: [".gitignore", "readme.md", "Gemfile", "Gemfile.lock"]
-gems:
-  - jekyll-sitemap
+gems: [jekyll-paginate,jekyll-sitemap]
 
 # Setup
 title:            Griffio

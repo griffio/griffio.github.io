@@ -88,7 +88,9 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.7rem;
+  font-family: Tauri, "PT Sans", sans-serif;
+  font-weight: 400;
 }
 h2 {
   margin-top: 1rem;
@@ -329,7 +331,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 }
 
 /* Blog post or page title */
