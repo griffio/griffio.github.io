@@ -20,7 +20,7 @@ This simple Kotlin example will be compared to an imperative example and a Java 
 ~~~
 
 ~~~scala
-result = {M=1, i=4, s=4, p=2}
+ result = {M=1, i=4, s=4, p=2}
 ~~~
 
 The two stages in the pipeline are grouping and transforming, separated by the infix syntax, implemented in the Kotin Standard Library. Each operation produces a collection.
