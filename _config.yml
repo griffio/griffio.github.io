@@ -3,6 +3,8 @@ gems: [jekyll-paginate,jekyll-sitemap]
 
 # Setup
 author:         griffio
+baseurl:
+url:            https://griffio.github.com
 github:         https://github.com/griffio
 name:           griffio
 repo:           https://github.com/griffio/griffio.github.io
