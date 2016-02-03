@@ -2,15 +2,12 @@ exclude: [".gitignore", "readme.md", "Gemfile", "Gemfile.lock"]
 gems: [jekyll-paginate,jekyll-sitemap]
 
 # Setup
-title:            Griffio
-author:
-  name:           'GRIFFIO'
-  url:            'https://github.com/griffio'
-baseurl:          /
-paginate:         19
+author:         griffio
+github:         https://github.com/griffio
+name:           griffio
+repo:           https://github.com/griffio/griffio.github.io
+title:          Griffio
+paginate:       25
+version:        1.1.0
 
-# Custom vars
-version:          1.0.0
 
-github:
-  repo:           https://github.com/griffio

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Corporate Engineering Blogs
-id: engineering-tech-blogs
 ---
 
-<h3>with Github repos and career/jobs link</h3>
+### with Github repos and career/jobs link
 <section class="techblogs-flex-layout">
 <div class="flex-container">
 {% assign sorted_techblogs = (site.data.techblogs | sort: 'desc') %}
