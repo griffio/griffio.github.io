@@ -20,7 +20,7 @@ Authors [Ben Vandgrift](https://twitter.com/bvandgrift) & [Alex Miller](https://
 * Practices
 * Appendices
 
-Since I am moving on from [Living Clojure](https://griffio.github.io/review/2015/05/02/Living-Clojure-Review/); How is “Clojure Applied” different to the [dozen or so Clojure books](http://clojure-doc.org/articles/ecosystem/books.html) released so far?
+Since I am moving on from [Living Clojure](https://griffio.github.io/review/2015/05/02/Living-Clojure-Review.html); How is “Clojure Applied” different to the [dozen or so Clojure books](http://clojure-doc.org/articles/ecosystem/books.html) released so far?
 
 **It does not follow any ‘Cookbook’ style**; instead the "Foundations" and "Applications" parts are sequential in approach. The Third part titled “Practices” describes reference material for production use. Finally, the Appendices contain the philosophy behind Clojure and the precise nature of its design and vocabulary.
 
