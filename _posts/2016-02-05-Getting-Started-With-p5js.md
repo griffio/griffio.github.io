@@ -31,7 +31,9 @@ This is different from using a vector graphics application as it is about learni
 
 Learning programming through experiments and tools are needed to solve visual design problems, rather trying to learn a programmatic syntax first
 
-Like a [unit test](https://en.wikipedia.org/wiki/JUnit) where the programmer overrides the pre-defined template methods, p5 is already bootstrapped
+The approach taken in the book has short examples in each chapter including useful integration with fetching external data and towards the end, language concepts like variables, map, functions, arrays and objects are introduced
+
+All the concise examples, like a [unit test](https://en.wikipedia.org/wiki/JUnit) where the programmer overrides the pre-defined template methods, p5 is already bootstrapped
 
 ~~~javascript
 function setup() {
