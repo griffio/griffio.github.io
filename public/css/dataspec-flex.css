@@ -6,7 +6,7 @@
 }
 
 .DataSpec-blog, .DataSpec-repo, .DataSpec-jobs {
-    padding: 0.75em;
+    padding: 0.25em;
     flex: 1;
     -webkit-flex: 1;
 }
