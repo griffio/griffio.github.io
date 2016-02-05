@@ -51,8 +51,12 @@ A quick way of starting an environment is to use something like [codepen](http:/
 https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.22/p5.min.js
 ~~~
 
-There is a great selection of p5js video tutorials by Daniel Shiffman
+Introductions to p5
 
 [hello.p5js](http://hello.p5js.org/)
+
+There is a great selection of p5js video tutorials by Daniel Shiffman
+
 [p5.js tutorial - Part 1](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
 [p5.js tutorial - Part 2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
