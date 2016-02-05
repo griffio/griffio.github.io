@@ -33,7 +33,7 @@ Learning programming through experiments and tools are needed to solve visual de
 
 The approach taken in the book has short examples in each chapter including useful integration with fetching external data and towards the end, language concepts like variables, map, functions, arrays and objects are introduced
 
-All the concise examples, like a [unit test](https://en.wikipedia.org/wiki/JUnit) where the programmer overrides the pre-defined template methods, p5 is already bootstrapped
+All the concise examples are like a [unit test](https://en.wikipedia.org/wiki/JUnit) where the programmer overrides the pre-defined template methods, p5 is already bootstrapped
 
 ~~~javascript
 function setup() {
