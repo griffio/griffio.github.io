@@ -96,6 +96,8 @@ http://scionsoftware.com/Blog/work-for-a-remote-culture/
 
 http://www.hanselman.com/blog/30TipsForSuccessfulCommunicationAsARemoteWorker.aspx
 
+https://medium.com/help-scout/remote-first-companies-require-radical-commitment-3d5f9e410e8
+
 Remote First
 
 Imagine a new client/customer is launching; emails sent, logins released - action stations. Anyone with a vested interest or need to know should be available on demand - project managers, client managers, infrastructure folks to monitor performance.
