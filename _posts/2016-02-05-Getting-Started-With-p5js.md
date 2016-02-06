@@ -27,7 +27,7 @@ The physical book is half-sheet sized (5.5" by 8.5") with around 220 pages of co
 
 This has the same idea as Processing of sketching with code, instead without the need of stopping for a compilation step
 
-This is different from using a vector graphics application as it is about learning to program through computer graphics using JavaScript on a html canvas
+This is different from using a vector graphics application as it is about learning to program through computer graphics using JavaScript on Html Canvas
 
 Learning programming through experiments and tools are needed to solve visual design problems, rather trying to learn a programmatic syntax first
 
