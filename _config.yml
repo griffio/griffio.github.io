@@ -10,6 +10,7 @@ name:           griffio
 repo:           https://github.com/griffio/griffio.github.io
 title:          Griffio
 paginate:       25
+permalink:      pretty
 version:        1.1.0
 
 
