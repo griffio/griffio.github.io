@@ -4,7 +4,8 @@ title: Clojure Applied Review
 category: review
 tags: clojure review
 published: true
-summary: Clojure Applied Review - From Practice to Practitioner 
+summary: Clojure Applied Review - From Practice to Practitioner
+permalink: /:categories/:year/:month/:day/:title
 ---
 
 ![Clojure Applied Book](https://raw.githubusercontent.com/griffio/griffio.github.io/master/public/clojure_applied.jpg)
