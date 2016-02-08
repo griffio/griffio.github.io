@@ -170,6 +170,13 @@ cljs.core/ex-info
 
 :import is for one thing and one thing only importing classes that are also namespaces that’s all that it is for
 
+~~~
+(def data {:x [1 2 3 4], :y [:a :b :c :d]})
+(mapv #(sorted-map :x %1 :y %2) (:x data) (:y data))
+
+[{:x 1, :y :a} {:x 2, :y :b} {:x 3, :y :c} {:x 4, :y :d}]
+~~~
+
 ---
 
 OM Next
