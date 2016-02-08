@@ -7,7 +7,7 @@ published: true
 summary: Remote First Culture - What it does
 ---
 
-A Remote First culture assumes that communication will never be completely synchronous.
+Remote First is a transformational culture that assumes communication will never be completely synchronous.
 
 It makes the assumption that team members cannot all be desk-bound and in proximity even with [the benefits of poly skilled co-located project teams](http://spin.atomicobject.com/2011/08/11/the-benefits-of-poly-skilled-co-located-project-teams/).
 
