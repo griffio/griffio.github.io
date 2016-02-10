@@ -8,6 +8,7 @@ Companies with intentional culture:
 - AtomicObject https://atomicobject.com/culture
 - Automattic https://automattic.com/work-with-us/
 - Buffer https://open.buffer.com/buffer-values/
+- Compose https://www.compose.io/articles/the-tool-we-built-to-help-us-work-remotely/
 - Etsy https://codeascraft.com/2012/02/13/the-etsy-way/
 - Helpscout https://www.helpscout.net/blog/remote-culture/
 - Stack Overflow https://blog.stackoverflow.com/company/culture/
