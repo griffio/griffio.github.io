@@ -101,3 +101,5 @@ http://www.hanselman.com/blog/30TipsForSuccessfulCommunicationAsARemoteWorker.as
 https://medium.com/help-scout/remote-first-companies-require-radical-commitment-3d5f9e410e8
 
 https://www.chargify.com/blog/remote-work-tips/
+
+https://www.sococo.com/
