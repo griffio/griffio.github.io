@@ -191,6 +191,8 @@ In the Business where does agility begin and end? Is there a radius of people th
 
 Teams can evolve faster than the parent organisation.
 
+Software is structured so that it's easier to delete code safely.
+
 #### TDD (Test Driven Design/Development)
 
 Spend more time thinking about code to be written - more design time spent upfront is better than fixing incorrect code that made it into production (produced at initially faster rate)
