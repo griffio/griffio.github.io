@@ -23,17 +23,17 @@ The physical book is half-sheet sized (5.5" by 8.5") with around 220 pages of co
 
 ---
 
-[p5.js](http://p5js.org/) is a JavaScript [open source](https://github.com/processing/p5.js) interpretation of [Processing](https://processing.org/), native on desktop GNU/Linux, OS X, and Windows, brought over to the browser for html5 canvas
+[p5.js](http://p5js.org/) is a JavaScript [open source](https://github.com/processing/p5.js) interpretation of [Processing](https://processing.org/), native on desktop GNU/Linux, OS X, and Windows, brought over to the browser for HTML5 Canvas.
 
-This has the same idea as Processing of sketching with code, instead without the need of stopping for a compilation step
+This has the same idea as Processing of sketching with code, instead, without the need of stopping for a compilation step.
 
-This is different from using a vector graphics application as it is about learning to program through computer graphics using JavaScript on Html Canvas
+This is different from using a vector graphics application as it is about learning to program through computer graphics using JavaScript on Html Canvas.
 
-Learning programming through experiments and tools are needed to solve visual design problems, rather trying to learn a programmatic syntax first
+Learning programming through experiments and tools are needed to solve visual design problems, rather trying to learn a programmatic syntax first.
 
-The approach taken in the book has short examples in each chapter including useful integration with fetching external data and towards the end, language concepts like variables, map, functions, arrays and objects are introduced
+The approach taken in the book has short examples in each chapter including useful integration with fetching external data and towards the end, JavaScript language concepts like variables, functions, arrays and objects are introduced.
 
-All the concise examples are like a [unit test](https://en.wikipedia.org/wiki/JUnit) where the programmer overrides the pre-defined template methods, p5 is already bootstrapped
+All the concise examples work like a [unit test](https://en.wikipedia.org/wiki/JUnit) where the programmer overrides the pre-defined template methods, p5 is already bootstrapped.
 
 ~~~javascript
 function setup() {
@@ -47,13 +47,13 @@ function draw() {
 
 ---
 
-A quick way of starting an environment is to use something like [codepen](http://codepen.io/) then add the p5 library
+A quick way of starting an environment is to use something like [codepen](http://codepen.io/) then add the p5 library.
 
 ~~~
 https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.22/p5.min.js
 ~~~
 
-Introductions to p5
+#### Introductions to p5 and further tutorials
 
 [hello.p5js](http://hello.p5js.org/)
 
