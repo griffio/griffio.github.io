@@ -11,7 +11,7 @@ Converted from [Novig's spell-correct](http://norvig.com/spell-correct.html).
 
 A  "big.txt" file is loaded to train the spelling correction program with the permutations and probabilty count of words (see wordsN).
 
-Mostly Kotlin, as at version 1.0.0-rc-1036 with some assistance from Guava library.
+Mostly Kotlin, as at [kotlin 1.0.0](https://github.com/JetBrains/kotlin/releases/tag/build-1.0.0).
 
 Adding "or" infix extension to List<String> to return first non empty List of Lists (a or b or c).
 
