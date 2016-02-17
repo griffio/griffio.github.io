@@ -29,6 +29,7 @@ Companies with intentional culture:
 - Furniture Police
 - Meetings
 - Interruptions
+- Forced Collaboration
 
 #### Diversity
 
