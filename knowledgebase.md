@@ -265,6 +265,12 @@ Kotlin is a better Java 8 - infix operators, Higher Order Functions, Builder lit
 
 ##### Java 8
 
+java.util.Optional:-
+Not to be a general purpose Maybe or Some type
+Limited mechanism for library method return types where there needed to be a clear way to represent "no result", and using null for such was overwhelmingly likely to cause errors.
+Probably should never use it for something that returns an array of results, or a list of results; instead return an empty array or list. You should almost never use it as a field of something or a method parameter.
+Routinely using it as a return value for getters would definitely be over-use.
+
 Java Fork/Join Framework - Doug Lea - introduce CPU instructions, e.g CAS, into JVM and expose through a library. Can be used by various JVM languages to implement Actors, etc.
 
 Lambada (SAM)
