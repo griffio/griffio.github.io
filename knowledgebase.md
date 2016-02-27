@@ -29,7 +29,8 @@ Companies with intentional culture:
 - Furniture Police
 - Meetings
 - Interruptions
-- Forced Collaboration
+- Forced Collaboration 
+    - http://www.economist.com/news/business/21688872-fashion-making-employees-collaborate-has-gone-too-far-collaboration-curse)
 
 #### Diversity
 
