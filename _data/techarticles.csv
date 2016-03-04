@@ -13,8 +13,6 @@ The Expression Problem,http://homepages.inf.ed.ac.uk/wadler/papers/expression/ex
 The Curse of the Excluded Middle,https://queue.acm.org/detail.cfm?ref=rss&id=2611829,"Mostly functional programming does not work",programming
 Overused Code Reuse,http://ithare.com/overused-code-reuse,"It’s tempting to use someone else’s code rather than write it yourself.",engineering
 REST APIs must be Hypertext-Driven,http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven,"I am getting frustrated by the number of people calling any HTTP-based interface a REST API.",engineering
-The Bugs We Have to Kill,https://www.usenix.org/system/files/login/articles/login_aug15_02_bratus.pdf,"The code that parses inputs is the first and often the only protection
-for the rest of a program from malicious inputs.",engineering
 Learnable Programming,http://worrydream.com/LearnableProgramming,"Designing a programming system for understanding programs.",programming
 Five Years Building a Culture and Handing it Off,http://laughingmeme.org/2015/08/31/five-years-building-a-culture-and-handing-it-off,"After 5 years, the time has come. This is my last week as Etsy’s CTO.",engineering
 Feral Concurrency Control,http://www.bailis.org/papers/feral-sigmod2015.pdf,"In this work, we empirically investigate modern ORM-backed applications’ use and disuse of database concurrency control mechanisms.",engineering
