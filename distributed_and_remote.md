@@ -103,3 +103,5 @@ https://medium.com/help-scout/remote-first-companies-require-radical-commitment-
 https://www.chargify.com/blog/remote-work-tips/
 
 https://www.sococo.com/
+
+https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d
