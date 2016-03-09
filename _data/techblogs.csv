@@ -13,7 +13,7 @@ stripe,https://stripe.com/blog,stripe,https://stripe.com/jobs
 pinterest,http://engineering.pinterest.com,pinterest,https://about.pinterest.com/en/careers/engineering
 bocoup,http://weblog.bocoup.com,bocoup,http://bocoup.com/workat
 paypal,https://www.paypal-engineering.com,paypal,http://www.ebaycareers.com
-walmart labs,http://www.walmartlabs.com/the-blog,walmartlabs,http://www.walmartlabs.com/careers
+walmart labs,http://www.walmartlabs.com/blog/,walmartlabs,http://www.walmartlabs.com/careers
 groupon,https://engineering.groupon.com,groupon,https://jobs.groupon.com/
 yelp,http://engineeringblog.yelp.com,yelp,http://www.yelp.com/careers
 foursquare,http://engineering.foursquare.com,foursquare,https://foursquare.com/jobs
@@ -87,7 +87,7 @@ intercom,http://blog.intercom.io/category/engineering,intercom,https://www.inter
 freeagent,http://engineering.freeagent.com,fac,http://www.freeagent.com/company/jobs
 gocardless,https://gocardless.com/blog/tagged/engineering,gocardless,https://gocardless.com/about#jobs
 livingsocial,https://techblog.livingsocial.com,livingsocial,http://corporate.livingsocial.com/careers/browse-all-jobs
-segment,https://segment.com/blog/categories/dev,segmentio,https://segment.com/jobs
+segment,https://segment.com/blog/categories/engineering/,segmentio,https://segment.com/jobs
 clever,http://engineering.clever.com,clever,https://clever.com/about/jobs
 mailchimp,http://devs.mailchimp.com/blog,mailchimp,http://mailchimp.com/about/jobs
 voxer,http://engineering.voxer.com,voxer,http://www.voxer.com/careers
@@ -104,7 +104,6 @@ mdsol,http://techblog.mdsol.com,mdsol,https://www.mdsol.com/en/careers
 huddle,http://tldr.huddle.com,huddle,https://talentcommunity.huddle.com
 polyvore,http://engblog.polyvore.com,polyvore,http://www.polyvore.com/cgi/about.jobs
 stitchfix,http://multithreaded.stitchfix.com,stitchfix,http://multithreaded.stitchfix.com/careers
-okta,https://www.okta.com/blog/category/engineering,okta,https://www.okta.com/company/careers.html#okta-positions
 intentmedia,http://intentmedia.com/blog,intentmedia,http://intentmedia.com/jobs/
 asana,https://eng.asana.com,asana,https://asana.com/jobs#openPositionsList
 chegg,http://techblog.chegg.com,chegg,http://www.chegg.com/jobs/listings
