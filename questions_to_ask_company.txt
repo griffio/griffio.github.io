@@ -1,0 +1,12 @@
+Questions to ask Company
+-------------------------------------------------------------------------------------------
+Why do you still use Java in 2016?
+If a critical piece of infrastructure breaks at 2.AM who has responsibility?
+When a developer makes a code change how does it get into production?
+How do you make estimates? (small/large/high risk/low risk)
+How do you say "no" to features?
+Do you remove features from the code base or make use of feature deprecation?
+How do you structure your tests?
+Do you have technical documentation and people who create technical documentation?
+Do you support Open Source, how do people contribute? license?
+Do you do peer programming or code reviews?
