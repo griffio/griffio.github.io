@@ -7,4 +7,5 @@ published: true
 summary: Encoding and Sanitizing Data For Web?
 ---
 
-<iframe src="/pres/index.html" height="700px" width="700px"/>
+<iframe sandbox="allow-same-origin allow-scripts" src="/pres/index.html" style="border: 0;"
+  height="700px" width="700px"/>
