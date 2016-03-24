@@ -109,3 +109,5 @@ https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d
 http://www.economist.com/node/21688872/print
 
 https://about.gitlab.com/handbook/#communication
+
+https://about.gitlab.com/2016/03/23/remote-communication/
