@@ -111,3 +111,5 @@ http://www.economist.com/node/21688872/print
 https://about.gitlab.com/handbook/#communication
 
 https://about.gitlab.com/2016/03/23/remote-communication/
+
+http://www.tasktop.com/content/blog-entry/art-and-remote-engineer
