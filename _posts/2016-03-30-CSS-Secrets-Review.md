@@ -41,4 +41,4 @@ The site [Can I Use...?](http://caniuse.com) is mentioned as a good reference ta
 
 **Secret 41 - Sticky footers**, as an example, shows that the common design problem of a persistent block level footer to display on pages with partial page content can be solved using [w3 CSS Flex Box](http://www.w3.org/TR/css-flexbox-1/).
 
-A web site exists, for the book, as runnable secrets; for example: [play.csssecrets.io/multiple-borders](http://play.csssecrets.io/stick-footer).
+A web site exists, for the book, as runnable secrets; for example: [play.csssecrets.io/multiple-borders](http://play.csssecrets.io/multiple-borders).
