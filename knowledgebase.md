@@ -357,6 +357,7 @@ Rest Pagination - Links for next and previous pages, counts
 For HTTP - you get a page of HTML data and embedded in that HTML you have links and forms that tell you what you can do with that data.
 
 https://api.foxycart.com/docs
+https://dmarc.postmarkapp.com/api/
 
 One advantage of HTTP Caching is that is will work with any existing serverside data access layer (sql, orm).
 
