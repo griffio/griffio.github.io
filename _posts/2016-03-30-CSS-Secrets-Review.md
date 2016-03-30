@@ -32,8 +32,9 @@ The audience for the book is highly technical not the beginner and a reader woul
 
 **The 47 Secrets** are presented in amazing technicolor, the order is not important but some have prerequisite dependencies to other secrets.
 
-The most common coming up with creative solutions to advanced . Browser compatibility support, the book acknowledges that browser implementations are in flux
-There are no compatibility tables or preferred browser recommendations. This works in favour for the longevity of the book as some of the specifications are still evolving.
+The most common problem with creative solutions, involving the CSS specifications, is that they are too advanced for commercial use. With browser compatibility support, the book acknowledges that browser implementations are in flux.
+This works in favour for the longevity of the book as some of the specifications are still evolving; there are no compatibility tables or preferred browser recommendations.
+The book tries to offer a solution using a standards based approach that is better than an existing widely adopted but less optimal solution.
 The site [Can I Use...?](http://caniuse.com) is mentioned as a good reference table for browser support.
 
 ![CSS Secrets Book](/public/css_secrets_03.jpg)
