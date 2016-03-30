@@ -13,7 +13,7 @@ summary: review of CSS Secrets
 
 From author [Lea Verou](http://lea.verou.me)
 
-**The subtitle is** “Better Solutions To Everyday Web Design Problems”. This book was published last June and again July 2015 at nearly 350 pages. The 8 inches book width makes for spacious reading with extra room in the margin for informational figures.
+**The subtitle is** “Better Solutions To Everyday Web Design Problems”. This book was published last June and again in July 2015, the hard copy version at nearly 350 pages. The 8 inches book width makes for spacious reading with extra room in the margin for informational figures.
 
 The layout and look of the book itself may look a lot like a website and this is the case as it was design completely in HTML5/CSS markup.
 The initial pages contain a "Secrets by Specification" index organized, for example, by "Transformation" or "Animation" effect.
