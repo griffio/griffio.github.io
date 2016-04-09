@@ -5,11 +5,12 @@ id: tech-videos
 ---
 {% assign tagged_techvideos= (site.data.techvideos | group_by: 'tag' | sort: 'name' ) %}
 
+<dl>
 {% for tag in tagged_techvideos %}
-### "{{ tag.name }}"
+<dt>{{ tag.name }}</dt>
 {% assign sorted_techvideos= (tag.items | sort: 'name') %}
 {% for techvideo in sorted_techvideos %}
-* <a href="{{ techvideo.url }}">{{ techvideo.name }}</a>
+<dd><a href="{{ techvideo.url }}">{{ techvideo.name }}</a></dd>
 {% endfor %}
-
 {% endfor %}
+</dl>
