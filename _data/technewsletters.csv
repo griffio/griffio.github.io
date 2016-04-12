@@ -2,8 +2,8 @@ name,url,tag
 androidweekly,http://androidweekly.net/#latest-issue,android
 clojuregazette,http://www.clojuregazette.com,clojure
 javaspecialists,http://www.javaspecialists.eu/archive/archive.jsp,java
-codewords,https://codewords.recurse.com/issues,software engineering
-jetbrains,https://www.jetbrains.com/newsletter,software engineering
+codewords,https://codewords.recurse.com/issues,software
+jetbrains,https://www.jetbrains.com/newsletter,software
 technically speaking,https://tinyletter.com/techspeak/archive,developers
 data is plural,https://tinyletter.com/data-is-plural/archive,engineering
 sigadvi,http://devblog.avdi.org/newsletter,developers
@@ -23,3 +23,4 @@ tinyletter,https://tinyletter.com/jenmyers/archive,developers
 ponyfoo,https://ponyfoo.com/weekly,web
 dsfa monthly,http://us12.campaign-archive1.com/home/?u=cee3bcd23849c808794d1be5a&id=1f26edefd1,data
 charged,http://us8.campaign-archive1.com/home/?u=7ba9643cb80dac69c6818848c&id=b3e3d83a25,developers
+recompilermag,https://recompilermag.com/issues/,engineering
