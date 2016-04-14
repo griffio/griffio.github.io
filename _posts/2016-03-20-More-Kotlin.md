@@ -9,7 +9,9 @@ summary: more kotlin examples
 
 ### [Kotlin stdlib Zip](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/zip.html)
 
-Interleave two sequences until the shortest sequence completes.
+[Zipping](https://en.wikipedia.org/wiki/Convolution_(computer_science)) interleaves two sequences until the shortest sequence completes.
+
+Below are the definitions from the Kotlin standard library :-
 
 ~~~ scala
 
