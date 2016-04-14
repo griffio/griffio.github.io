@@ -1,3 +1,4 @@
-https://vimeo.com/151465912 Flexible Systems, The Power of Generic Operations - Gerald Jay Sussman 
+https://vimeo.com/151465912, Flexible Systems The Power of Generic Operations - Gerald Jay Sussman 
 https://www.youtube.com/watch?v=UsuzhTlccRk, The Journey of Android Engineers: Redux-ing UI Bugs - Christina Lee
-https://vimeo.com/153097877, JavaScript Combinators, the “Six” Edition - Reginald Braithwaite
+https://vimeo.com/153097877, JavaScript Combinators the “Six” Edition - Reginald Braithwaite
+https://www.youtube.com/watch?v=dxGen7sPWTw, Firing People - Zach Holman
