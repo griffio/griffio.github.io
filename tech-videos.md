@@ -17,7 +17,7 @@ id: tech-videos
 
 <dl>
 {% for tag in tagged_techvideos %}
-<dt>{{ tag.name }}</dt>
+<dt id="{{ tag.name }}">{{ tag.name }}</dt>
 {% assign sorted_techvideos= (tag.items | sort: 'name') %}
 {% for techvideo in sorted_techvideos %}
 <dd><a href="{{ techvideo.url }}">{{ techvideo.name }}</a></dd>
