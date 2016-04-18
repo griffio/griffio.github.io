@@ -7,3 +7,5 @@ https://vimeo.com/153097877, JavaScript Combinators the “Six” Edition - Regi
 https://www.youtube.com/watch?v=dxGen7sPWTw, Firing People - Zach Holman
 
 https://www.youtube.com/watch?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW&v=CctE59nvXyw, Debugging Ember With Empathy - Vaidehi Joshi
+
+http://www.gdcvault.com/play/1023586/8-Bit-8-Bitish-Graphics - 8 Bit & '8 Bitish' Graphics-Outside the Box - Mark Ferrari
