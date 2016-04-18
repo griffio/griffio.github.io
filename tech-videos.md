@@ -5,6 +5,16 @@ id: tech-videos
 ---
 {% assign tagged_techvideos= (site.data.techvideos | group_by: 'tag' | sort: 'name' ) %}
 
+<section>
+{% for tag in tagged_techvideos %}
+<span><a href="#{{ tag.name }}">{{ tag.name }}</a></span>
+{% endfor %}
+</section>
+
+### Category
+
+---
+
 <dl>
 {% for tag in tagged_techvideos %}
 <dt>{{ tag.name }}</dt>
