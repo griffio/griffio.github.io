@@ -4,11 +4,17 @@ title: Software Development Podcasts
 id: tech-podcasts
 ---
 
-### By Category
+{% assign tagged_techpodcasts= (site.data.techpodcasts | group_by: 'tag' | sort: 'name') %}
+
+<section>
+{% for tag in tagged_techpodcasts %}
+<span><a href="#{{ tag.name }}">{{ tag.name }}</a></span>
+{% endfor %}
+</section>
+
+### Category
 
 ---
-
-{% assign tagged_techpodcasts= (site.data.techpodcasts | group_by: 'tag' | sort: 'name') %}
 
 {% for tag in tagged_techpodcasts %}
 ### {{ tag.name }}
