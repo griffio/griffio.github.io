@@ -113,3 +113,5 @@ https://about.gitlab.com/handbook/#communication
 https://about.gitlab.com/2016/03/23/remote-communication/
 
 http://www.tasktop.com/content/blog-entry/art-and-remote-engineer
+
+http://www.donnfelker.com/working-remotely-tips/
