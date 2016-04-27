@@ -169,15 +169,15 @@ Just treat it a a writing bug - Newton's Third Law of Motion: To every action th
 
 #### Documentation examples
 
-https://stripe.com/docs
-http://johnny-five.io/examples/
-https://auth0.com/docs
-http://reactivex.io/documentation/observable.html
-https://facebook.github.io/immutable-js/docs/
-http://explainshell.com/
-https://api.foxycart.com/docs
-http://projects.spring.io/spring-restdocs/
-http://swagger.io/
+- <https://stripe.com/docs>
+- <http://johnny-five.io/examples/>
+- <https://auth0.com/docs>
+- <http://reactivex.io/documentation/observable.html>
+- <https://facebook.github.io/immutable-js/docs/>
+- <http://explainshell.com/>
+- <https://api.foxycart.com/docs>
+- <http://projects.spring.io/spring-restdocs/>
+- <http://swagger.io/>
 
 ### Agile
 
