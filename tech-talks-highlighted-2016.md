@@ -11,3 +11,5 @@ https://www.youtube.com/watch?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW&v=CctE59nv
 http://www.gdcvault.com/play/1023586/8-Bit-8-Bitish-Graphics - 8 Bit & '8 Bitish' Graphics-Outside the Box - Mark Ferrari
 
 https://www.youtube.com/watch?v=IcsocrEz9wE - Jepsen V: What Even Are Computers
+
+https://www.youtube.com/watch?v=9Q--oX5muxw - Parsing Text with a Virtual Machine - Ghadi Shayban
