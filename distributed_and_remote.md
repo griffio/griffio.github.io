@@ -121,3 +121,5 @@ https://blog.travis-ci.com/2014-02-03-how-we-manage-work-in-a-remote-team/
 https://engineering.doximity.com/articles/working-remotely-at-doximity
 
 https://medium.com/@fox/building-remote-first-teams-a98bf8581db
+
+https://github.com/jessicard/remote-jobs
