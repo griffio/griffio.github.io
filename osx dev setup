@@ -1,7 +1,3 @@
-https://developer.apple.com/devcenter/mac/index.action#downloads
-
-Recent version of command_line_tools_for_os_x_mavericks (250mb installed)
-
 HomeBrew script will prompt to install developer tools if not already present
 
 Install Homebrew using OS X default ruby
@@ -20,24 +16,12 @@ open ~/Applications/"Google Chrome.app"
 
 brew cask install dropbox
 
-ZSH 
+---
+
+zsh - add the homebrew version to accepted shells
+
+~~~
 brew install zsh
-sudo -e /etc/shells
-
-Add line
-/usr/local/bin/zsh
-
-https://github.com/sorin-ionescu/prezto
-
-#!/bin/zsh
-setopt EXTENDED_GLOB
-for rcfile in "${ZDOTDIR:-$HOME}"/.zprezto/runcoms/^README.md(.N); do
-  ln -s "$rcfile" "${ZDOTDIR:-$HOME}/.${rcfile:t}"
-done
-
+echo '/usr/local/bin/zsh' | sudo tee -a /etc/shells
 chsh -s /usr/local/bin/zsh
-prompted to create .zshrc
-
-
-
-
+~~~
