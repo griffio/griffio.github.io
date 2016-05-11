@@ -1,5 +1,5 @@
 exclude: [".gitignore", "readme.md", "Gemfile", "Gemfile.lock"]
-gems: [jekyll-paginate,jekyll-sitemap]
+gems: [jekyll-paginate,jekyll-sitemap, jekyll-seo-tag]
 
 # Setup
 author:         griffio
