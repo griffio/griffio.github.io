@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=IcsocrEz9wE - Jepsen V: What Even Are Computers
 https://www.youtube.com/watch?v=9Q--oX5muxw - Parsing Text with a Virtual Machine - Ghadi Shayban
 
 https://www.youtube.com/watch?v=edYnouynBxg - Robots, code and people - Kas Perch
+
+https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction - Modern Compiler Construction - Anders Hejlsberg
