@@ -21,3 +21,4 @@ The Future of JavaScript MVCs,https://swannodette.github.io/2013/12/17/the-futur
 Eclectic Programming Languages,http://www.atariarchives.org/bcc1/showpage.php?page=64,"Where are programming languages headed? Will there always be many languages, or will there be one ultimate language?",programming
 Your Coffee Shop Doesn’t Use Two-Phase Commit,http://www.enterpriseintegrationpatterns.com/docs/IEEE_Software_Design_2PC.pdf,"The real world is often asynchronous. Our daily lives consist of many coordinated but asynchronous interactions.",engineering
 How We Ended Up With Microservices,http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html,"Microservices are a thing these days...",engineering
+Pure UI,http://rauchg.com/2015/pure-ui/,"The fundamental idea I want to discuss is the definition of an application’s UI as a pure function of application state.",engineering
