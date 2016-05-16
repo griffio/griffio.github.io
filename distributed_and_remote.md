@@ -125,3 +125,6 @@ https://medium.com/@fox/building-remote-first-teams-a98bf8581db
 https://github.com/jessicard/remote-jobs
 
 http://blog.bonus.ly/the-future-of-work-talent-and-culture-for-the-21st-century
+
+http://blog.jessitron.com/2016/05/tradeoffs-in-coordination-among-teams.html
+
