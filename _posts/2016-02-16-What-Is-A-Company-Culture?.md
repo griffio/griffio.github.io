@@ -43,3 +43,4 @@ References to some companies with intentional values:
 - [Helpscout - remote culture](https://www.helpscout.net/blog/remote-culture/)
 - [Stack Overflow - culture](https://blog.stackoverflow.com/company/culture/)
 - [Thoughtbot playbook](http://playbook.thoughtbot.com)
+- [Project Include](http://projectinclude.org/defining_culture)
