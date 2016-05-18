@@ -1,5 +1,5 @@
-Imagine walking up to a subway, train, station turnstil.
-If there was some mechanism where you carried some global state around with you the turnstil would be able to authorise your journey.
+Imagine walking up to a subway train station turnstil.
+If there was some mechanism where you carried all your state around with you the turnstil would be able to authorise your journey.
 However, this would not scale, the universe would collapse under its own weight.
 Instead you present a ticket that has been encoded with a range of values, destination and expiry etc.
 How did you get the ticket? Tokens can beget tokens or exchanged for other specific tokens
