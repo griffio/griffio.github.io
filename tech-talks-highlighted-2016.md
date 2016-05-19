@@ -17,3 +17,5 @@ https://www.youtube.com/watch?v=9Q--oX5muxw - Parsing Text with a Virtual Machin
 https://www.youtube.com/watch?v=edYnouynBxg - Robots, code and people - Kas Perch
 
 https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction - Modern Compiler Construction - Anders Hejlsberg
+
+https://www.youtube.com/watch?v=rRiV_b3WsoY - Angular Material: Titanium Octopus - Kara Erickson, Jeremy Elbourn
