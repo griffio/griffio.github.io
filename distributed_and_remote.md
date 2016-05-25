@@ -131,3 +131,5 @@ http://blog.jessitron.com/2016/05/tradeoffs-in-coordination-among-teams.html
 https://medium.com/the-coinbase-blog/how-remote-engineering-quadrupled-our-hiring-rate-at-coinbase-1399f485a2a6#.g6bk1k3ub
 
 https://tommorris.org/posts/9403
+
+https://www.helpscout.net/blog/agile-remote-teams/
