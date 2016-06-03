@@ -19,3 +19,5 @@ https://www.youtube.com/watch?v=edYnouynBxg - Robots, code and people - Kas Perc
 https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction - Modern Compiler Construction - Anders Hejlsberg
 
 https://www.youtube.com/watch?v=rRiV_b3WsoY - Angular Material: Titanium Octopus - Kara Erickson, Jeremy Elbourn
+
+https://www.youtube.com/watch?v=vntVoC5uSYk&list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC&index=82 - RSpec and Rails 5 by Justin Searls
