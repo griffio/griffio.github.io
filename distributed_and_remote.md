@@ -133,3 +133,5 @@ https://medium.com/the-coinbase-blog/how-remote-engineering-quadrupled-our-hirin
 https://tommorris.org/posts/9403
 
 https://www.helpscout.net/blog/agile-remote-teams/
+
+https://medium.com/facebook-design/how-to-be-effective-at-working-remotely-b832a0eaa933#.g4l17eyha
