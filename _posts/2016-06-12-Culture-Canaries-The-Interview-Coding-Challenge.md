@@ -1,44 +1,60 @@
 ---
 layout: post
-title: "CSS Secrets Review"
-category: css
-tags: review
+title: "Culture Canaries - The Interview Coding Challenge"
+category: culture
+tags: culture
 published: true
-summary: review of CSS Secrets
+summary: the interview coding challenge
 ---
 
-[CSS Secrets on Safari Books Online](https://www.safaribooksonline.com/library/view/css-secrets/9781449372736/)
+[Canary in a coal mine](https://en.wiktionary.org/wiki/canary_in_a_coal_mine)
 
-![CSS Secrets Book](/public/css_secrets_01.jpg)
+```
+An allusion to caged canaries (birds) that miners would carry down into the mine tunnels with them. If dangerous gases such as carbon monoxide collected in the mine, the gases would kill the canary before killing the miners, thus providing a warning to exit the tunnels immediately.
+```
 
-From author [Lea Verou](http://lea.verou.me)
+There are many descriptive accounts of job search ordeals involving some code challenge task that is to be completed under our own time and initiative.
 
-**The subtitle is** “Better Solutions To Everyday Web Design Problems”. This book was published last June and again in July 2015, the hard copy version at nearly 350 pages. The 8 inches book width makes for spacious reading with extra room in the margin for informational figures.
+Turning it around, this code challenge is a good cultural indicator about the companies internal organisation and thinking.
 
-The layout and look of the book itself may appear a lot like a website and this is the case as it was designed completely in HTML5/CSS markup.
-The initial pages contain a "Secrets by Specification" index organized, for example, by "Transformation" or "Animation" effect.
+Apart from your CV|Resume, there is little for the employer to glean about you the "random” internet person that has applied.
 
-The book initially covers the experimental nature of modern CSS techniques and the failure of vendor prefixing as a "fixation" on several specific products but instead should be viewed as a continually evolving environment.
+The code challenge as a capture, verifies I am not a robot.
 
-Helpful coding tips for handling CSS are presented in the first chapter introduction.
+You are a bot and it's your job to prove you are more than just [dark matter](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) of unknown provenance.
 
-There are 47 Secrets presented in amazing technicolor, the order is not important but some have prerequisite dependencies to other secrets.
+Like a thundering herd, eventually one will succeed and thus validate an arduous hiring process. See! Our process works. Only the strong survived.
 
-**These are not "copy-pasta" recipes** out of a cookbook but are designed as a guide to the underlying techniques and the basis of study.
+One elaborate coding challenge cannot address all contradictions about real people.
+People that may not have a lot of real experience, but good at building skills. Not all people have or want to put out blog posts, have public source code, but have a variety of projects. People with or without a computer science background. People new to software development but experienced in life. People at all points in between.
 
-![CSS Secrets Book](/public/css_secrets_02.jpg)
+For most development jobs there are a lot more people capable of performing the work than code challenges would imply. From the  [stackoverflow 2016 survey](http://stackoverflow.com/research/developer-survey-2016#developer-profile-education) Over half of developers identify with being self-taught.
 
-**This is a problem solving book** and could be applicable to designers and developers.
+Ultimately the interview is a two way process to discover if People will have a positive impact after we hire them and the company will provide a positive impact too.
 
-The audience for the book is highly technical not the beginner and a reader would be expected to have knowledge of an array of w3c specifications and the evolution of CSS.
+One good aspect of asking for code in interviews, when people write code they can't help making creating something unique.
 
-The most common problem with creative solutions, involving the CSS specifications, is that they are too advanced for commercial use. With browser compatibility support, the book acknowledges that browser implementations are in flux.
-This works in favour for the longevity of the book as some of the specifications are still evolving; there are no compatibility tables or preferred browser recommendations.
-The book tries to offer a solution using a standards based approach that is better than an existing widely adopted but less optimal solution.
-The site [Can I Use...?](http://caniuse.com) is mentioned as a good reference table for browser support.
+We don’t need better tech interviews, we need better companies.
+If companies treat people without empathy during recruitment what does it say about working there?
 
-![CSS Secrets Book](/public/css_secrets_03.jpg)
+Improvements companies can make.
 
-**Secret 41 - Sticky footers**, as an example, shows that the common design problem of a persistent block level footer to display on pages with partial page content can be solved using [w3 CSS Flex Box](http://www.w3.org/TR/css-flexbox-1/).
+Is the interview process documented?
 
-A web site exists, for the book, as runnable secrets; for example: [play.csssecrets.io/multiple-borders](http://play.csssecrets.io/multiple-borders).
+Have team members been hired already using the process or has it been invented after wards and is needed to handle scaling of new hiring? Can existing team members pass their own interview?
+
+Interviews are an like on-boarding process for employees who are from another timezone - one that has yet to occur.
+
+Change the assumptions and ask if the company is good enough for the person applying. Why would they work here?
+
+The "donut light" for hiring should always be on. When someone who is interested stops by, interview them. Companies can add all their job specs, in markdown, into GitHub for a quick open source win
+
+### Resources
+
+[clef interview process](https://github.com/clef/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
+
+[npm recruiting process](https://github.com/npm/policies/blob/master/recruiting-process.md)
+
+[workcanbehappy](https://stories.workcanbehappy.com/)
+
+[what-happens-when-you-stop-relying-on-resumes](http://blog.alinelerner.com/what-happens-when-you-stop-relying-on-resumes/)
