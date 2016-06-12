@@ -48,7 +48,7 @@ Interviews are an like on-boarding process for employees who are in another time
 
 The **donut light** for hiring should always be on. Companies can add all their job specs into GitHub, rather than the corporate careers portal, for a quick open source win. When someone who has enough interest stops by, interview them.
 
-[Blind hiring](https://www.compose.io/articles/how-compose-uses-interviewed-com-and-slack-to-automate-blind-hiring/) is also a problem if the company is also blind to what it is asking for. The things we know that we don’t know or what we do not like to know.
+[Blind hiring](https://www.compose.io/articles/how-compose-uses-interviewed-com-and-slack-to-automate-blind-hiring/) is also a problem if the company is also blind to what it is asking for. These are the things we know that **we don’t know** or what **we do not like to know**.
 
 We don’t need better tech interviews, we need better tech companies.
 
