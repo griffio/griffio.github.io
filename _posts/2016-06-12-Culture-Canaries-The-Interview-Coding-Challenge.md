@@ -66,6 +66,10 @@ Just like canaries exposed to harmful gases, the code challenge can provide a us
 
 [what happens when you stop relying on resumes](http://blog.alinelerner.com/what-happens-when-you-stop-relying-on-resumes/)
 
-[automate-blind-hiring](https://www.compose.io/articles/how-compose-uses-interviewed-com-and-slack-to-automate-blind-hiring/)
+[automate blind hiring](https://www.compose.io/articles/how-compose-uses-interviewed-com-and-slack-to-automate-blind-hiring/)
 
-[manifesto](https://triplebyte.com/manifesto)
+[triplebyte manifesto](https://triplebyte.com/manifesto)
+
+[dark matter developers the unseen 99](http://www.hanselman.com/blog/darkmatterdeveloperstheunseen99.aspx)
+
+[stackoverflow 2016 survey](http://stackoverflow.com/research/developer-survey-2016#developer-profile-education)
