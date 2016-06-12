@@ -18,7 +18,7 @@ Turning it around, this code challenge is a good cultural indicator about the co
 
 ![recapture](/public/hero-recaptcha.png)
 
-The code challenge as a capture, it's your job to prove you are more than just [dark matter](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) of unknown provenance.
+If the code challenge is viewed as a CAPTURE, it's your job to prove you are more than just [dark matter](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) of unknown provenance.
 
 [Some](https://triplebyte.com/manifesto) believe in a data driven process so that candidates can be algorithmically processed.
 
@@ -36,7 +36,7 @@ Ultimately the interview is a two way process to discover if people will have a 
 
 ### Improvements companies can make
 
-First up, is the interview process documented?
+First up, internally and externally, is the interview process documented?
 
 Have team members been hired already using the process or has it been invented afterwards and is needed to handle scaling of new hiring?
 
