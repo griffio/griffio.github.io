@@ -140,3 +140,4 @@ https://remotebase.io/
 
 https://remotejobs.com/the-pros-and-cons-of-working-remotely/
 
+http://blog.gettimely.com/5-habits-of-efficient-remote-workers/
