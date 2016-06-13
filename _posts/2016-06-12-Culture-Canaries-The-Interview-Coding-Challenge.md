@@ -7,18 +7,17 @@ published: true
 summary: the interview coding challenge
 ---
 
-```
-https://en.wiktionary.org/wiki/canary_in_a_coal_mine
-An allusion to caged canaries (birds) that miners would carry down into the mine tunnels with them. If dangerous gases such as carbon monoxide collected in the mine, the gases would kill the canary before killing the miners, thus providing a warning to exit the tunnels immediately.
-```
+>An allusion to caged canaries (birds) that miners would carry down into the mine tunnels with them. If dangerous gases such as carbon monoxide collected in the mine, the gases would kill the canary before killing the miners, thus providing a warning to exit the tunnels immediately.
 
-There are many descriptive accounts of job search ordeals involving some code assignment task to be completed under our own time and initiative.
+<cite>https://en.wiktionary.org/wiki/canary_in_a_coal_mine</cite>
 
-Turning it around, this code challenge is a good cultural indicator about the companies internal organisation and preconceptions.
+**Writing or talking** about code during the interview process, a step of the ["Joel Test"](http://www.joelonsoftware.com/articles/fog0000000043.html), is considered good practice. There are many descriptive accounts of job search ordeals involving some code assignment task to be completed under our own time and initiative.
+
+Let us turn it around and look at "home-alone" code challenges as a cultural indicator for the companies internal organisation and preconceptions.
 
 ![recapture](/public/hero-recaptcha.png)
 
-If the code challenge is viewed as a CAPTURE, it's your job to prove you are more than just [dark matter](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) of unknown provenance.
+If the code challenge is just viewed as a CAPTURE, it's your job to prove you are more than just [dark matter](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) of unknown provenance.
 
 [Some](https://triplebyte.com/manifesto) believe in a data driven process so that candidates can be algorithmically processed.
 
