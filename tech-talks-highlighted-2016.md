@@ -21,3 +21,5 @@ https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-
 https://www.youtube.com/watch?v=rRiV_b3WsoY - Angular Material: Titanium Octopus - Kara Erickson, Jeremy Elbourn
 
 https://www.youtube.com/watch?v=vntVoC5uSYk&list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC&index=82 - RSpec and Rails 5 by Justin Searls
+
+https://www.youtube.com/watch?v=3RHQd4b1iPA - Canvas for iOS Markdown & Realtime Demo - Sam Soffes
