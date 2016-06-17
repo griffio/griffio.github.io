@@ -19,7 +19,7 @@ yelp,http://engineeringblog.yelp.com,yelp,http://www.yelp.com/careers
 foursquare,http://engineering.foursquare.com,foursquare,https://foursquare.com/jobs
 ebay,http://www.ebaytechblog.com,ebay,http://www.ebaycareers.com
 strava,http://engineering.strava.com,strava,http://blog.strava.com/careers
-klout,http://blog.klout.com/category/engineering,klout,https://klout.com/corp/careers
+klout,http://engineering.klout.com/,klout,http://jobs.lithium.com/jobs/category/engineering
 spotify,http://labs.spotify.com,spotify,https://twitter.com/spotifyjobs
 soundcloud,http://backstage.soundcloud.com,soundcloud,https://soundcloud.com/jobs
 stormpath,http://www.stormpath.com/blog,stormpath,http://www.jobscore.com/jobs2/stormpath
@@ -29,7 +29,6 @@ prezi,http://engineering.prezi.com,prezi,https://prezi.com/jobs
 dropbox,https://tech.dropbox.com,dropbox,https://www.dropbox.com/jobs
 adjust,http://big-elephants.com,adjust,https://www.adjust.com/open_jobs/#comboFilters%5Bjob_section%5D=.tech
 boxever,http://www.boxever.com/tech-blog,boxever,http://www.boxever.com/careers
-mix radio,http://dev.mixrad.io/blog,mixradio,https://mixradio.bamboohr.com/jobs
 facebook,https://www.facebook.com/Engineering,facebook,https://www.facebook.com/careers
 quora,http://engineering.quora.com,quora,https://www.quora.com/careers
 webengage,http://engineering.webengage.com,webengage,http://blog.webengage.com/category/hiring
@@ -38,7 +37,6 @@ github,http://githubengineering.com,github,https://github.com/about/jobs
 flickr,http://code.flickr.net,flickr,https://www.flickr.com/jobs
 cloudera,http://blog.cloudera.com,cloudera,http://www.cloudera.com/content/cloudera/en/about/careers.html
 heroku,http://engineering.heroku.com,heroku,https://jobs.heroku.com
-rdio,https://algorithms.rdio.com,rdio,http://www.rdio.com/careers
 bitly,http://word.bitly.com,bitly,https://bitly.com/pages/careers
 yahoo,http://yahooeng.tumblr.com,yahoo,https://careers.yahoo.com
 rightscale,http://eng.rightscale.com,rightscale,http://rightscale.theresumator.com
@@ -52,7 +50,6 @@ timehop,http://tales.timehop.com,timehop,http://timehop.com/joinus
 giantswarm,http://blog.giantswarm.io,giantswarm,https://angel.co/giant-swarm/jobs
 push technology,http://www.pushtechnology.com/category/development,pushtechnology,http://www.pushtechnology.com/about/careers/
 keyhole software,https://keyholesoftware.com/blog,in-the-keyhole,https://keyholesoftware.com/contact/careers
-clicktravel,http://www.clicktravel.com/engineering-blog,clicktravel,http://www.clicktravel.com/careers-in-travel-management
 stylight,http://engineering.stylight.com,stylight,http://www.stylight.de/Jobs
 flipboard,http://engineering.flipboard.com,flipboard,https://about.flipboard.com/team/engineering-team/
 pivotal,http://engineering.pivotal.io/,pivotal,https://pivotal.io/careers
@@ -162,7 +159,7 @@ reverb,http://product.reverb.com,reverbdotcom,http://product.reverb.com/work-at-
 wildcard,http://blog.trywildcard.com,trywildcard,http://www.trywildcard.com/jobs
 knewton,http://www.knewton.com/tech/blog/,knewton,http://www.knewton.com/jobs/
 trulia,http://www.trulia.com/tech/,trulia,http://www.trulia.com/about/careers/3158/Engineering%2B
-jet,http://techgroup.jet.com/index.html,jet,https://jet.com/about-us/working-at-jet
+jet,https://tech.jet.com,jet,https://jet.com/about-us/working-at-jet/jobs
 skroutz,http://engineering.skroutz.gr,skroutz,http://skroutz.workable.com/
 amplitude,https://amplitude.com/blog/category/engineering,amplitude,https://amplitude.com/careers
 klarna,http://engineering.klarna.com,klarna,https://www.klarna.com/careers
