@@ -63,7 +63,7 @@ Just like canaries exposed to harmful gases, the code challenge can provide a us
 
 [npm recruiting process](https://github.com/npm/policies/blob/master/recruiting-process.md)
 
-[finding-an-engineering-job-at-slack](https://slack.engineering/a-walkthrough-guide-to-finding-an-engineering-job-at-slack-dc07dd7b0144)
+[finding an engineering job at slack](https://slack.engineering/a-walkthrough-guide-to-finding-an-engineering-job-at-slack-dc07dd7b0144)
 
 [work can be happy](https://stories.workcanbehappy.com/)
 
