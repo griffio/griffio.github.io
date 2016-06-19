@@ -41,13 +41,15 @@ Have team members been hired already using the process or has it been invented a
 
 Do the profiles of existing team members pass the interview process?
 
+Create new opportunities when the profiles are too ridged. 
+
 Change the assumptions and ask if the company is good enough for the person applying. Why would they work here?
 
 Interviews are an like on-boarding process for employees who are in another timezone - one that has yet to occur.
 
 The **donut light** for hiring should always be on. Companies can add all their job specs into GitHub, rather than the corporate careers portal, for a quick open source win. When someone who has enough interest stops by, interview them.
 
-[Blind hiring](https://www.compose.io/articles/how-compose-uses-interviewed-com-and-slack-to-automate-blind-hiring/) is also a problem if the company is also blind to what it is asking for. These are the things we know that **we don’t know** or what **we do not like to know**.
+[Blind hiring](https://www.compose.io/articles/how-compose-uses-interviewed-com-and-slack-to-automate-blind-hiring/) is also a problem if the company is also blind to what it is asking for; these are the things we know that **we don’t know** or what **we do not like to know**.
 
 We don’t need better tech interviews, we need better tech companies.
 
