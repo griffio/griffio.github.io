@@ -55,7 +55,7 @@ We don’t need better tech interviews, we need better tech companies.
 
 If companies treat people without empathy during recruitment what does it say about working there?
 
-Just like canaries exposed to harmful gases, the code challenge can provide a useful warning for candidates to exit stage left immediately.
+Just like canaries exposed to harmful gases, the code challenge can provide a useful warning for interviewees to exit stage left immediately.
 
 ### Resources
 
