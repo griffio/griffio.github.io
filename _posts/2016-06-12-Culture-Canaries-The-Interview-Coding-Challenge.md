@@ -17,7 +17,7 @@ Let us turn it around and look at "home-alone" code challenges as a cultural ind
 
 ![recapture](/public/hero-recaptcha.png)
 
-If the code challenge is just viewed as a CAPTURE, it's your job to prove you are more than just [dark matter](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) of unknown provenance.
+If the code challenge is just viewed as a CAPTURE[1], it's your job to prove you are more than just [dark matter](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) of unknown provenance.
 
 [Some](https://triplebyte.com/manifesto) believe in a data driven process so that candidates can be algorithmically processed.
 
@@ -76,3 +76,8 @@ Just like canaries exposed to harmful gases, the code challenge can provide a us
 [dark matter developers the unseen 99](http://www.hanselman.com/blog/darkmatterdeveloperstheunseen99.aspx)
 
 [stackoverflow 2016 survey](http://stackoverflow.com/research/developer-survey-2016#developer-profile-education)
+
+[1] Apply by API, [Plaid](https://plaid.com/careers/#careers-openings) receive job applications as calls to their careers endpoint 
+~~~
+POST https://contact.plaid.com/jobs
+~~~
