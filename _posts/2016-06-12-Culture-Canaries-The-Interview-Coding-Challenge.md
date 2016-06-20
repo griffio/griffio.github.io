@@ -78,6 +78,7 @@ Just like canaries exposed to harmful gases, the code challenge can provide a us
 [stackoverflow 2016 survey](http://stackoverflow.com/research/developer-survey-2016#developer-profile-education)
 
 [1] Apply by API, [Plaid](https://plaid.com/careers/#careers-openings) receive job applications as calls to their careers endpoint 
+
 ~~~
 POST https://contact.plaid.com/jobs
 ~~~
