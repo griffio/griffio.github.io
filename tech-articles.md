@@ -18,7 +18,6 @@ id: tech-articles
 </cite>
 </footer>
 </blockquote>
-</div>
 {% endfor %}
 </div>
 </section>
