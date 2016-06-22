@@ -19,7 +19,7 @@ Let us turn it around and look at "home-alone" code challenges as a cultural ind
 
 If the code challenge is just viewed as a CAPTURE[1], it's your job to prove you are more than just [dark matter](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) of unknown provenance.
 
-[Some](https://triplebyte.com/manifesto) believe in a data driven process so that candidates can be algorithmically processed.
+[Some](https://triplebyte.com/manifesto) believe in a data driven process so that interviewees can be algorithmically processed.
 
 **Like a thundering herd**, eventually one will succeed and thus validate an arduous hiring process. See! Our process works. Only the strong survived.
 
