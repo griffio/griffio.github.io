@@ -15,7 +15,7 @@ For some this will be [Utopia](http://www.sfgate.com/business/article/Facebook-W
 
 But now that Facebook have planted a stake in the ground - such an extreme position opens up a spectrum of commercial advantage for other “hacker” shops to [differentiate](https://vimeo.com/97903574) themselves in the same market for these employees, and [a tool to poach](https://www.theinformation.com/ubers-latest-hiring-perk-no-commute) from Facebook.
 
-Environment drives Culture; Culture drives Brand
+**Environment drives Culture; Culture drives Brand**
 
 [mpk20](https://twitter.com/hashtag/mpk20)
 
