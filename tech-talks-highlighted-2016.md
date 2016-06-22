@@ -23,3 +23,5 @@ https://www.youtube.com/watch?v=rRiV_b3WsoY - Angular Material: Titanium Octopus
 https://www.youtube.com/watch?v=vntVoC5uSYk&list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC&index=82 - RSpec and Rails 5 by Justin Searls
 
 https://www.youtube.com/watch?v=3RHQd4b1iPA - Canvas for iOS Markdown & Realtime Demo - Sam Soffes
+
+https://vimeo.com/171317253 - Elixir Is Neat But What Can You Actually Do With It? - Rob Conery
