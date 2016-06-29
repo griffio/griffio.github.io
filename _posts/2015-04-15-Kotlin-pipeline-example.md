@@ -9,7 +9,7 @@ summary: Using Kotlin std library to pipeline characters
 
 An example using [Kotlin](http://kotlinlang.org), as at [kotlin 1.0.2](https://github.com/JetBrains/kotlin/tree/1.0.2), to show a "functional" pipeline that transforms the input text  resulting in a Map associating the character to its occurrence.
 
->> updated https://github.com/Kotlin/KEEP/blob/master/proposals/stdlib/group-and-fold.md for a more efficient pipeline proposal
+> updated [group and fold proposal](https://github.com/Kotlin/KEEP/blob/master/proposals/stdlib/group-and-fold.md) for a more efficient pipeline
 
 This simple Kotlin example will be compared to an imperative example and a Java 8 stream implementation.
 
