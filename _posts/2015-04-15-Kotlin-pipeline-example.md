@@ -9,8 +9,6 @@ summary: Using Kotlin std library to pipeline characters
 
 An example using [Kotlin](http://kotlinlang.org), as at [kotlin 1.0.2](https://github.com/JetBrains/kotlin/tree/1.0.2), to show a "functional" pipeline that transforms the input text  resulting in a Map associating the character to its occurrence.
 
-> updated [group and fold proposal](https://github.com/Kotlin/KEEP/blob/master/proposals/stdlib/group-and-fold.md) for a more efficient pipeline
-
 This simple Kotlin example will be compared to an imperative example and a Java 8 stream implementation.
 
 ~~~scala
@@ -30,7 +28,9 @@ The two stages in the pipeline are grouping and transforming, separated by the i
 + Each unique character is associated with a list of the same characters
 + The size of each list is returned as the new value in the destination map key
 
-An imperative implementation, or a Fold operator, would typically  create one result Map and not require an intermediate list for grouping.
+> updated [group and fold proposal](https://github.com/Kotlin/KEEP/blob/master/proposals/stdlib/group-and-fold.md) for a more efficient pipeline
+
+An imperative implementation, or a Fold operator, would typically create one result Map and not require an intermediate list for grouping.
 
 This shows that the Kotlin groupBy operation will always use a list associated with each key.
 
