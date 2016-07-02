@@ -65,6 +65,8 @@ Just like canaries exposed to harmful gases, the code challenge can provide a us
 
 [finding an engineering job at slack](https://slack.engineering/a-walkthrough-guide-to-finding-an-engineering-job-at-slack-dc07dd7b0144)
 
+[interview at ride](https://github.com/ride/interview-prep)
+
 [work can be happy](https://stories.workcanbehappy.com/)
 
 [what happens when you stop relying on resumes](http://blog.alinelerner.com/what-happens-when-you-stop-relying-on-resumes/)
