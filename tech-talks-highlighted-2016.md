@@ -27,3 +27,5 @@ https://www.youtube.com/watch?v=3RHQd4b1iPA - Canvas for iOS Markdown & Realtime
 https://vimeo.com/171317253 - Elixir Is Neat But What Can You Actually Do With It? - Rob Conery
 
 https://www.youtube.com/watch?v=tg3YjMqWNj0 - Lessons of Liskov - Peter Bhat Harkins - wroc_love.rb 2016
+
+https://www.youtube.com/watch?v=qx9tHwhjkHs - HTTP/2, Totally Tooling Tips
