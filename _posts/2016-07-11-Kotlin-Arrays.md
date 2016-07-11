@@ -9,9 +9,9 @@ summary: kotlin array
 
 ### [Kotlin Array](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/)
 
-Java Array has runtime type checking to prevent
+Before looking at Kotlin, as a [background](http://gafter.blogspot.com/2006/11/reified-generics-for-java.html), Java has always supported runtime type checking of Array elements (reified) but cannot support generic parameterized array types at compile time. 
 
-Produces "error: generic array creation"
+*Produces "error: generic array creation"*
 
 ~~~ java
 
@@ -22,6 +22,8 @@ public class Arrays<T> {
 }
 
 ~~~
+
+Unless you lean on reflection by providing a type class parameter to instanciate with, e.g. "clazz: Class<T>", the difference with Kotlin is that we can use the generic type <T> directly.
 
 In Kotlin Array<String> is still generated as Object[String]
 
