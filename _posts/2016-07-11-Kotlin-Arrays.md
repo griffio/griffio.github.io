@@ -3,7 +3,7 @@ layout: post
 title: "Kotlin (Array)"
 category: programming
 tags: kotlin
-published: false
+published: true
 summary: kotlin array
 ---
 
@@ -31,8 +31,22 @@ Inlined functions support reified type parameters to avoid using reflection with
 
 Only type parameters of inlined functions can be reified.
 
-#### 2d array of String
+#### 2D array of String printing a table
 
 <script src="https://gist.github.com/griffio/0394829a2ec8e1877c7eaa55dce7b6d4.js"></script>
 
+#### Result
+~~~
+
+|00|01|02|03|04|05|06|07|08|09|
+|10|11|12|13|14|15|16|17|18|19|
+|20|21|22|23|24|25|26|27|28|29|
+|30|31|32|33|34|35|36|37|38|39|
+|40|41|42|43|44|45|46|47|48|49|
+
+~~~
+
 [Kotlin spec defines reified type parameters](https://github.com/JetBrains/kotlin/blob/master/spec-docs/reified-type-parameters.md)
+
+
+
