@@ -23,16 +23,16 @@ public class Arrays<T> {
 
 ~~~
 
-Unless you lean on reflection by providing a type class parameter to instantiate with, e.g. "clazz: Class<T>", the difference with Kotlin is that we can use the generic type <T> directly.
+Unless you lean on reflection by providing a type class parameter to instantiate array of type "clazz: Class<T>", the difference with Kotlin is that we can use the generic type <T> directly.
 
 In Kotlin Array<String> is still generated as a Java Platform Object[String] array.
 
-inline functions support reified type parameters to avoid using reflection with class references.
+Inlined functions support reified type parameters to avoid using reflection with class references.
 
-> This function has a reified type parameter and thus can only be inlined at compilation time, not called directly.
+Only type parameters of inlined functions can be reified.
 
 #### 2d array of String
 
 <script src="https://gist.github.com/griffio/0394829a2ec8e1877c7eaa55dce7b6d4.js"></script>
 
-[Kotlin spec reified type parameters](https://github.com/JetBrains/kotlin/blob/master/spec-docs/reified-type-parameters.md)
+[Kotlin spec defines reified type parameters](https://github.com/JetBrains/kotlin/blob/master/spec-docs/reified-type-parameters.md)
