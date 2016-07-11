@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kotlin (Array)"
+title: "More Kotlin (Array)"
 category: programming
 tags: kotlin
 published: true
