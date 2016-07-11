@@ -35,3 +35,4 @@ inline functions support reified type parameters to avoid using reflection using
 
 <script src="https://gist.github.com/griffio/0394829a2ec8e1877c7eaa55dce7b6d4.js"></script>
 
+[Kotlin spec reified type parameters](https://github.com/JetBrains/kotlin/blob/master/spec-docs/reified-type-parameters.md)
