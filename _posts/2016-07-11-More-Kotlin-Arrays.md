@@ -9,9 +9,7 @@ summary: kotlin array
 
 ### [Kotlin Array](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/)
 
-Before looking at Kotlin, as a [background](http://gafter.blogspot.com/2006/11/reified-generics-for-java.html), Java has always supported runtime type checking of Array elements (reified) but cannot support generic parameterized array types at compile time. 
-
-*Produces "error: generic array creation"*
+Before looking at Kotlin, as a [background](http://gafter.blogspot.com/2006/11/reified-generics-for-java.html), Java has always supported runtime type checking of Array elements (reified) but cannot support generic parameterized array types at compile time. The desired Java snippet below produces "error: generic array creation" :
 
 ~~~ java
 
