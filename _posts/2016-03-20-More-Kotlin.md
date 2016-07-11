@@ -20,6 +20,15 @@ Below are the definitions from the Kotlin standard library :-
   inline fun <V> IntArray.zip(other: IntArray, transform: (Int, Int) -> V): List<V>
 ~~~
 
+The default transformation will use: ``` {a, b -> Pair(a, b)} ``` 
+
+#### pairs of numbers: (1,2) (2,3) (3,4) (5,6)
+
+~~~ scala 
+val numbers = listOf(1, 2, 3, 4, 5, 6)
+val pairs = numbers.zip(numbers.drop(1))
+~~~
+
 ---
 
 Examples from : [https://msdn.microsoft.com/library/dd267698](https://msdn.microsoft.com/library/dd267698(v=vs.100).aspx)
