@@ -41,7 +41,7 @@ Have team members been hired already using the process or has it been invented a
 
 Do the profiles of existing team members pass the interview process?
 
-Create new opportunities when the profiles are too ridged. 
+Create new opportunities when the profiles are too rigid. 
 
 Change the assumptions and ask if the company is good enough for the person applying. Why would they work here?
 
