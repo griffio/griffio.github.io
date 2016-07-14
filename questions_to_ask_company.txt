@@ -9,4 +9,4 @@ Do you remove features from the code base or make use of feature deprecation?
 How do you structure your tests?
 Do you have technical documentation and people who create technical documentation?
 Do you support Open Source, how do people contribute? license?
-Do you do peer programming or code reviews?
+Do you enable peer programming or code reviews?
