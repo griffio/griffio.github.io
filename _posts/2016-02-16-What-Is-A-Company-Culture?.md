@@ -44,3 +44,4 @@ References to some companies with intentional values:
 - [Stack Overflow - culture](https://blog.stackoverflow.com/company/culture/)
 - [Thoughtbot playbook](http://playbook.thoughtbot.com)
 - [Project Include](http://projectinclude.org/defining_culture)
+- [Gitlab handbook](https://about.gitlab.com/handbook/)
