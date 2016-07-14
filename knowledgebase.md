@@ -14,6 +14,7 @@ Companies with intentional culture:
 - Helpscout https://www.helpscout.net/blog/remote-culture/
 - Stack Overflow https://blog.stackoverflow.com/company/culture/
 - Thoughtbot http://playbook.thoughtbot.com
+- Gitlab https://about.gitlab.com/handbook
 
 **Making a Culture**
 - An Organizations collective intelligence is its culture
