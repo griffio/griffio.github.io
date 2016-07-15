@@ -3,7 +3,7 @@ layout: page
 title: Corporate Engineering Blogs
 ---
 
-### with Github repos and career/jobs link
+### [Data](https://github.com/griffio/griffio.github.io/blob/master/_data/techblogs.csv) with Github repos and career/jobs link 
 <section class="techblogs-flex-layout">
 <div class="flex-container">
 {% assign sorted_techblogs = (site.data.techblogs | sort: 'desc') %}
