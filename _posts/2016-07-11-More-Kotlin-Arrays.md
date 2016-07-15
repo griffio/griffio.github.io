@@ -31,6 +31,8 @@ Only type parameters of inlined functions can be reified.
 
 #### 2D array of String printing a table
 
+The height and width are specified, then each row height and column width index is provided to the Array initialization lambda.
+
 <script src="https://gist.github.com/griffio/0394829a2ec8e1877c7eaa55dce7b6d4.js"></script>
 
 #### Result
