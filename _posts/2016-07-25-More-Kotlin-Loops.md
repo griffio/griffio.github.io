@@ -24,26 +24,25 @@ for (i in 0..99) {
 	 println(i)
 }
 ```
+---
 
 The Kotlin core library [repeat](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html) function implementation is a **for** wrapper that provides a zero-based iteration index:
 
 ``` kotlin 
 
-defined:
-
 public inline fun repeat(times: Int, action: (Int) -> Unit) {
-    for (index in 0..times - 1) {
-        action(index)
-    }
-}
-
-usage:
-
-repeat(times) {
-	//implicit 'it' contains range 0..times - 1
-	println(it)
+  for (index in 0..times - 1) {
+    action(index)
+  }
 }
 ```
+
+```
+repeat(times) {
+  println(it)
+}
+```
+---
 
 [with-index](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/with-index.html) on collections provides an iterator object containing index and value: 
 
