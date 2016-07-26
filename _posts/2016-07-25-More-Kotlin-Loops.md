@@ -9,7 +9,7 @@ summary: kotlin loops
 
 ### [Kotlin for-loops](https://kotlinlang.org/docs/reference/control-flow.html#for-loops)
 
-Looping, repeating syntax - a common question, that trips people up in their first steps, is why Kotlin doesn’t support the traditional **for-loop** structure below:
+Looping, repeating syntax - a common question is why Kotlin doesn’t support the traditional **for-loop** structure below:
 
 ``` java
 for (int i=0; i<100; i++) {
