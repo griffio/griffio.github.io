@@ -21,7 +21,7 @@ Instead, **for** works on extensible expressions that return an iterator(), next
 
 ```  kotlin
 for (i in 0..99) {
-	 println(i)
+  println(i)
 }
 ```
 ---
