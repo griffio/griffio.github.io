@@ -7,7 +7,7 @@ published: true
 summary: kotlin loops
 ---
 
-[Kotlin for-loops](https://kotlinlang.org/docs/reference/control-flow.html#for-loops)
+### [Kotlin for-loops](https://kotlinlang.org/docs/reference/control-flow.html#for-loops)
 
 Looping, repeating syntax - a common question, that trips people up in their first steps, is why Kotlin doesn’t support the traditional **for-loop** structure below:
 
