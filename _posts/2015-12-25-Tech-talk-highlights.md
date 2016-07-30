@@ -56,3 +56,5 @@ summary: highlighted tech talks 2015
   [The Website Obesity Crisis](https://vimeo.com/147806338) - Maciej Ceglowski 
 
   [Advanced front-end automation with npm scripts](https://www.youtube.com/watch?v=0RYETb9YVrk) - Kate Hudson
+  
+  [Cheating Gall’s Law](https://vimeo.com/128796804) - C J Silverio
