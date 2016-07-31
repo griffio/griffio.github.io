@@ -25,7 +25,7 @@ In Java, you must lean on reflection by providing a type class parameter to inst
 
 In Kotlin ```Array<Int>``` is still generated as a Java Platform ```Object[Integer]``` array.
 
-Kotlin doesn't support any array literal initialisation and currently we must use explicit construction for building for example n-dimensional arrays.
+Kotlin doesn't support any array literal initialisation and currently we must use explicit construction when building, for example, n-dimensional arrays.
 
 <script src="https://gist.github.com/griffio/ac6386d41298be68e8768ec2a3f7dc80.js"></script>
 
