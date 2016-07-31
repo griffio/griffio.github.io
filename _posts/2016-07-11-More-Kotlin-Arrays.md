@@ -21,9 +21,13 @@ public class Arrays<T> {
 
 ~~~
 
-Unless you lean on reflection by providing a type class parameter to instantiate array of type "clazz: Class<T>", the difference with Kotlin is that we can use the generic type <T> directly.
+In Java, you must lean on reflection by providing a type class parameter to instantiate array of type "clazz: Class<T>", the difference with Kotlin is that we can use the generic type <T> directly.
 
-In Kotlin Array<String> is still generated as a Java Platform Object[String] array.
+In Kotlin Array<Int> is still generated as a Java Platform Object[Integer] array.
+
+Kotlin doesn't support any array literal initialisation and currently we must use explicit construction for building for example n-dimensional arrays.
+
+<script src="https://gist.github.com/griffio/ac6386d41298be68e8768ec2a3f7dc80.js"></script>
 
 Inlined functions support reified type parameters to avoid using reflection with class references.
 
