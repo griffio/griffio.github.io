@@ -29,3 +29,5 @@ https://vimeo.com/171317253 - Elixir Is Neat But What Can You Actually Do With I
 https://www.youtube.com/watch?v=tg3YjMqWNj0 - Lessons of Liskov - Peter Bhat Harkins - wroc_love.rb 2016
 
 https://www.youtube.com/watch?v=qx9tHwhjkHs - HTTP/2, Totally Tooling Tips
+
+https://www.youtube.com/watch?v=Tc9vs_HFHVo - Adventures in Parametric Polymorphism - Brian Goetz
