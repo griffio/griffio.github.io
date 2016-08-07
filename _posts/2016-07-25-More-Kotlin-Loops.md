@@ -59,7 +59,7 @@ As the [documentation](https://kotlinlang.org/docs/reference/control-flow.html#f
 
 If we want to make our own classes iterable without using inheritance, we can make it work with the **for** idiom by providing a iterator operator implementation.
 
-Let's make the sides of the Shape Object iterable and also the support forEach extension method :-
+Let's make the sides of the Shape object iterable and also support the forEach extension method :-
 
 ``` kotlin
 
