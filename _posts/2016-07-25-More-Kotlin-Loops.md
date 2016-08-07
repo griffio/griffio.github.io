@@ -57,7 +57,7 @@ for ((index,value) in ('a'..'z').withIndex()) {
 
 As the [documentation](https://kotlinlang.org/docs/reference/control-flow.html#for-loops) specifies that **for** operates over anything that provides an iterator.
 
-If we have created our own non-collection class, we can make it work with the **for** idiom by providing a iterator operator implementation.
+If we want to make our own classes iterable without using inheritance, we can make it work with the **for** idiom by providing a iterator operator implementation.
 
 Let's make the sides of the Shape Object iterable and also the support forEach extension method :-
 
