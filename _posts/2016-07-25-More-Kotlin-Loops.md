@@ -52,3 +52,35 @@ for ((index,value) in ('a'..'z').withIndex()) {
   println("$index $value")
 }
 ```
+
+---
+
+As the [documentation](https://kotlinlang.org/docs/reference/control-flow.html#for-loops) specifies that **for** operates over anything that provides an iterator.
+
+If we have created our own non-collection class, we can make it work with the **for** idiom by providing a iterator operator implementation.
+
+Let's make the sides of the Shape Object iterable and also the support forEach extension method :-
+
+``` kotlin
+
+class Shape(val sides: Int) {
+
+  public operator fun iterator() = (1..sides).iterator() 
+
+  public inline fun forEach(action: (Int) -> Unit): Unit {
+    for (element in this) action(element)
+  }
+}
+
+fun main(args: Array<String>) {
+
+  val shape = Shape(sides = 6)
+
+  for (side in shape) {
+    println("This is side $side")
+  }
+
+  shape.forEach { println("This is side $it") }
+}
+
+```
