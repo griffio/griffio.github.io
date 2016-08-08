@@ -39,7 +39,7 @@ public inline fun repeat(times: Int, action: (Int) -> Unit) {
 }
 ```
 
-```
+``` kotlin
 repeat(times = 5) {
   // implicit "it" is 0..4
   println(it)
