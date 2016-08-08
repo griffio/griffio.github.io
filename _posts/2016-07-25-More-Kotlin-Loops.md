@@ -17,7 +17,9 @@ for (int i=0; i<100; i++) {
 }
 ```
 
-Instead, **for** works on extensible expressions that return an iterator() and implement next(), hasNext() methods:
+Instead, **for** works on extensible expressions that return an iterator() and implement next(), hasNext() methods.
+
+Below, the expression "0..99" is an iterable [IntProgression](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.ranges/-int-progression/) :-
 
 ```  kotlin
 for (i in 0..99) {
