@@ -87,3 +87,5 @@ fun main(args: Array<String>) {
 }
 
 ```
+
+The same extensions are implemented to make Kotlin [Array](https://github.com/JetBrains/kotlin/blob/1.0.3/core/builtins/native/kotlin/Array.kt#L59) iterable.
