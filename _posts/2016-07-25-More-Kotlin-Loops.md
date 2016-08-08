@@ -17,7 +17,7 @@ for (int i=0; i<100; i++) {
 }
 ```
 
-Instead, **for** works on extensible expressions that return an iterator(), next() or hasNext() method:
+Instead, **for** works on extensible expressions that return an iterator() and implement next(), hasNext() methods:
 
 ```  kotlin
 for (i in 0..99) {
@@ -38,7 +38,8 @@ public inline fun repeat(times: Int, action: (Int) -> Unit) {
 ```
 
 ```
-repeat(times) {
+repeat(times = 5) {
+  // it is 0...4
   println(it)
 }
 ```
