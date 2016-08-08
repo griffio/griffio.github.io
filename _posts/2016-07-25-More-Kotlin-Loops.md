@@ -41,7 +41,7 @@ public inline fun repeat(times: Int, action: (Int) -> Unit) {
 
 ```
 repeat(times = 5) {
-  // it is 0...4
+  // implicit "it" is 0..4
   println(it)
 }
 ```
