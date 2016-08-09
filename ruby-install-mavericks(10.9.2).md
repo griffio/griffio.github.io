@@ -28,6 +28,10 @@ which ruby
 
 /Users/griffio/.rubies/ruby-2.0.0-p451/bin/ruby
 
+install bundler for each version of ruby 
+
+gem install bundler
+
 ### speed up gem install no docs
 echo "gem: --no-document" >> ~/.gemrc
 
