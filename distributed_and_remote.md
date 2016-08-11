@@ -143,3 +143,5 @@ https://remotejobs.com/the-pros-and-cons-of-working-remotely/
 http://blog.gettimely.com/5-habits-of-efficient-remote-workers/
 
 http://engineering.invisionapp.com/post/making-remote-working-work
+
+http://blog.bitovi.com/6-personal-challenges-working-remotely/
