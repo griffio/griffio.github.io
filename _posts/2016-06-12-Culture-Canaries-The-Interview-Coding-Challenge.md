@@ -43,6 +43,14 @@ Do the profiles of existing team members pass the interview process?
 
 Create new opportunities when the profiles are too rigid. 
 
+Reach out to people to interview that may not be initially confident or think they have enough relevent experience.
+
+Typically job descriptions get over stuffed and are more aspirational than realistic.
+
+Don't include "fullstack ninja rockstar" style terminolgy. Check against [joblint](https://www.npmjs.com/package/joblint).
+
+State in the job description that for example, people with more than half of the requirements are welcome to apply.
+
 Change the assumptions and ask if the company is good enough for the person applying. Why would they work here?
 
 Interviews are an like on-boarding process for employees who are in another timezone - one that has yet to occur.
