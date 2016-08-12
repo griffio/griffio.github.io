@@ -47,7 +47,7 @@ Reach out to people to interview that may not be initially confident or think th
 
 Typically job descriptions get over stuffed and are more aspirational than realistic.
 
-Don't include "fullstack ninja rockstar" style terminolgy. Check against [joblint](https://www.npmjs.com/package/joblint).
+Don't include "fullstack ninja rock-star" style terminolgy. Check against [joblint](https://www.npmjs.com/package/joblint).
 
 State in the job description that for example, people with more than half of the requirements are welcome to apply.
 
