@@ -33,3 +33,6 @@ https://www.youtube.com/watch?v=qx9tHwhjkHs - HTTP/2, Totally Tooling Tips
 https://www.youtube.com/watch?v=Tc9vs_HFHVo - Adventures in Parametric Polymorphism - Brian Goetz
 
 https://www.youtube.com/watch?v=cmGr0RszHc8 - Instant Loading: Building offline-first Progressive Web Apps - Jake Archibald
+
+https://www.youtube.com/watch?v=hcYAHix-riY SXSW Keynote - "You Know What? ℉uck Dropdowns." - Golden Krishna
+
