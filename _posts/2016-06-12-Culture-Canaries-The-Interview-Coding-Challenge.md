@@ -43,7 +43,7 @@ Do the profiles of existing team members pass the interview process?
 
 Create new opportunities when the profiles are too rigid. 
 
-Reach out to people to interview that may not be initially confident or think they have enough relevent experience.
+**Reach out** to people for interview who may not be initially confident or think they have enough relevent experience.
 
 Typically job descriptions get over stuffed and are more aspirational than realistic.
 
