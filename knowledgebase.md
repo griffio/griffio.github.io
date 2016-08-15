@@ -2,7 +2,7 @@
 
 ####Environment Drives Culture, Culture Drives Brand
 
-Companies with intentional culture:
+Some companies with intentional Culture:
 
 - Atlassian https://blogs.atlassian.com/2015/11/how-atlassian-builds-innovation-culture/
 - AtomicObject https://atomicobject.com/culture
@@ -17,10 +17,10 @@ Companies with intentional culture:
 - Gitlab https://about.gitlab.com/handbook
 
 **Making a Culture**
-- An Organizations collective intelligence is its culture
+- An Organizations collective intelligence is its Culture
 - Individually people are smart and have hidden talents
 - An environment that gives employees the latitude to make use of these talents generates a Culture
-- If a company doesn't care enough creating a better working environment what is the chance it cares about creating culture?
+- If a company doesn't care enough creating a better working environment what is the chance it cares about creating a Culture?
 
 **Brand** is a form of group-think and can be toxic if inhaled internally - Output only - Corporate marketing often creates the brand first and implements it topdown - Brand is arrived at through the on going culture and not by simply inventing a set of values.
 
@@ -63,10 +63,10 @@ Hiring culture should be sourcing and inviting candidates for potential rather t
 - A developer could memorize trivia for X but have never practised or used it
 - When was the last time you learned/practiced/used X did you teach/explain/show it to anyone else?
 
-The 'donut light' for hiring should always be on.
+The 'doughnut light' for hiring should always be on - add all job descriptions into GitHub for quick opensource win.
 
-Company Tech blog
-- The shop window for developers to see environment/culture/brand
+Consider a company Tech Blog
+- The shop window for developers to see Environment/Culture/Brand
 
 ### Remote First
 
