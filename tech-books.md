@@ -50,7 +50,7 @@ title: "Software Development Books"
   - Technical archeology in practice. Lessons from the past
 - [How To Design Programs](http://htdp.org)
   - Everyone should learn how to design programs
-- [Growing object-oriented software, guided by tests](https://openlibrary.org/works/OL13856561W/Growing_object-oriented_software_guided_by_tests)
+- [Growing Object-Oriented Software, Guided By Tests](https://openlibrary.org/works/OL13856561W/Growing_object-oriented_software_guided_by_tests)
   - Forms the basis of begining and maintaining your tests as first class software. Instead of "It's only a test!"  
 
 ### 2010s
