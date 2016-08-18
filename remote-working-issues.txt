@@ -1,6 +1,7 @@
-The downside of remote working are issues of trust and contractual obligations as they exist in an organisation's status quo.
-In such cultures, the mindset is that everyone is distrustful of each other unless they can see them at their desks "working".
-Working distributed means that work is fanned out and feedback and progress needs to be communicated back skillfully.
+The downside of remote working are issues of trust and contractual obligations as they exist currently in an organisation.
+In such cultures, the mindset is that everyone is distrustful of each other unless they can see them at their desks "working.
+Distributed working means that work is fanned out where feedback and progress need to be communicated back skillfully.
 Co-location is needed where some work is by nature synchronous and must happen at the same time.
-Actual absolute remote working is probably suitable for a minority of people and most people need a degree of flexibilty around commuting(not uncommon for contractual 40hr week and 15-20hr spent commuting).
-It's not a zero-sum game and a working culture must be based around support for out-of-band communication, at a minimum for disaster recovery scenerios. 
+Actual and absolute remote working is probably suitable for a minority of people and most people need a degree of flexibilty around commuting (it's not uncommon to see for a contractual 40hr week where 15-20hr is spent commuting).
+It's not a zero-sum game and a working culture must be based around support for out-of-band communication, at a minimum for disaster recovery scenerios.
+Most organisations have  distributed interactions but are just poorly understood or oblivious to its presence.
