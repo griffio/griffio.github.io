@@ -1,5 +1,6 @@
 The downside of remote working are issues of trust and contractual obligations as they exist currently in an organisation.
 In such cultures, the mindset is that everyone is distrustful of each other unless they can see them at their desks "working.
+If there are problems with remote or flexible working then it signals a dysfuctional organisation. 
 Distributed working means that work is fanned out where feedback and progress need to be communicated back skillfully.
 Co-location is needed where some work is by nature synchronous and must happen at the same time.
 Actual and absolute remote working is probably suitable for a minority of people and most people need a degree of flexibilty around commuting (it's not uncommon to see for a contractual 40hr week where 15-20hr is spent commuting).
