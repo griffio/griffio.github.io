@@ -2,11 +2,11 @@ Imagine walking up to a subway train station turnstil.
 If there was some mechanism where you carried all your state around with you the turnstil would be able to authorise your journey.
 However, this would not scale, the universe would collapse under its own weight.
 Instead you present a ticket that has been encoded with a range of values, destination and expiry etc.
-How did you get the ticket? Tokens can beget tokens or exchanged for other specific tokens
+How did you get the ticket? Tokens can beget tokens or exchanged for other specific tokens.
 The train ticket must have been created through a vending machine. A another token, Cash, could have been used to exchange for the ticket.
 Where did the Cash token come from?
 A Cash dispenser. Somewhere in this chain Authentication is required to create a token, like authenticating with the cash machine with your card and pin.
 Also, consider the scope of tokens. Although Cash can be spent by the bearer on anything upto the upper bound of its value.
-Convert the cash to a ticket, then it is bounded by the train journey itself.
+Convert the cash to a ticket, then it is bound and is only valid to a train journey.
 Also consider the scenerio when boarding a plane - a ticket (bearer token) and a secondary identity (photo id) token must be presented as a bearer token is not quite trustworthy enough.
-The issuer of the photo id is from a trusted source.
+The issuer of the photo id must be from source trusted by the validator.
