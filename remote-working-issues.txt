@@ -5,5 +5,5 @@ Distributed working means that work is fanned out where feedback and progress ne
 Co-location is needed where some work is by nature synchronous and must happen at the same time.
 Actual and absolute remote working is probably suitable for a minority of people and most people need a degree of flexibilty around commuting (it's not uncommon to see for a contractual 40hr week where 15-20hr is spent commuting).
 It's not a zero-sum game and a working culture must be based around support for out-of-band communication, at a minimum for disaster recovery scenerios.
-Most organisations have distributed interactions but are just done poorly or oblivious to its presence.
-Customer support is one example, another is offices in different locations.
+Most organisations have distributed interactions but are just being performed poorly or oblivious to its presence.
+Customer support is one example, another is offices in different locations and using email. 
