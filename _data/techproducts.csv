@@ -5,3 +5,4 @@ siege,https://github.com/JoeDog/siege,Binary,testing
 tsung,http://tsung.erlang-projects.org/,Binary,testing
 nightmare,https://www.npmjs.com/package/nightmare,NodeJS,testing
 infer,http://fbinfer.com/,Binary,testing
+hugo,http://gohugo.io/,Binary,website
