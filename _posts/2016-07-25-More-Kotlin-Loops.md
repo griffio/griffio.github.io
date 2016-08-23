@@ -26,6 +26,14 @@ for (i in 0..99) {
   println(i)
 }
 ```
+
+less often needed, a reverse progression can be applied with ```(0..99).reversed()``` or :-
+
+``` kotlin
+ for (i in 99 downTo 0) {
+  	println(i)
+ }
+```
 ---
 
 The Kotlin core library [repeat](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html) function implementation is a **for** wrapper that provides a zero-based iteration index:
