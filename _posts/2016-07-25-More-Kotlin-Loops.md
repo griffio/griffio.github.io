@@ -30,9 +30,9 @@ for (i in 0..99) {
 less often needed, a reverse progression can be applied with ```(0..99).reversed()``` or :-
 
 ``` kotlin
- for (i in 99 downTo 0) {
-  	println(i)
- }
+for (i in 99 downTo 0) {
+	println(i)
+}
 ```
 ---
 
