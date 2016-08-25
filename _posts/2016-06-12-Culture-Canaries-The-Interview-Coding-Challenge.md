@@ -59,11 +59,11 @@ The **doughnut light** for hiring should always be on. Companies can add all the
 
 [Blind hiring](https://www.compose.io/articles/how-compose-uses-interviewed-com-and-slack-to-automate-blind-hiring/) is also a problem if the company is also blind to what it is asking for; these are the things we know that **we don’t know** or what **we do not like to know**.
 
-We don’t need better tech interviews - we need better tech companies.
-
 If companies treat people without empathy during recruitment what does it say about working there?
 
 Just like canaries exposed to harmful gases, the code challenge can provide a useful warning for interviewees to exit stage left immediately.
+
+We don’t need better tech interviews - **we deserve better tech companies**.
 
 ### Resources
 
