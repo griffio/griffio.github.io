@@ -25,7 +25,7 @@ In Java, you must lean on reflection by providing a type class parameter to inst
 
 [Inline functions](https://kotlinlang.org/docs/reference/inline-functions.html) support reified type parameters to avoid using reflection with class references - with the limitation that only type parameters of inlined functions can be reified.
 
-Kotlin, for example, defining ```Array<Int>``` is still compiled down to a Java Platform ```Object[Integer]```, the array type is enforced by the Kotlin compiler as invariant. Java arrays are covariant allowing unsafe assignments. 
+Kotlin, for example, defining ```Array<Int>``` is still compiled down to a Java Platform ```Object[Integer]```, the array type is enforced by the Kotlin compiler as invariant. Where as, Java arrays are covariant allowing unsafe generic assignments like ```array of Object = array of Integer```. 
 
 ---
 
