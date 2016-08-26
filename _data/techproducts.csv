@@ -9,3 +9,6 @@ hugo,http://gohugo.io/,Binary,website
 cyclid,http://cyclid.io/,Hosted,continuous-integration
 figureitout,http://www.fioapp.co/,Hosted,productivity
 observatory,https://observatory.mozilla.org/,Hosted,security
+catberry,http://catberry.org/,NodeJS,framework
+nemo,http://nemo.js.org,NodeJS,testing
+cheerio,https://cheerio.js.org/,NodeJS,testing
