@@ -149,3 +149,5 @@ http://blog.bitovi.com/6-personal-challenges-working-remotely/
 http://engineering.pivotal.io/post/pair-programming-in-a-distributed-team/
 
 https://lislis.de/talks/remotiest/
+
+https://snook.ca/archives/other/working-remotely
