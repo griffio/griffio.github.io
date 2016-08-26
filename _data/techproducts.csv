@@ -8,3 +8,4 @@ infer,http://fbinfer.com/,Binary,testing
 hugo,http://gohugo.io/,Binary,website
 cyclid,http://cyclid.io/,Hosted,continuous-integration
 figureitout,http://www.fioapp.co/,Hosted,productivity
+observatory,https://observatory.mozilla.org/,Hosted,security
