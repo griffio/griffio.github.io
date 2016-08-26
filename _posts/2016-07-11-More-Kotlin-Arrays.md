@@ -21,9 +21,10 @@ public class Arrays<T> {
 
 ~~~
 
-In Java, you must lean on reflection by providing a type class parameter to instantiate array of type ```clazz: Class<T>```, the difference with Kotlin is that we can use the generic type <T> directly.
+In Java, you must lean on reflection by providing a type class parameter to instantiate the array of type ```clazz: Class<T>```, the difference with Kotlin is that we can use the generic type <T> directly.
 
-[Inline functions](https://kotlinlang.org/docs/reference/inline-functions.html) support reified type parameters to avoid using reflection with class references - with the limitation that only type parameters of inlined functions can be reified.
+[Inline functions](https://kotlinlang.org/docs/reference/inline-functions.html) support reified type parameters to avoid using reflection with class references - the limitation is only type parameters of inlined functions can be reified -
+**All other generic types are erased at runtime**.
 
 Kotlin, for example, defining ```Array<Int>``` is still compiled down to a Java Platform ```Object[Integer]```, the array type is enforced by the Kotlin compiler as invariant. Where as, Java arrays are covariant allowing unsafe generic assignments like ```array of Object = array of Integer```. 
 
