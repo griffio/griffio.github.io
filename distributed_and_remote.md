@@ -144,6 +144,8 @@ http://blog.gettimely.com/5-habits-of-efficient-remote-workers/
 
 http://engineering.invisionapp.com/post/making-remote-working-work
 
+https://www.helpscout.net/blog/virtual-team-building/
+
 http://blog.bitovi.com/6-personal-challenges-working-remotely/
 
 http://engineering.pivotal.io/post/pair-programming-in-a-distributed-team/
