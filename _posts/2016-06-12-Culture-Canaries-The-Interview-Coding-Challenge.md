@@ -75,6 +75,8 @@ We don’t need better tech interviews - **we deserve better tech companies**.
 
 [interview at ride](https://github.com/ride/interview-prep)
 
+[hiring process at corgibytes](http://corgibytes.com/hiring-process/)
+
 [work can be happy](https://stories.workcanbehappy.com/)
 
 [what happens when you stop relying on resumes](http://blog.alinelerner.com/what-happens-when-you-stop-relying-on-resumes/)
