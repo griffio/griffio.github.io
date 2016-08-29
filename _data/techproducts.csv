@@ -13,3 +13,5 @@ catberry,http://catberry.org/,NodeJS,framework
 nemo,http://nemo.js.org,NodeJS,testing
 cheerio,https://cheerio.js.org/,NodeJS,testing
 apis,http://docs.apis.is/,Hosted,api
+buck,https://buckbuild.com/,Binary,build
+bazel,https://bazel.io/,Binary,build
