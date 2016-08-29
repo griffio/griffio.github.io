@@ -15,3 +15,4 @@ cheerio,https://cheerio.js.org/,NodeJS,testing
 apis,http://docs.apis.is/,Hosted,api
 buck,https://buckbuild.com/,Binary,build
 bazel,https://bazel.io/,Binary,build
+pants,http://www.pantsbuild.org/,Binary,build
