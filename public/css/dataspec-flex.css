@@ -5,8 +5,16 @@
     display: -webkit-flex;
 }
 
-.DataSpec-blog, .DataSpec-repo, .DataSpec-jobs {
-    padding: 0.25em;
+.DataSpec-blog, .DataSpec-repo, .DataSpec-jobs, .DataSpec-languages {
+    padding-top: 0.25em;
+		padding-bottom: 0;
     flex: 1;
     -webkit-flex: 1;
+}
+
+.DataSpec-languages {
+padding-top: 0;
+color: grey;
+font-size: 80%;
+
 }
