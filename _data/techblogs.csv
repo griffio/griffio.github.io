@@ -248,7 +248,7 @@ tumblr,https://engineering.tumblr.com/#_=_,tumblr,https://www.tumblr.com/jobs,"c
 twilio,https://www.twilio.com/engineering,twilio,https://www.twilio.com/company/jobs," c++ coffeescript erlang javascript python ruby"
 "twitch tv",https://medium.com/twitch-engineering,twitchtv,http://engineering.twitch.tv/,javascript
 twitter,https://blog.twitter.com/engineering,twitter,https://careers.twitter.com/careers," c c++ java r ruby scala"
-uber,https://eng.uber.com/,uber,https://www.uber.com/careers/list/?city=all&country=all&keywords=&subteam=all&team=engineering," javascript php python"
+uber,https://eng.uber.com/,uber,https://www.uber.com/careers/list/?city=all&country=all&keywords=&subteam=all&team=engineering,"go java javascript objective-c"
 underdog,http://engineering.underdog.io/,underdogio,https://underdog.io/candidates/apply,"javascript python"
 upday,https://upday.github.io/blog/,upday,http://upday.com/en/jobs," css erlang java javascript ruby"
 usertesting,http://engineering.usertesting.com/,usertesting,https://careers.smartrecruiters.com/UserTesting/," ruby"
