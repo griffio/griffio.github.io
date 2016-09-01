@@ -10,7 +10,8 @@ title: Corporate Engineering Blogs
 {% for techblog in sorted_techblogs %}
 <div class="DataSpec"><a class="DataSpec-blog" href="{{ techblog.url }}">{{ techblog.desc }}</a>
 <a class="DataSpec-repo" href="https://github.com/{{ techblog.github }}"><span class="octicon-mark-github small-octicon"></span>/{{ techblog.github }}</a>
-<a class="DataSpec-jobs" href="{{ techblog.jobs }}">Jobs</a>  
+<a class="DataSpec-jobs" href="{{ techblog.jobs }}">Jobs</a> 
+<span>{{ techblog.languages }}</span>
 </div>
 {% endfor %}
 </div>
