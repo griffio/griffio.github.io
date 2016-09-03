@@ -56,7 +56,7 @@ dose,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengineering.
 doximity,https://engineering.doximity.com/,doximity,https://auth.doximity.com/csrf_init?redirect_to=https%3A%2F%2Fwww.doximity.com%2Fabout%2Fjobs%3F_csrf_attempted%3Dyes,"css go html javascript python ruby"
 dropbox,https://blogs.dropbox.com/tech/,dropbox,https://www.dropbox.com/jobs,"c# c++ coffeescript go java javascript objective-c php python"
 ebay,http://www.ebaytechblog.com/,ebay,https://careers.ebayinc.com/join-our-team/start-your-search/," c++ go java javascript python scala swift"
-eharmony,http://www.eharmony.com/engineering/,eHarmony,http://www.eharmony.com/about/careers/,
+eharmony,http://www.eharmony.com/engineering/,eHarmony,http://www.eharmony.com/about/careers/,"c++ java javascript scala"
 etsy,https://codeascraft.com/,etsy,https://www.etsy.com/careers," java javascript objective-c php python ruby"
 eventbrite,http://www.eventbrite.com/engineering/,eventbrite,https://app.jobvite.com/CompanyJobs/Careers.aspx?c=qU29VfwK&cs=9vBbVfwW&nl=0," coffeescript javascript python ruby"
 expedia,https://techblog.expedia.com/,expediadotcom,https://twitter.com/expediaeng," css html java javascript ruby"
