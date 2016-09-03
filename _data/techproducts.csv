@@ -17,3 +17,5 @@ buck,https://buckbuild.com/,Binary,build
 bazel,https://bazel.io/,Binary,build
 pants,http://www.pantsbuild.org/,Binary,build
 textures,http://riccardoscalco.github.io/textures/,Github,dataviz
+git-fork,https://git-fork.com/,Binary,git
+git-kraken,https://www.gitkraken.com/,Binary,git
