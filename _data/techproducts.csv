@@ -24,3 +24,4 @@ insomnia,https://insomnia.rest/,Binary,testing
 percy,https://percy.io/,Hosted,testing
 minio,https://minio.io/,Binary,storage
 hugo,https://gohugo.io/,Binary,document
+stagemonitor,http://www.stagemonitor.org/,Java,performance
