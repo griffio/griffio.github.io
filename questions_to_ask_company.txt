@@ -8,6 +8,6 @@ How do you say "no" to features?
 Do you remove features from the code base or make use of feature flags/deprecation?
 How do you structure your tests?
 Do you have technical documentation or people who create technical documentation?
-Do you support Open Source, how do people contribute? license?
+Do you support Open Source?
 Do you enable peer programming or code reviews?
 What are the technical or people challenges you are currently trying to solve?
