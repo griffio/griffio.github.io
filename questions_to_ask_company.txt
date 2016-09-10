@@ -10,5 +10,5 @@ How do you structure your tests?
 Do you have technical documentation or people who create technical documentation?
 Do you support Open Source?
 How do you prevent or take steps to catch defects from entering production?  
-Do you have peer programming or code reviews to form a consensus of good code?
+Do you use peer programming, metrics, or code reviews to form a consensus of good code?
 What are the technical or people challenges you are currently trying to solve?
