@@ -1,6 +1,6 @@
 Questions to ask Company
 -------------------------------------------------------------------------------------------
-Why do you still use Java in 2016?
+Why do you still use <Blub> in 2016?
 If a critical piece of infrastructure breaks at 2.AM who has responsibility?
 When a developer makes a code change how does it get into production?
 How do you make estimates? (small/large/high risk/low risk)
