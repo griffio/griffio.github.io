@@ -1,14 +1,14 @@
 Questions to ask Company
 -------------------------------------------------------------------------------------------
 Why do you still use <Blub/> in 2016?
-If a critical piece of infrastructure breaks at 2.AM who has responsibility?
+If a critical piece of infrastructure breaks at 2 A.M who has responsibility?
 When a developer makes a code change how does it get into production?
 How do you make estimates? (small/large/high risk/low risk)
 How do you say "no" to features?
-Do you remove features from the code base or make use of feature flags/deprecation?
+Do you routinely remove features from the code-base or make use of feature flags to incrementally add code?
 How do you structure your tests?
-Do you have technical documentation or people who create technical documentation?
+Do developers create technical documentation or other people who create technical documentation?
 Do you support Open Source?
-How do you prevent or take steps to catch defects from entering production?  
-Do you use peer programming, metrics, or code reviews to form a consensus of good code?
-What are the technical or people challenges you are currently trying to solve?
+What steps do you take that help prevent or catch defects from entering production?  
+Do you use peer programming, metrics, or code reviews to form a consensus of what is good code?
+What are some of the technical and/or people challenges you are currently trying to solve?
