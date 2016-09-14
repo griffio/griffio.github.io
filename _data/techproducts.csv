@@ -27,3 +27,4 @@ hugo,https://gohugo.io/,Binary,document
 stagemonitor,http://www.stagemonitor.org/,Java,performance
 mdp,https://github.com/visit1985/mdp,Binary,markdown
 gatsby,https://github.com/gatsbyjs/gatsby,NodeJS,website
+waffle,https://waffle.io/,Hosted,github
