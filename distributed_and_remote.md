@@ -157,3 +157,5 @@ https://snook.ca/archives/other/working-remotely
 https://readthink.com/the-difference-between-remote-and-remote-first-7dd38458855f
 
 http://corgibytes.com/blog/2016/08/16/office-not-a-spatial-thing/
+
+http://githubuniverse.com/program/sessions/#distributed-inclusive
