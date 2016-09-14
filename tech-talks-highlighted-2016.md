@@ -37,3 +37,5 @@ https://www.youtube.com/watch?v=cmGr0RszHc8 - Instant Loading: Building offline-
 https://www.youtube.com/watch?v=hcYAHix-riY SXSW Keynote - "You Know What? ℉uck Dropdowns." - Golden Krishna
 
 https://vimeo.com/173322922 - How to deal with Culture divide: advocacy within distrubuted teams - Laura Czajkowski
+
+https://www.youtube.com/watch?v=HPuvDm8IC-4 -  What is a container, really? Let's write one in Go from scratch - Liz Rice
