@@ -30,3 +30,4 @@ gatsby,https://github.com/gatsbyjs/gatsby,NodeJS,website
 waffle,https://waffle.io/,Hosted,projects
 clubhouse,https://clubhouse.io/,Hosted,projects
 teleport,http://www.abyssoft.com/software/teleport/,Binary,desktop
+mitmproxy,https://mitmproxy.org/,Binary,network
