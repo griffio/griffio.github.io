@@ -29,8 +29,6 @@ People may not have a lot of real experience, but are good at building skills. N
 
 For most development jobs there are **a lot more** people capable of performing the work than a typical job spec would imply. From the [stackoverflow 2016 survey](http://stackoverflow.com/research/developer-survey-2016#developer-profile-education) over half of developers identify with being self-taught.
 
-Often interviewers simply have to choose the candidate seen on the day - that jumped through a flaming hoop and balanced a beach ball on their nose in front of them.
-
 One good aspect of asking for code in interviews; when people write code they can't help create something unique and it can provide the basis of further conversation.
 
 Ultimately the interview is a two way process to discover if people will have a positive impact after we hire them and the company will provide a positive impact too.
