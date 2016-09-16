@@ -8,11 +8,17 @@ title: Corporate Engineering Blogs
 <div class="flex-container">
 {% assign sorted_techblogs = (site.data.techblogs | sort: 'desc') %}
 {% for techblog in sorted_techblogs %}
+{% assign ghlangs = (techblog.languages | split: ' ') %}
 <div class="DataSpec"><a class="DataSpec-blog" href="{{ techblog.url }}">{{ techblog.desc }}</a>
 <a class="DataSpec-repo" href="https://github.com/{{ techblog.github }}"><span class="octicon-mark-github small-octicon"></span>/{{ techblog.github }}</a>
 <a class="DataSpec-jobs" href="{{ techblog.jobs }}">Jobs</a> 
 </div>
-<div class="DataSpec"><span class="DataSpec-languages">{{ techblog.languages }}</span></div>
+<div class="DataSpec"><span class="DataSpec-languages">
+{% for ghlang in ghlangs %}
+<span>{{ ghlang}}</span>
+{% endfor %}
+</span>
+</div>
 {% endfor %}
 </div>
 </section>
