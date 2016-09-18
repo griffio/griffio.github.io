@@ -4,6 +4,13 @@ title: Corporate Engineering Blogs
 ---
 
 ### [Data](https://github.com/griffio/griffio.github.io/blob/master/_data/techblogs.csv) with Github repos and career/jobs link 
+
+<section id="top-five-languages">
+
+<p><span>Top five languages:</span></p>
+
+</section>
+
 <section class="techblogs-flex-layout">
 <div class="flex-container">
 {% assign sorted_techblogs = (site.data.techblogs | sort: 'desc') %}
@@ -15,10 +22,12 @@ title: Corporate Engineering Blogs
 </div>
 <div class="DataSpec"><span class="DataSpec-languages">
 {% for ghlang in ghlangs %}
-<span>{{ ghlang}}</span>
+<span>{{ ghlang }}</span>
 {% endfor %}
 </span>
 </div>
 {% endfor %}
 </div>
 </section>
+
+<script type="text/javascript" src="/javascripts/languageFrequency.js"></script>

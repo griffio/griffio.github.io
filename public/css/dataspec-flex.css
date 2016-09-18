@@ -13,8 +13,11 @@
 }
 
 .DataSpec-languages {
-padding-top: 0;
-color: grey;
-font-size: 80%;
+    padding-top: 0;
+    color: grey;
+    font-size: 80%;
+}
 
+#top-five-languages span {
+    padding-right: 1em;
 }
