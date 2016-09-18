@@ -5,59 +5,77 @@ var GH_LANG = {
     */
     arrayFrequency: function(original) {
 
-    	var frequency = [];
-      var obj = null;
+        var frequency = [];
 
-    	var copy = original.slice(0);
-    	for (var i = 0; i < original.length; i++) {
-    		var freq = 0;
+        var obj = null;
 
-    			for (var j = 0; j < copy.length; j++) {
-    			if (original[i] == copy[j]) {
-    				freq++;
-    				delete copy[j];
-    			}
-    		}
+        var copy = original.slice(0);
 
-    		if (freq > 0) {
-          var obj = {};
-    			obj.value = original[i];
-    			obj.freq = freq;
-    			frequency.push(obj);
-    		}
-    	}
-    	return frequency;
+        for (var i = 0; i < original.length; i++) {
+
+            var freq = 0;
+
+            for (var j = 0; j < copy.length; j++) {
+
+                if (original[i] == copy[j]) {
+                    freq++;
+                    delete copy[j];
+                }
+            }
+
+            if (freq > 0) {
+                obj = {};
+                obj.value = original[i];
+                obj.freq = freq;
+                frequency.push(obj);
+            }
+        }
+
+        return frequency;
     },
 
-    unwrapTextAll:function(elements) {
+    unwrapText: function(nodes) {
 
-      var result = [];
-      var i;
-      var len = elements.length;
+        var arr = [];
 
-      for (i=0; i<len; i++) {
-         result.push(elements.item(i).innerText);
-      }
-      return result;
+        var ind = 0;
+
+        var len = nodes.length;
+
+        while (ind < len) {
+            arr.push(nodes.item(ind).innerText);
+            ind++;
+        }
+
+        return arr;
+    },
+
+    sortFreq: function(lower, higher) {
+
+        return higher.freq - lower.freq;
     },
 
     updateTechBlogPage: function() {
 
         var elements = document.body.querySelectorAll(".DataSpec-languages span");
 
-        var languages = GH_LANG.unwrapTextAll(elements);
+        var languages = GH_LANG.unwrapText(elements);
 
-        var freqLanguagesTopFive = GH_LANG.arrayFrequency(languages).sort( function (a,b) { return b.freq - a.freq } ).slice(0, 5);
+        var freqLanguagesTopFive = GH_LANG.arrayFrequency(languages).sort(GH_LANG.sortFreq).slice(0, 5);
 
         var topFiveElement = document.getElementById("top-five-languages");
 
         var topFiveParagraph = topFiveElement.querySelector("p");
 
         freqLanguagesTopFive.forEach(function(element, index) {
-         var span = document.createElement('span');
-         var textValue = document.createTextNode(element.value);
-         span.appendChild(textValue);
-         topFiveParagraph.appendChild(span);
+
+            var span = document.createElement('span');
+
+            var textValue = document.createTextNode(element.value);
+
+            span.appendChild(textValue);
+
+            topFiveParagraph.appendChild(span);
         });
     }
 };
