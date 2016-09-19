@@ -44,7 +44,7 @@ These are [Algebraic Data Types](https://en.wikipedia.org/wiki/Algebraic_data_ty
 ---
 
 Here is a more elaborate version of *FizzBuzz* where type safety is provided with Sealed Classes for the conditions.
-An invoke operator "T() calls T.invoke()" is used a factory to create the actual subclass instance.
+Inside a companion object, an invoke operator on "T() calls T.invoke()" is used as a factory to create the actual subclass instance.
 
 <script src="https://gist.github.com/griffio/d84f39bce91898c5ee31df89e5b162e5.js"></script>
 
