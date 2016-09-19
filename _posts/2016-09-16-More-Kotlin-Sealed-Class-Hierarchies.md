@@ -11,7 +11,7 @@ summary: kotlin sealed classes
 
 In Java and Kotlin, traditional enums types allow a fixed set of constants with the restriction that they are implemented only as singletons (In the JVM).
 
-Kotlin allows a class hierarchy which consists of a **sealed abstract super class** and enclosed named concrete implementations.
+Kotlin allows a class hierarchy which consists of a **sealed abstract super class** enclosing named concrete implementations.
 
 The following sealed class leans on the compiler and lets it do the work.
 
