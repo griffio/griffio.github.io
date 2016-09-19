@@ -9,7 +9,7 @@ summary: kotlin sealed classes
 
 ### [Kotlin sealed-hierarchies](http://kotlinlang.org/docs/reference/classes.html#sealed-classes)
 
-In Java and Kotlin, traditional enums types allow a fixed set of constants with the restriction that they are implemented only as singletons (In the JVM).
+In Java and Kotlin, traditional enum types allow a fixed set of constants with the restriction that they are implemented only as singletons (In the JVM).
 
 Kotlin allows a class hierarchy which consists of a **sealed abstract super class** enclosing named concrete implementations.
 
