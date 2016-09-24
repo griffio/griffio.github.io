@@ -32,3 +32,4 @@ clubhouse,https://clubhouse.io/,Hosted,projects
 teleport,http://www.abyssoft.com/software/teleport/,Binary,desktop
 mitmproxy,https://mitmproxy.org/,Binary,network
 thimble,https://thimble.mozilla.org/en-US/,Hosted,website
+httpstat,https://github.com/reorx/httpstat,Binary,performance
