@@ -247,7 +247,7 @@ tumblbug,https://medium.com/tumblbug-engineering,tumblbug,https://github.com/tum
 tumblr,https://engineering.tumblr.com/#_=_,tumblr,https://www.tumblr.com/jobs," html java javascript objective-c php python ruby scala swift"
 twilio,https://www.twilio.com/engineering,twilio,https://www.twilio.com/company/jobs,"c# coffeescript erlang java javascript objective-c php python ruby swift"
 "twitch tv",https://medium.com/twitch-engineering,twitchtv,http://engineering.twitch.tv/,javascript
-twitter,https://blog.twitter.com/engineering,twitter,https://careers.twitter.com/careers,"c c++ html java javascript objective-c scala"
+twitter,https://engineering.twitter.com/,twitter,https://careers.twitter.com/careers,"c c++ html java javascript objective-c scala"
 uber,https://eng.uber.com/,uber,https://www.uber.com/careers/list/?city=all&country=all&keywords=&subteam=all&team=engineering,"c go java javascript python swift"
 underdog,http://engineering.underdog.io/,underdogio,https://underdog.io/candidates/apply,"css java javascript python ruby"
 upday,https://upday.github.io/blog/,upday,http://upday.com/en/jobs," css erlang java javascript ruby"
