@@ -41,3 +41,5 @@ https://vimeo.com/173322922 - How to deal with Culture divide: advocacy within d
 https://www.youtube.com/watch?v=HPuvDm8IC-4 -  What is a container, really? Let's write one in Go from scratch - Liz Rice
 
 https://www.agilealliance.org/resources/videos/modern-agile/ - Modern Agile - Joshua Kerievsky
+
+https://www.youtube.com/watch?v=ZKYL4M9aJQA - Where the Wild Things Are - Johnny Winn
