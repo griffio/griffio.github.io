@@ -34,3 +34,4 @@ mitmproxy,https://mitmproxy.org/,Binary,network
 thimble,https://thimble.mozilla.org/en-US/,Hosted,website
 httpstat,https://github.com/reorx/httpstat,Binary,performance
 now,https://zeit.co/now,NodeJS,website
+figma,https://www.figma.com/,Binary,design
