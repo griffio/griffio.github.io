@@ -1,8 +1,8 @@
 #Ubuntu Intellij Setup
 
-Download Ultimate 64bit https://www.jetbrains.com/idea/#chooseYourEdition and extract to your user's home ```/home/FIXME/bin```
+Download Ultimate 64bit https://www.jetbrains.com/idea/#chooseYourEdition and extract to your user's home ```/home/$USER/bin```
 
-Open terminal to the extracted bin directory ```/home/FIXME/bin/idea-IU-FIXME/bin/ ```
+Open terminal to the extracted bin directory ```cd /home/$USER/bin/idea-IU-*/bin/```
 
 Make the idea shell script executable [chmod](http://explainshell.com/explain?cmd=chmod+a%2Bx+idea.sh)
 
