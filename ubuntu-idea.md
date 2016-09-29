@@ -1,20 +1,20 @@
-Ubuntu Intellij Setup
+#Ubuntu Intellij Setup
 
-Download and extract to user home ```/home/FIXME/bin```
+Download Ultimate 64bit https://www.jetbrains.com/idea/#chooseYourEdition and extract to user home ```/home/FIXME/bin```
 
 ```
 chmod a+x idea.sh
 ```
 
-**Shell launcher**
+**Shell Launcher**
 
 Intellij Tools/Create Command Line Launcher ```/usr/local/bin/idea```
 
 ---
 
-**Ubuntu Laucher**
+**Ubuntu Launcher**
 
-.local/share/applications/jetbrains-idea.desktop
+Create using Lock to Launcher or verify exists in location ```.local/share/applications/jetbrains-idea.desktop```
 
 ``` ini
 [Desktop Entry]
