@@ -1,20 +1,29 @@
 #Ubuntu Intellij Setup
 
-Download Ultimate 64bit https://www.jetbrains.com/idea/#chooseYourEdition and extract to user home ```/home/FIXME/bin```
+Download Ultimate 64bit https://www.jetbrains.com/idea/#chooseYourEdition and extract to your user's home ```/home/FIXME/bin```
+
+Open terminal to the extracted bin directory ```/home/FIXME/bin/idea-IU-FIXME/bin/ ```
+
+Make the idea shell script executable [chmod](http://explainshell.com/explain?cmd=chmod+a%2Bx+idea.sh)
 
 ```
 chmod a+x idea.sh
 ```
+Execute from bin directory
+
+```
+./idea.sh
+```
 
 **Shell Launcher**
 
-Intellij Tools/Create Command Line Launcher ```/usr/local/bin/idea```
+From Intellij Tools/Create Command Line Launcher ```/usr/local/bin/idea```
 
 ---
 
 **Ubuntu Launcher**
 
-Create using Lock to Launcher or verify exists in location ```.local/share/applications/jetbrains-idea.desktop```
+Create using "Lock to Launcher" or verify exists in location ```.local/share/applications/jetbrains-idea.desktop```
 
 ``` ini
 [Desktop Entry]
@@ -28,4 +37,3 @@ Categories=Development;IDE;
 Terminal=false
 StartupWMClass=jetbrains-idea
 ```
-
