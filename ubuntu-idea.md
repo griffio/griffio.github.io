@@ -38,8 +38,16 @@ Terminal=false
 StartupWMClass=jetbrains-idea
 ```
 
-[how-to-install-java-with-apt-get-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04)
+##References
+
+```
+sudo update-alternatives --config java
+```
+
+The update-alternatives for Java doesn't set the JAVA_HOME system environment.
+
+See [Setting the JAVA_HOME Environment Variable](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04)
+
+Locations in Ubuntu for setting system and user session environment variables.  
 
 [EnvironmentVariables#Session-wide_environment_variables](https://help.ubuntu.com/community/EnvironmentVariables#Session-wide_environment_variables)
-
-
