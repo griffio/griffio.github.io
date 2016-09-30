@@ -37,3 +37,9 @@ Categories=Development;IDE;
 Terminal=false
 StartupWMClass=jetbrains-idea
 ```
+
+[how-to-install-java-with-apt-get-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04)
+
+[EnvironmentVariables#Session-wide_environment_variables](https://help.ubuntu.com/community/EnvironmentVariables#Session-wide_environment_variables)
+
+
