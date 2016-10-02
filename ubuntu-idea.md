@@ -51,3 +51,11 @@ See [Setting the JAVA_HOME Environment Variable](https://www.digitalocean.com/co
 Locations in Ubuntu for setting system and user session environment variables.  
 
 [EnvironmentVariables#Session-wide_environment_variables](https://help.ubuntu.com/community/EnvironmentVariables#Session-wide_environment_variables)
+
+
+### Ubuntu Java
+
+```
+ echo oracle-java8-installer shared/accepted-oracle-license-v1-1 select true | sudo debconf-set-selections
+ echo oracle-java8-installer shared/accepted-oracle-license-v1-1 seen true   | sudo debconf-set-selections
+```
