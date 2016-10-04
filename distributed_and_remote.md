@@ -165,3 +165,7 @@ https://remotebase.io/blog/we-dont-get-remote-jobs-we-join-remote-teams/
 https://pspdfkit.com/blog/2016/hiring-a-distributed-team/
 
 https://bocoup.com/weblog/open-design-kit-doing-distributed-design
+
+http://softwareengineeringdaily.com/2016/09/29/remote-work-with-scott-berkun/
+
+
