@@ -7,7 +7,7 @@ title: Corporate Engineering Blogs
 
 <section id="top-five-languages">
 
-<p><span>Top five languages:</span></p>
+<p><span>Top 5 languages in companies listed:</span></p>
 
 </section>
 
