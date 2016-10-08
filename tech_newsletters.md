@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Software Development Newsletters"
+title: "Software Development News"
 id: tech-newsletters
 ---
 {% assign tagged_technewsletters = (site.data.technewsletters | group_by: 'tag' | sort: 'name' ) %}
