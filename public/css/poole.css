@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   font-size: 1.7rem;
-  font-family: Tauri, "PT Sans", sans-serif;
+  font-family: Tauri, "Noto Sans", sans-serif;
   font-weight: 400;
 }
 h2 {
@@ -390,7 +390,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
