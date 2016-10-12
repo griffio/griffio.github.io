@@ -169,3 +169,6 @@ https://bocoup.com/weblog/open-design-kit-doing-distributed-design
 http://softwareengineeringdaily.com/2016/09/29/remote-work-with-scott-berkun/
 
 https://sourcediving.com/remote-and-distributed-engineering-dc6f3cf6e44#.jkqpwad15
+
+http://bootstrappedweb.com/updates-dev-process-mrr-milestones-remote-vs-office/
+
