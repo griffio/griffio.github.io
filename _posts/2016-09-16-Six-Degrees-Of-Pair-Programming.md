@@ -7,21 +7,25 @@ published: false
 summary: six degrees of pair programming
 ---
 
-Often the Pair programming is presented as in naive way of matey programmers working next to each other all day.
+Often advocacy of Pair Programming is presented as in the naive way of matey programmers working next to each other all day.
 
-The ergonomics of working togther and the rest of the open plan spaces are not considered.
+The ergonomics of working togther side by side and with open plan spaces are not considered.
 
-Pilot and Co-Pilot 
+Nothing can compensate from knowing what you are producing is being reviewed in real time.
 
-Motorbike and Sidecar
+Not all modes are equal 
 
-[Pantomime Horse](https://en.wikipedia.org/wiki/Pantomime_horse)
+Pilot and Co-Pilot - backup pilot
 
-[Zippy](https://en.wikipedia.org/wiki/Zippy_(Rainbow)) & [George](https://en.wikipedia.org/wiki/George_(Rainbow))
+Motorbike and Sidecar - attached passenger 
 
-[Bert & Ernie](https://en.wikipedia.org/wiki/Bert_and_Ernie)
+Learner Driver and Instructor - dual controls can override
 
-[Eric B. & Rakim](https://en.wikipedia.org/wiki/Eric_B._%26_Rakim)
+[Pantomime Horse](https://en.wikipedia.org/wiki/Pantomime_horse) - some one is the hind quarters
+
+[Bert & Ernie](https://en.wikipedia.org/wiki/Bert_and_Ernie) -  Two Muppets 
+
+[Eric B. & Rakim](https://en.wikipedia.org/wiki/Eric_B._%26_Rakim) - DJ and MC duo, but only one is the G.O.A.T
 
 ### Cargo Cult Enterprise Agile
 
@@ -29,17 +33,17 @@ Often Agile Consultants, on billable engagments, intone that Pair Programming is
 
 If it's that important then what does a Pair Programming working environment look like and why don't they advocate for that?
 
-Mostly it looks like two developers working at a standard sized desk - squeezed armrest to armrest awkardly flailing at the a shared keyboard and mouse controls and then repeated with the other developers squashed ducks in a row - All talking at once.
+Mostly it looks like two developers working at a standard sized desk - squeezed armrest to armrest awkardly flailing at the a shared keyboard and mouse controls and then repeated with the other developers squashed up like ducks in a row - All talking at once.
 
 Peer Programming not Pair Programming
 
-Some kind of Peer programming not necessarily Pair Programming enables the quickest way to stop from making it 
+Some kind of Peer programming not necessarily Pair Programming enables the quickest way to stop defective code from making it into production
 
 Code reviews by nature happen too late in the process.
 
 Earliest possible moment at which to identify/fix code
 One, two or more developers
-Pair Programming can be anaemic. Is it Pilot and Co-pilot? Motorcycle and Sidecar, Pantomime Horse or two bickering developers?
+Pair Programming can be anaemic. Is it Pilot and Co-pilot? Motorcycle and Sidecar, Pantomime Horse or two bickering Muppets?
 Peer Programming is familiar to online gaming. Immediate, get in the zone, headsets - may not even know team-mates.
 Code Reviews
 
