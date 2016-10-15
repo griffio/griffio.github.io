@@ -11,7 +11,7 @@ Often advocacy of Pair Programming is presented as in the naive way of matey pro
 
 The ergonomics of working togther side by side and with open plan spaces are not considered.
 
-Nothing can compensate from knowing what you are producing is being reviewed in real time.
+Nothing can compensate from knowing what you are producing is being reviewed and collaborated on in real time.
 
 Not all modes are equal 
 
@@ -21,7 +21,7 @@ Motorbike and Sidecar - attached passenger
 
 Learner Driver and Instructor - dual controls can override
 
-[Pantomime Horse](https://en.wikipedia.org/wiki/Pantomime_horse) - some one is the hind quarters
+[Pantomime Horse](https://en.wikipedia.org/wiki/Pantomime_horse) - Cooperate and synchronize movements
 
 [Bert & Ernie](https://en.wikipedia.org/wiki/Bert_and_Ernie) -  Two Muppets 
 
