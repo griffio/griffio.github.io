@@ -7,7 +7,7 @@ published: false
 summary: six degrees of pair programming
 ---
 
-Often advocacy of Pair Programming is presented as in the naive way of matey programmers working next to each other all day.
+Often advocacy of Pair Programming is presented as in a quaint style of matey programmers working next to each other all day.
 
 The ergonomics of working togther side by side and with open plan spaces are not considered.
 
