@@ -56,3 +56,4 @@ Resources
 
 https://blog.pivotal.io/labs/labs/ultimate-headphone-pairing
 http://www.hanselman.com/blog/LonelyCoding.aspx
+https://raygun.com/blog/2015/11/how-good-is-pair-programming-really/
