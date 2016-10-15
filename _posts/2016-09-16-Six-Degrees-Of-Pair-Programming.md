@@ -12,11 +12,16 @@ Often the Pair programming is presented as in naive way of matey programmers wor
 The ergonomics of working togther and the rest of the open plan spaces are not considered.
 
 Pilot and Co-Pilot 
+
 Motorbike and Sidecar
+
 Pantomime Horse https://en.wikipedia.org/wiki/Pantomime_horse
-Zippy https://en.wikipedia.org/wiki/Zippy_(Rainbow) & George https://en.wikipedia.org/wiki/George_(Rainbow)
-Bert & Ernie https://en.wikipedia.org/wiki/Bert_and_Ernie
-Eric B. & Rakim https://en.wikipedia.org/wiki/Eric_B._%26_Rakim
+
+[Zippy](https://en.wikipedia.org/wiki/Zippy_(Rainbow)) & [George](https://en.wikipedia.org/wiki/George_(Rainbow))
+
+[Bert & Ernie](https://en.wikipedia.org/wiki/Bert_and_Ernie)
+
+[Eric B. & Rakim](https://en.wikipedia.org/wiki/Eric_B._%26_Rakim)
 
 ### Cargo Cult Enterprise Agile
 
