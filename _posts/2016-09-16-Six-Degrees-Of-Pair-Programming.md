@@ -12,6 +12,7 @@ Often advocacy of Pair Programming is presented as in a quaint style of matey pr
 The ergonomics of working togther side by side and with open plan spaces are not considered.
 
 Nothing can compensate from knowing what you are producing is being reviewed and collaborated on in real time.
+The key is to learn what to program as well as when and why.
 
 Not all modes are equal 
 
