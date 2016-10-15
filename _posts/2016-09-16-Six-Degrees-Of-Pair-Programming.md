@@ -41,7 +41,7 @@ Some kind of Peer programming not necessarily Pair Programming enables the quick
 
 Code reviews by nature happen too late in the process.
 
-Earliest possible moment at which to identify/fix code
+Identify the earliest possible moment at which to identify/fix code.
 One, two or more developers
 Pair Programming can be anaemic. Is it Pilot and Co-pilot? Motorcycle and Sidecar, Pantomime Horse or two bickering Muppets?
 Peer Programming is familiar to online gaming. Immediate, get in the zone, headsets - may not even know team-mates.
