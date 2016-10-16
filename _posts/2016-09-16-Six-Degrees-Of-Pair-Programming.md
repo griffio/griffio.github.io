@@ -24,7 +24,7 @@ Learner Driver and Instructor - dual controls can override
 
 [Pantomime Horse](https://en.wikipedia.org/wiki/Pantomime_horse) - Cooperate and synchronize movements
 
-[Bert & Ernie](https://en.wikipedia.org/wiki/Bert_and_Ernie) -  Two Muppets 
+[Bert & Ernie](https://en.wikipedia.org/wiki/Bert_and_Ernie) -  A pair of inseparable Muppets 
 
 [Eric B. & Rakim](https://en.wikipedia.org/wiki/Eric_B._%26_Rakim) - DJ and MC duo, but only one is the G.O.A.T
 
