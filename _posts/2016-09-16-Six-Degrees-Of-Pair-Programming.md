@@ -54,14 +54,18 @@ Code Reviews
 Should not be the primary means of achieving code quality, knowledge sharing across the code base and across the team.
 We can find and highlight examples of good code even if we are not actively working on same code base
 
-Even staging an intevention and stop code being written at all.
+Anyone should be able to stage an intevention and stop code being written at all.
+
 
 Giving developers the right environment will allow them the latitude to figure it out for themselves - be it Pair Programming or Quad Programming.
 
 **Environment Drives Culture - Culture Drives Brand**
 
-Resources
+---
 
+### Resources
+
+https://medium.com/built-to-adapt/what-its-like-to-pair-for-a-year-86d048494324#.3eeu0k8h7
 https://blog.pivotal.io/labs/labs/ultimate-headphone-pairing
 http://www.hanselman.com/blog/LonelyCoding.aspx
 https://raygun.com/blog/2015/11/how-good-is-pair-programming-really/
