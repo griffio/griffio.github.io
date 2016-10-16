@@ -12,7 +12,10 @@ Often advocacy of Pair Programming is presented as in a quaint style of matey pr
 One of the principles from Agile
 
 ```
-Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done - http://agilemanifesto.org/principles.html
+Build projects around motivated individuals. 
+Give them the environment and support they need,
+and trust them to get the job done.
+- http://agilemanifesto.org/principles.html
 ```
 
 Collabation in developement is quite noisy and should consider placing in a private room where two or more developers can work with less inhibition. There is no point is adopting when the working environment is not fit for purpose.
