@@ -9,6 +9,8 @@ summary: six degrees of pair programming
 
 Often advocacy of Pair Programming is presented as in a quaint style of matey programmers working next to each other all day.
 
+Collabation in developement is quite noisy and should consider placing in a private room where two or more developers can work with less inhibition.
+
 The ergonomics of working togther side by side and with open plan spaces are not considered.
 
 Nothing can compensate from knowing what you are producing is being reviewed and collaborated on in real time.
