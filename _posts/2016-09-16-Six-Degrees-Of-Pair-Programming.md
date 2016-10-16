@@ -22,7 +22,7 @@ Motorbike and Sidecar - attached passenger
 
 Learner Driver and Instructor - dual controls can override
 
-[Pantomime Horse](https://en.wikipedia.org/wiki/Pantomime_horse) - Cooperate and synchronize movements
+[Pantomime Horse](https://en.wikipedia.org/wiki/Pantomime_horse) - A comedic act with cooperating and synchronized movements
 
 [Bert & Ernie](https://en.wikipedia.org/wiki/Bert_and_Ernie) -  A pair of inseparable Muppets 
 
