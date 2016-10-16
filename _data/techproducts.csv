@@ -36,3 +36,4 @@ httpstat,https://github.com/reorx/httpstat,Binary,performance
 now,https://zeit.co/now,NodeJS,website
 figma,https://www.figma.com/,Binary,design
 requestmap,http://requestmap.webperf.tools/,web,performance
+csvkit,https://csvkit.readthedocs.io/en/540/index.html,binary,database
