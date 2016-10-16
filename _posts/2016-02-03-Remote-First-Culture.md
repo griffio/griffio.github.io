@@ -13,7 +13,7 @@ It makes the assumption that team members cannot all be desk-bound and in proxim
 
 When the amount of people communicating exceeds the limits of being in synchronous contact, even when people are located on the same floor of a building, then some sort of distributed communication is happening and paying [the micro-service premium](http://martinfowler.com/bliki/MicroservicePremium.html).
 
-Remote First is the way to describe intentionally how people work when they are near each other, across floors, other locations or at home.
+**Remote First is a way** to describe intentionally how people work when they are near each other, across floors, other locations or at home.
 
 Imagine a new client/customer is launching; emails sent, login access released - action stations. Anyone with a vested interest or need to know should be available on demand - project managers, client managers, infrastructure folks to monitor performance.
 
