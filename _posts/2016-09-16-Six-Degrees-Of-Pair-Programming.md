@@ -9,7 +9,7 @@ summary: six degrees of pair programming
 
 Often advocacy of Pair Programming is presented as in a quaint style of matey programmers working next to each other all day.
 
-Collabation in developement is quite noisy and should consider placing in a private room where two or more developers can work with less inhibition.
+Collabation in developement is quite noisy and should consider placing in a private room where two or more developers can work with less inhibition. There is no point is adopting when the working environment is not fit for purpose.
 
 The ergonomics of working togther side by side and with open plan spaces are not considered.
 
@@ -58,7 +58,7 @@ Even staging an intevention and stop code being written at all.
 
 Giving developers the right environment will allow them the latitude to figure it out for themselves - be it Pair Programming or Quad Programming.
 
-Environment Drives Culture; Culture Drives Brand
+**Environment Drives Culture - Culture Drives Brand**
 
 Resources
 
