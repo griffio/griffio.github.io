@@ -7,7 +7,9 @@ published: false
 summary: six degrees of pair programming
 ---
 
-Often advocacy of Pair Programming is presented as in a quaint style of matey programmers working next to each other all day.
+![6DOfPP](/public/6dofpp.jpg)
+
+Often the advocacy of Pair Programming is still presented in a quaint style of matey programmers working next to each other all day. 
 
 One of the principles from Agile 
 
@@ -18,7 +20,7 @@ and trust them to get the job done.
 - http://agilemanifesto.org/principles.html
 ```
 
-Collabation in development is quite noisy and should consider placing in a private room where two or more developers can work with less inhibition. There is no point is adopting when the working environment is not fit for purpose.
+Collabation in Software Development is quite noisy and must be a consideration to placing in a private room where two or more developers can work with less inhibition. There is no point is adopting when the working environment is not fit for purpose.
 
 The ergonomics of working togther side by side and with open plan spaces are not considered.
 
