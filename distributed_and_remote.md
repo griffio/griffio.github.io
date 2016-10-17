@@ -172,3 +172,5 @@ https://sourcediving.com/remote-and-distributed-engineering-dc6f3cf6e44#.jkqpwad
 
 http://bootstrappedweb.com/updates-dev-process-mrr-milestones-remote-vs-office/
 
+https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/
+
