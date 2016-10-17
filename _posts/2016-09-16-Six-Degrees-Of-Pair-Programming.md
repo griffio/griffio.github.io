@@ -75,7 +75,11 @@ Giving developers the right environment will allow them the latitude to figure i
 ### Resources
 
 https://medium.com/built-to-adapt/what-its-like-to-pair-for-a-year-86d048494324#.3eeu0k8h7
+
 https://blog.pivotal.io/labs/labs/ultimate-headphone-pairing
+
 http://www.hanselman.com/blog/LonelyCoding.aspx
+
 https://raygun.com/blog/2015/11/how-good-is-pair-programming-really/
+
 http://qz.com/806583/programmers-hate-open-floor-plans/
