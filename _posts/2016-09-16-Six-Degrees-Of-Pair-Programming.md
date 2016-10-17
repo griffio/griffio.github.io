@@ -20,9 +20,9 @@ and trust them to get the job done.
 - http://agilemanifesto.org/principles.html
 ```
 
-Collabation in Software Development is quite noisy and must be a consideration to placing in a private room where two or more developers can work with less inhibition. There is no point is adopting when the working environment is not fit for purpose.
+Collabation in Software Development is quite noisy and there must be a consideration to placement in a private room where two or more developers can work with less inhibition. There is no point in adopting paired positions when the working environment is not fit for that purpose.
 
-The ergonomics of working togther side by side and with open plan spaces are not considered.
+The ergonomics of working togther side by side in open plan spaces are not considered.
 
 Nothing can compensate from knowing what you are producing is being reviewed and collaborated on in real time.
 The key is to learn what to program as well as when and why.
