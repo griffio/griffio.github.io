@@ -27,7 +27,7 @@ The ergonomics of working togther side by side in open plan spaces are not consi
 Nothing can compensate from knowing what you are producing is being reviewed and collaborated on in real time.
 The key is to learn what to program as well as when and why.
 
-Not all modes are equal 
+Not all pairing modes are equal or even desirable :- 
 
 Pilot and Co-Pilot - backup pilot
 
@@ -35,19 +35,19 @@ Motorbike and Sidecar - attached passenger
 
 Learner Driver and Instructor - dual controls can override
 
-[Pantomime Horse](https://en.wikipedia.org/wiki/Pantomime_horse) - A comedic act with cooperating and synchronized movements
+[Pantomime Horse](https://en.wikipedia.org/wiki/Pantomime_horse) - positioned one behind the other, one person acts as the horse's front half, the other forms the hind part
 
 [Bert & Ernie](https://en.wikipedia.org/wiki/Bert_and_Ernie) -  A pair of inseparable Muppets 
 
-[Eric B. & Rakim](https://en.wikipedia.org/wiki/Eric_B._%26_Rakim) - DJ and MC duo, but only one is the G.O.A.T
+[Eric B. & Rakim](https://en.wikipedia.org/wiki/Eric_B._%26_Rakim) - DJ and MC, only one is the G.O.A.T
 
-### Cargo Cult Enterprise Agile
+### Cargo Culting Enterprise Agile
 
 Often Agile Consultants, on billable engagments, intone that Pair Programming is the "most important" aspect of the development cycle.
 
 If it's that important then what does a Pair Programming working environment look like and why don't they advocate for that?
 
-Mostly it looks like two developers working at a standard sized desk - squeezed armrest to armrest awkardly flailing at the a shared keyboard and mouse controls and then repeated with the other developers squashed up like ducks in a row - All talking at once.
+Mostly it looks like two developers working at a standard sized desk - squeezed armrest to armrest awkardly flailing for the  shared keyboard and mouse controls and then repeated across the working space with the other developers squashed up like ducks in a row - All talking at once.
 
 Peer Programming not Pair Programming
 
@@ -64,9 +64,7 @@ Code Reviews
 
 Should not be the primary means of achieving code quality, knowledge sharing across the code base and across the team.
 We can find and highlight examples of good code even if we are not actively working on same code base
-
-Anyone should be able to stage an intevention and stop code being written at all.
-
+Anyone should be able to stage an intervention and stop code being written at all.
 
 Giving developers the right environment will allow them the latitude to figure it out for themselves - be it Pair Programming or Quad Programming.
 
