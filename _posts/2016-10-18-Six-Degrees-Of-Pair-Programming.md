@@ -56,9 +56,9 @@ Some kind of Peer Programming enables the quickest way to stop defective code fr
 
 **Code reviews by nature happen too late** in the process; often cited as the reason for Pairing to start with.
 
-Every organization is a distributed system, identify the earliest possible moment at which to design code.
+Every organization is a distributed system, by identifing the earliest possible moment at which to design code,
 
-We can find and highlight examples of good code even if we are not actively working on same code base.
+we can find and highlight examples of good code even if we are not actively working within the same module.
 
 Peer Programming is familiar to online gaming where it's immediate, headsets on, get in the zone.
 
