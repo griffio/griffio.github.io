@@ -25,9 +25,9 @@ Learner Driver and Instructor - Teacher with dual controls that can override
 
 ### The Cargo Cult of Enterprise Agile
 
-The ritual of Pair Programming is still represented with the quaint assumption of coders being able to work next to each other all day and where the ergonomics of working together side by side in Open Plan spaces are not considered.
+The ritual of Pair Programming is still represented with the quaint assumption of coders being able to work next to each other all day and where the ergonomics of working together side by side in Open Plan spaces are not being considered.
 
-Collaboration in Software Development is quite noisy and there must be a consideration of placement in a private room where two or more developers can work with less inhibition - There is no point in adopting paired positions when the working environment is not fit for that purpose.
+Collaboration in Software Development is quite noisy and there must be a consideration of placement in a private room where two or more developers can work with less inhibition - There is no point in adopting paired positions when the working environment is not adjusted and fitted for that purpose.
 
 One of the principles from the Agile Manifesto :-
 
@@ -39,7 +39,7 @@ and trust them to get the job done.
 ```
 You may have encountered Agile Consultants, on billable engagement, intoning that Pair Programming is the "most important" aspect of the development cycle.
 
-**The working environment is** the most important aspect and sets up opportunities for Peer Programming be it co-located or remotely.
+**The working environment is** the most important aspect and sets up opportunities for Pair Programming be it co-located or remotely.
 
 If it's that important then what does a Pair Programming working environment actually look like and why don't they advocate for that as a prerequisite?
 
