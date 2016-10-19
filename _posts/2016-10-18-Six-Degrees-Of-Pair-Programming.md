@@ -9,7 +9,7 @@ summary: six degrees of pair programming
 
 ![6DOfPP](/public/6dofpp.jpg)
 
-The ritual of Pair Programming is still represented with the quaint assumption of coders being able to work next to each other all day and where the ergonomics of working togther side by side in Open Plan spaces are not considered.
+The ritual of Pair Programming is still represented with the quaint assumption of coders being able to work next to each other all day and where the ergonomics of working together side by side in Open Plan spaces are not considered.
 
 Collabation in Software Development is quite noisy and there must be a consideration of placement in a private room where two or more developers can work with less inhibition - There is no point in adopting paired positions when the working environment is not fit for that purpose.
 
