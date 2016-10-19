@@ -9,7 +9,7 @@ summary: six degrees of pair programming
 
 ![6DOfPP](/public/6dofpp.jpg)
 
-6 examples of real world pairing positions :- 
+**6 different examples** of real world pairing positions :- 
 
 Pilot and Co-Pilot - a monitoring backup pilot can assume command
 
