@@ -9,8 +9,7 @@ summary: six degrees of pair programming
 
 ![6DOfPP](/public/6dofpp.jpg)
 
-The ritual of Pair Programming is still represented in the quaint style of coders working next to each other all day,  
-where the ergonomics of working togther side by side in Open Plan spaces are not considered.
+The ritual of Pair Programming is still represented with the quaint assumption of coders being able to work next to each other all day and where the ergonomics of working togther side by side in Open Plan spaces are not considered.
 
 Collabation in Software Development is quite noisy and there must be a consideration of placement in a private room where two or more developers can work with less inhibition - There is no point in adopting paired positions when the working environment is not fit for that purpose.
 
@@ -22,7 +21,7 @@ Give them the environment and support they need,
 and trust them to get the job done.
 - http://agilemanifesto.org/principles.html
 ```
-It is presented that there is only one kind pairing :- 
+It is still presented that there is only one kind pairing :- 
 
 Pilot and Co-Pilot - a monitoring backup pilot can assume command
 
@@ -40,7 +39,7 @@ Learner Driver and Instructor - dual controls can override
 
 You may have encountered Agile Consultants, on billable engagement, intoning that Pair Programming is the "most important" aspect of the development cycle.
 
-Consultants are parachuted in to complete the box ticking exercise adopting the "myth-dream" of Agile.
+**The working environment** is the most important aspect and sets up opportunties for Peer Programming be it co-located or remotely.
 
 If it's that important then what does a Pair Programming working environment actually look like and why don't they advocate for that as a prerequisite?
 
@@ -51,24 +50,19 @@ noted from The Practices of Extreme Programming - Agile Software Development (Ro
 
 **Peer Programming not Pair Programming**
 
-Developers shouldn't be too worried that they are not Pair Programming to the existing dogma but have a remote working environment. 
-
 We can have the goal that nothing can compensate for knowing what you are producing is being reviewed and collaborated on in real time. The key is to learn what to code as well as when and why.
 
 Some kind of Peer Programming enables the quickest way to stop defective code from making it into production.
 
 Code reviews by nature happen too late in the process; often cited as the reason for Pairing to start with.
 
-Identify the earliest possible moment at which to identify/fix code.
-One, two or more developers
+Every organization is a distributed system, identify the earliest possible moment at which to identify/fix code.
 
-Every organization is a distributed system.
+We can find and highlight examples of good code even if we are not actively working on same code base.
 
 Peer Programming is familiar to online gaming. Immediate, get in the zone, headsets - may not even know team-mates.
 
-Can the primary means of achieving code quality be knowledge sharing across the code base and across the team?
-
-We can find and highlight examples of good code even if we are not actively working on same code base.
+Make the primary means of achieving code quality be knowledge sharing across the code base and across the team.
 
 Giving developers the right environment will allow them the latitude to figure it out for themselves - be it Pair Programming or Quad Programming.
 
