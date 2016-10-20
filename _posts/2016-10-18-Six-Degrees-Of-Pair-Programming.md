@@ -9,7 +9,7 @@ summary: six degrees of pair programming
 
 ![6DOfPP](/public/6dofpp.jpg)
 
-**6 different examples** of real world pairing positions :- 
+**Here are 6 different examples** of real world pairing positions that function as a unit :- 
 
 Pilot and Co-Pilot - a monitoring backup pilot can assume command
 
@@ -43,7 +43,7 @@ You may have encountered Agile Consultants, on billable engagement, intoning tha
 
 If it's that important then what does a Pair Programming working environment actually look like and why don't they advocate for that as a prerequisite?
 
-In reality, it looks like two developers working at a standard sized desk - awkwardly squeezed armrest to armrest, flailing at the shared keyboard and mouse controls; this repeated across the working space with other developers nearby.
+**Space Invaders** - In reality, it looks like two developers working at a standard sized desk - awkwardly squeezed armrest to armrest, flailing at the shared keyboard and mouse controls; this repeated across the working space with other developers nearby.
 
 This open space is supposed to evoke a War-Room with developers communicating "intensely" -
 noted from The Practices of Extreme Programming - Agile Software Development (Robert C Martin)
@@ -81,5 +81,7 @@ Make the primary means of achieving code quality be knowledge sharing across the
 <https://raygun.com/blog/2015/11/how-good-is-pair-programming-really/>
 
 <http://qz.com/806583/programmers-hate-open-floor-plans/>
+
+https://techcrunch.com/2012/03/03/pair-programming-considered-harmful/
 
 <https://openlibrary.org/books/OL9297484M/Agile_Software_Development_Principles_Patterns_and_Practices>
