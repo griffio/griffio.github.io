@@ -58,7 +58,7 @@ Some kind of Peer Programming enables the quickest way to stop defective code fr
 
 Every organization is a distributed system, by identifing the earliest possible moment at which to design code, we can find and highlight examples of good code even if we are not actively working within the same module.
 
-Peer Programming is familiar to online gaming where it's immediate, headsets on, get in the zone.
+Peer Programming is familiar to online gaming where it's immediate, with headsets on, to get in the zone.
 
 Make the primary means of achieving code quality be knowledge sharing across the code base and across the team.
 
@@ -82,6 +82,6 @@ Make the primary means of achieving code quality be knowledge sharing across the
 
 <http://qz.com/806583/programmers-hate-open-floor-plans/>
 
-https://techcrunch.com/2012/03/03/pair-programming-considered-harmful/
+<https://techcrunch.com/2012/03/03/pair-programming-considered-harmful/>
 
 <https://openlibrary.org/books/OL9297484M/Agile_Software_Development_Principles_Patterns_and_Practices>
