@@ -175,3 +175,5 @@ http://bootstrappedweb.com/updates-dev-process-mrr-milestones-remote-vs-office/
 https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/
 
 https://github.com/clef/handbook/blob/master/Employment%20Policies/Working%20Remotely.md
+
+https://www.youtube.com/watch?v=m5SjhU0CGpw
