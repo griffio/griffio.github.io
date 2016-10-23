@@ -76,7 +76,7 @@ Make the primary means of achieving code quality be knowledge sharing across the
 
 <https://pragprog.com/book/jkrp/remote-pairing>
 
-http://www.geekwire.com/2016/just-shut-let-devs-concentrate-programming-expert-advises/
+<http://www.geekwire.com/2016/just-shut-let-devs-concentrate-programming-expert-advises/>
 
 <http://www.hanselman.com/blog/LonelyCoding.aspx>
 
