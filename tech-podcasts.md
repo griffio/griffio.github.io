@@ -12,7 +12,7 @@ id: tech-podcasts
 {% endfor %}
 </section>
 
-(data) (https://github.com/griffio/griffio.github.io/blob/master/_data/techpodcasts.csv)
+[data] (https://github.com/griffio/griffio.github.io/blob/master/_data/techpodcasts.csv)
 
 ### Category
 
