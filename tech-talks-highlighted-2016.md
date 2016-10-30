@@ -47,3 +47,5 @@ https://www.youtube.com/watch?v=ZKYL4M9aJQA - Where the Wild Things Are - Johnny
 https://www.youtube.com/watch?v=mty0RwkPmE8 - The Next Five Years of ClojureScript - David Nolen
 
 https://www.youtube.com/watch?v=_70Yp8KPXH8 - Component Based Style Reuse - Pete Hunt
+
+https://www.youtube.com/watch?v=SWEts0rlezA - Turbolinks 5: I Can’t Believe It’s Not Native! by Sam Stephenson
