@@ -177,3 +177,5 @@ https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/
 https://github.com/clef/handbook/blob/master/Employment%20Policies/Working%20Remotely.md
 
 https://github.com/PixelsCamp/talks/blob/master/remotely-working_fabio_bernardo.md
+
+https://zapier.com/learn/the-ultimate-guide-to-remote-working/
