@@ -20,6 +20,8 @@ Sounds familiar? Your Continuous Integration Server may actually operate like a 
 
 ### Don't break the build 
 
+Many developers and technologists may think to identify as the plucky rebels and not as the technicians sitting at their consoles in front of blinking lights.
+
 Build shaming is not acceptable way of handling build fails - the last straw that breaks the Camel faces the wrath of [Sith](https://en.wikipedia.org/wiki/Sith) like Culture.
 
 Environment Drives Culture - Culture Drives Brand
