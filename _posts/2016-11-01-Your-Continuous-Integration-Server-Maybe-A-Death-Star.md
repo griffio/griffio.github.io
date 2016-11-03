@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Continuous Integration Server Could Be A Death Star"
+title: "Your Continuous Integration Server Could Be A Death Star"
 category: programming
 tags: programming
 published: true 
