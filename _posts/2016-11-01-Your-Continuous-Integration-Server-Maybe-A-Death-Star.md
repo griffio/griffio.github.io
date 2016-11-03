@@ -23,7 +23,7 @@ Many developers and technologists think they identify with the plucky [Rebel All
 
 *Build shaming is not an acceptable* way of handling build fails by calling out, paying fines etc that it creates a cycle of blame culture.
 
-If the success of your engineering project revolves around the use of group think to make team members do the right thing to fix the build, then they clearing don't have the latitude to make improvements by themselves. 
+If the success of your engineering project revolves around the use of group think to make team members do the right thing to fix the build, then they clearly don't have the latitude to make improvements by themselves. 
 
 Like a Death Star that can be defeated by a small defect like a failing test then it is simply too big.
 
