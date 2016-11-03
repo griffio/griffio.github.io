@@ -3,12 +3,11 @@ layout: post
 title: "A Continuous Integration Server Could Be A Death Star"
 category: programming
 tags: programming
-published: false 
+published: true 
 summary: your continuous integration server could be a death star
 ---
 
 ![death-star-ci](/public/death-star-ci.png)
-
 
 ### Death Star CI
 
@@ -20,8 +19,14 @@ Sounds familiar? Your Continuous Integration Server may actually operate like a 
 
 ### Don't break the build 
 
-Many developers and technologists may think to identify as the plucky rebels and not as the technicians sitting at their consoles in front of blinking lights.
+Many developers and technologists think they identify with the plucky [Rebel Alliance](https://en.wikipedia.org/wiki/Rebel_Alliance) and not as the technicians, pictured above, sitting at their consoles in front of blinking lights.
 
-Build shaming is not acceptable way of handling build fails - the last straw that breaks the Camel faces the wrath of [Sith](https://en.wikipedia.org/wiki/Sith) like Culture.
+*Build shaming is not an acceptable* way of handling build fails by calling out, paying fines etc that it creates a cycle of blame culture.
 
-Environment Drives Culture - Culture Drives Brand
+If the success of your engineering project revolves around the use of group think to make team members do the right thing to fix the build, then they clearing don't have the latitude to make improvements by themselves. 
+
+Like a Death Star that can be defeated by a small defect like a failing test then it is simply too big.
+
+The solution isn't to try and keep your Death Star fully operational and on schedule by threating a visit from a [Sith Lord](https://en.wikipedia.org/wiki/Sith). 
+
+**Environment Drives Culture - Culture Drives Brand**
