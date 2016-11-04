@@ -21,7 +21,7 @@ Sounds familiar? Your Continuous Integration Server may actually operate like a 
 
 Many developers and technologists think they identify with the plucky [Rebel Alliance](https://en.wikipedia.org/wiki/Rebel_Alliance) and not as the technicians, pictured above, sitting at their consoles in front of blinking lights.
 
-*Build shaming is not an acceptable* way of handling build fails by calling out, paying fines etc such that it creates a cycle of blame culture.
+**Build shaming is not acceptable** as way of handling build failure by calling out, paying fines etc such that it creates a cycle of blame culture.
 
 If the success of your engineering project revolves around the use of group think to make team members do the right thing to fix the build, then they clearly don't have the latitude to make improvements by themselves. 
 
