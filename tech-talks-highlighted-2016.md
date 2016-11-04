@@ -48,4 +48,8 @@ https://www.youtube.com/watch?v=mty0RwkPmE8 - The Next Five Years of ClojureScri
 
 https://www.youtube.com/watch?v=_70Yp8KPXH8 - Component Based Style Reuse - Pete Hunt
 
-https://www.youtube.com/watch?v=SWEts0rlezA - Turbolinks 5: I Can’t Believe It’s Not Native! by Sam Stephenson
+https://www.youtube.com/watch?v=SWEts0rlezA - Turbolinks 5: I Can’t Believe It’s Not Native! - Sam Stephenson
+
+https://www.youtube.com/watch?v=mDpnc45WwlI - Droidcon NYC 2016 - Kotlin in Production - Christina Lee
+
+
