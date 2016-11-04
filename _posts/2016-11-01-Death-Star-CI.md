@@ -11,7 +11,7 @@ summary: your continuous integration server could be a death star
 
 ### Why your continuous integration server could be a Death Star
 
-The [Death Star](https://en.wikipedia.org/wiki/Death_Star) is a fictional spacecraft and superweapon designed to intimidate and be used asymetically against opponents that cannot repel firepower of that magnitude.
+The [Death Star](https://en.wikipedia.org/wiki/Death_Star) is a fictional spacecraft and superweapon designed to intimidate and be used asymmetrically against opponents that cannot repel firepower of that magnitude.
 
 It is also, a single point of failure that ravenously consumes resources.
 
