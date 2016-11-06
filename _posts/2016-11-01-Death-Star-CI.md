@@ -29,4 +29,6 @@ Like a Death Star that can be defeated by a small defect like a failing test the
 
 The solution isn't to try and keep your Death Star fully operational and on schedule by threatening a visit from a [Sith Lord](https://en.wikipedia.org/wiki/Sith). 
 
+The purpose of a CI system is to prevent unknown problems making it into production - rebellious developers will just find ways of keeping the appearance of the build green.
+
 **Environment Drives Culture - Culture Drives Brand**
