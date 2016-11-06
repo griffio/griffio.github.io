@@ -13,7 +13,7 @@ summary: your continuous integration server could be a death star
 
 The [Death Star](https://en.wikipedia.org/wiki/Death_Star) is a fictional spacecraft and superweapon designed to intimidate and be used asymmetrically against opponents that cannot repel firepower of that magnitude.
 
-It is also, a single point of failure that ravenously consumes resources.
+It is also a single point of failure that ravenously consumes resources.
 
 Sounds familiar? Your Continuous Integration Server may actually operate like a Death Star.
 
