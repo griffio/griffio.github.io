@@ -50,6 +50,6 @@ https://www.youtube.com/watch?v=_70Yp8KPXH8 - Component Based Style Reuse - Pete
 
 https://www.youtube.com/watch?v=SWEts0rlezA - Turbolinks 5: I Can’t Believe It’s Not Native! - Sam Stephenson
 
-https://www.youtube.com/watch?v=mDpnc45WwlI - Droidcon NYC 2016 - Kotlin in Production - Christina Lee
+https://www.youtube.com/watch?v=mDpnc45WwlI - Kotlin in Production - Christina Lee
 
-
+https://youtu.be/pBNaWK-ai-M?list=PLnVy79PaFHMXJha06t6pWfkYcATV4oPvC - A Journey Through MV Wonderland - Florina Muntenescu
