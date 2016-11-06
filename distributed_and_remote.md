@@ -181,3 +181,5 @@ https://github.com/PixelsCamp/talks/blob/master/remotely-working_fabio_bernardo.
 https://zapier.com/learn/the-ultimate-guide-to-remote-working/
 
 https://teleport.org/remote/
+
+https://shift.newco.co/managing-remote-workers-is-different-not-6216ee301f01#.6k1sy2hoi
