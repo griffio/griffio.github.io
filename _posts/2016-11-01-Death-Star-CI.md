@@ -25,7 +25,7 @@ Many developers and technologists think they identify with the plucky [Rebel All
 
 If the success of your engineering project revolves around the use of group think to make team members do the right thing to fix the build, then they clearly don't have the latitude to make improvements by themselves. 
 
-Like a Death Star that can be defeated by a small defect like a failing test then it is simply too big.
+When a Death Star can be defeated by the introduction of a small defect like a failing test - then it is simply too big.
 
 The solution isn't to try and keep your Death Star fully operational and on schedule by threatening a visit from a [Sith Lord](https://en.wikipedia.org/wiki/Sith). 
 
