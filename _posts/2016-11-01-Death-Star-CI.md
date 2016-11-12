@@ -19,7 +19,7 @@ Sounds familiar? Your Continuous Integration Server may actually operate like a 
 
 ### Don't break the build 
 
-Many developers and technologists think they identify with the plucky [Rebel Alliance](https://en.wikipedia.org/wiki/Rebel_Alliance) and not as the technicians, pictured above, sitting at their consoles in front of blinking lights.
+Many developers and technologists think they would identify as members of the plucky [Rebel Alliance](https://en.wikipedia.org/wiki/Rebel_Alliance), instead they behave more like the Imperial technicians, pictured above, sitting at their consoles in front of blinking lights.
 
 **Build shaming is not acceptable** as way of handling build failure by calling out, paying fines etc such that it creates a cycle of blame culture.
 
