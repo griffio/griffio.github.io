@@ -40,3 +40,4 @@ csvkit,https://csvkit.readthedocs.io/en/540/index.html,binary,database
 dokku,https://github.com/dokku,hosted,paas
 packetbeat,https://www.elastic.co/downloads/beats/packetbeat,binary,dataviz
 craftcms,https://craftcms.com/,binary,database
+skyliner,https://www.skyliner.io,hosted,cloud
