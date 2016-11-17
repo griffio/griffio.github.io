@@ -187,3 +187,5 @@ https://shift.newco.co/managing-remote-workers-is-different-not-6216ee301f01#.6k
 https://www.fastcompany.com/3034286/the-future-of-work/will-half-of-people-be-working-remotely-by-2020
 
 https://medium.com/appaloosa-store-engineering/our-jump-into-a-remote-friendly-team-6af2fa8b7d6#.tngynqhh2
+
+http://blog.trello.com/company-remote-work-myths
