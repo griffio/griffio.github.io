@@ -189,3 +189,6 @@ https://www.fastcompany.com/3034286/the-future-of-work/will-half-of-people-be-wo
 https://medium.com/appaloosa-store-engineering/our-jump-into-a-remote-friendly-team-6af2fa8b7d6#.tngynqhh2
 
 http://blog.trello.com/company-remote-work-myths
+
+http://blog.cognitect.com/blog/2016/11/14/works-on-my-machine-how-we-work-distributed
+
