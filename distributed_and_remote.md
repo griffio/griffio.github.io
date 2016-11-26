@@ -192,3 +192,4 @@ http://blog.trello.com/company-remote-work-myths
 
 http://blog.cognitect.com/blog/2016/11/14/works-on-my-machine-how-we-work-distributed
 
+https://www.groovehq.com/blog/a-remote-culture-to-be-grateful-for
