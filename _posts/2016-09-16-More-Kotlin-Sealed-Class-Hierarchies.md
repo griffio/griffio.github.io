@@ -37,7 +37,7 @@ fun ForceAllegiance.asString() = when (this) {
 
 Not to be confused with [Abstract Data Types](https://en.wikipedia.org/wiki/Abstract_data_type) that occur in Java as encapsulated value types like "ZipCode".
 
-Instead, sealed classes are [Algebraic Data Types](https://en.wikipedia.org/wiki/Algebraic_data_type) allowing us to count the members of a type and manipulate a single data type as several kinds of "things".
+Instead, sealed classes are [Algebraic Data Types](https://en.wikipedia.org/wiki/Algebraic_data_type) allowing us to count the members of a type and manipulate a single data type as several kinds of "things". The structure of code follows the structure of the data. In the above example, we can say that ForceAllegiance "has a" Jedi and Sith, ForceAllegiance is either Jedi or Sith.
 
 **Note**: In Kotlin 1.1 there exists a proposal to extend sealed classes for use with [data class inheritance](https://github.com/Kotlin/KEEP/blob/master/proposals/data-class-inheritance.md).
 
