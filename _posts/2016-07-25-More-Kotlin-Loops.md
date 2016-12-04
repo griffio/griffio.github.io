@@ -38,7 +38,7 @@ for (i in 99 downTo 0) {
 skipping a progression is supported with the step parameter
 
 ``` kotlin
-for (i in 100 downTo 0 step 10) {
+for (i in 99 downTo 0 step 10) {
   println(i)
 }
 ```
