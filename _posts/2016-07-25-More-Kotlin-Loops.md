@@ -17,7 +17,7 @@ for (int i=0; i<100; i++) {
 }
 ```
 
-Instead, **for** works on extensible expressions that return an iterator() and implement next(), hasNext() methods.
+Instead, **for** works on extensible expressions that return an [iterator](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-iterator/index.html) and implement next(), hasNext() methods.
 
 Below, the expression "0..99" is an iterable [IntProgression](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.ranges/-int-progression/) :-
 
@@ -27,13 +27,22 @@ for (i in 0..99) {
 }
 ```
 
-less often needed, a reverse progression can be applied with ```(0..99).reversed()``` or :-
+less often needed, a reverse progression can be applied with ```(0..99).reversed()``` or
 
 ``` kotlin
 for (i in 99 downTo 0) {
   println(i)
 }
 ```
+
+skipping a progression is supported with the step parameter
+
+``` kotlin
+for (i in 100 downTo 0 step 10) {
+  println(i)
+}
+```
+
 ---
 
 The Kotlin core library [repeat](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html) function implementation is a **for** wrapper that provides a zero-based iteration index:
