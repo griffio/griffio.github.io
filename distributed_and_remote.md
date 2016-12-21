@@ -195,3 +195,5 @@ http://blog.cognitect.com/blog/2016/11/14/works-on-my-machine-how-we-work-distri
 https://www.groovehq.com/blog/a-remote-culture-to-be-grateful-for
 
 https://remote.co/qa-leading-remote-companies/
+
+https://medium.com/@yanismydj/why-i-only-work-remotely-2e5eb07ae28f#.b2yiyotyv
