@@ -62,3 +62,5 @@ summary: highlighted tech talks 2016
 [https://youtu.be/pBNaWK-ai-M?list=PLnVy79PaFHMXJha06t6pWfkYcATV4oPvC](A Journey Through MV Wonderland) - Florina Muntenescu
 
 [https://www.youtube.com/watch?v=wewAC5X_CZ8](Engineer/Artist) - Jenn Schiffer
+
+[https://www.youtube.com/watch?v=buPPGxOnBnk](Proto REPL, a New Clojure Development and Visualization Tool) - Jason Gilman
