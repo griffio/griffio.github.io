@@ -54,4 +54,6 @@ https://www.youtube.com/watch?v=mDpnc45WwlI - Kotlin in Production - Christina L
 
 https://youtu.be/pBNaWK-ai-M?list=PLnVy79PaFHMXJha06t6pWfkYcATV4oPvC - A Journey Through MV Wonderland - Florina Muntenescu
 
+https://www.youtube.com/watch?v=Rlu-X5AqWXw Clojure Spec - David Nolen
+
 https://www.youtube.com/watch?v=wewAC5X_CZ8 - Engineer/Artist - Jenn Schiffer
