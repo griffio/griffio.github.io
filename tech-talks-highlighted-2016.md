@@ -57,3 +57,6 @@ https://youtu.be/pBNaWK-ai-M?list=PLnVy79PaFHMXJha06t6pWfkYcATV4oPvC - A Journey
 https://www.youtube.com/watch?v=Rlu-X5AqWXw Clojure Spec - David Nolen
 
 https://www.youtube.com/watch?v=wewAC5X_CZ8 - Engineer/Artist - Jenn Schiffer
+
+https://www.youtube.com/watch?v=buPPGxOnBnk Proto REPL, a New Clojure Development and Visualization Tool - Jason Gilman
+
