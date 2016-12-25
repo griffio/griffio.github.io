@@ -7,9 +7,7 @@ published: true
 summary: highlighted tech talks 2016
 ---
 
-[We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) - Hunter Loftis 
-
-[https://vimeo.com/151465912](Flexible Systems The Power of Generic Operations) - Gerald Jay Sussman 
+[Flexible Systems The Power of Generic Operations](https://vimeo.com/151465912) - Gerald Jay Sussman 
 
 [https://www.youtube.com/watch?v=UsuzhTlccRk](The Journey of Android Engineers: Redux-ing UI Bugs) - Christina Lee
 
