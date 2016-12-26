@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Tech talk highlights 2016
-category: java
-tags: conference tech
+category: techtalks
+tags: talks video
 published: true 
 summary: highlighted tech talks 2016
 ---
