@@ -35,7 +35,7 @@ summary: highlighted tech talks 2016
 
 [Elixir Is Neat But What Can You Actually Do With It?](https://vimeo.com/171317253) - Rob Conery
 
-[HTTP/2, Totally Tooling Tips](https://www.youtube.com/watch?v=qx9tHwhjkHs) - Fixme
+[HTTP/2, Totally Tooling Tips](https://www.youtube.com/watch?v=qx9tHwhjkHs) - Google Chrome Developers
 
 [Adventures in Parametric Polymorphism](https://www.youtube.com/watch?v=Tc9vs_HFHVo) - Brian Goetz
 
