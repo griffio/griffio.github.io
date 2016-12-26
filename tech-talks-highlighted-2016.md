@@ -60,3 +60,17 @@ https://www.youtube.com/watch?v=wewAC5X_CZ8 - Engineer/Artist - Jenn Schiffer
 
 https://www.youtube.com/watch?v=buPPGxOnBnk Proto REPL, a New Clojure Development and Visualization Tool - Jason Gilman
 
+<div class="related">
+  <h2>Previous Years</h2>
+  <ul class="related-posts">
+    {% for post in site.categories[page.category] %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
