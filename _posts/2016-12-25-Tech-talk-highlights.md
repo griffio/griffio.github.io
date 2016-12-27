@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Tech talk highlights 2016
-category: techtalks
-tags: talks video
+category: blog
+tags: techtalks 
 published: true 
 summary: highlighted tech talks 2016
 ---
@@ -62,3 +62,5 @@ summary: highlighted tech talks 2016
 [Engineer/Artist](https://www.youtube.com/watch?v=wewAC5X_CZ8) - Jenn Schiffer
 
 [Proto REPL, a New Clojure Development and Visualization Tool](https://www.youtube.com/watch?v=buPPGxOnBnk) - Jason Gilman
+
+{% include annual_techtalks.html %}

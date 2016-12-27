@@ -1,0 +1,13 @@
+<div class="related">
+<h2>Previous Years</h2>
+<ul class="related-posts">
+{% for post in site.tags.techtalks offset:1 %}
+<h3>
+<a href="{{ post.url }}">
+{{ post.title }}
+</a>
+</h3>
+</li>
+{% endfor %}
+</ul>
+</div>

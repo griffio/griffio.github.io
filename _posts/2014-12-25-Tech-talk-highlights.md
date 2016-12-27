@@ -2,7 +2,7 @@
 layout: post
 title: Tech talk highlights 2014
 category: techtalks
-tags: talks video
+tags: techtalks
 published: true
 summary: highlighted tech talks 2014
 ---
