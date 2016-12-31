@@ -199,3 +199,6 @@ https://remote.co/qa-leading-remote-companies/
 https://medium.com/@yanismydj/why-i-only-work-remotely-2e5eb07ae28f#.b2yiyotyv
 
 https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
+
+https://bitquabit.com/post/working-remotely-coworking-and-mental-health/
+
