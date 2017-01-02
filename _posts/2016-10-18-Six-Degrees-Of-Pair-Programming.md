@@ -84,6 +84,8 @@ Make the primary means of achieving code quality be knowledge sharing across the
 
 <http://qz.com/806583/programmers-hate-open-floor-plans/>
 
+https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
+
 <https://techcrunch.com/2012/03/03/pair-programming-considered-harmful/>
 
 <https://openlibrary.org/books/OL9297484M/Agile_Software_Development_Principles_Patterns_and_Practices>
