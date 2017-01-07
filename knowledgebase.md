@@ -197,8 +197,11 @@ Teams can evolve faster than the parent organisation.
 Software is structured so that it's easier to delete code safely.
 
 ### Scrum
+
 Industrialised software process - not about creative thought - continual grind
+
 Harmful to people https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
+
 Box ticking for corporate enterprise cultures that cannot adopt a people first culture
 
 #### TDD (Test Driven Design/Development)
