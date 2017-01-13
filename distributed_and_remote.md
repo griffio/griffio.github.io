@@ -203,3 +203,5 @@ https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-a
 https://bitquabit.com/post/working-remotely-coworking-and-mental-health/
 
 https://medium.com/@jobv/how-to-work-remotely-with-150-people-89741118418c#.7nsara50s
+
+http://blog.davidtate.org/2017/01/remote-work-is-not-a-perk/
