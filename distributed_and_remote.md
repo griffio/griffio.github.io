@@ -205,3 +205,5 @@ https://bitquabit.com/post/working-remotely-coworking-and-mental-health/
 https://medium.com/@jobv/how-to-work-remotely-with-150-people-89741118418c#.7nsara50s
 
 http://blog.davidtate.org/2017/01/remote-work-is-not-a-perk/
+
+https://engineering.audiense.com/remote-working-from-spain-for-a-london-based-company-578cf510b84c
