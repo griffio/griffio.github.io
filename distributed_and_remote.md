@@ -207,3 +207,5 @@ https://medium.com/@jobv/how-to-work-remotely-with-150-people-89741118418c#.7nsa
 http://blog.davidtate.org/2017/01/remote-work-is-not-a-perk/
 
 https://engineering.audiense.com/remote-working-from-spain-for-a-london-based-company-578cf510b84c
+
+https://www.quora.com/What-are-some-of-the-biggest-challenges-remote-teams-face-in-2017-and-what-solutions-are-available?utm_content=buffer4da78&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
