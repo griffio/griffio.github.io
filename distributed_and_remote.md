@@ -209,3 +209,5 @@ http://blog.davidtate.org/2017/01/remote-work-is-not-a-perk/
 https://engineering.audiense.com/remote-working-from-spain-for-a-london-based-company-578cf510b84c
 
 https://www.quora.com/What-are-some-of-the-biggest-challenges-remote-teams-face-in-2017-and-what-solutions-are-available?utm_content=buffer4da78&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+https://medium.com/the-making-of-appear-in/everyone-should-be-location-independent-even-if-they-never-plan-to-travel-or-relocate-1b965f7f0f23#.duyb1l5di
