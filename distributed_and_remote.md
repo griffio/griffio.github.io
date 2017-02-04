@@ -211,3 +211,5 @@ https://engineering.audiense.com/remote-working-from-spain-for-a-london-based-co
 https://www.quora.com/What-are-some-of-the-biggest-challenges-remote-teams-face-in-2017-and-what-solutions-are-available?utm_content=buffer4da78&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 https://medium.com/the-making-of-appear-in/everyone-should-be-location-independent-even-if-they-never-plan-to-travel-or-relocate-1b965f7f0f23#.duyb1l5di
+
+http://www.newyorker.com/humor/daily-shouts/i-work-from-home
