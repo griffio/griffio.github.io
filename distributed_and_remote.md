@@ -213,3 +213,6 @@ https://www.quora.com/What-are-some-of-the-biggest-challenges-remote-teams-face-
 https://medium.com/the-making-of-appear-in/everyone-should-be-location-independent-even-if-they-never-plan-to-travel-or-relocate-1b965f7f0f23#.duyb1l5di
 
 http://www.newyorker.com/humor/daily-shouts/i-work-from-home
+
+https://auth0.com/blog/21-tips-for-remote-working/
+
