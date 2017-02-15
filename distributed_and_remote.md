@@ -216,3 +216,4 @@ http://www.newyorker.com/humor/daily-shouts/i-work-from-home
 
 https://auth0.com/blog/21-tips-for-remote-working/
 
+https://techbeacon.com/remote-vs-office-software-teams-which-better
