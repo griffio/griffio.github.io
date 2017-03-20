@@ -221,3 +221,5 @@ https://techbeacon.com/remote-vs-office-software-teams-which-better
 https://www.theregister.co.uk/2017/02/08/ibm_no_more_telecommuting/
 
 https://medium.com/@pankowecki/effective-async-communication-d0aec44eb8aa#.x99zfb687
+
+https://codewithoutrules.com/2017/03/20/open-floor-plan/
