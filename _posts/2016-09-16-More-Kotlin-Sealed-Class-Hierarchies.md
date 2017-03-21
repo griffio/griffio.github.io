@@ -39,12 +39,12 @@ Not to be confused with [Abstract Data Types](https://en.wikipedia.org/wiki/Abst
 
 Instead, sealed classes are [Algebraic Data Types](https://en.wikipedia.org/wiki/Algebraic_data_type) allowing us to count the members of a type and manipulate a single data type as several kinds of "things". The structure of code follows the structure of the data. In the above example, we can say that ForceAllegiance "has a" Jedi and Sith, ForceAllegiance is either Jedi or Sith.
 
-**Note**: In Kotlin 1.1 there exists a proposal to extend sealed classes for use with [data class inheritance](https://github.com/Kotlin/KEEP/blob/master/proposals/data-class-inheritance.md).
+**Note**: In Kotlin 1.1 sealed classes can be used with [data class inheritance](https://github.com/Kotlin/KEEP/blob/master/proposals/data-class-inheritance.md).
 
 ---
 
 Here is a more elaborate version of *FizzBuzz* where type safety is provided with Sealed Classes for the conditions.
-Inside a companion object, an invoke operator on "T() calls T.invoke()" is used as a factory to create the actual subclass instance.
+Inside a companion object, an invoke operator on "T() calls T.invoke()" is used as a factory to create the actual subclass instance. Updated for Kotlin 1.1 changes mod -> rem, data classes inheritance from sealed classes 
 
 <script src="https://gist.github.com/griffio/d84f39bce91898c5ee31df89e5b162e5.js"></script>
 
