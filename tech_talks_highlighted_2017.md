@@ -5,3 +5,5 @@ https://www.youtube.com/watch?v=mT4jJHf929Q - Untangled – Thinking about the G
 https://www.youtube.com/watch?v=QyMsF31NdNc - Breaking Conventions with The Legend of Zelda: Breath of the Wild - Hidemaro Fujibayashi
 
 https://www.youtube.com/watch?v=-osjxoiP4rg&feature=youtu.be - Distributed Programming in Argus - Caitie McCaffrey
+
+https://www.youtube.com/watch?v=AzVr_nsKoZs&feature=youtu.be - Your Perfect Tech Talk - Saron Yitbarek
