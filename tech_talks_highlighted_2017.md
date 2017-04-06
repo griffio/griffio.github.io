@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=QyMsF31NdNc - Breaking Conventions with The Lege
 https://www.youtube.com/watch?v=-osjxoiP4rg&feature=youtu.be - Distributed Programming in Argus - Caitie McCaffrey
 
 https://www.youtube.com/watch?v=AzVr_nsKoZs&feature=youtu.be - Your Perfect Tech Talk - Saron Yitbarek
+
+https://www.youtube.com/watch?v=f7ODZVmXj-4 - The hidden nature of data - Martin Kühl
