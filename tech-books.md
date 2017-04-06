@@ -67,4 +67,5 @@ title: "Software Development Books"
   - Recent text on how to write object-oriented code
 - [Building Hypermedia APIs with HTML5 and Node](https://openlibrary.org/works/OL16604906W/Building_Hypermedia_APIs_with_HTML5_and_Node)
   - Hypermedia driven application concepts and solutions
-
+- [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do)
+  - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
