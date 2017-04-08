@@ -9,3 +9,5 @@ https://www.youtube.com/watch?v=-osjxoiP4rg&feature=youtu.be - Distributed Progr
 https://www.youtube.com/watch?v=AzVr_nsKoZs&feature=youtu.be - Your Perfect Tech Talk - Saron Yitbarek
 
 https://www.youtube.com/watch?v=f7ODZVmXj-4 - The hidden nature of data - Martin Kühl
+
+https://www.youtube.com/watch?v=ZCuYPiUIONs - A Cartoon Intro to Fiber - Lin Clark 
