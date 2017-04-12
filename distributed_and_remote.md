@@ -223,3 +223,5 @@ https://www.theregister.co.uk/2017/02/08/ibm_no_more_telecommuting/
 https://medium.com/@pankowecki/effective-async-communication-d0aec44eb8aa#.x99zfb687
 
 https://codewithoutrules.com/2017/03/20/open-floor-plan/
+
+https://medium.com/@BlairReeves/one-way-big-tech-can-help-bring-america-together-hire-people-where-they-are-d4d16bf2f50f
