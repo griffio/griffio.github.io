@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=ZCuYPiUIONs - A Cartoon Intro to Fiber - Lin Cla
 https://www.youtube.com/watch?v=0IKHxjkgop4 Managing State with RxJava - Jake Wharton
 
 https://www.youtube.com/watch?v=QZy4Yml3LTY John Wiegley - Putting Lenses to Work
+
+https://www.youtube.com/watch?v=hBcVpRFRIqQ Demetri Detsaridis - The Dos and Donts of Game Development Workplace Design (2015)
