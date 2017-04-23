@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=f7ODZVmXj-4 - The hidden nature of data - Martin
 https://www.youtube.com/watch?v=ZCuYPiUIONs - A Cartoon Intro to Fiber - Lin Clark 
 
 https://www.youtube.com/watch?v=0IKHxjkgop4 Managing State with RxJava - Jake Wharton
+
+https://www.youtube.com/watch?v=QZy4Yml3LTY John Wiegley - Putting Lenses to Work
