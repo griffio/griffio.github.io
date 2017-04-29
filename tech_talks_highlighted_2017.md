@@ -19,3 +19,5 @@ https://www.youtube.com/watch?v=QZy4Yml3LTY Putting Lenses to Work - John Wiegle
 https://www.youtube.com/watch?v=hBcVpRFRIqQ The Dos and Donts of Game Development Workplace Design (2015) - Demetri Detsaridis 
 
 https://www.youtube.com/watch?v=a7QpoMj2uIA Kotlin 102 Beyond the basics - Hadi Hariri
+
+https://www.youtube.com/watch?v=0sPzDwS55wM&feature=youtu.be 10 Kotlin Tricks in 10ish minutes - Jake Wharton
