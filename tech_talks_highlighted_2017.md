@@ -23,3 +23,5 @@ https://www.youtube.com/watch?v=a7QpoMj2uIA Kotlin 102 Beyond the basics - Hadi 
 https://www.youtube.com/watch?v=0sPzDwS55wM&feature=youtu.be 10 Kotlin Tricks in 10ish minutes - Jake Wharton
 
 https://www.youtube.com/watch?v=eSaFVX4izsQ Jepsen 7: Anna Concurrenina - Kyle Kingsbury
+
+https://www.youtube.com/watch?v=krMUnH0ySQs Just-Right Consistency: Closing The CAP Gap - Christopher Meiklejohn  
