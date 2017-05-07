@@ -53,3 +53,4 @@ reproducible-builds,https://reproducible-builds.org/tools/,binary,testing
 screwdriver,http://screwdriver.cd/,binary,testing
 insect,https://github.com/sharkdp/insect,repl,dataviz
 jsonbrowse,https://jsonbrowse.com/,web,dataviz
+csspeeper,https://csspeeper.com/,web,css
