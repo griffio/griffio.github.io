@@ -69,3 +69,5 @@ title: "Software Development Books"
   - Hypermedia driven application concepts and solutions
 - [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do)
   - How to manage and how to be managed
+- [Designing Data Intensive Applications](https://www.safaribooksonline.com/library/view/designing-data-intensive-applications/9781491903063/)
+  - Pros and cons of various technologies for processing and storing data. 
