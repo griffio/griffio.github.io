@@ -3,7 +3,7 @@ layout: post
 title: Happy Kotlin Day 
 category: blog
 tags: kotlin
-published: false 
+published: true 
 summary: kotlin official language android
 ---
 
