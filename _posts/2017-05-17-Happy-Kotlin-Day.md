@@ -7,7 +7,7 @@ published: true
 summary: kotlin official language android
 ---
 
-Although Kotlin has been around for a number of years, the last 2 years really kicked off a surge getting Kotlin to 1.0 and beyond.
+Although [Kotlin](https://kotlinlang.org/) has been around for a number of years, the last 2 years really kicked off a surge getting Kotlin to 1.0 and beyond.
 
 With impetus from Swift on IOS, it enabled Kotlin to be promoted as a slick and concise replacement for Java on Android.
 
