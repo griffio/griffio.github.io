@@ -227,3 +227,5 @@ https://codewithoutrules.com/2017/03/20/open-floor-plan/
 https://medium.com/@BlairReeves/one-way-big-tech-can-help-bring-america-together-hire-people-where-they-are-d4d16bf2f50f
 
 https://www.mayerdan.com/tech%20management/2017/04/26/distributed-team-tips
+
+http://www.midnightdba.com/Jen/2017/05/employers-let-people-work-home/
