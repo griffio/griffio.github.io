@@ -25,3 +25,5 @@ https://www.youtube.com/watch?v=0sPzDwS55wM&feature=youtu.be 10 Kotlin Tricks in
 https://www.youtube.com/watch?v=eSaFVX4izsQ Jepsen 7: Anna Concurrenina - Kyle Kingsbury
 
 https://www.youtube.com/watch?v=krMUnH0ySQs Just-Right Consistency: Closing The CAP Gap - Christopher Meiklejohn  
+
+https://www.youtube.com/watch?v=fPzxfeDJDzY Life is Great and Everything Will Be Ok, Kotlin is Here - Christina Lee & Jake Wharton
