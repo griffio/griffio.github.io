@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing Data Intensive Applications
+title: Designing Data Intensive Applications Review
 category: blog
 tags: review
 published: true
