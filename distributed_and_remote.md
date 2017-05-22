@@ -229,3 +229,5 @@ https://medium.com/@BlairReeves/one-way-big-tech-can-help-bring-america-together
 https://www.mayerdan.com/tech%20management/2017/04/26/distributed-team-tips
 
 http://www.midnightdba.com/Jen/2017/05/employers-let-people-work-home/
+
+https://www.inc.com/geoffrey-james/science-just-proved-that-open-plan-offices-destroy-productivity.html
