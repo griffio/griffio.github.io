@@ -28,3 +28,5 @@ https://www.youtube.com/watch?v=krMUnH0ySQs Just-Right Consistency: Closing The 
 
 https://www.youtube.com/watch?v=fPzxfeDJDzY Life is Great and Everything Will Be Ok, Kotlin is Here - Christina Lee & Jake Wharton
 https://www.youtube.com/watch?v=p-iiEDtpy6I&feature=youtu.be JavaScript engines: how do they even? - Franziska Hinkelmann 
+
+https://www.youtube.com/watch?v=vY1FQd3l4No Evolution of a Web Application - Raquel Vélez
