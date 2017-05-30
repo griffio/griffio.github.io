@@ -16,6 +16,8 @@ Presented at over 500 pages, in three parts, to cover "The big ideas behind reli
 
 For readers who are front-end developers looking into the streaming data patterns emerging into the UI. 
 
+This book is about the building blocks of data systems and the engineering it requires to provide the three pillars of *Reliability*, *Scalability*, and *Maintainability*.
+
 Journey through a sometimes pessimistic geography :-
 
 Ocean of Distributed data
