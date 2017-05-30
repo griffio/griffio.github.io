@@ -18,7 +18,7 @@ For readers who are front-end developers looking into the streaming data pattern
 
 This book is about the building blocks of data systems and the engineering it requires to provide the three pillars of *Reliability*, *Scalability*, and *Maintainability*.
 
-Journey through a sometimes pessimistic geography :-
+**Journey through** a sometimes pessimistic geography :-
 
 Ocean of Distributed data
 
