@@ -233,3 +233,5 @@ http://www.midnightdba.com/Jen/2017/05/employers-let-people-work-home/
 https://www.inc.com/geoffrey-james/science-just-proved-that-open-plan-offices-destroy-productivity.html
 
 https://logbook.hanno.co/remote-team-feedback/
+
+http://engineering.datadoghq.com/9-ways-to-make-working-remote-work-for-you/
