@@ -235,3 +235,5 @@ https://www.inc.com/geoffrey-james/science-just-proved-that-open-plan-offices-de
 https://logbook.hanno.co/remote-team-feedback/
 
 http://engineering.datadoghq.com/9-ways-to-make-working-remote-work-for-you/
+
+https://www.dailydrip.com/blog/small-drips-of-productivity-for-distributed-teams
