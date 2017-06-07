@@ -31,3 +31,5 @@ https://www.youtube.com/watch?v=fPzxfeDJDzY Life is Great and Everything Will Be
 https://www.youtube.com/watch?v=p-iiEDtpy6I&feature=youtu.be JavaScript engines: how do they even? - Franziska Hinkelmann 
 
 https://www.youtube.com/watch?v=vY1FQd3l4No Evolution of a Web Application - Raquel Vélez
+
+https://www.youtube.com/watch?v=h8MLXbdOyNs A Clear-Eyed Look at Distributed Teams - Glenn Vanderburg & Maria Gutierrez
