@@ -9,6 +9,6 @@ github:         https://github.com/griffio
 name:           griffio
 repo:           https://github.com/griffio/griffio.github.io
 title:          Griffio
-paginate:       31
+paginate:       35
 permalink:      pretty
 version:        1.1.2
