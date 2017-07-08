@@ -24,7 +24,9 @@ The data access pattens presented are relevant for readers who are front-end dev
 
 This book is about the building blocks of data systems and the engineering it requires to provide the three pillars of *Reliability*, *Scalability*, and *Maintainability*.
 
-**Journey through** a sometimes pessimistic geography :-
+Distributed computing is most successful where failure is modelled as a first class concept for reliability.
+
+Reading the book is a **journey through** a sometimes pessimistic geography :-
 
 Ocean of Distributed data
 
