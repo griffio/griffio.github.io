@@ -14,9 +14,9 @@ This is a reference to the first printed edition from March 2017.
 
 Presented at over 500 pages, in three parts, to cover "The big ideas behind reliable, scalable, and maintainable systems".
 
-The "big ideas" here are taken from the last 30 years consolidated in Document based, Graph, Relational and Key Value storage systems.
+The **big ideas** here are taken from the last 30 years consolidated in Document based, Graph, Relational and Key Value storage systems.
 
-The recurring idea is that for any given problem there are several solutions, for example, in memory or disk based storage.
+**The recurring idea** is that for any given problem there are several solutions, for example, in memory or disk based storage.
 
 We can expect hybrid solutions that take on the characteristics of more than one model.
 
@@ -26,7 +26,7 @@ This book is about the building blocks of data systems and the engineering it re
 
 Distributed computing is most successful where failure is modelled as a first class concept for reliability.
 
-Reading the book is a **journey through** a sometimes pessimistic geography :-
+Reading the book is a **journey through** a sometimes pessimistic geography presented as illustrations in the chapters :-
 
 Ocean of Distributed data
 
