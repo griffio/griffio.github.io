@@ -35,3 +35,6 @@ https://www.youtube.com/watch?v=vY1FQd3l4No Evolution of a Web Application - Raq
 https://www.youtube.com/watch?v=h8MLXbdOyNs A Clear-Eyed Look at Distributed Teams - Glenn Vanderburg & Maria Gutierrez
 
 https://www.youtube.com/watch?v=-yTeXCY3iM0 ChefConf 2017 Keynote - Kelsey Hightower
+
+https://www.youtube.com/watch?v=lTL4TflgEWc Building a Company on Scala - Dag Liodden
+
