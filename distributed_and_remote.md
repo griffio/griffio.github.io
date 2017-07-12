@@ -239,3 +239,5 @@ http://engineering.datadoghq.com/9-ways-to-make-working-remote-work-for-you/
 https://www.dailydrip.com/blog/small-drips-of-productivity-for-distributed-teams
 
 https://qz.com/891537/if-you-dont-trust-your-employees-to-work-remotely-you-shouldnt-have-hired-them-in-the-first-place
+
+https://www.stephaniemorillo.co/single-post/2017/05/25/What-Remote-Work-Has-Taught-Me-About-Communication
