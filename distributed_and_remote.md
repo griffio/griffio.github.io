@@ -241,3 +241,5 @@ https://www.dailydrip.com/blog/small-drips-of-productivity-for-distributed-teams
 https://qz.com/891537/if-you-dont-trust-your-employees-to-work-remotely-you-shouldnt-have-hired-them-in-the-first-place
 
 https://www.stephaniemorillo.co/single-post/2017/05/25/What-Remote-Work-Has-Taught-Me-About-Communication
+
+https://www.inc.com/geoffrey-james/working-from-home-makes-you-happier-less-likely-to.html
