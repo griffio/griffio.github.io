@@ -38,3 +38,4 @@ https://www.youtube.com/watch?v=-yTeXCY3iM0 ChefConf 2017 Keynote - Kelsey Hight
 
 https://www.youtube.com/watch?v=lTL4TflgEWc Building a Company on Scala - Dag Liodden
 
+https://www.youtube.com/watch?v=XAU5q-biY28&list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&index=12 Building and Scaling a Distributed and Inclusive Team – Mathias Meyer
