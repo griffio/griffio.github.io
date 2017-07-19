@@ -9,7 +9,7 @@ summary: kotlin loops
 
 ### [Kotlin for-loops](https://kotlinlang.org/docs/reference/control-flow.html#for-loops)
 
-Normally when encountering a new language the first point of interest is looking at the looping, repeating syntax - a common question is why Kotlin doesn’t support the traditional **for-loop** structure below:
+When encountering a new language the first point of interest is looking at the looping, repeating syntax. A common question is - Why doesn’t Kotlin support the traditional **for-loop** structure that we know already?
 
 ``` java
 for (int i=0; i<100; i++) {
@@ -17,7 +17,7 @@ for (int i=0; i<100; i++) {
 }
 ```
 
-Instead, **for** works on extensible expressions that return an [iterator](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-iterator/index.html) and implement next(), hasNext() methods.
+The reason - **for** is designed, instead, to be idiomatic with Kotlin as it works on extensible expressions that return an [iterator](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-iterator/index.html) and implement next(), hasNext() methods.
 
 Below, the expression "0..99" is an iterable [IntProgression](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.ranges/-int-progression/) :-
 
