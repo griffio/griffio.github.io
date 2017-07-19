@@ -17,7 +17,7 @@ for (int i=0; i<100; i++) {
 }
 ```
 
-The reason - **for** is designed, instead, to be idiomatic with Kotlin as it works on extensible expressions that return an [iterator](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-iterator/index.html) and implement next(), hasNext() methods.
+The reason - **for** is designed, instead, to be idiomatic or native with the Kotlin language as it works on extensible expressions that return an [iterator](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-iterator/index.html) and implement next(), hasNext() methods.
 
 Below, the expression "0..99" is an iterable [IntProgression](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.ranges/-int-progression/) :-
 
