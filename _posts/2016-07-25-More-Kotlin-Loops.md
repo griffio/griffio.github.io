@@ -17,7 +17,7 @@ for (int i=0; i<100; i++) {
 }
 ```
 
-The reason - **for** is designed, instead, to be idiomatic or native with the Kotlin language as it works on extensible expressions that return an [iterator](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-iterator/index.html) and implement next(), hasNext() methods.
+The reason **for** is designed, instead, to be idiomatic or native with the Kotlin language as it works on extensible expressions that return an [iterator](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-iterator/index.html) and implement next(), hasNext() methods.
 
 Below, the expression "0..99" is an iterable [IntProgression](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.ranges/-int-progression/) :-
 
@@ -43,6 +43,13 @@ for (i in 99 downTo 0 step 10) {
 }
 ```
 
+using the progression Iterable for filtering each element 
+
+``` kotlin
+for (i in (1..99).filter { it > 50 }) {
+  println(i)
+}
+```
 ---
 
 The Kotlin core library [repeat](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html) function implementation is a **for** wrapper that provides a zero-based iteration index:
