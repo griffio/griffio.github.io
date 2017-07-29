@@ -41,3 +41,7 @@ https://www.youtube.com/watch?v=lTL4TflgEWc Building a Company on Scala - Dag Li
 https://www.youtube.com/watch?v=XAU5q-biY28&list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&index=12 Building and Scaling a Distributed and Inclusive Team – Mathias Meyer
 
 https://vimeo.com/215516793 Cargo Cult Agile — Émilie Esposito
+
+https://www.youtube.com/watch?v=KBZlN0izeiY&feature=youtu.be GopherCon 2017:Understanding Channels - Kavya Joshi
+
+
