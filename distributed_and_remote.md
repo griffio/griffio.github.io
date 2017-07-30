@@ -243,3 +243,6 @@ https://qz.com/891537/if-you-dont-trust-your-employees-to-work-remotely-you-shou
 https://www.stephaniemorillo.co/single-post/2017/05/25/What-Remote-Work-Has-Taught-Me-About-Communication
 
 https://www.inc.com/geoffrey-james/working-from-home-makes-you-happier-less-likely-to.html
+
+https://www.bloomberg.com/view/articles/2017-06-29/remote-work-is-not-about-avoiding-the-commute
+
