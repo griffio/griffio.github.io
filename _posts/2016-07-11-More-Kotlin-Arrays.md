@@ -30,7 +30,7 @@ Kotlin, for example, defining ```Array<Int>``` is still compiled down to a Java 
 
 ---
 
-Kotlin currently doesn't support any array literal ```[]={1,2,3}``` initialisation and we must use explicit construction when building, for example, n-dimensional arrays
+Kotlin currently doesn't support any array literal ```[]={1,2,3}``` initialisation and we must use explicit construction when building, for example, n-dimensional arrays. Below is a 2d array of int.
 
 <script src="https://gist.github.com/griffio/ac6386d41298be68e8768ec2a3f7dc80.js"></script>
 
