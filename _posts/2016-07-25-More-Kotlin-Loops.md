@@ -52,6 +52,18 @@ for (i in (1..99).filter { it > 50 }) {
 ```
 ---
 
+Library support
+
+Another way to express a range that excludes the end value has the starting value in a **for** can use the [until](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.ranges/until.html
+) infix method :
+
+``` kotlin
+for (i in 0 until 100) {
+  // 0..99
+  println(i)
+}
+```
+
 The Kotlin core library [repeat](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html) function implementation is a **for** wrapper that provides a zero-based iteration index:
 
 ``` kotlin 
