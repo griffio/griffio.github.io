@@ -54,7 +54,7 @@ for (i in (1..99).filter { it > 50 }) {
 
 Library support
 
-A way to express a range that excludes the end value has the starting value in a **for** use the [until](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.ranges/until.html
+To express a range that excludes the end value, use the [until](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.ranges/until.html
 ) infix method :
 
 ``` kotlin
