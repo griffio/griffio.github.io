@@ -247,3 +247,5 @@ https://www.inc.com/geoffrey-james/working-from-home-makes-you-happier-less-like
 https://www.bloomberg.com/view/articles/2017-06-29/remote-work-is-not-about-avoiding-the-commute
 
 https://www.gsb.stanford.edu/insights/why-working-home-future-looking-technology
+
+https://m.signalvnoise.com/8-things-remote-ceos-do-differently-115f34dc24b1
