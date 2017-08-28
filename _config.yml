@@ -12,3 +12,10 @@ title:          Griffio
 paginate:       35
 permalink:      pretty
 version:        1.1.2
+defaults:
+  - 
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      
