@@ -45,3 +45,6 @@ https://vimeo.com/215516793 Cargo Cult Agile — Émilie Esposito
 https://www.youtube.com/watch?v=KBZlN0izeiY&feature=youtu.be GopherCon 2017:Understanding Channels - Kavya Joshi
 
 https://www.youtube.com/watch?v=DjZMKKfNVMc Contributing to the Go project - Francesc Campoy
+
+https://www.youtube.com/watch?v=kDF1gKJDq6s - Conquering Elm boilerplate - Jessica Kerr
+
