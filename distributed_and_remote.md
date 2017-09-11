@@ -249,3 +249,5 @@ https://www.bloomberg.com/view/articles/2017-06-29/remote-work-is-not-about-avoi
 https://www.gsb.stanford.edu/insights/why-working-home-future-looking-technology
 
 https://m.signalvnoise.com/8-things-remote-ceos-do-differently-115f34dc24b1
+
+https://medium.com/magnetis-backstage/remote-work-c70021b5d7c6
