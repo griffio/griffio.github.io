@@ -9,7 +9,7 @@ summary: kotlin array
 
 ### [Kotlin Array](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/)
 
-Before looking at Kotlin, as a [background](http://gafter.blogspot.com/2006/11/reified-generics-for-java.html), Java has always supported runtime type checking of Array elements (reified) but cannot support generic parameterized array types at compile time. The desired Java snippet below produces "error: generic array creation" :
+Before looking at Kotlin, as a [background](http://gafter.blogspot.com/2006/11/reified-generics-for-java.html), Java has always supported *runtime* type checking of Array elements (reified) but it cannot support generic parameterized array types at *compile time*. The desired Java snippet below produces "error: generic array creation" :
 
 ~~~ java
 
@@ -21,7 +21,7 @@ public class Arrays<T> {
 
 ~~~
 
-In Java, you must lean on reflection by providing a type class parameter to instantiate the array of type ```clazz: Class<T>```, the difference with Kotlin is that we can use the generic type <T> directly.
+In Java, you must lean on reflection by providing a type class parameter to instantiate the array of type ```clazz: Class<T>```, the difference with Kotlin is that we **can** use the generic type as a <reified T> directly.
 
 [Inline functions](https://kotlinlang.org/docs/reference/inline-functions.html) support reified type parameters to avoid using reflection with class references - the limitation is only type parameters of inlined functions can be reified -
 **All other generic types are erased at runtime**.
