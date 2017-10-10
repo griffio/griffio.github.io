@@ -251,3 +251,5 @@ https://www.gsb.stanford.edu/insights/why-working-home-future-looking-technology
 https://m.signalvnoise.com/8-things-remote-ceos-do-differently-115f34dc24b1
 
 https://medium.com/magnetis-backstage/remote-work-c70021b5d7c6
+
+https://medium.com/initialcommit/why-company-culture-makes-or-breaks-remote-work-59c257ae4673
