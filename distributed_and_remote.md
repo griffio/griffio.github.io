@@ -253,3 +253,5 @@ https://m.signalvnoise.com/8-things-remote-ceos-do-differently-115f34dc24b1
 https://medium.com/magnetis-backstage/remote-work-c70021b5d7c6
 
 https://medium.com/initialcommit/why-company-culture-makes-or-breaks-remote-work-59c257ae4673
+
+https://medium.com/@meganberry/the-complete-guide-to-working-on-a-remote-team-6bb11213e37c
