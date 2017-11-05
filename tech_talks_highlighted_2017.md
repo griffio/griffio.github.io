@@ -51,3 +51,5 @@ https://www.youtube.com/watch?v=kDF1gKJDq6s - Conquering Elm boilerplate - Jessi
 https://www.youtube.com/watch?v=zt0OQb1DBko - A (Not So Gentle) Introduction To Systems Programming In ATS - Aditya Siram
 
 https://vimeo.com/235834357 CQRS + REST - Matt Bishop 
+
+https://www.youtube.com/watch?v=wrJq0boagko - Jest, JSS, React + Web Standards - Various
