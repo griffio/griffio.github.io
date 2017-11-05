@@ -257,3 +257,6 @@ https://medium.com/initialcommit/why-company-culture-makes-or-breaks-remote-work
 https://medium.com/@meganberry/the-complete-guide-to-working-on-a-remote-team-6bb11213e37c
 
 https://www.inc.com/dom-price/why-ending-remote-work-in-name-of-collaboration-is-bs.html
+
+https://increment.com/development/home-is-where-the-work-is/
+
