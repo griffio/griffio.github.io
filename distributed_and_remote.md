@@ -260,3 +260,4 @@ https://www.inc.com/dom-price/why-ending-remote-work-in-name-of-collaboration-is
 
 https://increment.com/development/home-is-where-the-work-is/
 
+https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-toxic-and-some-tips-for-making-it-better-8434864b0ab2
