@@ -53,3 +53,5 @@ https://www.youtube.com/watch?v=zt0OQb1DBko - A (Not So Gentle) Introduction To 
 https://vimeo.com/235834357 CQRS + REST - Matt Bishop 
 
 https://www.youtube.com/watch?v=wrJq0boagko - Jest, JSS, React + Web Standards - Various
+
+https://www.youtube.com/watch?v=NKeHrApPWlo&index=23&list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5 - My Life as a Tech Transfer Monad - Erik Meijer
