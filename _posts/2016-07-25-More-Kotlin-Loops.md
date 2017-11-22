@@ -84,7 +84,7 @@ repeat(times = 5) {
 ---
 When you need the value and index:-
 
-[with-index](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/with-index.html) on collections allocates an iterator object [indexed-value](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-indexed-value/index.html) containing index and value: 
+[with-index](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/with-index.html) on collections allocates an iterator object [IndexedValue](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-indexed-value/index.html) containing index and value: 
 
 ``` kotlin
 for ((index,value) in ('a'..'z').withIndex()) {
