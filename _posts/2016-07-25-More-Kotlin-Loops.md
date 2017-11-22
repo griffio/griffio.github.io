@@ -93,7 +93,7 @@ for ((index,value) in ('a'..'z').withIndex()) {
 }
 ```
 [for-each-indexed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/for-each-indexed.html) on collections provides the index and value without allocating an intermediate IndexValue class:
-```kotlin
+``` kotlin
  ('a'..'z').forEachIndexed { index, value -> println("$index $value") }
 ```
 ---
