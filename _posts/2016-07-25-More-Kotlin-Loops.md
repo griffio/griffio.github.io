@@ -91,7 +91,12 @@ for ((index,value) in ('a'..'z').withIndex()) {
   println("$index $value")
 }
 ```
+The above withIndex will allocate https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-indexed-value/index.html in each iteration. 
 
+[for-each-indexed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/for-each-indexed.html) on collections provides the index and value without allocating an intermediate IndexValue class:
+```kotlin
+ ('a'..'z').forEachIndexed { index, value -> println("$index $value") }
+```
 ---
 
 As the [documentation](https://kotlinlang.org/docs/reference/control-flow.html#for-loops) specifies that **for** operates over anything that provides an iterator.
