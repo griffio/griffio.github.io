@@ -82,8 +82,9 @@ repeat(times = 5) {
 }
 ```
 ---
+When you need the value and index:-
 
-[with-index](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/with-index.html) on collections provides an iterator object containing index and value: 
+[with-index](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/with-index.html) on collections allocates an iterator object https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-indexed-value/index.html containing index and value: 
 
 ``` kotlin
 for ((index,value) in ('a'..'z').withIndex()) {
@@ -91,8 +92,6 @@ for ((index,value) in ('a'..'z').withIndex()) {
   println("$index $value")
 }
 ```
-The above withIndex will allocate https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-indexed-value/index.html in each iteration. 
-
 [for-each-indexed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/for-each-indexed.html) on collections provides the index and value without allocating an intermediate IndexValue class:
 ```kotlin
  ('a'..'z').forEachIndexed { index, value -> println("$index $value") }
