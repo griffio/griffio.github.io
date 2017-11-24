@@ -265,3 +265,5 @@ https://code.likeagirl.io/a-research-roundup-to-show-that-your-office-layout-is-
 https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c
 
 https://hanno.co/playbooks/remote/
+
+https://jakemccrary.com/blog/2017/10/31/a-guide-to-distributed-work/
