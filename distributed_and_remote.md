@@ -267,3 +267,5 @@ https://medium.com/@ummerr/youre-working-in-the-wrong-place-e289036ee01c
 https://hanno.co/playbooks/remote/
 
 https://jakemccrary.com/blog/2017/10/31/a-guide-to-distributed-work/
+
+https://medium.com/@searls/10-rules-54243f9b9aed
