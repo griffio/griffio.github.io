@@ -56,5 +56,7 @@ https://www.youtube.com/watch?v=wrJq0boagko - Jest, JSS, React + Web Standards -
 
 https://www.youtube.com/watch?v=NKeHrApPWlo&index=23&list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5 - My Life as a Tech Transfer Monad - Erik Meijer
 
-
 https://www.youtube.com/watch?v=ruql541T7gc&feature=youtu.be - Efficient, Expressive, and Extensible HTML Templates - Justin Fagnani-Bell,
+
+https://www.youtube.com/watch?v=CaARz49u1Mc&list=PLSzU7snapMVZ4n5s5glQz4Dd_C3572O_2 - Documenting RESTful APIs with Spring REST Docs - Jenn Strater
+
