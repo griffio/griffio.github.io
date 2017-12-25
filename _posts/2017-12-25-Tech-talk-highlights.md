@@ -8,8 +8,7 @@ summary: highlighted tech talks 2017
 ---
 [Zen and the Art of Package Management](https://www.youtube.com/watch?v=Bwk8mdU6-ZY&list=PLgGhdJEbwzoI6sUw_2wTlFHCGPRVoatln&index=12) Yehuda Katz
 
-[Untangled – Thinking about the Graph Database, Views, and Loading]
-(https://www.youtube.com/watch?v=mT4jJHf929Q) Tony Kay
+[Untangled – Thinking about the Graph Database, Views, and Loading](https://www.youtube.com/watch?v=mT4jJHf929Q) Tony Kay
 
 [Breaking Conventions with The Legend of Zelda: Breath of the Wild](https://www.youtube.com/watch?v=QyMsF31NdNc) Hidemaro Fujibayashi
 
@@ -37,7 +36,7 @@ summary: highlighted tech talks 2017
 
 [ChefConf 2017 Keynote](https://www.youtube.com/watch?v=-yTeXCY3iM0) Kelsey Hightower
 
-(https://www.youtube.com/watch?v=XAU5q-biY28&list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&index=12[Building and Scaling a Distributed and Inclusive Team]) Mathias Meyer
+(https://www.youtube.com/watch?v=XAU5q-biY28&list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&index=12)[Building and Scaling a Distributed and Inclusive Team] Mathias Meyer
 
 [Cargo Cult Agile](https://vimeo.com/215516793) Émilie Esposito
 
