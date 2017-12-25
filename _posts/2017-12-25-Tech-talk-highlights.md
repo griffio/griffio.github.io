@@ -6,53 +6,53 @@ tags: techtalks
 published: false 
 summary: highlighted tech talks 2017
 ---
+[Zen and the Art of Package Management](https://www.youtube.com/watch?v=Bwk8mdU6-ZY&list=PLgGhdJEbwzoI6sUw_2wTlFHCGPRVoatln&index=12) Yehuda Katz
 
-[https://www.youtube.com/watch?v=Bwk8mdU6-ZY&list=PLgGhdJEbwzoI6sUw_2wTlFHCGPRVoatln&index=12](Zen and the Art of Package Management) Yehuda Katz
+[Untangled – Thinking about the Graph Database, Views, and Loading]
+(https://www.youtube.com/watch?v=mT4jJHf929Q) Tony Kay
 
-[https://www.youtube.com/watch?v=mT4jJHf929Q](Untangled – Thinking about the Graph Database, Views, and Loading) Tony Kay
+[Breaking Conventions with The Legend of Zelda: Breath of the Wild](https://www.youtube.com/watch?v=QyMsF31NdNc) Hidemaro Fujibayashi
 
-[https://www.youtube.com/watch?v=QyMsF31NdNc](Breaking Conventions with The Legend of Zelda: Breath of the Wild) Hidemaro Fujibayashi
+[Distributed Programming in Argus](https://www.youtube.com/watch?v=-osjxoiP4rg&feature=youtu.be) Caitie McCaffrey
 
-[https://www.youtube.com/watch?v=-osjxoiP4rg&feature=youtu.be](Distributed Programming in Argus) Caitie McCaffrey
+[Your Perfect Tech Talk](https://www.youtube.com/watch?v=AzVr_nsKoZs&feature=youtu.be) Saron Yitbarek
 
-[https://www.youtube.com/watch?v=AzVr_nsKoZs&feature=youtu.be](Your Perfect Tech Talk) Saron Yitbarek
+[The hidden nature of data](https://www.youtube.com/watch?v=f7ODZVmXj-4) Martin Kühl
 
-[https://www.youtube.com/watch?v=f7ODZVmXj-4](The hidden nature of data) Martin Kühl
+[A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) Lin Clark
 
-[https://www.youtube.com/watch?v=ZCuYPiUIONs](A Cartoon Intro to Fiber) Lin Clark
+[The Dos and Donts of Game Development Workplace Design 2015](https://www.youtube.com/watch?v=hBcVpRFRIqQ) Demetri Detsaridis
 
-[https://www.youtube.com/watch?v=hBcVpRFRIqQ](The Dos and Donts of Game Development Workplace Design 2015) Demetri Detsaridis
+[Jepsen 7: Anna Concurrenina](https://www.youtube.com/watch?v=eSaFVX4izsQ) Kyle Kingsbury
 
-[https://www.youtube.com/watch?v=eSaFVX4izsQ](Jepsen 7: Anna Concurrenina) Kyle Kingsbury
+(https://www.youtube.com/watch?v=krMUnH0ySQs)[Just-Right Consistency: Closing The CAP Gap] Christopher Meiklejohn
 
-[https://www.youtube.com/watch?v=krMUnH0ySQs](Just-Right Consistency: Closing The CAP Gap) Christopher Meiklejohn
+[Life is Great and Everything Will Be Ok, Kotlin is Here](https://www.youtube.com/watch?v=fPzxfeDJDzY) Christina Lee & Jake Wharton
 
-[https://www.youtube.com/watch?v=fPzxfeDJDzY Life is Great and Everything Will Be Ok, Kotlin is Here](Christina Lee & Jake Wharton)
+[JavaScript engines: how do they even?](https://www.youtube.com/watch?v=p-iiEDtpy6I&feature=youtu.be) Franziska Hinkelmann
 
-[https://www.youtube.com/watch?v=p-iiEDtpy6I&feature=youtu.be](JavaScript engines: how do they even?) Franziska Hinkelmann
+[Evolution of a Web Application](https://www.youtube.com/watch?v=vY1FQd3l4No) Raquel Vélez
 
-[https://www.youtube.com/watch?v=vY1FQd3l4No](Evolution of a Web Application) Raquel Vélez
+[A Clear-Eyed Look at Distributed Teams](https://www.youtube.com/watch?v=h8MLXbdOyNs) Glenn Vanderburg & Maria Gutierrez
 
-[https://www.youtube.com/watch?v=h8MLXbdOyNs](A Clear-Eyed Look at Distributed Teams) Glenn Vanderburg & Maria Gutierrez
+[ChefConf 2017 Keynote](https://www.youtube.com/watch?v=-yTeXCY3iM0) Kelsey Hightower
 
-[https://www.youtube.com/watch?v=-yTeXCY3iM0](ChefConf 2017 Keynote) Kelsey Hightower
+(https://www.youtube.com/watch?v=XAU5q-biY28&list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&index=12[Building and Scaling a Distributed and Inclusive Team]) Mathias Meyer
 
-[https://www.youtube.com/watch?v=XAU5q-biY28&list=PLBzScQzZ83I81fnpqX2AkYD5c5cKgrqc2&index=12](Building and Scaling a Distributed and Inclusive Team) Mathias Meyer
+[Cargo Cult Agile](https://vimeo.com/215516793) Émilie Esposito
 
-[https://vimeo.com/215516793](Cargo Cult Agile) Émilie Esposito
+[GopherCon 2017:Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY&feature=youtu.be) Kavya Joshi
 
-[https://www.youtube.com/watch?v=KBZlN0izeiY&feature=youtu.be](GopherCon 2017:Understanding Channels) Kavya Joshi
+[Contributing to the Go project](https://www.youtube.com/watch?v=DjZMKKfNVMc) Francesc Campoy
 
-[https://www.youtube.com/watch?v=DjZMKKfNVMc](Contributing to the Go project) Francesc Campoy
+[Conquering Elm boilerplate](https://www.youtube.com/watch?v=kDF1gKJDq6s) Jessica Kerr
 
-[https://www.youtube.com/watch?v=kDF1gKJDq6s](Conquering Elm boilerplate) Jessica Kerr
+[CQRS + REST](https://vimeo.com/235834357) Matt Bishop
 
-[https://vimeo.com/235834357](CQRS + REST) Matt Bishop
+[Jest, JSS, React + Web Standards](https://www.youtube.com/watch?v=wrJq0boagko) Various
 
-[https://www.youtube.com/watch?v=wrJq0boagko](Jest, JSS, React + Web Standards) Various
+[My Life as a Tech Transfer Monad](https://www.youtube.com/watch?v=NKeHrApPWlo&index=23&list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5) Erik Meijer
 
-[https://www.youtube.com/watch?v=NKeHrApPWlo&index=23&list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5](My Life as a Tech Transfer Monad) Erik Meijer
+[Efficient, Expressive, and Extensible HTML Templates](https://www.youtube.com/watch?v=ruql541T7gc&feature=youtu.be) Justin Fagnani-Bell
 
-[https://www.youtube.com/watch?v=ruql541T7gc&feature=youtu.be](Efficient, Expressive, and Extensible HTML Templates) Justin Fagnani-Bell
-
-[https://www.youtube.com/watch?v=CaARz49u1Mc&list=PLSzU7snapMVZ4n5s5glQz4Dd_C3572O_2](Documenting RESTful APIs with Spring REST Docs) Jenn Strater
+[Documenting RESTful APIs with Spring REST Docs](https://www.youtube.com/watch?v=CaARz49u1Mc&list=PLSzU7snapMVZ4n5s5glQz4Dd_C3572O_2) Jenn Strater
