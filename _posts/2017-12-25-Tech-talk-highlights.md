@@ -24,7 +24,7 @@ summary: highlighted tech talks 2017
 
 [Jepsen 7: Anna Concurrenina](https://www.youtube.com/watch?v=eSaFVX4izsQ) Kyle Kingsbury
 
-(https://www.youtube.com/watch?v=krMUnH0ySQs)[Just-Right Consistency: Closing The CAP Gap] Christopher Meiklejohn
+[Just-Right Consistency: Closing The CAP Gap](https://www.youtube.com/watch?v=krMUnH0ySQs) Christopher Meiklejohn
 
 [Life is Great and Everything Will Be Ok, Kotlin is Here](https://www.youtube.com/watch?v=fPzxfeDJDzY) Christina Lee & Jake Wharton
 
