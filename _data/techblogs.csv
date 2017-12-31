@@ -80,7 +80,6 @@ gnip,https://engineering.gnip.com/,gnip,https://careers.twitter.com/en.html," c 
 gocardless,https://gocardless.com/blog/tagged/engineering,gocardless,https://gocardless.com/about#jobs," go html javascript ruby shell"
 godaddy,https://engineering.godaddy.com/,godaddy,http://careers.godaddy.net/jobs/category/software-engineering," c++ css java javascript php python ruby"
 goodeggs,http://bites.goodeggs.com/,goodeggs,http://careers.goodeggs.com/open-positions/,"coffeescript javascript python shell swift"
-gopangea,http://engineering.gopangea.com/,gopangea,https://stackoverflow.com/jobs/companies/pangea-universal-holdings,"c# css python"
 gosquared,https://engineering.gosquared.com/,gosquared,https://www.gosquared.com/careers/,"javascript makefile objective-c php ruby"
 grammarly,http://tech.grammarly.com/blog/index.html,grammarly,https://www.grammarly.com/jobs," clojure go java javascript python ruby shell"
 graze,http://tech.graze.com/,graze,https://www.graze.com/uk/jobs/tech,"c html makefile php python shell"
@@ -242,7 +241,6 @@ trivago,http://tech.trivago.com/,trivago,http://company.trivago.com/careers/tech
 truecar,https://www.drivenbycode.com/,truecar,http://careers.true.com," c++ go hcl javascript jupyter notebook puppet python ruby scala shell"
 trulia,http://www.trulia.com/blog/tech/,trulia,http://www.trulia.com/about/careers,"css html java javascript python r ruby"
 tubemogul,https://www.tubemogul.com/engineering/,tubemogul,https://www.tubemogul.com/opportunities/,"html java javascript ruby"
-tumblbug,https://medium.com/tumblbug-engineering,tumblbug,https://github.com/tumblbug/careers," css javascript ruby"
 tumblr,https://engineering.tumblr.com/#_=_,tumblr,https://www.tumblr.com/jobs," html java javascript objective-c php python ruby scala swift"
 twilio,https://www.twilio.com/engineering,twilio,https://www.twilio.com/company/jobs,"c# coffeescript erlang java javascript objective-c php python ruby swift"
 "twitch tv",https://medium.com/twitch-engineering,twitchtv,http://engineering.twitch.tv/,javascript
@@ -337,7 +335,6 @@ fromAtoB,https://eng.fromatob.com/,fromAtoB,https://fromatob.workable.com/,"html
 signavio,https://tech.signavio.com/,signavio,https://www.signavio.com/jobs/,"css java javascript"
 pusher,https://making.pusher.com/,pusher,https://pusher.com/jobs,"c c# go html java javascript php ruby swift"
 channable,https://tech.channable.com/,channable,https://channable.com/company/jobs/,"javascript python scala"
-yikyak,https://medium.com/yik-yak-eng,yikyakapp,https://www.yikyak.com/jobs,"c++ go"
 solutotlv,https://blog.solutotlv.com/soluto,soluto,https://www.solutotlv.com/join-soluto-engineering,"c# javascript objective-c perl ruby shell"
 talkdesk,https://engineering.talkdesk.com/,talkdesk,https://www.talkdesk.com/jobs/engineering/,"coffeescript elixir erlang ruby shell"
 fundapps,https://gsd.fundapps.io/,fundapps,https://www.fundapps.co/about-us/join-our-team,"go html javascript ruby"
