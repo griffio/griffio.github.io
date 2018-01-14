@@ -32,3 +32,4 @@ A Note on Distributed Computing,http://citeseerx.ist.psu.edu/viewdoc/summary?doi
 Organizational Skills Beat Algorithmic Wizardry,http://prog21.dadgum.com/177.html,"To a great extent the act of coding is one of organization. Refactoring. Simplifying. Figuring out how to remove extraneous manipulations here and there.",programming
 Systems Approaches to Tackling Configuration Errors: A Survey,http://opera.ucsd.edu/paper/csur15-survey.pdf,"In recent years, configuration errors (i.e., misconfigurations) have become one of the dominant causes of
 system failures, resulting in many severe service outages and downtime",engineering
+Monads for functional programming,http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf,"Monads provide a convenient framework for simulating effects found in other languages, such as global state, exception handling, out- put, or non-determinism.",programming
