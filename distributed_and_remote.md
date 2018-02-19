@@ -277,3 +277,5 @@ https://medium.com/@madewulf/the-stress-of-remote-working-38be5bdcf4da
 https://blog.ovalerio.net/archives/1352
 
 https://dev.to/peteranglea/6-months-of-working-remotely-taught-me-a-thing-orten
+
+https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/
