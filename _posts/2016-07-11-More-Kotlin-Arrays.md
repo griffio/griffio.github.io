@@ -5,6 +5,7 @@ category: programming
 tags: kotlin
 published: true
 summary: kotlin array
+runcode: true
 ---
 
 ### [Kotlin Array](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/)
@@ -40,20 +41,22 @@ Kotlin currently doesn't support any array literal ```[]={1,2,3}``` initialisati
 
 The height and width are specified, then each row height and column width index is provided to the Array initialization lambda.
 
-<script src="https://gist.github.com/griffio/0394829a2ec8e1877c7eaa55dce7b6d4.js"></script>
+~~~ kotlin
 
-#### Result
-~~~
+inline fun <reified T> matrix2d(height: Int, width: Int, init: (Int, Int) -> Array<T>) = Array<Array<T>>(height, { row -> init(row, width) })
 
-|00|01|02|03|04|05|06|07|08|09|
-|10|11|12|13|14|15|16|17|18|19|
-|20|21|22|23|24|25|26|27|28|29|
-|30|31|32|33|34|35|36|37|38|39|
-|40|41|42|43|44|45|46|47|48|49|
+fun main(args: Array<String>) {
+  val table = matrix2d(5, 10, { row: Int, width: Int -> Array(width) { col -> "|$row$col" } })
+
+	for (cells in table) {
+	  for (cell in cells) {
+		  print(cell)
+    }
+		  println("|")
+	}
+}
 
 ~~~
 
 [Kotlin spec defines reified type parameters](https://github.com/JetBrains/kotlin/blob/master/spec-docs/reified-type-parameters.md)
-
-
 
