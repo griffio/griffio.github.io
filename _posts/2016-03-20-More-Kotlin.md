@@ -111,8 +111,8 @@ fun main(args: Array<String>) {
 
     val sum = unitPrices.map { it / dailyPrices.size }
 
-    sum.forEachIndexed { i, avgPrice ->
-        print("avg for unit %d is %.2f%n".format(i.plus(1), avgPrice))
+    sum.forEachIndexed {
+        i, avgPrice -> print("avg for unit %d is %.2f%n".format(i.plus(1), avgPrice))
     }
 }
 
