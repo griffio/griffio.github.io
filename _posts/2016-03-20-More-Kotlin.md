@@ -5,7 +5,7 @@ category: programming
 tags: kotlin
 published: true
 summary: more kotlin examples
-coderun: true
+runcode: true
 ---
 
 ### [Kotlin stdlib Zip](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/zip.html)
