@@ -53,7 +53,7 @@ fun main(args: Array<String>) {
 
 #### numbers1.zip.numbers2(n1 > n2) : 5 2 3 4
 
-~~~
+~~~ kotlin
 
 fun main(args: Array<String>) {
 
@@ -72,7 +72,7 @@ fun main(args: Array<String>) {
 
 #### quarterlySales.zip(quarterlySales * quarterlyRate).sum : 3276.77
 
-~~~
+~~~ kotlin
 
 fun main(args: Array<String>) {
 
@@ -91,7 +91,7 @@ fun main(args: Array<String>) {
 
 Average unit price over 3 days : 10.33, 2.67, 13.33, 23.00
 
-~~~
+~~~ kotlin
 
 fun main(args: Array<String>) {
 
