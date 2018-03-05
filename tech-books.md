@@ -71,3 +71,5 @@ title: "Software Development Books"
   - How to manage and how to be managed
 - [Designing Data Intensive Applications](https://www.safaribooksonline.com/library/view/designing-data-intensive-applications/9781491903063/)
   - Pros and cons of various technologies for processing and storing data. 
+- [The Imposters Handbook](https://bigmachine.io/products/the-imposters-handbook)
+  - Core concepts for self-taught developers
