@@ -12,6 +12,7 @@ Some companies with intentional Culture:
 - Compose https://www.compose.io/articles/the-tool-we-built-to-help-us-work-remotely/
 - Etsy https://codeascraft.com/2012/02/13/the-etsy-way/
 - Helpscout https://www.helpscout.net/blog/remote-culture/
+- Hotjar https://hotjar.atlassian.net/wiki/spaces/REC/pages/32256081/Team+Manual
 - Stack Overflow https://blog.stackoverflow.com/company/culture/
 - Thoughtbot http://playbook.thoughtbot.com
 - Gitlab https://about.gitlab.com/handbook
