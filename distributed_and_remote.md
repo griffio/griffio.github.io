@@ -279,3 +279,5 @@ https://blog.ovalerio.net/archives/1352
 https://dev.to/peteranglea/6-months-of-working-remotely-taught-me-a-thing-orten
 
 https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/
+
+https://cambium.consulting/articles/2018/3/23/viva-la-remote-revolucion
