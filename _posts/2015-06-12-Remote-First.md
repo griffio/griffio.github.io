@@ -35,7 +35,7 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 
 * Retention of valuable employees is lost if they choose to relocate out of the area.
 
-* Lack of knowlegde sharing and the assumpution that everyone knows things at the same time.
+* Lack of knowledge sharing and the assumpution that everyone knows things at the same time.
 
 * [Salaries](http://blog.onradpad.com/employees-are-paying-this-much-to-live-next-to-unicorns-in-sf/), [Rents](http://priceonomics.com/the-san-francisco-rent-explosion-part-iii/) and Commuting costs increasing in San Francisco/London make remote working more rational and logical.
   * Either that or Tech knowledge workers will have to live in conditions next to their place of [employment](https://www.apple.com/supplier-responsibility/progress-report/).
@@ -75,7 +75,7 @@ Remote First adoption by companies means that the weaknesses below are exposed a
 * Todays software is built around the idea that you are not co-located - Mobile messaging, VOIP.
   * Companies that make this kind of software and are not Remote First, its like saying your products don't work.
 
-* Tools gaining growth and mindshare that work locally and remote such as [Slack](https://slack.com/), [Discord](https://discordapp.com/), [Trello](https://trello.com/), [Zulip](https://zulip.org/), [AppearIn](https://appear.in), [Matrix](https://matrix.org/), [Distributed version control](https://github.com), [Yodlr](https://getyodlr.com).
+* Tools gaining growth and mindshare that work locally and remote such as [Slack](https://slack.com/), [Discord](https://discordapp.com/), [Trello](https://trello.com/), [Zulip](https://zulip.org/), [AppearIn](https://appear.in), [Matrix](https://matrix.org/), [Distributed version control](https://github.com).
 
 * Build a culture around asking questions
 
