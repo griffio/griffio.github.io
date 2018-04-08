@@ -283,3 +283,7 @@ https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/
 https://cambium.consulting/articles/2018/3/23/viva-la-remote-revolucion
 
 http://trishagee.github.io/post/adjusting_to_working_remotely/
+
+https://mchernyavska.wordpress.com/2017/12/10/out-of-sight-out-of-mind-or-how-to-be-productive-when-working-remotely/
+
+https://blog.trello.com/remote-work-team-success-guide
