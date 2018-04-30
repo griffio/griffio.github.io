@@ -287,3 +287,5 @@ http://trishagee.github.io/post/adjusting_to_working_remotely/
 https://mchernyavska.wordpress.com/2017/12/10/out-of-sight-out-of-mind-or-how-to-be-productive-when-working-remotely/
 
 https://blog.trello.com/remote-work-team-success-guide
+
+https://twitter.com/chrisbiscardi/status/989088567514357763
