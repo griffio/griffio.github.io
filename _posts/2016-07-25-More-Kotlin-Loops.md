@@ -112,6 +112,14 @@ fun main(args: Array<String>) {
 
 As the [documentation](https://kotlinlang.org/docs/reference/control-flow.html#for-loops) specifies that **for** operates over anything that provides an iterator.
 
+```  kotlin
+fun main(args: Array<String>) {
+    for (c in "Strings as well") {
+      println(c)
+    }
+}
+```
+
 If we want to make classes iterable without using inheritance, we can make it work with the **for** idiom by providing our own iterator operator implementation.
 
 In the example below, let's make the sides of the Shape object iterable and also support the forEach extension method :-
