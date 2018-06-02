@@ -289,3 +289,6 @@ https://mchernyavska.wordpress.com/2017/12/10/out-of-sight-out-of-mind-or-how-to
 https://blog.trello.com/remote-work-team-success-guide
 
 https://twitter.com/chrisbiscardi/status/989088567514357763
+
+http://www.ampelofilosofies.gr/software/2018/05/28/on-remote-working
+
