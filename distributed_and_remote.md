@@ -292,3 +292,4 @@ https://twitter.com/chrisbiscardi/status/989088567514357763
 
 http://www.ampelofilosofies.gr/software/2018/05/28/on-remote-working
 
+https://bytemybits.gitlab.io/post/2018-05-29-the-four-types-of-remote-work/
