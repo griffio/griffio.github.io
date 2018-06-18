@@ -22,7 +22,7 @@ public class Arrays<T> {
 
 ~~~
 
-In Java, you must lean on reflection by providing a type class parameter to instantiate the array of type ```clazz: Class<T>```, the difference with Kotlin is that we **can** use the generic type as a <reified T> directly.
+In Java, you must lean on reflection by providing a type class parameter to instantiate the array of type ```clazz: Class<T>```, the difference with Kotlin is that we **can** use the generic type as a ```<reified T>``` directly.
 
 [Inline functions](https://kotlinlang.org/docs/reference/inline-functions.html) support reified type parameters to avoid using reflection with class references - the limitation is only type parameters of inlined functions can be reified -
 **All other generic types are erased at runtime**.
