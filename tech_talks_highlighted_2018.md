@@ -7,3 +7,4 @@ https://www.youtube.com/watch?v=X6yof_vIQnk - Beyond single-page apps: alternati
 https://www.pointfree.co/episodes/ep10-a-tale-of-two-flat-maps - A Tale Of Two Flat Maps - Pointfree
 https://www.youtube.com/watch?v=M3BM9TB-8yA - 10 Things I Regret About Node.js - Ryan Dahl
 https://www.youtube.com/watch?v=O3XRE0HvzJ8 - The Code-Free Developer Interview - Pete Holiday
+https://www.youtube.com/watch?v=v8IQ-X2HkGE - The Last Hope for Scala's Infinity War - John A. De Goes
