@@ -9,3 +9,4 @@ https://www.youtube.com/watch?v=M3BM9TB-8yA - 10 Things I Regret About Node.js -
 https://www.youtube.com/watch?v=O3XRE0HvzJ8 - The Code-Free Developer Interview - Pete Holiday
 https://www.youtube.com/watch?v=v8IQ-X2HkGE - The Last Hope for Scala's Infinity War - John A. De Goes
 https://www.youtube.com/watch?v=NhYot0NC6q8 - JavaScriptures - Babel and Webpack - Artsy Open Source
+https://www.youtube.com/watch?v=sJx_emIiABk&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=18&t=0s The Container Operator’s Manual - Alice Goldfuss
