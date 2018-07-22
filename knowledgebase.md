@@ -543,21 +543,23 @@ NewSql
 
 #### Languages
 
-http://elixir-lang.org/
+https://elixir-lang.org/ - Erlang dynamic
 
-http://elm-lang.org/
+http://elm-lang.org/ - Javascript functional
 
-http://haxe.org/ - strictly typed
+https://haxe.org/ - strictly typed cross-platform Javascript
 
-https://golang.org/
+https://golang.org/ - Garbage collected - typed - static runtime binaries
 
-http://www.idris-lang.org/ -  pure functional dependent types
+https://www.idris-lang.org/ -  pure functional dependent types
 
-http://nim-lang.org -  statically typed
+https://nim-lang.org -  statically typed
 
-https://www.rust-lang.org/
+https://www.rust-lang.org/ - Safety instead of C++
 
-http://www.purescript.org/
+http://www.purescript.org/ -  Strongly-typed functional Javascript
+
+https://kotlinlang.org/ - statically typed cross platform
 
 As a cautious developer there is a balance between learning and applying new technology without good cause. Boring is good. However, it is more difficult to have flexible employment choices when relying on mature skills. For example, Long time Javascript developers lamenting on loosing out to ReactJS developers with less experience.
 The front-side UI technologies bear the brunt of change as there is more advantage to implementing a new api, e.g ReactNative, users want faster interaction, more data like a desktop application - all about the Frames per second.
