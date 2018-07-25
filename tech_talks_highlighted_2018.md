@@ -11,4 +11,5 @@ https://www.youtube.com/watch?v=v8IQ-X2HkGE - The Last Hope for Scala's Infinity
 https://www.youtube.com/watch?v=NhYot0NC6q8 - JavaScriptures - Babel and Webpack - Artsy Open Source
 https://www.youtube.com/watch?v=sJx_emIiABk&list=PLBzScQzZ83I_VX8zgmLqIfma_kJs3RRmu&index=18&t=0s The Container Operator’s Manual - Alice Goldfuss
 https://www.youtube.com/watch?v=tteIQBPPxqc - A History of Errors & a Future of Solutions - Sarah Groff Hennigh Palermo
-https://www.youtube.com/watch?v=IL6LBWNi3fE Pants and Monorepos – Dorothy Ordogh
+https://www.youtube.com/watch?v=IL6LBWNi3fE - Pants and Monorepos – Dorothy Ordogh
+https://www.youtube.com/watch?v=OOlnp2bZVRs - John Mumm - A CRDT Primer: Defanging Order Theory
