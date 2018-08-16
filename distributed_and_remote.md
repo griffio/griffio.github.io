@@ -295,3 +295,5 @@ http://www.ampelofilosofies.gr/software/2018/05/28/on-remote-working
 https://bytemybits.gitlab.io/post/2018-05-29-the-four-types-of-remote-work/
 
 https://dev.to/sam_ferree/why-i-think-cost-of-living-pay-for-remote-workers-is-bs-5b68
+
+https://dev.to/jillesvangurp/post-agile-embracing-asynchronous-processes-ifa
