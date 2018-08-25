@@ -15,3 +15,4 @@ https://www.youtube.com/watch?v=IL6LBWNi3fE - Pants and Monorepos – Dorothy Or
 https://www.youtube.com/watch?v=OOlnp2bZVRs - A CRDT Primer: Defanging Order Theory - John Mumm 
 https://www.youtube.com/watch?v=1jeCt_WTFhE - Joel on Software - Joel Spolsky
 https://www.youtube.com/watch?v=eICrSezliQY - Building domain-specific languages with Kotlin - Konstantin Otte
+https://www.youtube.com/watch?v=-NP_upexPFg - Hot Garbage Clean Code is Dead - Michael Chan 
