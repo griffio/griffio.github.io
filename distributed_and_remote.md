@@ -297,3 +297,6 @@ https://bytemybits.gitlab.io/post/2018-05-29-the-four-types-of-remote-work/
 https://dev.to/sam_ferree/why-i-think-cost-of-living-pay-for-remote-workers-is-bs-5b68
 
 https://dev.to/jillesvangurp/post-agile-embracing-asynchronous-processes-ifa
+
+http://www.firsthuman.com/podcast/9-working-remotely-with-the-legendary-pink-dots-with-lisette-sutherland/
+
