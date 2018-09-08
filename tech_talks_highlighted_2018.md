@@ -17,3 +17,4 @@ https://www.youtube.com/watch?v=1jeCt_WTFhE - Joel on Software - Joel Spolsky
 https://www.youtube.com/watch?v=eICrSezliQY - Building domain-specific languages with Kotlin - Konstantin Otte
 https://www.youtube.com/watch?v=-NP_upexPFg - Hot Garbage Clean Code is Dead - Michael Chan 
 https://www.youtube.com/watch?v=FBMC9bm-KuU - So you want to be a wizard? - Julia Evans
+https://www.youtube.com/watch?v=y0nt1Csu6bs - DevFestMN 2018 talk - Effective Remote Teamwork
