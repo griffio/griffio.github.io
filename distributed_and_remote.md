@@ -300,3 +300,4 @@ https://dev.to/jillesvangurp/post-agile-embracing-asynchronous-processes-ifa
 
 http://www.firsthuman.com/podcast/9-working-remotely-with-the-legendary-pink-dots-with-lisette-sutherland/
 
+https://www.hpe.com/us/en/insights/articles/good-news-remote-work-is-more-accepted-bad-news-you-might-not-want-it-1809.html
