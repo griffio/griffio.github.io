@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=eICrSezliQY - Building domain-specific languages
 https://www.youtube.com/watch?v=-NP_upexPFg - Hot Garbage Clean Code is Dead - Michael Chan 
 https://www.youtube.com/watch?v=FBMC9bm-KuU - So you want to be a wizard? - Julia Evans
 https://www.youtube.com/watch?v=y0nt1Csu6bs - DevFestMN 2018 talk - Effective Remote Teamwork
+https://www.youtube.com/watch?v=idApf9DMdfk - Reactive Relational Database Connectivity - Ben Hale
