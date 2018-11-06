@@ -20,3 +20,4 @@ https://www.youtube.com/watch?v=FBMC9bm-KuU - So you want to be a wizard? - Juli
 https://www.youtube.com/watch?v=y0nt1Csu6bs - DevFestMN 2018 talk - Effective Remote Teamwork
 https://www.youtube.com/watch?v=idApf9DMdfk - Reactive Relational Database Connectivity - Ben Hale
 https://www.youtube.com/watch?v=MFfTqUQxFTs - The Future of Java SE - Sharat Chander
+https://www.youtube.com/watch?v=8-kVTUNhwJY - Why ClojureScript? - Lily M. Goh
