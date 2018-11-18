@@ -22,3 +22,4 @@ https://www.youtube.com/watch?v=idApf9DMdfk - Reactive Relational Database Conne
 https://www.youtube.com/watch?v=MFfTqUQxFTs - The Future of Java SE - Sharat Chander
 https://www.youtube.com/watch?v=8-kVTUNhwJY - Why ClojureScript? - Lily M. Goh
 https://www.youtube.com/watch?v=FH5ek7LEd2U - Out of Office: The future of work is anywhere - Jenny Shen
+https://www.youtube.com/watch?v=vPBT1jX7z74 - A developer's guide to probabilistic programming - Evelina Gabasova
