@@ -24,3 +24,4 @@ https://www.youtube.com/watch?v=8-kVTUNhwJY - Why ClojureScript? - Lily M. Goh
 https://www.youtube.com/watch?v=FH5ek7LEd2U - Out of Office: The future of work is anywhere - Jenny Shen
 https://www.youtube.com/watch?v=vPBT1jX7z74 - A developer's guide to probabilistic programming - Evelina Gabasova
 https://www.youtube.com/watch?v=U6SWCTrPtn8 - Building Beautiful Websites with Gatsby - Kyle Mathews
+https://www.youtube.com/watch?v=k6JTaFE7SYI - Deep dive into networking for Unity's FPS Sample game - Peter Andreasen
