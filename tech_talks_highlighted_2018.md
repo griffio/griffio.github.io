@@ -26,3 +26,4 @@ https://www.youtube.com/watch?v=vPBT1jX7z74 - A developer's guide to probabilist
 https://www.youtube.com/watch?v=U6SWCTrPtn8 - Building Beautiful Websites with Gatsby - Kyle Mathews
 https://www.youtube.com/watch?v=k6JTaFE7SYI - Deep dive into networking for Unity's FPS Sample game - Peter Andreasen
 https://www.youtube.com/watch?v=0ro3LZgi6mo - Do you read me? — Better communication for stronger teams - Lena Reinhard
+https://www.youtube.com/watch?v=5cr2Yn_MrKg - Being Glue - Tanya Reilly 
