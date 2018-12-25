@@ -7,7 +7,7 @@ published: false
 summary: highlighted tech talks 2018
 ---
 
-[Containers aka crazy user space fun] (https://www.youtube.com/watch?v=7mzbIOtcIaQ) Jess Frazelle 
+[Containers aka crazy user space fun](https://www.youtube.com/watch?v=7mzbIOtcIaQ) Jess Frazelle 
 
 [In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) Jake Archibald
 
@@ -61,4 +61,4 @@ summary: highlighted tech talks 2018
 
 [Do you read me? — Better communication for stronger teams](https://www.youtube.com/watch?v=0ro3LZgi6mo) Lena Reinhard 
 
-[Being Glue] (https://www.youtube.com/watch?v=5cr2Yn_MrKg) Tanya Reilly]
+[Being Glue](https://www.youtube.com/watch?v=5cr2Yn_MrKg) Tanya Reilly]
