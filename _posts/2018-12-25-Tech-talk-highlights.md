@@ -19,7 +19,7 @@ summary: highlighted tech talks 2018
 
 [Beyond single-page apps: alternative architectures for your PWA](https://www.youtube.com/watch?v=X6yof_vIQnk) Jeff Posnick 
 
-[A Tale Of Two Flat Maps] (https://www.pointfree.co/episodes/ep10-a-tale-of-two-flat-maps) Pointfree 
+[A Tale Of Two Flat Maps](https://www.pointfree.co/episodes/ep10-a-tale-of-two-flat-maps) Pointfree 
 
 [10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA) Ryan Dahl 
 
