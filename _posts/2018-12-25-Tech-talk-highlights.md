@@ -45,6 +45,8 @@ summary: highlighted tech talks 2018
 
 [DevFestMN 2018 talk](https://www.youtube.com/watch?v=y0nt1Csu6bs) Effective Remote Teamwork 
 
+[Embracing Simpler Tools](https://www.youtube.com/watch?v=F0Lv53lop2g) David Nolen
+
 [Reactive Relational Database Connectivity](https://www.youtube.com/watch?v=idApf9DMdfk) Ben Hale 
 
 [The Future of Java SE](https://www.youtube.com/watch?v=MFfTqUQxFTs) Sharat Chander 
