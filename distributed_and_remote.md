@@ -303,3 +303,5 @@ http://www.firsthuman.com/podcast/9-working-remotely-with-the-legendary-pink-dot
 https://www.hpe.com/us/en/insights/articles/good-news-remote-work-is-more-accepted-bad-news-you-might-not-want-it-1809.html
 
 https://remotehabits.com/
+
+http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
