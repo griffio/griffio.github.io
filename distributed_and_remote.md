@@ -305,3 +305,7 @@ https://www.hpe.com/us/en/insights/articles/good-news-remote-work-is-more-accept
 https://remotehabits.com/
 
 http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
+
+https://builttoadapt.io/tk-65faab4cb826
+
+https://blog.trello.com/hermit-habits-remote-work
