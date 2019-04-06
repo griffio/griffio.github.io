@@ -309,3 +309,5 @@ http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course
 https://builttoadapt.io/tk-65faab4cb826
 
 https://blog.trello.com/hermit-habits-remote-work
+
+https://blog.lookback.io/from-burnout-to-joy-avoiding-remote-works-biggest-pitfalls/
