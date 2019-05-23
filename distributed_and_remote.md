@@ -315,3 +315,5 @@ https://blog.lookback.io/from-burnout-to-joy-avoiding-remote-works-biggest-pitfa
 https://mailchi.mp/c85e15c7c861/the-bulletin-2-is-remote-the-future
 
 https://blog.viktorpetersson.com/2019/05/18/a-decade-of-remote.html
+
+https://circleci.com/blog/how-my-distributed-team-communicates-so-no-context-is-left-behind/
