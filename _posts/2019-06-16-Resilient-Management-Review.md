@@ -12,8 +12,6 @@ summary: review of Resilient Management
 ![Resilient Management Book](/public/resilient-management.jpg)
 
 From author [Lara Hogan](https://larahogan.me/)
-  
-https://larahogan.me/blog/
  
 This book was published on 11th June 2019 and has a slim A5 size with around 100 pages.
 
@@ -27,7 +25,7 @@ Whether your title is lead, manager or something else this book focuses on growi
 
 There are two main process models introduced.
 
-Team development is the structured cycle of phases that the team will go through, introduces as
+**Team development** is the structured cycle of phases that the team will go through, introduces as
  
 *Forming*
 
@@ -53,7 +51,9 @@ Central concepts of core Human needs is the BICEPS model applied during the phas
 
 External and internal forces can magnify uncertantity - To communicate and give feedback about what's happening and why is to mitigate threats people in the team may feel.
 
-Ultimately, building team resiliency is developing and practicing these strategies to handle the waves of change that occur to an organisation.
+**Ultimately**, building team resiliency is developing and practicing these strategies to handle the waves of change that occur to an organisation.
 
-"The purpose of a team is not goal attainment but goal alignment." ― Tom DeMarco, Peopleware : Productive Projects and Teams
-https://www.goodreads.com/book/show/67825.Peopleware
+---
+
+"The purpose of a team is not goal attainment but goal alignment." ― *Tom DeMarco, Peopleware : Productive Projects and Teams*
+[Peopleware](https://www.goodreads.com/book/show/67825.Peopleware)
