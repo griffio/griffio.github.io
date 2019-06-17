@@ -19,33 +19,39 @@ This book was published on 11th June 2019 and has a slim A5 size with around 100
 
 I purchased and received a signed copy from Lara.
 
-Who is this book for?
+**Who is this book for?**
 
 Whether your title is lead, manager or something else this book focuses on growing people with team resiliency as the result.
 
-Five Chapters
+Five Chapters of growth, responsibilties, how to deliver feedback, coaching styles and building resilience are all covered.
   
-Team development is the structured cycle of phases that the team will go through
+Team development is the structured cycle of phases that the team will go through, introduces as
  
-Forming
-Storming
-Norming
-Performing
+*Forming*
 
-A central concept is BICEPS
+*Storming*
 
-Here are the core Human needs in the BICEPS model
+*Norming*
 
-Belonging
-Improvement/​Progress
-Choice
-Equality/​Fairness
-Predictability
-Status
+*Performing*
 
-External and internal forces Desk moves can magnify 
+Central concepts of core Human needs is the BICEPS model applied during the phases
 
-Ultimately, building team resiliency is developing and practicing these strategies to handle the waves of change 
+*Belonging*
 
-"The purpose of a team is not goal attainment but goal alignment.”" ― Tom DeMarco, Peopleware : Productive Projects and Teams
+*Improvement/Progress*
+
+*Choice*
+
+*Equality/Fairness*
+
+*Predictability*
+
+*Status*
+
+External and internal forces can magnify uncertantity  - what's happening and why is to mitigate threats people in the team may feel.
+
+Ultimately, building team resiliency is developing and practicing these strategies to handle the waves of change that occur to an organisation.
+
+"The purpose of a team is not goal attainment but goal alignment." ― Tom DeMarco, Peopleware : Productive Projects and Teams
 https://www.goodreads.com/book/show/67825.Peopleware
