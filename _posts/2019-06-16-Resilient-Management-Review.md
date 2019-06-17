@@ -55,5 +55,5 @@ External and internal forces can magnify uncertantity - To communicate and give 
 
 ---
 
-"The purpose of a team is not goal attainment but goal alignment." ― *Tom DeMarco, Peopleware : Productive Projects and Teams*
+>"The purpose of a team is not goal attainment but goal alignment." ― *Tom DeMarco, Peopleware : Productive Projects and Teams*
 [Peopleware](https://www.goodreads.com/book/show/67825.Peopleware)
