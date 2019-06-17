@@ -23,7 +23,7 @@ I purchased and received a signed copy from Lara.
 
 Whether your title is lead, manager or something else this book focuses on growing people with team resiliency as the result.
 
-Five Chapters of growth, responsibilties, how to deliver feedback, coaching styles and building resilience are all covered.
+*Five Chapters* of growth, responsibilties, how to deliver feedback, coaching styles and building resilience are all covered.
   
 Team development is the structured cycle of phases that the team will go through, introduces as
  
