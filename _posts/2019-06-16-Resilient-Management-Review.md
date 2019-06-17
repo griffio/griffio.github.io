@@ -3,7 +3,7 @@ layout: post
 title: "Resilient Management Review"
 category: people
 tags: review
-published: false
+published: true
 summary: review of Resilient Management
 ---
 
@@ -23,8 +23,10 @@ I purchased and received a signed copy from Lara.
 
 Whether your title is lead, manager or something else this book focuses on growing people with team resiliency as the result.
 
-*Five Chapters* of growth, responsibilties, how to deliver feedback, coaching styles and building resilience are all covered.
-  
+**Five Chapters** of growth, responsibilties, how to deliver feedback, coaching styles and building resilience are all presented.
+
+There are two main process models introduced.
+
 Team development is the structured cycle of phases that the team will go through, introduces as
  
 *Forming*
@@ -49,7 +51,7 @@ Central concepts of core Human needs is the BICEPS model applied during the phas
 
 *Status*
 
-External and internal forces can magnify uncertantity  - what's happening and why is to mitigate threats people in the team may feel.
+External and internal forces can magnify uncertantity - To communicate and give feedback about what's happening and why is to mitigate threats people in the team may feel.
 
 Ultimately, building team resiliency is developing and practicing these strategies to handle the waves of change that occur to an organisation.
 
