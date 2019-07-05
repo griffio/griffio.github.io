@@ -8,3 +8,5 @@ https://vimeo.com/341115830 JSON Explained - Jesse Wilson
 https://www.youtube.com/watch?v=XjvyELtrPF4  We Love Polyhedra! (And So Should You!) - Nat Alison
 
 https://www.youtube.com/watch?v=RMsZbchAwoY Remote-first teams work better - Nassim Kammah
+
+https://www.youtube.com/watch?v=AdNJ3fydeao Rethinking reactivity - Rich Harris
