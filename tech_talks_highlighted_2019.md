@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=XjvyELtrPF4  We Love Polyhedra! (And So Should Y
 https://www.youtube.com/watch?v=RMsZbchAwoY Remote-first teams work better - Nassim Kammah
 
 https://www.youtube.com/watch?v=AdNJ3fydeao Rethinking reactivity - Rich Harris
+
+https://www.youtube.com/watch?v=pW-SOdj4Kkk Preventing the Collapse of Civilization - Jonathan Blow
