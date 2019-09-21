@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=RMsZbchAwoY Remote-first teams work better - Nas
 https://www.youtube.com/watch?v=AdNJ3fydeao Rethinking reactivity - Rich Harris
 
 https://www.youtube.com/watch?v=pW-SOdj4Kkk Preventing the Collapse of Civilization - Jonathan Blow
+
+https://www.youtube.com/watch?v=ZwcGfC_VjhY Could Microsoft Teams be the end of Slack? - Scott Galloway
