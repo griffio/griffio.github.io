@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=AdNJ3fydeao Rethinking reactivity - Rich Harris
 https://www.youtube.com/watch?v=pW-SOdj4Kkk Preventing the Collapse of Civilization - Jonathan Blow
 
 https://www.youtube.com/watch?v=ZwcGfC_VjhY Could Microsoft Teams be the end of Slack? - Scott Galloway
+
+https://www.youtube.com/watch?v=4_PTdJq-1rA Building Web Apps With Svelte - Mark Volkmann
