@@ -317,3 +317,5 @@ https://mailchi.mp/c85e15c7c861/the-bulletin-2-is-remote-the-future
 https://blog.viktorpetersson.com/2019/05/18/a-decade-of-remote.html
 
 https://circleci.com/blog/how-my-distributed-team-communicates-so-no-context-is-left-behind/
+
+https://angel.co/blog/on-messing-up-your-remote-team-and-then-getting-it-right
