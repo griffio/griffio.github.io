@@ -319,3 +319,5 @@ https://blog.viktorpetersson.com/2019/05/18/a-decade-of-remote.html
 https://circleci.com/blog/how-my-distributed-team-communicates-so-no-context-is-left-behind/
 
 https://angel.co/blog/on-messing-up-your-remote-team-and-then-getting-it-right
+
+https://medium.com/@jma245/remote-work-is-more-than-a-job-perk-for-people-with-chronic-illness-its-life-changing-a61d34aead6c
