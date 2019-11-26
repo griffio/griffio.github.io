@@ -321,3 +321,5 @@ https://circleci.com/blog/how-my-distributed-team-communicates-so-no-context-is-
 https://angel.co/blog/on-messing-up-your-remote-team-and-then-getting-it-right
 
 https://medium.com/@jma245/remote-work-is-more-than-a-job-perk-for-people-with-chronic-illness-its-life-changing-a61d34aead6c
+
+https://increment.com/teams/a-guide-to-distributed-teams/
