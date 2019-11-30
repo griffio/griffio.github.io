@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=pW-SOdj4Kkk Preventing the Collapse of Civilizat
 https://www.youtube.com/watch?v=ZwcGfC_VjhY Could Microsoft Teams be the end of Slack? - Scott Galloway
 
 https://www.youtube.com/watch?v=4_PTdJq-1rA Building Web Apps With Svelte - Mark Volkmann
+
+https://www.youtube.com/watch?v=nD-p-cEKjHE How I set up all my #SBT projects - Vladyslav Pekker
