@@ -325,3 +325,5 @@ https://medium.com/@jma245/remote-work-is-more-than-a-job-perk-for-people-with-c
 https://increment.com/teams/a-guide-to-distributed-teams/
 
 https://www.joshwcomeau.com/posts/remote-work/
+
+https://www.bearer.sh/blog/how-to-make-remote-a-success
