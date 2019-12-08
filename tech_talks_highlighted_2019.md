@@ -18,3 +18,6 @@ https://www.youtube.com/watch?v=ZwcGfC_VjhY Could Microsoft Teams be the end of 
 https://www.youtube.com/watch?v=4_PTdJq-1rA Building Web Apps With Svelte - Mark Volkmann
 
 https://www.youtube.com/watch?v=nD-p-cEKjHE How I set up all my #SBT projects - Vladyslav Pekker
+
+https://www.youtube.com/watch?v=PLFl95c-IiU Talk Session: Domain Modeling Made Functional - Scott Wlaschin 
+
