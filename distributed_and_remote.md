@@ -327,3 +327,5 @@ https://increment.com/teams/a-guide-to-distributed-teams/
 https://www.joshwcomeau.com/posts/remote-work/
 
 https://www.bearer.sh/blog/how-to-make-remote-a-success
+
+https://circleci.com/blog/what-it-means-to-be-remote-first-vs-remote-friendly/
