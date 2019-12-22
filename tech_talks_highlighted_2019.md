@@ -22,3 +22,5 @@ https://www.youtube.com/watch?v=nD-p-cEKjHE How I set up all my #SBT projects - 
 https://www.youtube.com/watch?v=PLFl95c-IiU Talk Session: Domain Modeling Made Functional - Scott Wlaschin 
 
 https://www.youtube.com/watch?v=qVR-OWvy_Go Seeing Arrows Below the Code - Narek Asadorian
+
+https://www.youtube.com/watch?v=btPPn-m32Mw Becoming a team, one pixel at a time - Lena Reinhard
