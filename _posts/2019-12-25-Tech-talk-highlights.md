@@ -7,8 +7,6 @@ published: false
 summary: highlighted tech talks 2019
 ---
 
-[Title](URL) Speaker 
-
 [Lets LISP like it's 1959](https://www.youtube.com/watch?v=hGY3uBHVVr4) Kristoffer Gronlund
 
 [Index of refraction](https://www.youtube.com/watch?v=IW-hMOb4F5c) Weird Trick Mafia
