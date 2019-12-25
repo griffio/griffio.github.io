@@ -3,7 +3,7 @@ layout: post
 title: Tech talk highlights 2019
 category: blog
 tags: techtalks 
-published: false 
+published: true 
 summary: highlighted tech talks 2019
 ---
 
