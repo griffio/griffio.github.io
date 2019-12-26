@@ -25,6 +25,8 @@ summary: highlighted tech talks 2019
 
 [Building Web Apps With Svelte](https://www.youtube.com/watch?v=4_PTdJq-1rA) Mark Volkmann
 
+[12 Steps To Better Scala](https://www.youtube.com/watch?v=71yhnTGw0hY) John De Goes
+
 [How I set up all my #SBT projects](https://www.youtube.com/watch?v=nD-p-cEKjHE) Vladyslav Pekker
 
 [Talk Session: Domain Modeling Made Functional](https://www.youtube.com/watch?v=PLFl95c-IiU) Scott Wlaschin
