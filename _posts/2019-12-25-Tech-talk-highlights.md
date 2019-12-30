@@ -34,3 +34,5 @@ summary: highlighted tech talks 2019
 [Seeing Arrows Below the Code](https://www.youtube.com/watch?v=qVR-OWvy_Go) Narek Asadorian
 
 [Becoming a team, one pixel at a time ](https://www.youtube.com/watch?v=btPPn-m32Mw) Lena Reinhard
+
+[KotlinConf 2019: Compose Yourself: Designing a Kotlin First UI Toolkit](https://youtu.be/WqnR_XhEiVI?t=16) Anna-Chiara & Clara Bayarri
