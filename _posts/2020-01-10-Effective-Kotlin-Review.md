@@ -19,6 +19,9 @@ Presented at 437 pages including a table of contents, however it contains no ind
 
 **Do you need** this book?
 
+Effectiveness is the concepts of being able to achieve a desired result through general rules of choice
+rather than explict measurements of efficiency.
+
 Not Android specific
 
 Not for beginners 
