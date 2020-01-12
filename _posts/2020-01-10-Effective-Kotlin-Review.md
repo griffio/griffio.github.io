@@ -38,7 +38,7 @@ the material is designed around the tradesoff that effectively communicate Kotli
 
 The book doesn't cover coverting from Java to Kotlin except for platform types and making Java code "Kotlin friendly".
 
-There is a lot of talk about "Clean" "Dry" code, however it should also be considered that to "prefer duplication over the wrong abstraction" https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction is also effective.
+There is a lot of talk about "Clean" "Dry" code, however it should also be considered that to ["prefer duplication over the wrong abstraction"](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) is also effective.
 
 Nulls are still a valid type in Kotlin and can be used effectively.
 
@@ -52,7 +52,7 @@ If you are performing a code review and need to justify a requested change this 
 
 Kotlin still has more potential to offer in terms of what one book can address and shouldn't just focus on "begineers".
 
-**Danny Thorpe's Delphi Component Design** classic from 1996 https://dl.acm.org/doi/book/10.5555/524370 shows us how an
+**[Danny Thorpe's Delphi Component Design](https://dl.acm.org/doi/book/10.5555/524370)** classic from 1996  shows us how an
 internal look at a similar integrated language tool looks like with a eye of an insider.
 
 Particularly, it will be interesting to see how well an "Effective Kotlin Coroutines" could be as an entire book too, for something that has many trade-offs still being discovered as the API evolves.
