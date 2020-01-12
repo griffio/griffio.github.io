@@ -19,17 +19,15 @@ Presented at 437 pages including a table of contents, however it doesn't contain
 
 **Do you need this book?**
 
-Not especially for beginners though as the material is d
+Not especially a first take for beginners or if you prefer to get you answers from StackOverflow as
+the material is designed around the trades off to effectively communicate Kotlin code in a development team.
 
 Effectiveness can be considered the concept of being able to achieve better results through general rules of choice
 rather than through explict measurements of efficiency.
 
-If you prefer to get you answers from Stackoverflow or with 
-
 *The cost* to mitigate is the time spent reading and understanding Kotlin code.
 
 Not Android specific
-
 
 Null is still a valid type in Kotlin and can be used effectively
 
@@ -51,3 +49,4 @@ Efficiency
 Kotlin has still the 
 Danny Thorpe's Delphi Component Design from 1996 https://dl.acm.org/doi/book/10.5555/524370
 
+Effective Kotlin Coroutines could be an entire book too
