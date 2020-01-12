@@ -36,7 +36,7 @@ the material is designed around the tradesoff that effectively communicate Kotli
 
 **The effective cost** to mitigate is the time spent reading and understanding Kotlin code versus trying to use every Kotlin feature for maximum conciseness.
 
-The book doesn't cover coverting from Java to Kotlin except for platform types and making Java code "Kotlin friendly.
+The book doesn't cover coverting from Java to Kotlin except for platform types and making Java code "Kotlin friendly".
 
 There is a lot of talk about "Clean" "Dry" code, however it should also be considered that to "prefer duplication over the wrong abstraction" https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction is also effective.
 
