@@ -17,39 +17,43 @@ This is a reference to the printed edition from late 2019
 
 Presented at 437 pages including a table of contents, however it doesn't contain an index.
 
+Effective Kotlin - effectiveness can be considered the concept of being able to achieve better results through general rules of choice rather than through explict measurements of efficiency. Some aspects of efficiency are put forward in this book.
+
 **Do you need this book?**
 
-Not especially a first take for beginners or if you prefer to get you answers from StackOverflow as
-the material is designed around the trades off to effectively communicate Kotlin code in a development team.
+The book is split into three parts:
 
-Effectiveness can be considered the concept of being able to achieve better results through general rules of choice
-rather than through explict measurements of efficiency.
+* Good Code
 
-*The cost* to mitigate is the time spent reading and understanding Kotlin code.
+* Code Design
+
+* Efficiency 
+
+Firstly, its not Android specific and covers the language around the standard libary.
+
+However, not especially as a first take for beginners either or if you prefer to get your answers from StackOverflow, as
+the material is designed around the trades off to effectively communicate Kotlin code across a development team.
+
+**The cost** to mitigate is the time spent reading and understanding Kotlin code.
 
 It should also be considered that "prefer duplication over the wrong abstraction"
 https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
 
-Not Android specific
+Nulls are still a valid type in Kotlin and can be used effectively.
 
-Null is still a valid type in Kotlin and can be used effectively
+The original Effective Java book, that I first purchased in 2001, was a much needed insiders eye to Java and much of that relates to adding defensive programming against the Java Language and official API missed.
 
-The original Effective Java book, that I purchased in 2001, was a much needed insiders eye and much of it relates to adding
-defensive programming that the Java Language and official API missed.
-
-The Kotlin language addresses most of the "Effective Java" so it could be argued that the items raised are 
-Data Classes, Null Safety
+The Kotlin language benefited from Effective Java and addresses most of the traps and pitfalls of commonly misunderstood subtleties e.g Data Classes and hascode/equals.
 
 If you are performing a code review and need to justify a requested change or recommendation this book can give you 
 
-Item 1. There are only brief references to coroutines or multi-threaded programming in handling mutability and state.
+There are only brief references to coroutines or multi-threaded programming in handling mutability and state.
 
 Kotlin has DSL (domain specific language extensions methods) and a more expression statements
-Good Code
-Code Design
-Efficiency 
 
-Kotlin has still the 
+Potentially Kotlin has still more to offer in terms of what it is from the 
+
 Danny Thorpe's Delphi Component Design from 1996 https://dl.acm.org/doi/book/10.5555/524370
 
-Effective Kotlin Coroutines could be an entire book too
+Particularly, it will be interesting to see how well an "Effective Kotlin Coroutines" could be as an entire book too, for something that too has many trade-offs.
+
