@@ -50,7 +50,7 @@ If you are performing a code review and need to justify a requested change this 
 
 **There are only** brief references to Coroutines or multi-threaded programming in handling mutability and state.
 
-Kotlin still has more potential to offer in terms of what one book can address and shouldn't just focus on "begineers".
+Kotlin still has more potential to offer in terms of what one book can address and shouldn't just focus on "beginners".
 
 **[Danny Thorpe's Delphi Component Design](https://dl.acm.org/doi/book/10.5555/524370)** classic from 1996  shows us how an
 internal look at a similar integrated language tool looks like with a eye of an insider.
