@@ -29,7 +29,7 @@ The book is split into three parts:
 
 * Efficiency 
 
-Firstly, its not Mobile Platform specific and covers the language around the standard libary.
+Firstly, its not Mobile Platform specific and covers the language around the standard library.
 
 However, not especially as a first take for beginners either or if you prefer to get your answers from StackOverflow, as
 the material is designed around the trades off that effectively communicate Kotlin code across a development team.
