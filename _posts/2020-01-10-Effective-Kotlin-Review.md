@@ -3,7 +3,7 @@ layout: post
 title: "Effective Kotlin Review"
 category: kotlin
 tags: review
-published: false
+published: true
 summary: review of Effective Kotlin
 ---
 
