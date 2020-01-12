@@ -32,7 +32,7 @@ The book is split into three parts:
 Firstly, its not Mobile Platform specific and covers the language around the standard library.
 
 However, not especially as a first take for beginners either or if you prefer to get your answers from StackOverflow, as
-the material is designed around the tradesoff that effectively communicate Kotlin code across a development team.
+the material is designed around the trade offs that effectively communicate Kotlin code across a development team.
 
 **The effective cost** to mitigate is the time spent reading and understanding Kotlin code versus trying to use every Kotlin feature for maximum conciseness.
 
