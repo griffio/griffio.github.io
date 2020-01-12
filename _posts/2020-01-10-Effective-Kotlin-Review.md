@@ -7,7 +7,7 @@ published: true
 summary: review of Effective Kotlin
 ---
 
-[Effective Kotlin Book]](https://leanpub.com/effectivekotlin/)
+[Effective Kotlin Book](https://leanpub.com/effectivekotlin/)
 
 ![Effective Kotlin Book](/public/effective_kotlin.jpg)
 
