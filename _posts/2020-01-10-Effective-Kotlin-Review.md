@@ -42,18 +42,17 @@ There is a lot of talk about "Clean" "Dry" code, however it should also be consi
 
 Nulls are still a valid type in Kotlin and can be used effectively.
 
-The original Effective Java book, that I first purchased in 2001, was a much needed behind the scenes of Java and much of that relates to adding defensive programming against the Java Language and official API missed.
+**The original Effective Java** book, that I first purchased in 2001, was a much needed behind the scenes of Java and much of that relates to adding defensive programming against the Java Language that the official Java Standard API missed in hindsight.
 
-The Kotlin language benefited from Effective Java and addresses most of the traps and pitfalls of commonly misunderstood subtleties e.g Data Classes, comparators and hashcode/equals.
+**The Kotlin language** benefited from Effective Java and addresses most of the traps and pitfalls of commonly misunderstood subtleties e.g Data Classes, comparators and hashcode/equals.
 
-If you are performing a code review and need to justify a requested change this book can give you recommendation.
+If you are performing a code review and need to justify a requested change this book can give you recommendations and some foresight.
 
 **There are only** brief references to Coroutines or multi-threaded programming in handling mutability and state.
 
-Kotlin has still more potential to offer in terms of what it can be that one book 
+Kotlin still has more potential to offer in terms of what one book can address and shouldn't just focus on "begineers".
 
-**Danny Thorpe's Delphi Component Design** from 1996 https://dl.acm.org/doi/book/10.5555/524370 shows us how a
-internal look at a similar language and integrated tool looks like with a eye of an insider.
+**Danny Thorpe's Delphi Component Design** classic from 1996 https://dl.acm.org/doi/book/10.5555/524370 shows us how an
+internal look at a similar integrated language tool looks like with a eye of an insider.
 
-Particularly, it will be interesting to see how well an "Effective Kotlin Coroutines" could be as an entire book too, for something that too has many trade-offs that are still being discovered as the API evolves.
-
+Particularly, it will be interesting to see how well an "Effective Kotlin Coroutines" could be as an entire book too, for something that has many trade-offs still being discovered as the API evolves.
