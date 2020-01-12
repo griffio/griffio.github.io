@@ -27,6 +27,9 @@ rather than through explict measurements of efficiency.
 
 *The cost* to mitigate is the time spent reading and understanding Kotlin code.
 
+It should also be considered that "prefer duplication over the wrong abstraction"
+https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
+
 Not Android specific
 
 Null is still a valid type in Kotlin and can be used effectively
