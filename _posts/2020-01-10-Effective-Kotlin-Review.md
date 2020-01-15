@@ -29,6 +29,8 @@ The book is split into three parts:
 
 * Efficiency 
 
+**And 52 items** related to getting your Kotlin code to be less error prone with higher readability.
+
 Firstly, its not Mobile Platform specific and covers the language around the standard library.
 
 However, not especially as a first take for beginners either or if you prefer to get your answers from StackOverflow, as
