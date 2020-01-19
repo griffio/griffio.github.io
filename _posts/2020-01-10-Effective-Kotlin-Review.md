@@ -17,7 +17,7 @@ This is a reference to the printed edition from late 2019
 
 The book is presented at 437 pages including a table of contents, however it doesn't contain an index.
 
-**[Effective Kotlin](https://www.oreilly.com/library/view/effective-javatm-programming/0201310058/)** - effectiveness can be considered the concept of being able to achieve better results through general rules of applicability rather than through explict measurements of efficiency. Some aspects of efficiency are put forward in this book as well.
+**Effective Kotlin** - effectiveness can be considered the concept of being able to achieve better results through general rules of applicability rather than through explict measurements of efficiency. Some aspects of efficiency are put forward in this book as well.
 
 **Do you need this book?**
 
@@ -44,7 +44,7 @@ There is a lot of talk about "Clean" "Dry" code, however it should also be consi
 
 Nulls are still a valid type in Kotlin and can be used effectively.
 
-**The original Effective Java** book, that I first purchased in 2001, was a much needed behind the scenes of Java and much of that relates to adding defensive programming against the Java Language that the official Java Standard API missed in hindsight.
+**[The original Effective Java](https://www.oreilly.com/library/view/effective-javatm-programming/0201310058/)** book, that I first purchased in 2001, was a much needed behind the scenes of Java and much of that relates to adding defensive programming against the Java Language that the official Java Standard API missed in hindsight.
 
 **The Kotlin language** benefited from Effective Java and addresses most of the traps and pitfalls of commonly misunderstood subtleties e.g Data Classes, comparators and hashcode/equals.
 
