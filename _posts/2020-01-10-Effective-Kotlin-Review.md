@@ -17,7 +17,7 @@ This is a reference to the printed edition from late 2019
 
 The book is presented at 437 pages including a table of contents, however it doesn't contain an index.
 
-**Effective Kotlin** - effectiveness can be considered the concept of being able to achieve better results through general rules of applicability rather than through explict measurements of efficiency. Some aspects of efficiency are put forward in this book as well.
+**[Effective Kotlin](https://www.oreilly.com/library/view/effective-javatm-programming/0201310058/)** - effectiveness can be considered the concept of being able to achieve better results through general rules of applicability rather than through explict measurements of efficiency. Some aspects of efficiency are put forward in this book as well.
 
 **Do you need this book?**
 
