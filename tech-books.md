@@ -20,6 +20,8 @@ title: "Software Development Books"
   - Environment drives culture; Furniture police
 - [Structure and Interpretation of Computer Programs](https://openlibrary.org/works/OL3267304W/Structure_and_Interpretation_of_Computer_Programs)
   - Many well known quotes; Program as data etc
+- [Programming Pearls](https://openlibrary.org/books/OL2539105M/Programming_pearls)
+  - Computer Engineering stories including Donald Knuth Vs Doug McIlroy 
 
 ### 1990s
 
