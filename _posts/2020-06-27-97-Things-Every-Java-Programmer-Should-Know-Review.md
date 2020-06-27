@@ -24,14 +24,14 @@ Intentionally, the only structure and organisation has the contributions ordered
 Like Java, this book is reminds of another 90's throwback [WebRings](https://en.wikipedia.org/wiki/Webring)
 "A web ring is a collection of websites linked together in a circular structure, and usually organized around a specific theme, often educational or social. They were popular in the 1990s and early 2000s, particularly among amateur websites."
 
-Released around Java's 25th Birthday[Java's 25th Birthday Kickoff Event](https://www.youtube.com/watch?v=KA8gI5e16L0) it provides insights and general thoughts highlighting where Java has become ubiquitous.  
+Released around [Java's 25th Birthday](https://www.youtube.com/watch?v=KA8gI5e16L0) it provides insights and general thoughts highlighting where Java has become ubiquitous.  
 
-The [Programmer–archaeologist](https://en.wikipedia.org/wiki/Software_archaeology) Vernor Vinge's far future engineer would make use of Java
+This book could be useful for People who are new to a Java/JVM World arriving from an Open Source background, and less so for people already leaning on the JVM.
 
-The book could be useful for People who are new to a Java/JVM World arriving from an Open Source background
+One can imagine, a [Programmer–archaeologist](https://en.wikipedia.org/wiki/Software_archaeology), Vernor Vinge's far future engineer would make use of Java one day.
 
-There is no agenda to the narrative so that some are opposite views:
-"Why I Don’t Hold Any Value in Certifications" versus "Java Certifications: Touchstone in Technology"
+There is no agenda, or one true answer, to the narrative so that some takes have the contrarian view: "Why I Don’t Hold Any Value in Certifications" versus "Java Certifications: Touchstone in Technology".
+
 
 The Android platform, that makes extensive use of the Java APIs, is not covered in the book.
 
@@ -42,4 +42,4 @@ even though in a language that doesn't have "pointers".
 
 Java long ago moved beyond being tied to Sun Microsystems profitability, and the J2EE mono-culture to include the Open Source of collective wisdom
 
-As Apple move to their new [Silicon](https://www.apple.com/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/), We will see if the JVM continues with Write Once Run Everywhere.
+As Apple move to their new [Silicon](https://www.apple.com/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/), We will see if the JVM continues with the promise "Write Once Run Everywhere".
