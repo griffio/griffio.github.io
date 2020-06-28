@@ -28,11 +28,13 @@ Released around [Java's 25th Birthday](https://www.youtube.com/watch?v=KA8gI5e16
 
 This book could be useful for People who are new to a Java/JVM World arriving from an Open Source background, and less so for people already leaning on the JVM as their daily drive for many years.
 
-One can imagine the [Programmer–archaeologist](https://en.wikipedia.org/wiki/Software_archaeology), Vernor Vinge's far future engineer, would make use of Java one day and wonder how it came under-pin some much technology.
+One can imagine the [Programmer–archaeologist](https://en.wikipedia.org/wiki/Software_archaeology), Vernor Vinge's far future engineer, would make use of Java one day and wonder how it came to under-pin so much technology.
 
 The book has no agenda or one true answer to the narrative so that some pieces have the contrarian view: "Why I Don’t Hold Any Value in Certifications" versus "Java Certifications: Touchstone in Technology".
 
 The bulwark of Java programmers, on the Android platform, that makes extensive use of the Java APIs, is not covered in the book. Crashes are quite frequent on these platforms.
+
+Touching every Java programmer are Exceptions, there are several pieces in the book covering this archetype of Java.
 
 Unlike native programming languages requiring manual memory management, segmentation faults get paid for immediately with a crash, the [Java NullPointer Exception](https://fosdem.org/2020/schedule/event/npes/) becomes the "billion-dollar IOU" even though in a language that doesn't have "pointers".
 
