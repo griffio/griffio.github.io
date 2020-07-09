@@ -5,3 +5,6 @@ https://www.youtube.com/watch?v=qL4PxoJJttM Wiem Zine Elabidine - Flying Futures
 https://www.youtube.com/watch?v=SctHB29cLXk Adam Fraser Functional Scala - Test Effects: First Class
 
 https://www.youtube.com/watch?v=1hqt8JkYRdI Organic Towns From Square Tiles - Oskar Stålberg
+
+https://www.youtube.com/watch?v=xch4aw7hNcY Kotlin Flows and Channels for Android - Ryan Pierce
+
