@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=xch4aw7hNcY Kotlin Flows and Channels for Androi
 https://codeclimate.wistia.com/medias/mdheviqr05 Engineering Leadership Summit - Juan Pablo Buriticá
 
 https://www.youtube.com/watch?v=x7drE24geUw CRDTs: The Hard Parts - Martin Kleppmann
+
+https://www.youtube.com/watch?v=qhjxpnTJfBY When Databases Lied - Jaana Dogan 
