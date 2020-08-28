@@ -13,3 +13,5 @@ https://codeclimate.wistia.com/medias/mdheviqr05 Engineering Leadership Summit -
 https://www.youtube.com/watch?v=x7drE24geUw CRDTs: The Hard Parts - Martin Kleppmann
 
 https://www.youtube.com/watch?v=qhjxpnTJfBY When Databases Lied - Jaana Dogan 
+
+https://www.youtube.com/watch?v=l_P6m3JTyp0 GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley
