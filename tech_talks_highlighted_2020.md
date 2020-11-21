@@ -17,3 +17,5 @@ https://www.youtube.com/watch?v=qhjxpnTJfBY When Databases Lied - Jaana Dogan
 https://www.youtube.com/watch?v=l_P6m3JTyp0 GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley
 
 https://www.youtube.com/watch?v=HVWAiHFcTGM October 2020 Online Kotlin Meetup - Kotlin 1.4 Special 
+
+https://www.youtube.com/watch?v=qSfdtmcZ4d0 Futuristic Web Development - Rich Harris
