@@ -19,3 +19,5 @@ https://www.youtube.com/watch?v=l_P6m3JTyp0 GraphQL, gRPC or REST? Resolving the
 https://www.youtube.com/watch?v=HVWAiHFcTGM October 2020 Online Kotlin Meetup - Kotlin 1.4 Special 
 
 https://www.youtube.com/watch?v=qSfdtmcZ4d0 Futuristic Web Development - Rich Harris
+
+https://www.youtube.com/watch?v=axpeyzQOVxM How to build a cat-themed streaming service with Svelte - Annie Taylor Chen
