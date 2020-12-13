@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=axpeyzQOVxM How to build a cat-themed streaming 
 
 https://www.youtube.com/watch?v=yIAa5wHsfw4 Kelsey, Kubernetes, and GitOps - Kelsey Hightower
 
+https://www.youtube.com/watch?v=oPAtbWK9oyY Observability: superpowers for developers - Christine Yen
+
+
