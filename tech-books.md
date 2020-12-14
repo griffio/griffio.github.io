@@ -79,5 +79,5 @@ title: "Software Development Books"
   - Pros and cons of various technologies for processing and storing data. 
 - [The Imposters Handbook](https://bigmachine.io/products/the-imposters-handbook)
   - Core concepts for self-taught developers
-- [CSS Secrets] (https://www.oreilly.com/library/view/css-secrets/9781449372736/)
+- [CSS Secrets](https://www.oreilly.com/library/view/css-secrets/9781449372736/)
   - Rather than focus on design, CSS Secrets shows you how to solve problems with code
