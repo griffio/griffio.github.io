@@ -37,6 +37,8 @@ title: "Software Development Books"
   -  Concurrency idioms on Windows; Mutexes, Semaphores, Non-Blocking IO.
 - [Transactional COM+](https://openlibrary.org/books/OL7408130M/Transactional_COM)
   - Book on scalability disguised as a COM book
+- [The BeOS Bible](https://birdhouse.org/beos/bible/)
+  - Interviews with Be engineers and founders that provide a fascinating insight into this innovative OS
 
 ### 2000s
 
