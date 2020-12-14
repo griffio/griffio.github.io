@@ -83,3 +83,7 @@ title: "Software Development Books"
   - Core concepts for self-taught developers
 - [CSS Secrets](https://www.oreilly.com/library/view/css-secrets/9781449372736/)
   - Rather than focus on design, CSS Secrets shows you how to solve problems with code
+
+### 2020s
+- [Svelte and Sapper in Action](https://www.manning.com/books/svelte-and-sapper-in-action)
+  - Framework-less. Imagine web apps with fast browser load times that also offer amazing developer productivity and require less code to create
