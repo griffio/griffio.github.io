@@ -22,7 +22,7 @@ title: "Software Development Books"
   - Many well known quotes; Program as data etc
 - [Programming Pearls](https://openlibrary.org/books/OL2539105M/Programming_pearls)
   - Computer Engineering stories including Donald Knuth Vs Doug McIlroy 
-- [The Soul of a New Machine] (https://www.tracykidder.com/the-soul-of-a-new-machine.html)
+- [The Soul of a New Machine](https://www.tracykidder.com/the-soul-of-a-new-machine.html)
   - A team of Data General researchers to create a new 32-bit superminicomputer
   
 ### 1990s
