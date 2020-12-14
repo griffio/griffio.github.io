@@ -22,7 +22,9 @@ title: "Software Development Books"
   - Many well known quotes; Program as data etc
 - [Programming Pearls](https://openlibrary.org/books/OL2539105M/Programming_pearls)
   - Computer Engineering stories including Donald Knuth Vs Doug McIlroy 
-
+- [The Soul of a New Machine] (https://www.tracykidder.com/the-soul-of-a-new-machine.html)
+  - A team of Data General researchers to create a new 32-bit superminicomputer
+  
 ### 1990s
 
 - [Delphi Component Design](https://openlibrary.org/books/OL1002863M/Delphi_component_design)
@@ -54,6 +56,8 @@ title: "Software Development Books"
   - Everyone should learn how to design programs
 - [Growing Object-Oriented Software, Guided By Tests](https://openlibrary.org/works/OL13856561W/Growing_object-oriented_software_guided_by_tests)
   - Forms the basis of begining and maintaining your tests as first class software. Instead of "It's only a test!"  
+- [SQL for Smarties](https://www.goodreads.com/book/show/1046365.Joe_Celko_s_SQL_for_Smarties)
+  - Some principles and histories of SQL programming
 
 ### 2010s
 
@@ -75,3 +79,5 @@ title: "Software Development Books"
   - Pros and cons of various technologies for processing and storing data. 
 - [The Imposters Handbook](https://bigmachine.io/products/the-imposters-handbook)
   - Core concepts for self-taught developers
+- [CSS Secrets] (https://www.oreilly.com/library/view/css-secrets/9781449372736/)
+  - Rather than focus on design, CSS Secrets shows you how to solve problems with code
