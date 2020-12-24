@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=yIAa5wHsfw4 Kelsey, Kubernetes, and GitOps - Kel
 
 https://www.youtube.com/watch?v=oPAtbWK9oyY Observability: superpowers for developers - Christine Yen
 
-
+https://s3.amazonaws.com/hotwire.dev/hotwire-screencast.mp4 HTML Over the Wire - Basecamp
