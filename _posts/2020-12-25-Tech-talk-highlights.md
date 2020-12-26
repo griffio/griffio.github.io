@@ -35,4 +35,4 @@ summary: highlighted tech talks 2020
 
 [Observability: superpowers for developers](https://www.youtube.com/watch?v=oPAtbWK9oyY) Christine Yen
 
-[HTML Over the Wire](https://s3.amazonaws.com/hotwire.dev/hotwire-screencast.mp4) Basecamp
+[HTML Over the Wire](https://www.youtube.com/watch?v=eKY-QES1XQQ) Basecamp
