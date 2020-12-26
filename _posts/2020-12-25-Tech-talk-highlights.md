@@ -19,7 +19,7 @@ summary: highlighted tech talks 2020
 
 [Engineering Leadership Summit](https://codeclimate.wistia.com/medias/mdheviqr05) Juan Pablo Buriticá
 
-[CRDTs: The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)Martin Kleppmann
+[CRDTs: The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw) Martin Kleppmann
 
 [When Databases Lied ](https://www.youtube.com/watch?v=qhjxpnTJfBY) Jaana Dogan
 
