@@ -36,3 +36,6 @@ summary: highlighted tech talks 2020
 [Observability: superpowers for developers](https://www.youtube.com/watch?v=oPAtbWK9oyY) Christine Yen
 
 [HTML Over the Wire](https://www.youtube.com/watch?v=eKY-QES1XQQ) Basecamp
+
+[Fidget: Let's rethink UI development with Nim](https://www.youtube.com/watch?v=IB8Yt2dqZbo&list=PLxLdEZg8DRwTIEzUpfaIcBqhsj09mLWHx&index=15) Andre von Houck
+
