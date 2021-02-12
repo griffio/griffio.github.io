@@ -7,4 +7,4 @@ published: false
 summary: review of Atomic Kotlin
 ---
 
-![Atomic Kotlin](/public/atomic-kotlin.jpg)
+![Atomic Kotlin](/public/atomic_kotlin.jpg)
