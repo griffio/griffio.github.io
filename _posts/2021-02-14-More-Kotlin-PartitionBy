@@ -3,9 +3,11 @@ layout: post
 title: "More Kotlin (PartitionBy)"
 category: programming
 tags: kotlin
-published: false
+published: true
 summary: kotlin partitionBy
 ---
+
+Existing Collection utilities
 
 ### [Kotlin group-by](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/group-by.html)
 Only returns Map (Dictionary)
@@ -24,5 +26,3 @@ https://www.4clojure.com/problem/30
 Compress a sequence of characters 
 
 <script src="https://gist.github.com/griffio/f465b69f321fd7e70e2cd670ce067027.js"></script>
-
-Take a String of "aaaabbbcca" and return [("a", 4), ("b", 3), ("c", 2), ("a", 1)]
