@@ -50,7 +50,7 @@ tailrec fun <T, R> partitionBy(
    
    val leroy2 = partitionBy("Leeeeeerrroyyy".asIterable(), identity())
    
-   println(leroy2.map { it.first() to it.size() }.toList().joinToString(":"))    
+   println(leroy2.map { it.first() to it.size }.toList().joinToString(":"))    
    
 }
 ```
