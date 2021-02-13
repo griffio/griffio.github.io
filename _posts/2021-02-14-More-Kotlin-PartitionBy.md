@@ -8,7 +8,7 @@ summary: kotlin partitionBy
 runcode: true
 ---
 
-Existing Collection utilities
+Existing Collection utilities have certain limitations
 
 ### [Kotlin group-by](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/group-by.html)
 Only returns Map (Dictionary)
@@ -22,9 +22,9 @@ Fix Windows size and steps
 ### [Kotlin chunked](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/chunked.html)
 Chunked has upper bound size
 
-How to solve https://www.4clojure.com/problem/30 ?
+How to solve (https://www.4clojure.com/problem/30) ?
 
-Apply a function to each value in coll, creating a partitio each time the function returns a new value
+Apply a function to each value in a List, creating a partition each time the function returns a new value
 
 Compress a sequence of characters simliar to https://clojuredocs.org/clojure.core/partition-by 
 
