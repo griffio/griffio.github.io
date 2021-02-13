@@ -22,15 +22,16 @@ Fix Windows size and steps
 ### [Kotlin chunked](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/chunked.html)
 Chunked has upper bound size
 
-https://www.4clojure.com/problem/30
+How to solve https://www.4clojure.com/problem/30 ?
 
-Compress a sequence of characters 
+Apply a function to each value in coll, creating a partitio each time the function returns a new value
 
+Compress a sequence of characters simliar to https://clojuredocs.org/clojure.core/partition-by 
 
 ```  kotlin
 fun main(args: Array<String>) {
    
-   fun <T> identity(): (T) -> T = { it }
+fun <T> identity(): (T) -> T = { it }
 
 tailrec fun <T, R> partitionBy(
     source: Iterable<T>,
@@ -54,5 +55,3 @@ tailrec fun <T, R> partitionBy(
    
 }
 ```
-
-<script src="https://gist.github.com/griffio/f465b69f321fd7e70e2cd670ce067027.js"></script>
