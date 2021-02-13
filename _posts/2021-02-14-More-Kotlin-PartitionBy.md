@@ -51,6 +51,7 @@ tailrec fun <T, R> partitionBy(
    
    val leroy2 = partitionBy("Leeeeeerrroyyy".asIterable(), identity())
    
+   //Add Run Length to leroy2
    println(leroy2.map { it.first() to it.size }.toList().joinToString(":"))    
    
 }
