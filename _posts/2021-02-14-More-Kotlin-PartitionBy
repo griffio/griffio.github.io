@@ -1,0 +1,12 @@
+---
+layout: post
+title: "More Kotlin (PartitionBy)"
+category: programming
+tags: kotlin
+published: false
+summary: kotlin partitionBy
+---
+
+### [Kotlin sealed-hierarchies](http://kotlinlang.org/docs/reference/classes.html#sealed-classes)
+
+<script src="https://gist.github.com/griffio/ed73fcc7f2e39e2f7d05409bc2fd32b7.js"></script>
