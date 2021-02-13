@@ -25,4 +25,33 @@ https://www.4clojure.com/problem/30
 
 Compress a sequence of characters 
 
+
+```  kotlin
+fun main(args: Array<String>) {
+   
+   fun <T> identity(): (T) -> T = { it }
+
+tailrec fun <T, R> partitionBy(
+    source: Iterable<T>,
+    partition: (T) -> R,
+    result: Sequence<List<T>> = sequenceOf()
+): Sequence<List<T>> =
+    if (source.none())
+        result
+    else {
+        val taken = source.takeWhile { partition(it) == partition(source.first()) }
+        partitionBy(source.drop(taken.count()), partition, result + sequenceOf(taken))
+    }
+    
+   val leroy1 = partitionBy("Leeeeeerrroyyy".asIterable(), identity())
+   
+   println(leroy1.map { it.first() }.toList().joinToString(""))    
+   
+   val leroy2 = partitionBy("Leeeeeerrroyyy".asIterable(), identity())
+   
+   println(leroy2.map { it.first() to it.size() }.toList().joinToString(":"))    
+   
+}
+```
+
 <script src="https://gist.github.com/griffio/f465b69f321fd7e70e2cd670ce067027.js"></script>
