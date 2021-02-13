@@ -8,7 +8,7 @@ summary: kotlin partitionBy
 runcode: true
 ---
 
-Existing Collection utilities have certain limitations
+Existing Collection utilities that split-up the input have certain limitations
 
 ### [Kotlin group-by](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/group-by.html)
 Only returns Map (Dictionary)
