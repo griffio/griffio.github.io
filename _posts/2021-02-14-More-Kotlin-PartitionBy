@@ -13,8 +13,11 @@ Only returns Map
 ### [Kotlin partition](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/partition.html)
 Only returns two partitions
 
-### [Kotlin windowed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/windowed.html
+### [Kotlin windowed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/windowed.html)
 Fix Windows size and steps
+
+### [Kotlin chunked](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/chunked.html)
+Chunked has upper bound size
 
 https://www.4clojure.com/problem/30
 
