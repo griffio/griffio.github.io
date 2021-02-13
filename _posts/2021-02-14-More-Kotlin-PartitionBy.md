@@ -8,25 +8,25 @@ summary: kotlin partitionBy
 runcode: true
 ---
 
-Existing Collection utilities that split-up the input have certain limitations
+Existing Kotlin Collection utilities that split-up the input have certain limitations
 
-### [Kotlin group-by](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/group-by.html)
+### [group-by](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/group-by.html)
 Only returns Map (Dictionary)
 
-### [Kotlin partition](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/partition.html)
+### [partition](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/partition.html)
 Only returns two partitions
 
-### [Kotlin windowed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/windowed.html)
+### [windowed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/windowed.html)
 Windowed has fixed size and step
 
-### [Kotlin chunked](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/chunked.html)
+### [chunked](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/chunked.html)
 Chunked has upper bound size
 
 How to solve [4clojure problem 30](https://www.4clojure.com/problem/30)?
 
 Compress a sequence of characters simliar to [clojure.core/partition-by](https://clojuredocs.org/clojure.core/partition-by) 
 
-Apply a function to each value in a List, creating a partition each time the function returns a new value
+Apply a function to each value in a List, creating a partition each time the `identity` function returns a new value 
 
 ```  kotlin
 fun main(args: Array<String>) {
