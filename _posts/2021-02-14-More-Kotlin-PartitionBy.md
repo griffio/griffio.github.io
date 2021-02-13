@@ -17,14 +17,14 @@ Only returns Map (Dictionary)
 Only returns two partitions
 
 ### [Kotlin windowed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/windowed.html)
-Fix Windows size and steps
+Windowed has fixed size and step
 
 ### [Kotlin chunked](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/chunked.html)
 Chunked has upper bound size
 
-How to solve [4clojure problem 30](https://www.4clojure.com/problem/30) ?
+How to solve [4clojure problem 30](https://www.4clojure.com/problem/30)?
 
-Compress a sequence of characters simliar to https://clojuredocs.org/clojure.core/partition-by 
+Compress a sequence of characters simliar to [clojure.core/partition-by](https://clojuredocs.org/clojure.core/partition-by) 
 
 Apply a function to each value in a List, creating a partition each time the function returns a new value
 
