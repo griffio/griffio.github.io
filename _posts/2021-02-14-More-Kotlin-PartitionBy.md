@@ -5,6 +5,7 @@ category: programming
 tags: kotlin
 published: true
 summary: kotlin partitionBy
+runcode: true
 ---
 
 Existing Collection utilities
