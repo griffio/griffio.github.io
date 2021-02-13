@@ -7,6 +7,17 @@ published: false
 summary: kotlin partitionBy
 ---
 
-### [Kotlin sealed-hierarchies](http://kotlinlang.org/docs/reference/classes.html#sealed-classes)
+### [Kotlin group-by](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/group-by.html)
+Only returns Map
 
-<script src="https://gist.github.com/griffio/ed73fcc7f2e39e2f7d05409bc2fd32b7.js"></script>
+### [Kotlin partition](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/partition.html)
+Only returns two partitions
+
+### [Kotlin windowed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/windowed.html
+Fix Windows size and steps
+
+https://www.4clojure.com/problem/30
+
+Compress a sequence of characters 
+
+<script src="https://gist.github.com/griffio/f465b69f321fd7e70e2cd670ce067027.js"></script>
