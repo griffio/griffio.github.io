@@ -9,11 +9,17 @@ summary: review of Atomic Kotlin
 
 ![Atomic Kotlin](/public/atomic_kotlin.jpg)
 
-This is a reference to a printed edition from January 2021 (627 pages)
-
 [Atomic Kotlin Printed Book](https://www.atomickotlin.com/printbook/)
 
-As a Lean Pub released book the process doesn't allow for the creating of indices, however it is structure with a summary in the Table of Contents
+This is a reference to a printed edition from January 2021 (627 pages)
+
+From Authors:
+
+Bruce Eckel (Thinking in Java)
+
+Svetlana Isakova (Kotlin in Action)
+
+**As a Lean Pub** released book the process doesn't allow for the creating of indices, however it is structure with a summary in the Table of Contents
 
 The booked is aimed at both novices and experienced programmers as Kotlin cherry-picks from newer languages and supporting existing features
 
@@ -23,7 +29,7 @@ Kotlin has had the benefit to pick from a field of tested language features in m
 
 One of the main improvements is a removal of the Java Generics implementation with a new type system somewhat borrowed from C Sharp (in and out variance) and Scala's Any and Nothing as the top and bottom of the type system.
 
-Intentionally blending the styles, and covered in this Book, Imperative mutable data, Class Object Orientated Data, Functional Algebra to manipulate data in Lamdbas and collections
+**Intentionally blending** the styles, and covered in this Book, Imperative mutable data, Class Object Orientated Data, Functional Algebra to manipulate data in Lamdbas and collections
 
 If you haven't been a programmer across the century, migrating from one language to another, there are some notes about where languages features and constructs originated in Kotlin 
 
@@ -33,7 +39,7 @@ Even if Java continues to add features like records https://openjdk.java.net/jep
 
 Kotlin strives to be it's own language as well - for example to jettison the 'C' style `for` syntax - opting for something more like Visual Basic or Python use 
 
-On the other-hand, one area where Kotlin is not 100% portable with Java is the lack of a package private scope
+**On the other-hand**, one area where Kotlin is not 100% portable with Java is the lack of a package private scope
 
 This Java default visibility scope may have been dropped as the Kotlin scoping is more suitable for cross platform use (e.g modules).
 https://discuss.kotlinlang.org/t/kotlin-to-support-package-protected-visibility/1544/62
@@ -44,12 +50,12 @@ Decisions to make classes final - a number of popular frameworks use these Java 
 
 Setting defaults different from Java will normally please some, like library authors but annoy new comers that don't know why they are prevented from doing something
 
-The Book covers only a basic example example of Generics and Co-variance and Contra-variance - more detailed explanation - readers will have to go elsewhere
+**The Book covers only a basic** example example of Generics and Co-variance and Contra-variance - more detailed explanation - readers will have to go elsewhere
 
 Multithreading and Co-routines are not mentioned
  
 For readers new to JVM languages, they will need to know about type erasure and Kotlin support for somekind of type capture (reification) at compile time
 
-Overall the Book gives a very readable, well spaced out and thorough walk around Kotlin's core features that are likely to remain in 1.x versions of Kotlin
+**Overall this Book** gives a very readable, well spaced out and thorough walk around Kotlin's core features that are likely to remain in 1.x versions of Kotlin and there is online exercise content to supplement https://www.atomickotlin.com/exercises/
 
-For more using more advanced features and Android developers would look to more specific books like Effective Kotlin
+For more using more advanced features and Android developers would look to more specific books like [Effective Kotlin](https://griffio.github.io/kotlin/2020/01/10/Effective-Kotlin-Review/)
