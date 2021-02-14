@@ -27,7 +27,7 @@ The booked is aimed at both novices and experienced programmers as Kotlin cherry
 
 Kotlin has had the benefit to pick from a field of tested language features in mainstream use particularly C-Sharp, Scala, Swift, Python, even Visual Basic to address most of the pitfalls of Java elaborated in [Effective Java](https://www.oreilly.com/library/view/effective-java/9780134686097/)
 
-One of the main improvements is a removal of the Java Generics implementation with a new type system somewhat borrowed from C Sharp (in and out variance) and Scala's (Any and Nothing) hierarchy
+A couple of the main improvements are addition of [null safe types](https://kotlinlang.org/docs/null-safety.html) and removal of the Java Generics implementation with a [new type system](https://kotlinlang.org/docs/generics.html) somewhat borrowed from C Sharp (in and out variance) and Scala's (Any and Nothing) hierarchy
 
 **Intentionally blending** the styles, and covered in this Book, of Imperative mutable data, Class Object Orientated Data, Functional Algebra to manipulate data in Lamdbas and collections
 
