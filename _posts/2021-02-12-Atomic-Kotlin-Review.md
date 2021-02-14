@@ -29,7 +29,7 @@ Kotlin has had the benefit to pick from a field of tested language features in m
 
 A couple of the main improvements are addition of [null safe types](https://kotlinlang.org/docs/null-safety.html) and removal of the Java Generics implementation with a [new type system](https://kotlinlang.org/docs/generics.html) somewhat borrowed from C Sharp (in and out variance) and Scala's (Any and Nothing) hierarchy
 
-**Intentionally blending** the styles, and covered in this Book, of Imperative mutable data, Class Object Orientated Data, Functional Algebra to manipulate data in Lamdbas and collections
+**Intentionally blending** the styles, and covered in this Book, of Imperative mutable data, Class Object Orientated data, Functional Algebra to manipulate data in Lambdas and collections
 
 If you haven't been a programmer across the century, migrating from one language to another, there are some notes about where languages features and constructs originated in Kotlin 
 
@@ -52,9 +52,9 @@ Decisions to make classes final - a number of popular frameworks use these Java 
 
 Also, setting defaults different from Java will normally please some, like library authors but annoy new comers that don't know why they are prevented from doing something
 
-**Atomic Kotlin Book covers only a basic** example of Generics and Co-variance and Contra-variance - more detailed explanation - readers will have to go elsewhere
+**Atomic Kotlin Book covers a basic** example of Generics and Co-variance and Contra-variance, for more detailed explanations readers will have to go elsewhere
 
-Multithreading and Co-routines are not mentioned in the Book
+The importance of Testing is introduced early with the basics but advanced topics like Multithreading and Co-routines are not mentioned in the Book
  
 For readers new to JVM languages, they will need to know about type erasure and Kotlin's support for some kind of type capture [reification](https://kotlinlang.org/docs/inline-functions.html) at compile time
 
