@@ -14,7 +14,7 @@ Existing Kotlin Collection utilities that split-up the input have certain limita
 Only returns Map (Dictionary)
 
 ### [partition](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/partition.html)
-Only returns two partitions
+Only returns two partitions as Pair<ArrayList, ArrayList> - can be used recursively 
 
 ### [windowed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/windowed.html)
 Windowed has fixed size and step
@@ -45,11 +45,16 @@ tailrec fun <T, R> partitionBy(
     else {
         val taken = source.takeWhile { partition(it) == partition(source.first()) }
         partitionBy(source.drop(taken.count()), partition, result + sequenceOf(taken))
+        // kotlin.collections/partition can be used recursively returns pair of ArrayList
+        //val (taken, rest) = source.partition { source.first() == partition(it) }
+        //partitionBy(rest, partition, result + sequenceOf(taken))
     }
     
    val leroy1 = partitionBy("Leeeeeerrroyyy".asIterable(), identity())
    
-   println(leroy1.map { it.first() }.toList().joinToString(""))    
+   // for problem/30 also use https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/distinct.html 
+   
+   println(leroy1.map { it.first() }.toList().joinToString("")) 
    
    val leroy2 = partitionBy("Leeeeeerrroyyy".asIterable(), identity())
    
