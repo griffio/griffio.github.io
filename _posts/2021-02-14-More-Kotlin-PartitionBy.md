@@ -22,7 +22,9 @@ Windowed has fixed size and step
 ### [chunked](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/chunked.html)
 Chunked has upper bound size
 
-How to solve [4clojure problem 30](https://www.4clojure.com/problem/30)?
+How to solve?:
+[4clojure problem 30](https://www.4clojure.com/problem/30)
+[4clojure problem 31](https://www.4clojure.com/problem/31)
 
 Compress a sequence of characters simliar to [clojure.core/partition-by](https://clojuredocs.org/clojure.core/partition-by) 
 
