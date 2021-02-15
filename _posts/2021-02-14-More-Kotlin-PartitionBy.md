@@ -23,7 +23,8 @@ Windowed has fixed size and step
 Chunked has upper bound size
 
 How to solve?:
-[4clojure problem 30](https://www.4clojure.com/problem/30) - removes consecutive duplicates 
+
+[4clojure problem 30](https://www.4clojure.com/problem/30) - remove consecutive duplicates 
 
 [4clojure problem 31](https://www.4clojure.com/problem/31) - variable length partitions 
 
