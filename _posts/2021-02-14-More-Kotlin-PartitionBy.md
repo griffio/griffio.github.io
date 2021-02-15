@@ -23,8 +23,9 @@ Windowed has fixed size and step
 Chunked has upper bound size
 
 How to solve?:
-[4clojure problem 30](https://www.4clojure.com/problem/30)
-[4clojure problem 31](https://www.4clojure.com/problem/31)
+[4clojure problem 30](https://www.4clojure.com/problem/30) - removes consecutive duplicates 
+
+[4clojure problem 31](https://www.4clojure.com/problem/31) - variable length partitions 
 
 Compress a sequence of characters simliar to [clojure.core/partition-by](https://clojuredocs.org/clojure.core/partition-by) 
 
