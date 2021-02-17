@@ -60,4 +60,4 @@ For readers new to JVM languages, they will need to know about type erasure and 
 
 **Overall this Book** gives a very readable, well spaced out and thorough walk around Kotlin's core features that are likely to remain in 1.x versions of Kotlin and there is online exercise content to supplement [Atomic Kotlin](https://www.atomickotlin.com/exercises/)
 
-On using more advanced features or Android developers who would look to more specific books like [Effective Kotlin](https://griffio.github.io/kotlin/2020/01/10/Effective-Kotlin-Review/) or resources [Android Basics](https://developer.android.com/courses/android-basics-kotlin/unit-1)
+On using more advanced features or Android developers who would look to more specific books like [Effective Kotlin](https://griffio.github.io/kotlin/2020/01/10/Effective-Kotlin-Review/) or resources about [Android Basics](https://developer.android.com/courses/android-basics-kotlin/unit-1)
