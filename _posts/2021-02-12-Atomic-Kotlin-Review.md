@@ -29,7 +29,7 @@ Kotlin has had the benefit to pick from a field of tested language features in m
 
 A couple of the main improvements are addition of [null safe types](https://kotlinlang.org/docs/null-safety.html) and removal of the Java Generics implementation with a [new type system](https://kotlinlang.org/docs/generics.html) somewhat borrowed from C Sharp (in and out variance) and Scala's (Any and Nothing) hierarchy
 
-**Intentionally blending** the styles, and covered in this Book, of Imperative mutable data, Class Object Orientated data, Functional Algebra to manipulate data in Lambdas and collections
+**Kotlin intentionally blends** styles, and covered in this Book, of imperative mutable data, class object orientated data, functional algebra to manipulate data in lambdas and collections
 
 If you haven't been a programmer across the century, migrating from one language to another, there are some notes about where languages features and constructs originated in Kotlin 
 
@@ -41,10 +41,10 @@ Kotlin strives to be it's own language as well - for example to jettison the 'Ja
 
 **On the other-hand**, one area where Kotlin is not 100% portable with Java is the lack of a package private scope
 
-This Java default visibility scope may have been dropped as the Kotlin scoping is more suitable for cross platform use (e.g modules)
-[Debated to this day](https://discuss.kotlinlang.org/t/kotlin-to-support-package-protected-visibility/1544/62)
+This Java default visibility scope may have been dropped as the Kotlin scoping is more suitable for cross platform use (e.g modules).
+[There is still a debate to this day](https://discuss.kotlinlang.org/t/kotlin-to-support-package-protected-visibility/1544/62)
 
-Advocates of package private argue it allows a logical public interface for the package hiding of private implementation classes
+Advocates of package private argue it allows a logical public interface for the hiding of private implementation classes
 
 **The counter argument** is that it is only private if you don't look
 
