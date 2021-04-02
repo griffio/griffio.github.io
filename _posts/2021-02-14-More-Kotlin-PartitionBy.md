@@ -8,21 +8,21 @@ summary: kotlin partitionBy
 runcode: true
 ---
 
-Existing Kotlin Collection utilities that split-up the input have certain limitations
+Existing Kotlin Collection utilities that transform the input into output collections as groups or sub-groups have certain limitations
 
 ### [group-by](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/group-by.html)
-Only returns Map (Dictionary)
+Only returns Map<Key, List> (Dictionary)
 
 ### [partition](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/partition.html)
-Only returns two partitions as Pair<ArrayList, ArrayList> - can be used recursively 
+Only returns two partitions as Pair<List, List>
 
 ### [windowed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/windowed.html)
-Windowed has fixed size and step
+Windowed has fixed size and step of List<T>
 
 ### [chunked](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/chunked.html)
-Chunked has upper bound size
+Chunked has upper bound size of List<T>
 
-How to solve?:
+How to solve problems where We want variable partitions?:
 
 [4clojure problem 30](https://www.4clojure.com/problem/30) - remove consecutive duplicates 
 
