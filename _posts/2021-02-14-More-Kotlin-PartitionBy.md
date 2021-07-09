@@ -10,19 +10,19 @@ runcode: true
 
 Existing Kotlin Collection utilities that transform the input into output collections as groups or sub-groups have certain limitations
 
-### [group-by](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/group-by.html)
-Only returns Map<Key, List> (Dictionary)
+### [group-by](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/group-by.html) The key is associated with a list of corresponding elements
+Only returns Map<Key, List>
 
-### [partition](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/partition.html)
+### [partition](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/partition.html) The pair of lists contains elements partitioned by a predicate function
 Only returns two partitions as Pair<List, List>
 
-### [windowed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/windowed.html)
-Windowed has fixed size and step of List<T>
+### [windowed](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/windowed.html) The sized windows slide over the List in fixed steps  
+Windowed has fixed size and step of List<List<T>>
 
-### [chunked](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/chunked.html)
-Chunked has upper bound size of List<T>
+### [chunked](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/chunked.html) The list of sub lists not exceeding size specified  
+Chunked has upper bound size of List<List<T>>
 
-How to solve problems where We want variable partitions?:
+How to solve problems where We want output of variable sized lists?:
 
 [4clojure problem 30](https://www.4clojure.com/problem/30) - remove consecutive duplicates 
 
