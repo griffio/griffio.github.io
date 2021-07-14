@@ -19,7 +19,7 @@ The printed book also contains index pages
 
 Subtitled with "Manage aging computer systems and future proof modern ones"
 
-There are ten chapters broken down into useful detailed sections by page number
+There are **ten chapters** broken down into useful detailed sections by page number
 
 ---
 
@@ -27,14 +27,18 @@ There are ten chapters broken down into useful detailed sections by page number
 
 The book doesn't actually adovocate for destroying legacy systems, implementing a scorched earth approach as the title states - rather it's about identifying and adding value to them over time. This is a book, mainly, about large legacy projects and about cultivating mature systems that can be maintained.
 
-To survive the apocalypse "If you don't cannibalize yourself, someone else will." - Steve Jobs
+To survive the apocalypse *"If you don't cannibalize yourself, someone else will." - Steve Jobs*
 
 **Legacy systems** exist in Organisations because they were successful in their era of inception and contemporary technology has moved on leaving older systems marooned. Where as older systems that are not used can simply be turned off.
 
-**The main contents** of the book are engineering transformation strategies that can be applied to Organisations with these questions 
+**The main contents** of the book are engineering transformation strategies that can be applied to Organisations with these questions:
+
 What the stages are?
+
 What the problems and messes are?
+
 What the solutions are?
+
 What the costs are?
 
 The book provides thought exercises around the above questions
