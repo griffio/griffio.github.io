@@ -24,4 +24,4 @@ The book has ten chapters and is completed by a useful detailed contents section
 
 ---
 
-**How to survive* a legacy apocalypse?**
+**How to survive a legacy apocalypse?**
