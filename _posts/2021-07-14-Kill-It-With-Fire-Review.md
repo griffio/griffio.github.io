@@ -9,15 +9,19 @@ summary: review of Kill It With Fire
 
 ![Kill It With Fire](/public/kitwf.jpg)
 
+[Kill It With Fire](https://nostarch.com/kill-it-fire)
+
 This is a reference to the first printed edition 2021 (227 pages)
 
-Also contains index pages
+Book also contains index pages
 
 From Author:
 Marianne Bellotti
 
+Subtitled with Manage aging computer systems and future proof modern ones
+
+The book has ten chapters and is completed by a useful detailed contents section with page numbers 
+
 ---
 
-Manage aging computer systems and future proof modern ones
-
-How to survice a legacy apocalypse
+**How to survive* a legacy apocalypse?**
