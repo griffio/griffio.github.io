@@ -29,9 +29,11 @@ The book doesn't actually adovocate for destroying legacy systems, implementing 
 
 To survive the apocalypse *"If you don't cannibalize yourself, someone else will." - Steve Jobs*
 
-**Legacy systems** exist in Organisations because they were successful in their era of inception and contemporary technology has moved on leaving older systems marooned. Where as older systems that are not used can simply be turned off.
+**Legacy systems** exist in Organisations because they were successful in their era of inception and contemporary technology has moved on leaving these older systems marooned. Where as older systems that are not used can simply be turned off.
 
-**The main contents** of the book are engineering transformation strategies that can be applied to Organisations with these questions:
+The book looks at examples of first contact with a legacy system (e.g a mainframe or database) and ways of incrementally gaining "wins" back to a maintainable state. There are no [Silver Bullets](https://en.wikipedia.org/wiki/No_Silver_Bullet).
+
+**The main contents** of the book are engineering transformation strategies of legacy systems that can be applied to Organisations with these questions:
 
 What the stages are?
 
@@ -43,7 +45,7 @@ What the costs are?
 
 The book provides thought exercises around the above questions
 
-In this book, there are no code snippets or specific techniques for programming languages - such a book, for example would be 
+This short book doesn't contain code snippets or techniques for specific programming languages - such a book, for example would be 
 [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
 
 **In the conclusion** the book states the hardest parts with turning legacy systems into maintained systems are interconnected with the Organisational structures and can be addressed with the correct feedback loops that re-inforces the value the systems has for the owners 
