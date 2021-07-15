@@ -48,8 +48,9 @@ The book provides thought exercises around the above questions
 This short book doesn't contain code snippets or techniques for specific programming languages - such a book, for example would be 
 [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
 
-**In the excellent conclusion** the book states the hardest parts with turning legacy systems into maintained systems are interconnected with the Organisational structures and can be addressed with the correct feedback loops that re-inforces the value the systems has for the owners.
-Legacy systems, that are so old, they have been disrupted by whole new economics and newer solutions will have appeared.
+**In the excellent conclusion** the book states the hardest parts with turning legacy systems into maintained systems are interconnected with the Organisational structures and can be addressed with the correct feedback loops that re-inforces the value the system has for the owners.
+The flaw with legacy systems is they are often built with the assumption that it will be the last and ultimate system.
+Legacy systems, that are so old, have been disrupted by whole new economics and newer solutions will have appeared.
 
 Perhaps We are headed toward Verner Vinge's far future programmer-archeologist of the mature programming environment - [the-arrival-of-the-programmer-archeologist](https://aallan.medium.com/the-arrival-of-the-programmer-archeologist)
 
