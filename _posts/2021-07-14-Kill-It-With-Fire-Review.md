@@ -51,3 +51,4 @@ In this book, there are no code snippets or specific techniques for programming 
 Perhaps We are headed toward Verner Vinge's far future programmer-archeologist of the mature programming environment - [the-arrival-of-the-programmer-archeologist](https://aallan.medium.com/the-arrival-of-the-programmer-archeologist)
 
 
+
