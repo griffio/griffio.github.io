@@ -83,7 +83,11 @@ title: "Software Development Books"
   - Core concepts for self-taught developers
 - [CSS Secrets](https://www.oreilly.com/library/view/css-secrets/9781449372736/)
   - Rather than focus on design, CSS Secrets shows you how to solve problems with code
+- [Mazes for Programmers](https://pragprog.com/titles/jbmaze/mazes-for-programmers/) 
+  - Code your own mazes in the Ruby programming language 
 
 ### 2020s
 - [Svelte and Sapper in Action](https://www.manning.com/books/svelte-and-sapper-in-action)
   - Framework-less. Imagine web apps with fast browser load times that also offer amazing developer productivity and require less code to create
+- [Kill It With Fire](https://nostarch.com/kill-it-fire)
+  - Engineering Management book - Manage Aging Computer Systems And Future Proof Modern Ones 
