@@ -29,7 +29,7 @@ The book doesn't actually adovocate for destroying legacy systems, implementing 
 
 To survive the apocalypse *"If you don't cannibalize yourself, someone else will." - Steve Jobs*
 
-**Legacy systems** exist in Organisations because they were successful in their era of inception and contemporary technology has moved on leaving these older systems marooned. Where as older systems that are not used can simply be turned off.
+**Legacy systems** exist in Organisations because they were successful in their era of inception and contemporary technology has moved on leaving these older systems marooned. Where as older systems that are not used can simply be turned off or cease being manufactured (e.g the demise of Apple's iPod)
 
 The book looks at examples of first contact with a legacy system (e.g a mainframe or database) and ways of incrementally gaining "wins" back to a maintainable state. There are no [Silver Bullets](https://en.wikipedia.org/wiki/No_Silver_Bullet).
 
