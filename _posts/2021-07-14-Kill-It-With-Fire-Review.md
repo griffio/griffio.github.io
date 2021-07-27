@@ -52,7 +52,7 @@ This short book doesn't contain code snippets or techniques for specific program
 The flaw with legacy systems is they are often built with the assumption that it will be the last and ultimate system.
 Legacy systems, that are so old, have been disrupted by whole new economics and newer solutions will have appeared.
 
-Perhaps We are headed toward Verner Vinge's far future programmer-archeologist of the mature programming environment - [the-arrival-of-the-programmer-archeologist](https://aallan.medium.com/the-arrival-of-the-programmer-archeologist-2ee17c5dcca5)
+Perhaps We are headed toward Vernor Vinge's far future programmer-archeologist of the mature programming environment - [the-arrival-of-the-programmer-archeologist](https://aallan.medium.com/the-arrival-of-the-programmer-archeologist-2ee17c5dcca5)
 
 
 
