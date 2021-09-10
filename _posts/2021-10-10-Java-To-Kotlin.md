@@ -23,7 +23,7 @@ There are **twenty-three chapters** that take a refactoring, mostly the Java idi
 
 ---
 
-Not surprisingly, there is a lot of code in the book and is rendered quite small (compared with [Atomic Kotlin](https://griffio.github.io/kotlin/2021/02/12/Atomic-Kotlin-Review/) -  consideration should be made if you would prefer to get the digital version only to follow along better
+Not surprisingly, there is a lot of code in the book and is rendered quite small as the examples are fully production ready - consideration should be made if you would prefer to get the digital version only to follow along better
 
 **This is a strategy book** about refactoring from Java code and also refactoring of Java developers themselves that are motivated enough to break out of the mindset
 
@@ -32,21 +32,31 @@ and for the legions of Android developers - it is not about Android either, Mobi
 
 ** Kotlin has enough ** "taste" that it appeals to the Pythonista and possibly has encouraged for the first time new developers onto the JVM 
 
-The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the intial inertia of the enterprise glory years 15-20 years ago still carry it on. The "grain" of the language shows through - Java "varnished" over with some Kotlin is the place to start 
+The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the intial inertia of the enterprise glory years 15-20 years ago still carry it on. 
 
-The book takes the initial Java to Kotlin conversion that the Intellij IDEA can perform
+The "grain" of the language shows through - Java "varnished" over with some Kotlin is the place to start 
 
 * Kotlinify *
-
-Transformation or Kotlinate 
 
 When Java began to rely on annotation processors, e.g. Lombok, AutoValue etc, to become tolerable - these need to be built into the compiler
 taking immutable values and transforming with functions.
 
+The book takes the initial Java to Kotlin conversion that the Intellij IDEA can perform
+
+To keep Transforming or to "Kotlinate" on existing Kotlin code is also possible
+
 ** Chapter 21 ** Exceptions to Values
-This takes are refactoring 
+This takes a refactoring for handling failure 
+
+In Kotlin - the `null` type is still a valid return value to communicate to the caller and is often than fire bucket exception throwing
+Error checking in local functions that provide data to the rest of the program 
+Danny Thorpe's excellent [Delphi Component Design - Rules of thumb for implementing exception handlers](https://dl.acm.org/doi/book/10.5555/524370)
+
 e.g Result<Data, Error>
-[Scala 3 union](https://docs.scala-lang.org/scala3/book/types-union.html) types are the most concise such that `Data | Error` without a clunky enclosing type
+
+Kotlin the language still has places to go where cherry picking some transformation features are useful
+
+[Scala 3 union](https://docs.scala-lang.org/scala3/book/types-union.html) types are the most concise such that `Data | Error` without a clunky enclosing type is a great improvement
 
 ---
 
