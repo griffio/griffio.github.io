@@ -29,11 +29,11 @@ There are **twenty-three chapters** that take a refactoring, starting mostly in 
 
 Though this is not a Kotlin learning book aimed at beginners - it avoids knowing about [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html), libraries and frameworks that are evolving
 
-For the legions of Android developers - it is not about Android either, however Mobile developers on IOS (Swift) and Android (Kotlin) can benefit
+For the legions of Android developers - it is not about Android either, however Mobile developers on IOS (Swift) and Android (Java) can benefit
 
 **Kotlin has enough** "taste" that it appeals to the Pythonista and possibly has encouraged for the first time new developers onto the JVM 
 
-The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the initial inertia of the Enterprise glory years 15-20 years ago still carry it along 
+The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the initial inertia of the Enterprise 15-20 years ago carry it along 
 
 The "grain" of the language still shows through - Java "varnished" over with some Kotlin is the place to start 
 
@@ -65,7 +65,7 @@ e.g Result<Data, Error>
 
 ---
 
-This book is beneficial as the reader is getting at least 5 years of Kotlin design experiences from the authors and skills in refactoring 
+This book is beneficial to the reader, getting at least 5 years of Kotlin design experience from the authors and skills in testing and refactoring 
 
 **The key teaching** from this book is that keeping a system building and working is the most valuable refactoring
 
