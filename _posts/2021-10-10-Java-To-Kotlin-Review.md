@@ -3,7 +3,7 @@ layout: post
 title: "Java to Kotlin (A Refactoring Guidebook) Review"
 category: engineering
 tags: review
-published: false
+published: true
 summary: review of Java to Kotlin
 ---
 
@@ -38,6 +38,8 @@ The "grain" of the language shows through - Java "varnished" over with some Kotl
 
 * Kotlinify *
 
+Kotlin support for simple stand-alone top level functions mean We are not in Java-land anymore
+
 When Java began to rely on annotation processors, e.g. Lombok, AutoValue etc, to become tolerable - these need to be built into the compiler
 taking immutable values and transforming with functions.
 
@@ -46,20 +48,23 @@ The book takes the initial Java to Kotlin conversion that the Intellij IDEA can 
 To keep Transforming or to "Kotlinate" on existing Kotlin code is also possible
 
 ** Chapter 21 ** Exceptions to Values
-This takes a refactoring for handling failure 
 
-In Kotlin - the `null` type is still a valid return value to communicate to the caller and is often than fire bucket exception throwing
-Error checking in local functions that provide data to the rest of the program 
+This takes a refactoring for handling failure in a program and provides great details
+
+As Kotlin doesn't support checked exceptions, error detection on caller using some kind of value based idiom is preferred 
+
+In Kotlin - the `null` type is still a valid return value to communicate to the caller, often better than fire-bucket exception throwing, however there is no may to provide any information. Error checking in local functions that provide data to the rest of the program is still required and throwing Exceptions should be performed at the perimeters of the program - see 
 Danny Thorpe's excellent [Delphi Component Design - Rules of thumb for implementing exception handlers](https://dl.acm.org/doi/book/10.5555/524370)
+
+Kotlin doesn't have a Either or [Result](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-result/) implementation that represents a union type 
 
 e.g Result<Data, Error>
 
-Kotlin the language still has places to go where cherry picking some transformation features are useful
-
-[Scala 3 union](https://docs.scala-lang.org/scala3/book/types-union.html) types are the most concise such that `Data | Error` without a clunky enclosing type is a great improvement
+Kotlin the language still has places to go where cherry picking some transformation features are useful, for example [Scala 3 union](https://docs.scala-lang.org/scala3/book/types-union.html) types are the most concise such that it becomes `Data | Error` without a clunky enclosing Either type is a great improvement
 
 ---
 
-The key take-away is that keeping a system building and working is the most valuable refactoring
+This book is beneficial as the reader is getting at least 5 years of Kotlin design experiences from the authors and skills in refactoring 
 
-This book is beneficial as You are getting at least 5 years of Kotlin design experiences from the authors and skills in refactoring 
+The key teaching from this book is that keeping a system building and working is the most valuable refactoring
+
