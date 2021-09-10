@@ -33,7 +33,7 @@ For the legions of Android developers - it is not about Android either, however 
 
 **Kotlin has enough** "taste" that it appeals to the Pythonista and possibly has encouraged for the first time new developers onto the JVM 
 
-The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the intial inertia of the Enterprise glory years 15-20 years ago still carry it along 
+The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the initial inertia of the Enterprise glory years 15-20 years ago still carry it along 
 
 The "grain" of the language still shows through - Java "varnished" over with some Kotlin is the place to start 
 
@@ -48,9 +48,9 @@ Kotlin support for simple stand-alone top level functions mean We are not in Jav
 
 To keep transforming or to "Kotlinate" on existing Kotlin code is also encouraged
 
-**Chapter 2** Exceptions to Values
+**Chapter 21** Exceptions to Values
 
-This takes a detailed refactoring for handling failure in a program and provides great insights
+This chapter, one example, takes a detailed refactoring for handling failure in a program and provides great insights
 
 As Kotlin doesn't support checked exceptions, error detection by the caller using some kind of value based idiom is preferred 
 
