@@ -23,20 +23,16 @@ There are **twenty-three chapters** that take a refactoring, mostly the Java idi
 
 ---
 
-Not surprisingly, there is a lot of code in the book and is rendered quite small (compared with [Atomic Kotlin](https://griffio.github.io/kotlin/2021/02/12/Atomic-Kotlin-Review/) -  consideration should be made if you would prefer to get the digital version only
+Not surprisingly, there is a lot of code in the book and is rendered quite small (compared with [Atomic Kotlin](https://griffio.github.io/kotlin/2021/02/12/Atomic-Kotlin-Review/) -  consideration should be made if you would prefer to get the digital version only to follow along better
 
-**This is a strategy book** about refactoring from Java code and also refactoring if Java developers themselves that are motivated enough to break out
+**This is a strategy book** about refactoring from Java code and also refactoring of Java developers themselves that are motivated enough to break out of the mindset
 
 Though this is not a Kotlin learning book aimed at beginners - it avoids knowing about Coroutines, libraries and frameworks that are evolving 
-and for the legions of Android developers - it is not about Android either
+and for the legions of Android developers - it is not about Android either, Mobile developers on IOS (Swift) and Android (Kotlin) can benefit.
 
-Kotlin has enough "taste" that it appeals to maybe Python developers and possibly has encouraged for the first time new developers onto the JVM 
+** Kotlin has enough ** "taste" that it appeals to the Pythonista and possibly has encouraged for the first time new developers onto the JVM 
 
-Mobile developers on IOS (Swift) and Android (Kotlin) can benefit
-
-The Java language is enough to repel new adoption and the intial inertia of the enterprise glory years 15-20 years ago still carry it on
-
-The "grain" of the language shows through - Java "varnished" over with some Kotlin is the place to start 
+The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the intial inertia of the enterprise glory years 15-20 years ago still carry it on. The "grain" of the language shows through - Java "varnished" over with some Kotlin is the place to start 
 
 The book takes the initial Java to Kotlin conversion that the Intellij IDEA can perform
 
@@ -50,7 +46,9 @@ taking immutable values and transforming with functions.
 ** Chapter 21 ** Exceptions to Values
 This takes are refactoring 
 e.g Result<Data, Error>
-[Scala 3 union](https://docs.scala-lang.org/scala3/book/types-union.html) types are the most consice 
+[Scala 3 union](https://docs.scala-lang.org/scala3/book/types-union.html) types are the most concise such that `Data | Error` without a clunky enclosing type
+
+---
 
 The key take-away is that keeping a system building and working is the most valuable refactoring
 
