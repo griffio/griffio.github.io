@@ -27,27 +27,28 @@ There are **twenty-three chapters** that take a refactoring, starting mostly in 
 
 **This is a strategy book** about refactoring from Java code and also refactoring of Java developers themselves that are motivated enough to break out of the mindset
 
-Though this is not a Kotlin learning book aimed at beginners - it avoids knowing about Coroutines, libraries and frameworks that are evolving 
-and for the legions of Android developers - it is not about Android either, however Mobile developers on IOS (Swift) and Android (Kotlin) can benefit.
+Though this is not a Kotlin learning book aimed at beginners - it avoids knowing about [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html), libraries and frameworks that are evolving
+
+For the legions of Android developers - it is not about Android either, however Mobile developers on IOS (Swift) and Android (Kotlin) can benefit
 
 **Kotlin has enough** "taste" that it appeals to the Pythonista and possibly has encouraged for the first time new developers onto the JVM 
 
-The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the intial inertia of the Enterprise glory years 15-20 years ago still carry it on. 
+The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the intial inertia of the Enterprise glory years 15-20 years ago still carry it along 
 
 The "grain" of the language still shows through - Java "varnished" over with some Kotlin is the place to start 
 
-**To Kotlinify **
+**To Kotlinify**
 
 Kotlin support for simple stand-alone top level functions mean We are not in Java-land anymore
 
-When Java began to rely on annotation processors, e.g. Lombok, AutoValue etc, to become tolerable - these need to be built into the compiler
-taking immutable values and transforming with functions.
+When Java began to rely on annotation processors, e.g. Lombok, AutoValue etc, to become tolerable, that need to be built into the compiler
+taking immutable values and transforming with functions a new language is required
 
 The book takes the initial Java to Kotlin conversion that the Intellij IDEA can perform
 
 To keep Transforming or to "Kotlinate" on existing Kotlin code is also possible
 
-**Chapter 2 ** Exceptions to Values
+**Chapter 2** Exceptions to Values
 
 This takes a detailed refactoring for handling failure in a program and provides great details
 
