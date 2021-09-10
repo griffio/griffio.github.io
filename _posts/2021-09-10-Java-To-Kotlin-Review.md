@@ -39,29 +39,29 @@ The "grain" of the language still shows through - Java "varnished" over with som
 
 **To Kotlinify**
 
-Kotlin support for simple stand-alone top level functions mean We are not in Java-land anymore
-
 When Java began to rely on annotation processors, e.g. Lombok, AutoValue etc, to become tolerable, that need to be built into the compiler
-taking immutable values and transforming with functions a new language is required
+taking immutable values and transforming with functions - then a new language is required
 
 The book takes the initial Java to Kotlin conversion that the Intellij IDEA can perform
 
-To keep Transforming or to "Kotlinate" on existing Kotlin code is also possible
+Kotlin support for simple stand-alone top level functions mean We are not in Java-land anymore
+
+To keep transforming or to "Kotlinate" on existing Kotlin code is also encouraged
 
 **Chapter 2** Exceptions to Values
 
-This takes a detailed refactoring for handling failure in a program and provides great details
+This takes a detailed refactoring for handling failure in a program and provides great insights
 
-As Kotlin doesn't support checked exceptions, error detection on caller using some kind of value based idiom is preferred 
+As Kotlin doesn't support checked exceptions, error detection by the caller using some kind of value based idiom is preferred 
 
-In Kotlin - the `null` type is still a valid return value to communicate to the caller, often better than fire-bucket exception throwing, however there is no may to provide any information. Error checking in local functions that provide data to the rest of the program is still required and throwing Exceptions should be performed at the perimeters of the program - see 
+In Kotlin - the `null` type is still a valid return value to communicate to the caller, often better than fire-bucket exception throwing, however there is no way to provide any error information. Error checking in local functions that provide data to the rest of the program is still required and throwing Exceptions should be performed at the perimeters of the program - see 
 Danny Thorpe's excellent [Delphi Component Design - Rules of thumb for implementing exception handlers](https://dl.acm.org/doi/book/10.5555/524370)
 
-Kotlin doesn't have a Either or [Result](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-result/) implementation that represents a union type 
+Kotlin doesn't have an Either or [Result](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-result/) implementation that represents a union type 
 
 e.g Result<Data, Error>
 
-**Kotlin the language** still has places to go where cherry picking some transformation features are useful, for example [Scala 3 union](https://docs.scala-lang.org/scala3/book/types-union.html) types are the most concise such that it becomes `Data | Error` without a clunky enclosing Either type is a great improvement
+**Kotlin the language** still has places to go where cherry picking some language transformation features are useful, for example [Scala 3 union](https://docs.scala-lang.org/scala3/book/types-union.html) types are the most concise representation such that it becomes `Data | Error` without the clunky enclosing Either type and is a great improvement
 
 ---
 
