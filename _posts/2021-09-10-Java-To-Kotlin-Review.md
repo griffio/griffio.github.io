@@ -13,7 +13,7 @@ summary: review of Java to Kotlin
 
 From Authors:- Duncan McGregor & Nat Pryce
 
-This is a reference to the first printed edition August 2021 (401 pages)
+This is a reference to the first O'Reilly printed edition (ISBN: 9781492082279) August 2021 (401 pages)
 
 The printed book also contains the Bibliography and Index pages
 
