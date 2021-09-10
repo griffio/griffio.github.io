@@ -7,9 +7,9 @@ published: true
 summary: review of Java to Kotlin
 ---
 
-![Java to Kotlin](/public/java-to-kotlin.jpg)
-
 [Java to Kotlin](https://www.oreilly.com/library/view/java-to-kotlin/9781492082262/)
+
+![Java to Kotlin](/public/java-to-kotlin.jpg)
 
 From Authors:- Duncan McGregor & Nat Pryce
 
@@ -19,24 +19,24 @@ The printed book also contains the Bibliography and Index pages
 
 Subtitled with "A Refactoring Guidebook"
 
-There are **twenty-three chapters** that take a refactoring, mostly the Java idiom, from one concept "to" another concept
+There are **twenty-three chapters** that take a refactoring, starting mostly in the Java idiom, from one concept "to" another concept
 
 ---
 
-Not surprisingly, there is a lot of code in the book and is rendered quite small as the examples are fully production ready - consideration should be made if you would prefer to get the digital version only to follow along better
+**Not surprisingly**, there is a lot of code in the book and is rendered quite small as the examples are fully production ready - consideration should be made if you would prefer to get the digital version only to follow along better
 
 **This is a strategy book** about refactoring from Java code and also refactoring of Java developers themselves that are motivated enough to break out of the mindset
 
 Though this is not a Kotlin learning book aimed at beginners - it avoids knowing about Coroutines, libraries and frameworks that are evolving 
-and for the legions of Android developers - it is not about Android either, Mobile developers on IOS (Swift) and Android (Kotlin) can benefit.
+and for the legions of Android developers - it is not about Android either, however Mobile developers on IOS (Swift) and Android (Kotlin) can benefit.
 
-** Kotlin has enough ** "taste" that it appeals to the Pythonista and possibly has encouraged for the first time new developers onto the JVM 
+**Kotlin has enough** "taste" that it appeals to the Pythonista and possibly has encouraged for the first time new developers onto the JVM 
 
-The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the intial inertia of the enterprise glory years 15-20 years ago still carry it on. 
+The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the intial inertia of the Enterprise glory years 15-20 years ago still carry it on. 
 
-The "grain" of the language shows through - Java "varnished" over with some Kotlin is the place to start 
+The "grain" of the language still shows through - Java "varnished" over with some Kotlin is the place to start 
 
-* Kotlinify *
+**To Kotlinify **
 
 Kotlin support for simple stand-alone top level functions mean We are not in Java-land anymore
 
@@ -47,9 +47,9 @@ The book takes the initial Java to Kotlin conversion that the Intellij IDEA can 
 
 To keep Transforming or to "Kotlinate" on existing Kotlin code is also possible
 
-** Chapter 21 ** Exceptions to Values
+**Chapter 2 ** Exceptions to Values
 
-This takes a refactoring for handling failure in a program and provides great details
+This takes a detailed refactoring for handling failure in a program and provides great details
 
 As Kotlin doesn't support checked exceptions, error detection on caller using some kind of value based idiom is preferred 
 
@@ -60,11 +60,11 @@ Kotlin doesn't have a Either or [Result](https://kotlinlang.org/api/latest/jvm/s
 
 e.g Result<Data, Error>
 
-Kotlin the language still has places to go where cherry picking some transformation features are useful, for example [Scala 3 union](https://docs.scala-lang.org/scala3/book/types-union.html) types are the most concise such that it becomes `Data | Error` without a clunky enclosing Either type is a great improvement
+**Kotlin the language** still has places to go where cherry picking some transformation features are useful, for example [Scala 3 union](https://docs.scala-lang.org/scala3/book/types-union.html) types are the most concise such that it becomes `Data | Error` without a clunky enclosing Either type is a great improvement
 
 ---
 
 This book is beneficial as the reader is getting at least 5 years of Kotlin design experiences from the authors and skills in refactoring 
 
-The key teaching from this book is that keeping a system building and working is the most valuable refactoring
+**The key teaching** from this book is that keeping a system building and working is the most valuable refactoring
 
