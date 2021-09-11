@@ -45,7 +45,7 @@ The book takes the initial Java to Kotlin conversion that the Intellij IDEA can 
 
 **Terraforming Java** into Planet Kotlin with simple top level functions mean We are not in Java-land anymore and takes Us far enough into the [Goldilocks Zone](https://exoplanets.nasa.gov/resources/323/goldilocks-zone/) to be useful
 
-To keep transforming or to "Kotlinate" on existing Kotlin code is also encouraged
+To keep transforming or to "Kotlinate" existing Object-Orientated Kotlin code is also encouraged in Chapter 16 (Intefaces to Functions)
 
 **Chapter 21** Exceptions to Values
 
