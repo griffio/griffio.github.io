@@ -43,7 +43,7 @@ When Java began to rely on annotation processors to become tolerable (e.g. Lombo
 
 The book takes the initial Java to Kotlin conversion that the Intellij IDEA can perform
 
-Kotlin support for simple stand-alone top level functions mean We are not in Java-land anymore but takes Us far enough into a [Goldilocks Zone](https://exoplanets.nasa.gov/resources/323/goldilocks-zone/)
+**Terraforming Java** into Planet Kotlin - even support for simple stand-alone top level functions mean We are not in Java-land anymore but takes Us far enough into the [Goldilocks Zone](https://exoplanets.nasa.gov/resources/323/goldilocks-zone/)
 
 To keep transforming or to "Kotlinate" on existing Kotlin code is also encouraged
 
