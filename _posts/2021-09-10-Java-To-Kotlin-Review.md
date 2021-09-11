@@ -45,11 +45,11 @@ The book takes the initial Java to Kotlin conversion that the Intellij IDEA can 
 
 **Terraforming Java** into Planet Kotlin with simple top level functions mean We are not in Java-land anymore and takes Us far enough into the [Goldilocks Zone](https://exoplanets.nasa.gov/resources/323/goldilocks-zone/) to be useful
 
-To keep transforming or to "Kotlinate" existing Object-Orientated Kotlin code is also encouraged in Chapter 16 (Intefaces to Functions)
+To keep transforming or to "Kotlinate" existing Object-Orientated Kotlin is also encouraged in **Chapter 16** (Intefaces to Functions)
 
-**Chapter 21** Exceptions to Values
+**Chapter 21** (Exceptions to Values)
 
-This chapter, one example, takes a detailed refactoring for handling failure in a program and provides great insights
+This chapter, for example, takes a detailed refactoring for handling failure in a program and provides great insights
 
 As Kotlin doesn't support checked exceptions, error detection by the caller using some kind of value based idiom is preferred 
 
