@@ -11,11 +11,13 @@ summary: review of Java to Kotlin
 
 ![Java to Kotlin](/public/java-to-kotlin.jpg)
 
-From Authors:- Duncan McGregor & Nat Pryce
+From Authors:- Duncan McGregor & Nat Pryce 
 
 This is a reference to the first O'Reilly printed edition (ISBN: 9781492082279) August 2021 (401 pages)
 
-The printed book also contains the Bibliography and Index pages
+The printed book also contains a bibliography and index pages
+
+The book web site https://java-to-kotlin.dev
 
 Subtitled with "A Refactoring Guidebook"
 
@@ -33,7 +35,7 @@ For the legions of Android developers - it is not about Android either, however 
 
 **Kotlin has enough** "taste" that it appeals to the Pythonista and possibly has encouraged, in a long time, new developers onto the JVM 
 
-The Java language is enough to repel new adoption even with [additional features](https://openjdk.java.net/jeps/359), with the initial inertia of adoption in Enterprise, 15-20 years ago, to carry it along 
+The Java language is enough to repel new adoption even with [additional features](https://openjdk.java.net/jeps/359), with the initial inertia of deployment in Enterprise, 15-20 years ago, to carry it along 
 
 The "grain" of the language still shows through - Java "varnished" over with some Kotlin is the place to start 
 
