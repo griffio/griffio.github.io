@@ -31,9 +31,9 @@ Though this is not a Kotlin learning book aimed at beginners - it avoids knowing
 
 For the legions of Android developers - it is not about Android either, however Mobile developers on IOS (Swift) and Android (Java) can benefit
 
-**Kotlin has enough** "taste" that it appeals to the Pythonista and possibly has encouraged for the first time new developers onto the JVM 
+**Kotlin has enough** "taste" that it appeals to the Pythonista and possibly has encouraged, in a long time, new developers onto the JVM 
 
-The Java language is enough to repel new adoption, even with [new features](https://openjdk.java.net/jeps/359), and the initial inertia of the Enterprise 15-20 years ago carry it along 
+The Java language is enough to repel new adoption even with [additional features](https://openjdk.java.net/jeps/359), with the initial inertia of adoption in Enterprise, 15-20 years ago, to carry it along 
 
 The "grain" of the language still shows through - Java "varnished" over with some Kotlin is the place to start 
 
