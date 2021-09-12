@@ -23,7 +23,7 @@ There are **twenty-three chapters** that take a refactoring, starting mostly in 
 
 ---
 
-**Not surprisingly**, there is a lot of code in the book and is rendered quite small as the examples are fully production ready - consideration should be made if you would prefer to get the digital version only to follow along better. A supplemental web site is [java-to-kotlin.dev](https://java-to-kotlin.dev)
+**Not surprisingly**, there is a lot of code in the book and is rendered quite small as the examples are nearly production ready - consideration should be made if you would prefer to get the digital version only to follow along better. A supplemental web site is [java-to-kotlin.dev](https://java-to-kotlin.dev)
 
 **This is a strategy book** about refactoring from Java code and also refactoring of Java developers themselves that are motivated enough to break out of the mindset
 
@@ -39,11 +39,11 @@ The "grain" of the language still shows through - Java "varnished" over with som
 
 **To Kotlinify**
 
-When Java began to rely on annotation processors to become tolerable (e.g. Lombok, AutoValue etc), the benefits in taking immutable values and transforming with functions has to be built into the compiler - then a new language is required
+When Java began to rely on annotation processors to become tolerable (e.g. Lombok, AutoValue etc), the benefits in taking immutable values and transforming with functions has to be built into the compiler, then a new language is required
 
-The book takes the initial Java to Kotlin conversion that the Intellij IDEA can perform
+The early chapters of the book take the initial Java to Kotlin conversions that Intellij IDEA can perform and adds **Chapter 4** (Optional to Nullable) to show how Kotlin fixes a [billon dollar IOU](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/) of Java Null Pointers
 
-**Terraforming Java** into Planet Kotlin with simple top level functions mean We are not in Java-land anymore and takes Us far enough into the [Goldilocks Zone](https://exoplanets.nasa.gov/resources/323/goldilocks-zone/) to be useful
+**Terraforming Java** into Planet Kotlin with only simple top level functions takes Us far enough into the [Goldilocks Zone](https://exoplanets.nasa.gov/resources/323/goldilocks-zone/) to be useful
 
 To keep transforming or to "Kotlinate" existing Object-Orientated Kotlin is also encouraged in **Chapter 16** (Intefaces to Functions)
 
