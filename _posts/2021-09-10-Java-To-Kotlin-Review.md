@@ -43,7 +43,7 @@ When Java began to rely on annotation processors to become tolerable (e.g. Lombo
 
 The early chapters of the book take the initial Java to Kotlin conversions that Intellij IDEA can perform and adds **Chapter 4** (Optional to Nullable) to show how Kotlin fixes a [billon dollar IOU](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/) of Java Null Pointers
 
-**Terraforming Java** into Planet Kotlin with only simple top level functions takes Us far enough into the [Goldilocks Zone](https://exoplanets.nasa.gov/resources/323/goldilocks-zone/) to be useful
+**Terraforming Java** into Planet Kotlin with only simple top level functions takes Us far enough into the Functional [Goldilocks Zone](https://exoplanets.nasa.gov/resources/323/goldilocks-zone/) to be useful
 
 To keep transforming or to "Kotlinate" existing Object-Orientated Kotlin is also encouraged in **Chapter 16** (Intefaces to Functions)
 
