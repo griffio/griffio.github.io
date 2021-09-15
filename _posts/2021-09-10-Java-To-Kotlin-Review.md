@@ -64,7 +64,7 @@ e.g Result<Data, Error>
 
 ---
 
-This book is beneficial to the reader, that goes beyond syntax changes, by getting at least 5 years of Kotlin design experience from the authors and their skills in testing and refactoring towards functional thinking
+**This book is valuable** to the reader, that goes beyond syntax changes, by getting at least 5 years of Kotlin design experience from the authors and their skills in testing and refactoring towards functional thinking
 
 **The key teaching** from this book is that keeping a system building and working is the most valuable refactoring
 
