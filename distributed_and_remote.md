@@ -333,3 +333,5 @@ https://circleci.com/blog/what-it-means-to-be-remote-first-vs-remote-friendly/
 https://www.seanblanda.com/our-remote-work-future-is-going-to-suck/
 
 https://medium.com/building-brex/remote-first-at-brex-1252cb30e347
+
+https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/
