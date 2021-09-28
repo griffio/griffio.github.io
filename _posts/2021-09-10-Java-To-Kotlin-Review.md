@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Java to Kotlin (A Refactoring Guidebook) Review"
+title: "Java to Kotlin A Refactoring Guidebook Review"
 category: engineering
 tags: review
 published: true
-summary: review of Java to Kotlin
+summary: "Review of Java to Kotlin Refactoring Guidebook"
 ---
 
 [Java to Kotlin](https://www.oreilly.com/library/view/java-to-kotlin/9781492082262/)
