@@ -9,3 +9,5 @@ https://www.youtube.com/watch?v=CDDYeJznOhY - Rendering game worlds in text - Fi
 https://www.youtube.com/watch?v=lUgI5AGWxD8 - The Hype and the Hope of Microservices - John A. De Goes
 
 https://www.youtube.com/watch?v=UFn82w-97kI -  Datasette and Dogsheep: Liberating your personal data - Simon Willson
+
+https://www.youtube.com/watch?v=3HxVMGaiZbc - ClojureScript in the Age of TypeScript — David Nolen
