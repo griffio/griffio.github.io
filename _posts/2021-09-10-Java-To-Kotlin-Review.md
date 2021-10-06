@@ -53,7 +53,7 @@ This chapter, for example, takes a detailed refactoring for handling failure in 
 
 As Kotlin doesn't support checked exceptions, error detection by the caller using some kind of value based idiom is preferred 
 
-In Kotlin - the `null` type is still a valid return value to communicate to the caller, often better than fire-bucket exception throwing, however there is no way to provide any error information. Error checking in local functions that provide data to the rest of the program is still required and throwing Exceptions should be performed at the perimeters of the program - see 
+**In Kotlin** - the `null` type is still a valid return value to communicate to the caller, often better than fire-bucket exception throwing, however there is no way to provide any error information. Error checking in local functions that provide data to the rest of the program is still required and throwing Exceptions should be performed at the perimeters of the program - see 
 Danny Thorpe's excellent [Delphi Component Design - Rules of thumb for implementing exception handlers](https://dl.acm.org/doi/book/10.5555/524370)
 
 Kotlin doesn't have an Either or [Result](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-result/) implementation that represents a union type 
