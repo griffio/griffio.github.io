@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=3HxVMGaiZbc - ClojureScript in the Age of TypeSc
 https://www.youtube.com/watch?v=EFkpmFt61Jo - Journey to the Centre of the JVM — Daniel Spiewak
 
 https://www.youtube.com/watch?v=cBfz4W_KvEI - Simple, Fast Frontends With htmx - Carson Gross
+
+https://www.youtube.com/watch?v=y901lgIuRx0 - A Tour of the Modern Java Platform - Bruce Eckel/James Ward
