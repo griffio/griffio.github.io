@@ -19,3 +19,5 @@ https://www.youtube.com/watch?v=cBfz4W_KvEI - Simple, Fast Frontends With htmx -
 https://www.youtube.com/watch?v=y901lgIuRx0 - A Tour of the Modern Java Platform - Bruce Eckel/James Ward
 
 https://www.youtube.com/watch?v=EfL1Fs9PF2Y&list=PLcGKfGEEONaBjSfQaSiU9yQsjPxxDQyV8&index=15 - How we used serverless to speed up our servers - Jessica Kerr/Ian Wilkes
+
+https://www.youtube.com/watch?v=d2VRuZo2pdA&list=PLcGKfGEEONaBjSfQaSiU9yQsjPxxDQyV8&index=7 - Nim Nuggets: Systems Programming & Metaprogramming Magic - Aditya Siram
