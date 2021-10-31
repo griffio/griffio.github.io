@@ -17,3 +17,5 @@ https://www.youtube.com/watch?v=EFkpmFt61Jo - Journey to the Centre of the JVM â
 https://www.youtube.com/watch?v=cBfz4W_KvEI - Simple, Fast Frontends With htmx - Carson Gross
 
 https://www.youtube.com/watch?v=y901lgIuRx0 - A Tour of the Modern Java Platform - Bruce Eckel/James Ward
+
+https://www.youtube.com/watch?v=EfL1Fs9PF2Y&list=PLcGKfGEEONaBjSfQaSiU9yQsjPxxDQyV8&index=15 - How we used serverless to speed up our servers - Jessica Kerr/Ian Wilkes
