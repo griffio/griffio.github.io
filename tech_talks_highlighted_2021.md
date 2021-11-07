@@ -22,4 +22,6 @@ https://www.youtube.com/watch?v=EfL1Fs9PF2Y&list=PLcGKfGEEONaBjSfQaSiU9yQsjPxxDQ
 
 https://www.youtube.com/watch?v=d2VRuZo2pdA&list=PLcGKfGEEONaBjSfQaSiU9yQsjPxxDQyV8&index=7 - Nim Nuggets: Systems Programming & Metaprogramming Magic - Aditya Siram
 
-https://www.youtube.com/watch?v=VWrpnT8rwVY&list=PLcGKfGEEONaBjSfQaSiU9yQsjPxxDQyV8&index=4 - "Functional distributed systems beyond request/response" - Melinda Lu
+https://www.youtube.com/watch?v=VWrpnT8rwVY&list=PLcGKfGEEONaBjSfQaSiU9yQsjPxxDQyV8&index=4 - Functional distributed systems beyond request/response - Melinda Lu
+
+https://www.youtube.com/watch?v=860d8usGC0o&t=1s - Have Single-Page Apps Ruined the Web? - Rich Harris
