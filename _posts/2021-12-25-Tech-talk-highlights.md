@@ -7,8 +7,6 @@ published: false
 summary: highlighted tech talks 2021
 ---
 
-[CRDTs for Mortals](https://www.youtube.com/watch?v=DEcwa68f-jY) James Long 
-
 [Svelte Can Compile and so can you!](https://www.youtube.com/watch?v=fnr9XWvjJHw&t=10008s) - Miguel Camba
 
 [Stockholm Syndrome Escape Velocity](https://www.youtube.com/watch?v=kLZr87CGY-U) - Kit Langton
