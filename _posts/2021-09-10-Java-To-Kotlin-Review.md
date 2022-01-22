@@ -45,7 +45,7 @@ The early chapters of the book take the initial Java to Kotlin conversions that 
 
 **Terraforming Java** into Planet Kotlin with only simple top level functions takes Us far enough into the Functional [Goldilocks Zone](https://exoplanets.nasa.gov/resources/323/goldilocks-zone/) to be useful
 
-To keep transforming or to "Kotlinate" existing Object-Orientated Kotlin is also encouraged in **Chapter 16** (Interfaces to Functions) where dependencies can be expressed as a functiion type rather than coupled to a compile time interface
+To keep transforming or to "Kotlinate" existing Object-Orientated Kotlin is also encouraged in **Chapter 16** (Interfaces to Functions) where dependencies can be expressed as a function type rather than coupled to a compile time interface
 
 **Chapter 21** (Exceptions to Values)
 
