@@ -8,7 +8,7 @@ summary: kotlin partitionBy
 runcode: true
 ---
 
-Existing Kotlin Collection utilities that transform the input into output collections as groups or sub-groups have certain limitations
+The existing [Kotlin Collection utilities](https://kotlinlang.org/docs/collections-overview.html) that transforms the collection into output collections as groups or sub-groups have certain limitations
 
 ### [group-by](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/group-by.html) The key is associated with a list of corresponding elements
 Only returns Map<Key, List>
@@ -22,7 +22,7 @@ Windowed has fixed size and step of List<List<T>>
 ### [chunked](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/chunked.html) The list of sub lists not exceeding size specified  
 Chunked has upper bound size of List<List<T>>
 
-How to solve problems where We want output of variable sized lists?:
+How do We solve problems where We want the output to be collections of different sizes ?:
 
 [4clojure problem 30](https://www.4clojure.com/problem/30) - remove consecutive duplicates 
 
