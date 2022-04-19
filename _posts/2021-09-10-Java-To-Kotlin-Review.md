@@ -56,9 +56,7 @@ As Kotlin doesn't support checked exceptions, error detection by the caller usin
 **In Kotlin** - the `null` type is still a valid return value to communicate to the caller, often better than fire-bucket exception throwing, however there is no way to provide any error information. Error checking in local functions that provide data to the rest of the program is still required and throwing Exceptions should be performed at the perimeters of the program - see 
 Danny Thorpe's excellent [Delphi Component Design - Rules of thumb for implementing exception handlers](https://dl.acm.org/doi/book/10.5555/524370)
 
-Kotlin doesn't have an Either or [Result](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-result/) implementation that represents a union type 
-
-e.g Result<Data, Error>
+Kotlin has introduced a [Result](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-result/) that represents success or failure as an inlined value instead of an Either e.g Result<Data, Error> with two sealed values 
 
 **Kotlin the language** still has places to go where cherry picking some language transformation features are useful, for example [Scala 3 union](https://docs.scala-lang.org/scala3/book/types-union.html) types are the most concise representation such that it becomes `Data | Error` without the clunky enclosing Either type and is a great improvement
 
