@@ -10,4 +10,7 @@ https://www.youtube.com/watch?v=-f4JP3nwkDo Making Of: The Sanitizer API - Frede
 
 https://www.youtube.com/watch?v=dOgnQ9SuKYk SolidJS: Past, Present, Future - Ryan Carniato
 
-https://www.youtube.com/watch?v=coq9XDMB-yU  How to avoid 5 common Kotlin Coroutine mistakes - Lukas Lechner
+https://www.youtube.com/watch?v=coq9XDMB-yU How to avoid 5 common Kotlin Coroutine mistakes - Lukas Lechner
+
+https://www.youtube.com/watch?v=ZpB6BXQLPm8 Agile Book Club: Continuous Deployment (with Kelsey Hightower)
+
