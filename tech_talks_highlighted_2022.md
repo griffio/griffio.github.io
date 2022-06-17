@@ -14,4 +14,6 @@ https://www.youtube.com/watch?v=coq9XDMB-yU How to avoid 5 common Kotlin Corouti
 
 https://www.youtube.com/watch?v=ZpB6BXQLPm8 Agile Book Club: Continuous Deployment (with Kelsey Hightower)
 
-https://www.youtube.com/watch?v=5fTRAwX1oew Kotlin + jOOQ -  Lukas Eder
+https://www.youtube.com/watch?v=5fTRAwX1oew Kotlin + jOOQ - Lukas Eder
+
+https://www.youtube.com/watch?v=hzTU0lh-TIw&list=PLn7H9CUCuXAuLnmPD-wsljzYxHt3UD5zn&index=7 Untangling Coroutine Testing - Márton Braun
