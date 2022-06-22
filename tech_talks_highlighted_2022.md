@@ -19,3 +19,5 @@ https://www.youtube.com/watch?v=5fTRAwX1oew Kotlin + jOOQ - Lukas Eder
 https://www.youtube.com/watch?v=hzTU0lh-TIw&list=PLn7H9CUCuXAuLnmPD-wsljzYxHt3UD5zn&index=7 Untangling Coroutine Testing - Márton Braun
 
 https://www.youtube.com/watch?v=gu3FfmgkwUc The Power of JS Generators - Anjana Vakil
+
+https://www.youtube.com/watch?v=YvUTsl0isyc Slow things down to make them go faster - Jimmy Angelakos
