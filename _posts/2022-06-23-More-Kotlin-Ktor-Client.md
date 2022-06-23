@@ -7,7 +7,7 @@ published: true
 summary: kotlin Ktor Client Json
 ---
 
-A basic example of the setup for using the (Ktor http client)[https://ktor.io/docs/getting-started-ktor-client.html] with Json decoding.
+A basic example of the setup for using [Ktor http client](https://ktor.io/docs/getting-started-ktor-client.html) with Json decoding.
 
 There is a somewhat elaborate configuration to pull it all together as Kotlin serialization uses a compiler plugin - "that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats." see https://github.com/Kotlin/kotlinx.serialization/blob/master/README.md#setup
 
