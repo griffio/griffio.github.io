@@ -9,7 +9,7 @@ summary: kotlin Ktor Client Json
 
 A basic example of the setup for using [Ktor http client](https://ktor.io/docs/getting-started-ktor-client.html) with Json decoding.
 
-There is a somewhat elaborate configuration to pull it all together as Kotlin serialization uses a compiler plugin - "that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats." see https://github.com/Kotlin/kotlinx.serialization/blob/master/README.md#setup
+There is a somewhat elaborate configuration to pull it all together as Kotlin serialization uses a compiler plugin - "that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats." see (https://github.com/Kotlin/kotlinx.serialization/blob/master/README.md#setup)
 
 A typical complete `build.gradle.kts` file depends on ktor core, a client engine and json serialization
 
@@ -51,12 +51,12 @@ java {
 
 ```
 
-Example Ktor client making requests to a suitable json producing api - swapi.dev/api 
+Example Ktor client making requests to a suitable json producing api - [swapi.dev](https://swapi.dev/) 
 
 * Each response is a list of Planets
 * Planets is a wrapper for the results 
 * Kotlin Serialization only supports explicit field name translation to data class property via @SerialName
-  * For/against arguments for automatic translation https://github.com/Kotlin/kotlinx.serialization/issues/33  
+  * For/against arguments for automatic translation (https://github.com/Kotlin/kotlinx.serialization/issues/33)  
 * Planet demonstrates a customer serializer to handle typically variant data fields
   * In this case - a population value of "unknown" is considered nullable  
 
@@ -92,7 +92,8 @@ data class Planet(
     val diameter: Int,
     val gravity: String,
     val name: String,
-    @SerialName("orbital_period") // FYI https://github.com/Kotlin/kotlinx.serialization/issues/33
+    // FYI https://github.com/Kotlin/kotlinx.serialization/issues/33
+    @SerialName("orbital_period")
     val orbitalPeriod: Int,
     @Serializable(with = PopulationNullableSerializer::class)
     val population: Long?
