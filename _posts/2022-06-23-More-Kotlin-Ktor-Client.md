@@ -58,6 +58,7 @@ Example client code using swapi.dev/api
 * Kotlin Serialization only supports explicit field name translation via @SerialName
   * For/against arguments for automatic translation https://github.com/Kotlin/kotlinx.serialization/issues/33  
 * Planet demonstrates a customer serializer to handle typically variant data fields
+  * In this case - a population value of "unknown" is considered nullable  
 
 ``` kotlin
 
