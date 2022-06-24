@@ -13,7 +13,7 @@ Git repo [ktor-client-json](https://github.com/griffio/ktor-client-json)
 
 There is a somewhat elaborate configuration to pull it all together as Kotlin serialization uses a compiler plugin - "that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats." see [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization/blob/master/README.md#setup)
 
-A typical complete `build.gradle.kts` file depends on ktor core, a client engine and json serialization
+A typical complete `build.gradle.kts` file depends on ktor core, a client engine and some custom json serialization
 
 ``` kotlin
 
@@ -91,8 +91,8 @@ Response example
 * Planets is a wrapper for the results 
 * Kotlin Serialization only supports explicit attribute name to data class property via @SerialName
   * For/against arguments of using automatic naming strategy [kotlinx.serialization/issues/33](https://github.com/Kotlin/kotlinx.serialization/issues/33)  
-* Planet demonstrates a customer serializer to handle typically variant data fields
-  * In this case - a population value of "unknown" is considered nullable  
+* Planet demonstrates a custom [KSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/core/commonMain/src/kotlinx/serialization/KSerializer.kt) to handle typically variant data fields
+  * In this case - a population value of "unknown" is considered nullable Long  
 
 ``` kotlin
 
