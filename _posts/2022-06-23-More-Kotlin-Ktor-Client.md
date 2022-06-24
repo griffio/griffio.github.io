@@ -9,6 +9,8 @@ summary: kotlin Ktor Client Json
 
 A basic example of the setup for using [Ktor http client](https://ktor.io/docs/getting-started-ktor-client.html) with Json decoding.
 
+Repo https://github.com/griffio/ktor-client-json
+
 There is a somewhat elaborate configuration to pull it all together as Kotlin serialization uses a compiler plugin - "that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats." see (https://github.com/Kotlin/kotlinx.serialization/blob/master/README.md#setup)
 
 A typical complete `build.gradle.kts` file depends on ktor core, a client engine and json serialization
@@ -52,6 +54,36 @@ java {
 ```
 
 Example Ktor client making requests to a suitable json producing api - [swapi.dev](https://swapi.dev/) 
+
+``` json
+
+{
+	"count": 60,
+	"next": "https://swapi.dev/api/planets/?page=2",
+	"previous": null,
+	"results": [
+		{
+			"name": "Tatooine",
+			"rotation_period": "23",
+			"orbital_period": "304",
+			"diameter": "10465",
+			"climate": "arid",
+			"gravity": "1 standard",
+			"terrain": "desert",
+			"surface_water": "1",
+			"population": "200000",
+			"residents": [
+				"https://swapi.dev/api/people/1/",
+			],
+			"films": [
+				"https://swapi.dev/api/films/1/",
+			],
+			"created": "2014-12-09T13:50:49.641000Z",
+			"edited": "2014-12-20T20:58:18.411000Z",
+			"url": "https://swapi.dev/api/planets/1/"
+		},
+	
+```
 
 * Each response is a list of Planets
 * Planets is a wrapper for the results 
@@ -100,8 +132,10 @@ data class Planet(
 )
 
 class PopulationNullableSerializer : KSerializer<Long?> {
-    override val descriptor: SerialDescriptor = PrimitiveSerialDescriptor("population.Long?", PrimitiveKind.STRING)
-    override fun serialize(encoder: Encoder, value: Long?): Unit = encoder.encodeString(value.toString())
+    override val descriptor: SerialDescriptor =
+        PrimitiveSerialDescriptor("population.Long?", PrimitiveKind.STRING)
+    override fun serialize(encoder: Encoder, value: Long?): Unit =
+        encoder.encodeString(value.toString())
     override fun deserialize(decoder: Decoder): Long? {
         val decoded = decoder.decodeString()
         return if (decoded.startsWith("unknown")) null else decoded.toLong()
