@@ -88,6 +88,7 @@ Response example
 ```
 
 * Each response is a list of Planets
+  * ContentNegotiation is a Ktor client plugin used when a server sends a response with `application/json`, the response payload is marshalled into a data class 	
 * Planets is a wrapper for the results 
 * Kotlin Serialization only supports explicit attribute name to data class property via @SerialName
   * For/against arguments of using automatic naming strategy [kotlinx.serialization/issues/33](https://github.com/Kotlin/kotlinx.serialization/issues/33)  
