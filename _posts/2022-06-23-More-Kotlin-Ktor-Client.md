@@ -55,7 +55,7 @@ java {
 
 Example Ktor client making requests to a suitable json producing api - [swapi.dev](https://swapi.dev/) 
 
-Response example
+Response example - be aware that most primitive values can contain "unknown"
 
 ``` json
 
