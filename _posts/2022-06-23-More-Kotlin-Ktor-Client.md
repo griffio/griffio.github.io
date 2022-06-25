@@ -93,6 +93,7 @@ Response example - be aware that most primitive values can contain "unknown"
 * Kotlin Serialization only supports explicit attribute name to data class property via @SerialName
   * For/against arguments of using automatic naming strategy [kotlinx.serialization/issues/33](https://github.com/Kotlin/kotlinx.serialization/issues/33)  
 * Planet demonstrates a custom [KSerializer](https://kotlin.github.io/kotlinx.serialization/kotlinx-serialization-core/kotlinx.serialization/-k-serializer/index.html) to handle typically variant data fields where "unknown" is returned in the field value
+  * The documentation doesn't seem to handle this particular usage where null is substituted for a specific value during deserialization
   * In this case - a population value of "unknown" is considered nullable Long  
 
 ``` kotlin
