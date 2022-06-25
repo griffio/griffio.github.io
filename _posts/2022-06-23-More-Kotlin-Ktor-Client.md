@@ -9,7 +9,7 @@ summary: kotlin Ktor Client Json
 
 A basic example that pulls together a setup for using [ktor http client](https://ktor.io/docs/getting-started-ktor-client.html) with json decoding.
 
-Git repo [ktor-client-json](https://github.com/griffio/ktor-client-json)
+For more complete version with Serialization and Flow pagination see git repo [ktor-client-json](https://github.com/griffio/ktor-client-json)
 
 There is a somewhat elaborate configuration to pull it all together as Kotlin serialization uses a compiler plugin - "that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats." see [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization/blob/master/README.md#setup)
 
@@ -92,7 +92,7 @@ Response example
 * Planets is a wrapper for the results 
 * Kotlin Serialization only supports explicit attribute name to data class property via @SerialName
   * For/against arguments of using automatic naming strategy [kotlinx.serialization/issues/33](https://github.com/Kotlin/kotlinx.serialization/issues/33)  
-* Planet demonstrates a custom [KSerializer](https://kotlin.github.io/kotlinx.serialization/kotlinx-serialization-core/kotlinx.serialization/-k-serializer/index.html) to handle typically variant data fields
+* Planet demonstrates a custom [KSerializer](https://kotlin.github.io/kotlinx.serialization/kotlinx-serialization-core/kotlinx.serialization/-k-serializer/index.html) to handle typically variant data fields where "unknown" is returned in the field value
   * In this case - a population value of "unknown" is considered nullable Long  
 
 ``` kotlin
@@ -167,6 +167,7 @@ suspend fun main() {
     val planets: Planets = response.body()
 
     println(planets)
+    // see more complete version https://github.com/griffio/ktor-client-json
 }
 
 
