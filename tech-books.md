@@ -91,3 +91,5 @@ title: "Software Development Books"
   - Framework-less. Imagine web apps with fast browser load times that also offer amazing developer productivity and require less code to create
 - [Kill It With Fire](https://nostarch.com/kill-it-fire)
   - Engineering Management book - Manage Aging Computer Systems And Future Proof Modern Ones 
+- [Crafting Interpreters](https://craftinginterpreters.com/)
+  - Starting from main(), you build a language that features rich syntax, dynamic typing, garbage collection, lexical scope, first-class functions, closures, classes, and inheritance
