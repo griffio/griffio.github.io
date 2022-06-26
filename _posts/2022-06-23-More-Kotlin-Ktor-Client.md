@@ -55,7 +55,9 @@ java {
 
 Example Ktor client making requests to a suitable json producing api - [swapi.dev](https://swapi.dev/) 
 
-Response example - be aware that most primitive values can contain "unknown"
+Response example - be aware that most primitive values in the responses can also be "unknown" instead of null
+
+With Kotlin Serialization, there [doesn't seem](https://github.com/Kotlin/kotlinx.serialization/issues/754) to be a way of specifying decoding "unknown" as null
 
 ``` json
 
@@ -89,8 +91,8 @@ Response example - be aware that most primitive values can contain "unknown"
 
 * Each response is a list of Planets
   * ContentNegotiation is a Ktor client plugin used when a server sends a response with `application/json`, the response payload is marshalled into a data class 	
-* Planets is a wrapper for the results 
-* Kotlin Serialization only supports explicit attribute name to data class property via @SerialName
+* Planets is a wrapper for the results and pagination
+* Kotlin Serialization only supports explicit attribute name to data class property via [@SerialName](https://kotlin.github.io/kotlinx.serialization/kotlinx-serialization-core/kotlinx.serialization/-serial-name/index.html)
   * For/against arguments of using automatic naming strategy [kotlinx.serialization/issues/33](https://github.com/Kotlin/kotlinx.serialization/issues/33)  
 * Planet demonstrates a custom [KSerializer](https://kotlin.github.io/kotlinx.serialization/kotlinx-serialization-core/kotlinx.serialization/-k-serializer/index.html) to handle typically variant data fields where "unknown" is returned in the field value
   * The documentation doesn't seem to handle this particular usage where null is substituted for a specific value during deserialization
@@ -134,7 +136,8 @@ data class Planet(
     @Serializable(with = PopulationNullableSerializer::class)
     val population: Long?
 )
-
+// This KSerializer would have to be duplicated for every "unknown" type (String?, Int?)
+// See repo for example
 class PopulationNullableSerializer : KSerializer<Long?> {
     override val descriptor: SerialDescriptor =
         PrimitiveSerialDescriptor("population.Long?", PrimitiveKind.STRING)
