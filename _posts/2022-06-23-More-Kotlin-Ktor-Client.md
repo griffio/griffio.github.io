@@ -133,12 +133,12 @@ data class Planet(
     // FYI https://github.com/Kotlin/kotlinx.serialization/issues/33
     @SerialName("orbital_period")
     val orbitalPeriod: Int,
-    @Serializable(with = PopulationNullableSerializer::class)
+    @Serializable(with = UnknownToNullableSerializer::class)
     val population: Long?
 )
 // This KSerializer would have to be duplicated for every "unknown" type (String?, Int?)
 // See repo for example
-class PopulationNullableSerializer : KSerializer<Long?> {
+class UnknownToNullableSerializer : KSerializer<Long?> {
     override val descriptor: SerialDescriptor =
         PrimitiveSerialDescriptor("population.Long?", PrimitiveKind.STRING)
     override fun serialize(encoder: Encoder, value: Long?): Unit =
