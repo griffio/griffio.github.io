@@ -55,7 +55,9 @@ java {
 
 Example Ktor client making requests to a suitable json producing api - [swapi.dev](https://swapi.dev/) 
 
-Response example - be aware that most primitive values in the responses can also be "unknown" instead of null
+A swapi.dev/api/planets response example - be aware that most primitive values in a Planet can also be "unknown" instead of null
+
+This is serves as an example where the json may be in format that requires converting during decoding and tests the flexibilty of the serialization library
 
 With Kotlin Serialization, there [doesn't seem](https://github.com/Kotlin/kotlinx.serialization/issues/754) to be an easy way of specifying decoding "unknown" as null using the compiler generated Serializer. All the available examples can be seen here https://github.com/Kotlin/kotlinx.serialization/tree/master/guide/example
 
