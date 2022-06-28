@@ -59,7 +59,7 @@ A `swapi.dev/api/planets` response example - be aware that most primitive values
 
 This serves as an example where the response requires converting during decoding and exercises the flexibilty of the serialization library
 
-With Kotlin Serialization, there [doesn't seem](https://github.com/Kotlin/kotlinx.serialization/issues/754) to be an easy way of specifying decoding "unknown" as null using the compiler generated Serializer. All the available examples can be seen here https://github.com/Kotlin/kotlinx.serialization/tree/master/guide/example
+With Kotlin Serialization, there [doesn't seem](https://github.com/Kotlin/kotlinx.serialization/issues/754) to be an easy way of specifying decoding "unknown" as null using the compiler generated Serializer. All the available examples can be seen here (https://github.com/Kotlin/kotlinx.serialization/tree/master/guide/example)
 
 ``` json
 
@@ -92,7 +92,7 @@ With Kotlin Serialization, there [doesn't seem](https://github.com/Kotlin/kotlin
 ```
 
 * Each response is a list of Planets
-  * ContentNegotiation is a Ktor client plugin used when a server sends a response with `application/json`, the response payload is marshalled into a data class 	
+  * [ContentNegotiation](https://ktor.io/docs/serialization.html) is a Ktor client plugin used when a server sends a response with `application/json`, the response payload is marshalled into a data class 	
 * Planets is a wrapper for the results and pagination
 * Kotlin Serialization only supports explicit attribute name to data class property via [@SerialName](https://kotlin.github.io/kotlinx.serialization/kotlinx-serialization-core/kotlinx.serialization/-serial-name/index.html)
   * For/against arguments of using automatic naming strategy [kotlinx.serialization/issues/33](https://github.com/Kotlin/kotlinx.serialization/issues/33)  
