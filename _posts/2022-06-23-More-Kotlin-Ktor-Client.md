@@ -60,9 +60,9 @@ An example Ktor client making requests to a suitable json producing api - [Star 
 
 For the `swapi.dev/api/planets` response, be aware that most values in a Planet can also return "unknown" instead of `null` for data that is not quantified
 
-This serves as an example where the response requires converting during decoding and exercises the flexibilty of the serialization library
+This serves as an example where the response requires modification when decoding and exercises the flexibilty of the serialization library
 
-With Kotlin Serialization, there [doesn't seem](https://github.com/Kotlin/kotlinx.serialization/issues/754) to be an easy way of specifying decoding "unknown" as null using the compiler generated Serializer. All the available examples can be seen [here](https://github.com/Kotlin/kotlinx.serialization/tree/master/guide/example)
+With Kotlin Serialization, there [doesn't seem](https://github.com/Kotlin/kotlinx.serialization/issues/754) to be an easy way of specifying decoding "unknown" as `null` using the compiler generated Serializer. All the available examples can be seen [here](https://github.com/Kotlin/kotlinx.serialization/tree/master/guide/example)
 
 Planets response
 
@@ -102,7 +102,7 @@ Planets response
 * Kotlin Serialization only supports explicit attribute name to data class property via [@SerialName](https://kotlin.github.io/kotlinx.serialization/kotlinx-serialization-core/kotlinx.serialization/-serial-name/index.html)
   * For/against arguments of using automatic naming strategy [kotlinx.serialization/issues/33](https://github.com/Kotlin/kotlinx.serialization/issues/33)  
 * Planet demonstrates a custom [KSerializer](https://kotlin.github.io/kotlinx.serialization/kotlinx-serialization-core/kotlinx.serialization/-k-serializer/index.html) to handle typically variant data fields where "unknown" is returned in the field value
-  * The documentation doesn't seem to handle this particular usage where null is substituted for a specific value during deserialization
+  * The documentation doesn't seem to handle this particular usage where `null` is substituted for a specific value during deserialization
   * In this case - a population value of "unknown" is considered nullable Long  
   * Serializers can be installed at the top level instead of property annotations e.g `@file:UseSerializers(UnknownToNullableSerializer::class)`
 
@@ -189,7 +189,7 @@ suspend fun main() {
 
 Second approach with [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations) for the Planet type 
 
-Repo branch example[github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer](https://github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer)
+Repo branch example [github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer](https://github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer)
 
 All json values containing "unknown" will be set to `null` and Planet properties are set to nullable types
 
