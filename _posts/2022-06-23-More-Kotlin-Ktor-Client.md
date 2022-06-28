@@ -103,7 +103,7 @@ Planets response
   * In this case - a population value of "unknown" is considered nullable Long  
   * Serializers can be installed at the top level instead of property annotations e.g `@file:UseSerializers(UnknownToNullableSerializer::class)`
 
-First approach with property KSerializer for each nullable type, can be configured as `@file:UseSerializers(UnknownToNullableSerializer,...)`
+First approach with KSerializer for each nullable type, can be configured as `@file:UseSerializers(UnknownToNullableSerializer,...)`
 
 ``` kotlin
 
@@ -184,7 +184,7 @@ suspend fun main() {
 
 ```
 
-Second Approach with [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations)
+Second approach with [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations) for the Planet type
 
 All json values containing "unknown" will be set to `null` and Planet properties are set to nullable types
 
