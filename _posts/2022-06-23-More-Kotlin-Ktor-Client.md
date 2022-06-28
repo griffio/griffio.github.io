@@ -186,6 +186,8 @@ suspend fun main() {
 
 Second Approach with [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations)
 
+All json values containing "unknown" will be set to `null` and Planet properties are set to nullable types
+
 `@file:UseSerializers` is used at the top of the file because the plugin generated Planet.serializer needs to be invoked on the transformed element
 
 `````` kotlin
@@ -216,7 +218,7 @@ data class Planets(
     val results: List<Planet>
 )
 
-@Serializable
+@Serializable // Keep the default Serializer available for the transformer
 data class Planet(
     val climate: String?,
     val diameter: Int?,
@@ -227,7 +229,7 @@ data class Planet(
     val population: Long?
 )
 
-// Planet.serializer() will transform the "fixed" JsonObject into a Planet
+// Planet.serializer() will decode the transformed JsonObject into a Planet
 
 class UnknownToNullPlanetSerializer : JsonTransformingSerializer<Planet>(Planet.serializer()) {
     override fun transformDeserialize(element: JsonElement): JsonElement {
