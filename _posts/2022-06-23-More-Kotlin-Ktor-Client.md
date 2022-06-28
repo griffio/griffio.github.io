@@ -103,6 +103,8 @@ Planets response
   * In this case - a population value of "unknown" is considered nullable Long  
   * Serializers can be installed at the top level instead of property annotations e.g @file:UseSerializers(UnknownToNullableSerializer::class)
 
+First approach with property KSerializer
+
 ``` kotlin
 
 package griffio.client
@@ -180,4 +182,86 @@ suspend fun main() {
 }
 
 
+```
+
+Second Approach with [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations)
+
+`@file:UseSerializers` is used at the top of the file because the plugin generated Planet.serializer needs to be invoked on the transformed element
+
+`````` kotlin
+
+@file:UseSerializers(UnknownToNullPlanetSerializer::class)
+
+package griffio.client
+
+import io.ktor.client.*
+import io.ktor.client.call.*
+import io.ktor.client.engine.java.*
+import io.ktor.client.plugins.contentnegotiation.*
+import io.ktor.client.request.*
+import io.ktor.client.statement.*
+import io.ktor.serialization.kotlinx.json.*
+import kotlinx.serialization.KSerializer
+import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
+import kotlinx.serialization.descriptors.PrimitiveKind
+import kotlinx.serialization.descriptors.PrimitiveSerialDescriptor
+import kotlinx.serialization.descriptors.SerialDescriptor
+import kotlinx.serialization.encoding.Decoder
+import kotlinx.serialization.encoding.Encoder
+import kotlinx.serialization.json.Json
+
+@Serializable
+data class Planets(
+    val results: List<Planet>
+)
+
+@Serializable
+data class Planet(
+    val climate: String?,
+    val diameter: Int?,
+    val gravity: String?,
+    val name: String?,
+    @SerialName("orbital_period")
+    val orbitalPeriod: Int?,
+    val population: Long?
+)
+
+// Planet.serializer() will transform the "fixed" JsonObject into a Planet
+
+class UnknownToNullPlanetSerializer : JsonTransformingSerializer<Planet>(Planet.serializer()) {
+    override fun transformDeserialize(element: JsonElement): JsonElement {
+        val newMap: Map<String, JsonElement> = element.jsonObject.toMutableMap().map {
+            if (it.value == JsonPrimitive("unknown")) {
+                it.key to JsonNull
+            } else it.key to it.value
+        }.toMap()
+        return JsonObject(newMap)
+    }
+}
+
+suspend fun main() {
+    // Setup HttpClient - e.g use Java engine
+    // io.ktor:ktor-client-java
+    // io.ktor:ktor-client-content-negotiation
+    // io.ktor:ktor-serialization-kotlinx-json
+    val client = HttpClient(Java) {
+        install(ContentNegotiation) {
+            json(Json {
+                prettyPrint = true
+                isLenient = true
+                ignoreUnknownKeys = true
+            })
+        }
+    }
+
+    val resource = "https://swapi.dev/api/planets"
+
+    val response: HttpResponse = client.request(resource)
+
+    val planets: Planets = response.body()
+
+    println(planets)
+    // see more complete version https://github.com/griffio/ktor-client-json
+}
 ```
