@@ -11,7 +11,10 @@ A basic example that pulls together a setup for using [ktor http client](https:/
 
 For a more complete example with Serialization and Flow pagination see git repo [ktor-client-json](https://github.com/griffio/ktor-client-json)
 
-For a Ktor application, the Kotlin serialization compiler plugin is added to the build - "that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats." see [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization/blob/master/README.md#setup)
+For a Ktor application, the Kotlin serialization compiler plugin is added to the build - 
+> that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats
+
+See [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization/blob/master/README.md#setup)
 
 A typical complete `build.gradle.kts` file depends on ktor core, a client engine and some custom json serialization
 
@@ -186,13 +189,13 @@ suspend fun main() {
 
 Second approach with [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations) for the Planet type 
 
-Repo branch example https://github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer
+Repo branch example[github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer](https://github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer)
 
 All json values containing "unknown" will be set to `null` and Planet properties are set to nullable types
 
 `@file:UseSerializers` is used at the top of the file because the plugin generated Planet.serializer needs to be invoked on the transformed element
 
-`````` kotlin
+``` kotlin
 
 @file:UseSerializers(UnknownToNullPlanetSerializer::class)
 
