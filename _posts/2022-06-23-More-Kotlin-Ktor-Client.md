@@ -9,9 +9,9 @@ summary: kotlin Ktor Client Json
 
 A basic example that pulls together a setup for using [ktor http client](https://ktor.io/docs/getting-started-ktor-client.html) with json decoding.
 
-For more complete version with Serialization and Flow pagination see git repo [ktor-client-json](https://github.com/griffio/ktor-client-json)
+For a more complete example with Serialization and Flow pagination see git repo [ktor-client-json](https://github.com/griffio/ktor-client-json)
 
-There is a somewhat elaborate configuration to pull it all together as Kotlin serialization uses a compiler plugin - "that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats." see [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization/blob/master/README.md#setup)
+For a Ktor application, the Kotlin serialization compiler plugin is added to the build - "that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats." see [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization/blob/master/README.md#setup)
 
 A typical complete `build.gradle.kts` file depends on ktor core, a client engine and some custom json serialization
 
@@ -57,7 +57,7 @@ Example Ktor client making requests to a suitable json producing api - [swapi.de
 
 Response example - be aware that most primitive values in the responses can also be "unknown" instead of null
 
-With Kotlin Serialization, there [doesn't seem](https://github.com/Kotlin/kotlinx.serialization/issues/754) to be a way of specifying decoding "unknown" as null
+With Kotlin Serialization, there [doesn't seem](https://github.com/Kotlin/kotlinx.serialization/issues/754) to be an easy way of specifying decoding "unknown" as null using the compiler generated Serializer. All the available examples can be seen here https://github.com/Kotlin/kotlinx.serialization/tree/master/guide/example
 
 ``` json
 
