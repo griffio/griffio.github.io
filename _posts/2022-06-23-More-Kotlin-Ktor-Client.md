@@ -184,7 +184,9 @@ suspend fun main() {
 
 ```
 
-Second approach with [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations) for the Planet type
+Second approach with [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations) for the Planet type 
+
+Repo branch example https://github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer
 
 All json values containing "unknown" will be set to `null` and Planet properties are set to nullable types
 
