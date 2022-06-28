@@ -53,13 +53,15 @@ java {
 
 ```
 
-Example Ktor client making requests to a suitable json producing api - [swapi.dev](https://swapi.dev/) 
+An example Ktor client making requests to a suitable json producing api - [Star Wars Api](https://swapi.dev/) 
 
-A `swapi.dev/api/planets` response example - be aware that most primitive values in a Planet can also be "unknown" instead of null
+For the `swapi.dev/api/planets` response, be aware that most values in a Planet can also return "unknown" instead of `null` for data that is not quantified
 
 This serves as an example where the response requires converting during decoding and exercises the flexibilty of the serialization library
 
-With Kotlin Serialization, there [doesn't seem](https://github.com/Kotlin/kotlinx.serialization/issues/754) to be an easy way of specifying decoding "unknown" as null using the compiler generated Serializer. All the available examples can be seen here (https://github.com/Kotlin/kotlinx.serialization/tree/master/guide/example)
+With Kotlin Serialization, there [doesn't seem](https://github.com/Kotlin/kotlinx.serialization/issues/754) to be an easy way of specifying decoding "unknown" as null using the compiler generated Serializer. All the available examples can be seen [here](https://github.com/Kotlin/kotlinx.serialization/tree/master/guide/example)
+
+Planets response
 
 ``` json
 
