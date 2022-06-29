@@ -269,6 +269,6 @@ suspend fun main() {
     val planets: Planets = response.body()
 
     println(planets)
-    // see more complete version https://github.com/griffio/ktor-client-json
+    // see more complete version https://github.com/griffio/ktor-client-json/blob/JsonTransformingSerializer
 }
 ```
