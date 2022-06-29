@@ -16,7 +16,7 @@ For a Ktor application, the Kotlin serialization compiler plugin is added to the
 
 See [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization/blob/master/README.md#setup)
 
-A typical complete `build.gradle.kts` file depends on ktor core, a client engine and some custom json serialization
+A typical complete `build.gradle.kts` file depends on ktor core, a client engine and json serialization library
 
 ``` kotlin
 
@@ -37,7 +37,7 @@ dependencies {
     implementation("io.ktor:ktor-client-java:2.0.2")
     implementation("io.ktor:ktor-client-content-negotiation:2.0.2")
     implementation("io.ktor:ktor-serialization-kotlinx-json:2.0.2")
-    // a version of kotlinx-serialization-json will be pulled in by ktor-serialization-kotlinx-json
+    // kotlinx-serialization-json will be pulled in by ktor-serialization-kotlinx-json
     // uncomment below to specify exact version if latest is required
     // implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.3")
     testImplementation(kotlin("test"))
@@ -58,7 +58,7 @@ java {
 
 An example Ktor client making requests to a suitable json producing api - [Star Wars Api](https://swapi.dev/) 
 
-For the `swapi.dev/api/planets` response, be aware that most values in a Planet can also return "unknown" instead of `null` for data that is not quantified
+For the `swapi.dev/api/planets` response, be aware that most values in a Planet can be of "unknown" instead of `null` for data that is not quantified and We want to represent it as a nullable type in our data class
 
 This serves as an example where the response requires modification when decoding and exercises the flexibilty of the serialization library
 
@@ -106,7 +106,7 @@ Planets response
   * In this case - a population value of "unknown" is considered nullable Long  
   * Serializers can be installed at the top level instead of property annotations e.g `@file:UseSerializers(UnknownToNullableSerializer::class)`
 
-First approach with KSerializer for each nullable type, can be configured as `@file:UseSerializers(UnknownToNullableSerializer,...)`
+First approach with a KSerializer for each nullable type, can also be configured as `@file:UseSerializers(UnknownToNullableSerializer,...)`
 
 ``` kotlin
 
@@ -187,13 +187,13 @@ suspend fun main() {
 
 ```
 
-Second approach with [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations) for the Planet type 
+Second approach with a single [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations) for the `Planet` type itself 
 
 Repo branch example [github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer](https://github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer)
 
-All json values containing "unknown" will be set to `null` and Planet properties are set to nullable types
+All json values containing "unknown" will be set to `null` and `Planet` properties are set to nullable types
 
-`@file:UseSerializers` is used at the top of the file because the plugin generated Planet.serializer needs to be invoked on the transformed element
+`@file:UseSerializers(UnknownToNullPlanetSerializer::class)` is used at the top of the file because the plugin generated `Planet.serializer` from `@Serializable` is still needed to decode the transformed element to a `Planet`
 
 ``` kotlin
 
