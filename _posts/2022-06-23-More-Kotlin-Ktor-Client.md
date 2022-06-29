@@ -235,14 +235,14 @@ data class Planet(
 )
 
 // Planet.serializer() will decode the transformed JsonObject into a Planet
-
 class UnknownToNullPlanetSerializer : JsonTransformingSerializer<Planet>(Planet.serializer()) {
     override fun transformDeserialize(element: JsonElement): JsonElement {
-        val newMap: Map<String, JsonElement> = element.jsonObject.toMutableMap().map {
-            if (it.value == JsonPrimitive("unknown")) {
-                it.key to JsonNull
-            } else it.key to it.value
-        }.toMap()
+        val unknown = JsonPrimitive("unknown")
+        val newMap = element.jsonObject.mapValues { entry ->
+            if (entry.value == unknown) {
+                JsonNull
+            } else entry.value
+        }
         return JsonObject(newMap)
     }
 }
