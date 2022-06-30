@@ -7,7 +7,7 @@ published: true
 summary: kotlin Ktor Client Json
 ---
 
-A basic example that pulls together a setup for using [ktor http client](https://ktor.io/docs/getting-started-ktor-client.html) with json decoding.
+**A basic example** that pulls together a setup for using [ktor http client](https://ktor.io/docs/getting-started-ktor-client.html) with json decoding.
 
 For a more complete example with Serialization and Flow pagination see git repo [ktor-client-json](https://github.com/griffio/ktor-client-json)
 
@@ -56,7 +56,9 @@ java {
 
 ```
 
-An example Ktor client making requests to a suitable json producing api - [Star Wars Api](https://swapi.dev/) 
+**An example Ktor client** making requests to a suitable json producing api
+
+[Star Wars Api](https://swapi.dev/) 
 
 For the `swapi.dev/api/planets` response, be aware that most values in a Planet can be of "unknown" instead of `null` for data that is not quantified and We want to represent it as a nullable type in our data class
 
@@ -106,7 +108,7 @@ Planets response
   * In this case - a population value of "unknown" is considered nullable Long  
   * Serializers can be installed at the top level instead of property annotations e.g `@file:UseSerializers(UnknownToNullableSerializer::class)`
 
-First approach with a KSerializer for each nullable type, can also be configured as `@file:UseSerializers(UnknownToNullableSerializer,...)`
+**First approach** with a KSerializer for each nullable type, can also be configured as `@file:UseSerializers(UnknownToNullableSerializer,...)`
 
 ``` kotlin
 
@@ -187,7 +189,7 @@ suspend fun main() {
 
 ```
 
-Second approach with a single [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations) for the `Planet` type itself 
+**Second approach** with a single [JsonTransformingSerializer](https://github.com/Kotlin/kotlinx.serialization/blob/master/docs/json.md#json-transformations) for the `Planet` type itself 
 
 Repo branch example [github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer](https://github.com/griffio/ktor-client-json/tree/JsonTransformingSerializer)
 
