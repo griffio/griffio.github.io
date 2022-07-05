@@ -23,3 +23,5 @@ https://www.youtube.com/watch?v=gu3FfmgkwUc The Power of JS Generators - Anjana 
 https://www.youtube.com/watch?v=YvUTsl0isyc Slow things down to make them go faster - Jimmy Angelakos
 
 https://www.youtube.com/watch?v=ub-jDOb7jEM Bootiful multi-model applications with Redis Stack - Brian Sam-Bodden
+
+https://www.youtube.com/watch?v=kMlkCYL9qo0 Svelte Origins: A JavaScript Documentary - OfferZen
