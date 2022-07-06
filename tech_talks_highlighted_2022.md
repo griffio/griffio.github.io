@@ -25,3 +25,6 @@ https://www.youtube.com/watch?v=YvUTsl0isyc Slow things down to make them go fas
 https://www.youtube.com/watch?v=ub-jDOb7jEM Bootiful multi-model applications with Redis Stack - Brian Sam-Bodden
 
 https://www.youtube.com/watch?v=kMlkCYL9qo0 Svelte Origins: A JavaScript Documentary - OfferZen
+
+https://www.youtube.com/watch?v=P7CfWtR-ECk&list=PLEx5khR4g7PJozVmHNpQTVrk1QRC7YaJu Expert Talk: Managing Complexity in Software - Hadi Hariri & Kevlin Henney
+
