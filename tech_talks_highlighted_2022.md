@@ -28,3 +28,4 @@ https://www.youtube.com/watch?v=kMlkCYL9qo0 Svelte Origins: A JavaScript Documen
 
 https://www.youtube.com/watch?v=P7CfWtR-ECk&list=PLEx5khR4g7PJozVmHNpQTVrk1QRC7YaJu Expert Talk: Managing Complexity in Software - Hadi Hariri & Kevlin Henney
 
+https://www.youtube.com/watch?v=2YLA4ajby00 Interview with Odin language creator gingerBill - Context Free
