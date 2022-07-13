@@ -4,7 +4,7 @@ title: "More Kotlin (Ktor Client Json)"
 category: programming
 tags: kotlin
 published: true
-summary: kotlin Ktor Client Json
+summary: kotlin Ktor Client Json Serialization Deserialization
 ---
 
 **A basic example** that pulls together a setup for using [ktor http client](https://ktor.io/docs/getting-started-ktor-client.html) with json decoding.
