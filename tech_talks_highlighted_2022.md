@@ -32,3 +32,5 @@ https://www.youtube.com/watch?v=2YLA4ajby00 Interview with Odin language creator
 
 https://www.youtube.com/watch?v=PIeYw7kJUIg Bringing WebAssembly to the .NET Mainstream - Steve Sanderson
 
+https://www.youtube.com/watch?v=aRO7DkJrA_c Building a Python Code Completer - Meredydd Luff
+
