@@ -34,3 +34,5 @@ https://www.youtube.com/watch?v=PIeYw7kJUIg Bringing WebAssembly to the .NET Mai
 
 https://www.youtube.com/watch?v=aRO7DkJrA_c Building a Python Code Completer - Meredydd Luff
 
+https://www.youtube.com/watch?v=HqwY_TyxeJw Dungeons, Dragons, and Graph Databases - Guy Royse
+
