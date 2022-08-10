@@ -37,3 +37,6 @@ https://www.youtube.com/watch?v=aRO7DkJrA_c Building a Python Code Completer - M
 https://www.youtube.com/watch?v=HqwY_TyxeJw Dungeons, Dragons, and Graph Databases - Guy Royse
 
 https://www.youtube.com/watch?v=0uixRE8xlbY Use flake.nix, not Dockerfile - Matthew Croughan
+
+https://www.youtube.com/watch?v=t2EUocx3vGQ D&D and G a daring tale of Dungeons and Dragons and also Graph - Mohammad Athar
+
