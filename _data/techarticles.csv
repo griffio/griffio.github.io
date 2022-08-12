@@ -34,3 +34,4 @@ Systems Approaches to Tackling Configuration Errors: A Survey,http://opera.ucsd.
 system failures, resulting in many severe service outages and downtime",engineering
 Monads for functional programming,http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf,"Monads provide a convenient framework for simulating effects found in other languages, such as global state, exception handling, out- put, or non-determinism.",programming
 Errors are values, https://go.dev/blog/errors-are-values,"A common point of discussion among Go programmers, especially those new to the language, is how to handle errors",programming
+why GNU grep is fast,https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html,"The key to making programs fast is to make them do practically nothing."
