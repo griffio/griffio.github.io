@@ -40,3 +40,6 @@ https://www.youtube.com/watch?v=0uixRE8xlbY Use flake.nix, not Dockerfile - Matt
 
 https://www.youtube.com/watch?v=t2EUocx3vGQ D&D and G a daring tale of Dungeons and Dragons and also Graph - Mohammad Athar
 
+https://www.youtube.com/watch?v=Du7YXPAV1M8 Nerding Out On Okio - Jesse Wilson
+
+
