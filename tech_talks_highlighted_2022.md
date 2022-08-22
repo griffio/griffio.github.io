@@ -42,4 +42,4 @@ https://www.youtube.com/watch?v=t2EUocx3vGQ D&D and G a daring tale of Dungeons 
 
 https://www.youtube.com/watch?v=Du7YXPAV1M8 Nerding Out On Okio - Jesse Wilson
 
-
+https://www.youtube.com/watch?v=O4IWJcafX8c 5 Years of Building React Table – Tanner Linsley
