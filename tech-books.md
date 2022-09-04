@@ -93,3 +93,7 @@ title: "Software Development Books"
   - Engineering Management book - Manage Aging Computer Systems And Future Proof Modern Ones 
 - [Crafting Interpreters](https://craftinginterpreters.com/)
   - Starting from main(), you build a language that features rich syntax, dynamic typing, garbage collection, lexical scope, first-class functions, closures, classes, and inheritance
+- [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/)
+  - Best Practices for Designing, Implementing and Maintaining Systems
+- [Code: The Hidden Language of Computer Hardware and Software, 2nd Edition](https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
+  - The classic guide to how computers work, updated with new chapters and interactive graphics 
