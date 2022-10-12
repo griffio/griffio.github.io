@@ -87,6 +87,8 @@ title: "Software Development Books"
   - Code your own mazes in the Ruby programming language 
 
 ### 2020s
+- [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
+  - Adopt ideas from functional programming. These simple ideas can be used in any programming language. 
 - [Svelte and Sapper in Action](https://www.manning.com/books/svelte-and-sapper-in-action)
   - Framework-less. Imagine web apps with fast browser load times that also offer amazing developer productivity and require less code to create
 - [Kill It With Fire](https://nostarch.com/kill-it-fire)
