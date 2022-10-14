@@ -48,3 +48,6 @@ https://www.youtube.com/watch?v=ZdUAxUBrYLA What does 'productivity' actually me
 
 https://www.youtube.com/watch?v=F18oy48jkrk The Web is Good Now - Chris Coyier
 
+https://www.youtube.com/watch?v=JC-xCXcyNXI The Secure Software Supply Chain - Kelsey Hightower
+
+
