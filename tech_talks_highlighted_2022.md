@@ -50,4 +50,6 @@ https://www.youtube.com/watch?v=F18oy48jkrk The Web is Good Now - Chris Coyier
 
 https://www.youtube.com/watch?v=JC-xCXcyNXI The Secure Software Supply Chain - Kelsey Hightower
 
+https://www.youtube.com/watch?v=J3uUpEC_K78 A Commerce-centric Approach to Queuing Fairly at High Throughput - Logan Martel
+
 
