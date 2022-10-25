@@ -52,4 +52,7 @@ https://www.youtube.com/watch?v=JC-xCXcyNXI The Secure Software Supply Chain - K
 
 https://www.youtube.com/watch?v=J3uUpEC_K78 A Commerce-centric Approach to Queuing Fairly at High Throughput - Logan Martel
 
+https://www.youtube.com/watch?v=3QEoJRjxnxQ Why web tech is like this - Steve Sanderson
+
+
 
