@@ -54,5 +54,5 @@ https://www.youtube.com/watch?v=J3uUpEC_K78 A Commerce-centric Approach to Queui
 
 https://www.youtube.com/watch?v=3QEoJRjxnxQ Why web tech is like this - Steve Sanderson
 
-
+https://www.youtube.com/watch?v=v24wrd3RwGo Compatibility: How Go Programs Keep Working - Russ Cox
 
