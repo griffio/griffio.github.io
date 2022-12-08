@@ -85,6 +85,8 @@ title: "Software Development Books"
   - Rather than focus on design, CSS Secrets shows you how to solve problems with code
 - [Mazes for Programmers](https://pragprog.com/titles/jbmaze/mazes-for-programmers/) 
   - Code your own mazes in the Ruby programming language 
+- [Hacker’s Delight, Second Edition](https://www.oreilly.com/library/view/hackers-delight-second/9780133084993/)
+  - Bit twiddling hacks reuploaded  
 
 ### 2020s
 - [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
