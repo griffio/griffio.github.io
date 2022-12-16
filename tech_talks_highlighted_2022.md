@@ -56,3 +56,4 @@ https://www.youtube.com/watch?v=3QEoJRjxnxQ Why web tech is like this - Steve Sa
 
 https://www.youtube.com/watch?v=v24wrd3RwGo Compatibility: How Go Programs Keep Working - Russ Cox
 
+https://www.youtube.com/watch?v=aqueKcqLVS8 Tiny Code Christmas - Lovebyte demoparty
