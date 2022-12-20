@@ -39,6 +39,8 @@ title: "Software Development Books"
   - Book on scalability disguised as a COM book
 - [The BeOS Bible](https://birdhouse.org/beos/bible/)
   - Interviews with Be engineers and founders that provide a fascinating insight into this innovative OS
+- [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+  - Development methodologies for the coming Open Source revolution    
 
 ### 2000s
 
