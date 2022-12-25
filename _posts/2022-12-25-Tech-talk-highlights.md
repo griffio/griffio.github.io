@@ -12,7 +12,7 @@ summary: highlighted tech talks 2022
 
 [The Only Unbreakable Law](https://www.youtube.com/watch?v=5IUj1EZwpJY) - Casey Muratori
 
-[The Story of Next.js](https://www.youtube.com/watch?v=BILxV)_vrZO0- uidotdev
+[The Story of Next.js](https://www.youtube.com/watch?v=BILxV_vrZO0) - uidotdev
 
 [The Road to SvelteKit 1.0](https://www.youtube.com/watch?v=s6a1pbTVcUs) - Rich Harris
 
