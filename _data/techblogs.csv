@@ -1,488 +1,488 @@
-desc,url,github,jobs,languages
-500px,https://developers.500px.com/,500px,https://about.500px.com/jobs/," css java javascript lua objective-c python ruby shell"
-99designs,https://99designs.co.uk/tech-blog,99designs,https://99designs.co.uk/about/jobs,"go javascript php python ruby"
-adjust,http://big-elephants.com/,adjust,https://www.adjust.com/jobs/#location=all&category=tech," c# elixir go java objective-c r ruby"
-nextroll,https://tech.nextroll.com/,adroll,https://www.nextroll.com/careers,"d erlang rust go java javascript python shell"
-adzerk,https://www.adzerk.com/tech/,adzerk,https://stackoverflow.com/jobs/companies/adzerk," c# c++ clojure html java javascript python ruby swift"
-airbnb,http://airbnb.io/,airbnb,https://www.airbnb.com/careers/departments/engineering," java javascript python ruby"
-aircto,https://engineering.aircto.com/,aircto,https://angel.co/launchyard/jobs,"go javascript"
-allegro,http://allegro.tech/,allegro,http://kariera.allegro.pl/,"go groovy java javascript php python scala"
-alphasights,http://engineering-blog.alphasights.com/,alphasights,https://www.alphasights.com/careers," css javascript ruby shell"
-amplitude,https://amplitude.com/blog/category/engineering/,amplitude,https://amplitude.com/careers," html java javascript objective-c"
-aol,https://engineering.aol.com/,aol,http://www.aol-careers.com/,"c java javascript php python"
-appcues,https://engineering.appcues.com/,appcues,https://stackoverflow.com/jobs/companies/appcues," elixir javascript ruby"
-appfolio,http://engineering.appfolio.com/,appfolio,http://www.appfolioinc.com/jobs-openings,"javascript objective-c python ruby"
-appnexus,http://techblog.appnexus.com/,appnexus,http://www.appnexus.com/en/company/careers," java javascript objective-c python"
-artsy,https://artsy.github.io/,artsy,https://www.artsy.net/jobs," css coffeescript elixir javascript objective-c ruby swift"
-asana,https://blog.asana.com/category/eng,asana,https://asana.com/jobs#openPositionsList,"erlang java javascript php python ruby typescript"
-"atlassian dev",https://developer.atlassian.com/index.html,atlassian,https://www.atlassian.com/company/careers/engineering#browseJobSection,"go java javascript puppet ruby"
-audiense,http://engineering.audiense.com/,audienseco,https://www.audiense.com/about-us/careers/,"css coffeescript javascript perl python"
-aweber,http://engineering.aweber.com/,aweber,http://www.aweber.jobs/apply,"c erlang groff java javascript objective-c php python ruby"
-babbel,http://bytes.babbel.com/,babbel,http://jobs.babbel.com/en/,"go javascript python ruby"
-badoo,https://techblog.badoo.com/,badoo,https://corp.badoo.com/jobs/,"go java javascript lua objective-c php ruby swift"
-"bazaar voice",http://blog.developer.bazaarvoice.com/,bazaarvoice,http://www.bazaarvoice.com/careers/,"go java javascript objective-c python ruby shell"
-bellycard,https://tech.bellycard.com/,bellycard,https://tech.bellycard.com/join/,"html java javascript objective-c python ruby shell swift"
-benchling,http://benchling.engineering/,benchling,https://benchling.com/careers,"c coffeescript go javascript php python ruby"
-bigcommerce,http://www.bigeng.io/,bigcommerce,https://www.bigcommerce.com/careers/?filter=all&team=engineering#jobs," css go html javascript php python ruby"
-bitly,http://word.bitly.com/,bitly,https://bitly.com/pages/careers,"c go javascript python"
-bitrise,https://tech.bitrise.io/,bitrise-io,https://www.bitrise.io/job," c# go html ruby shell"
-bittorrent,http://engineering.bittorrent.com/,bittorrent,http://www.bittorrent.com/company/about/jobs,"c++ html javascript python shell"
-blablacar,http://blablatech.com/blog/,blablacar,https://www.blablacar.pl/dreamjobs,"go"
-bloc,http://code.bloc.io/,bloc,https://jobs.lever.co/bloc/," html javascript objective-c ruby swift"
-bloomreach,http://engineering.bloomreach.com/,bloomreach,http://bloomreach.com/careers/," java python"
-bocoup,http://bocoup.com/weblog/,bocoup,https://bocoup.com/workat," css html java javascript python"
-boxever,http://www.boxever.com/tech-blog,boxever,http://www.boxever.com/careers," clojure java"
-"braintree payments",https://www.braintreepayments.com/blog/,braintree,https://www.braintreepayments.com/careers,"c# css coffeescript go html java javascript php ruby"
-bronto,http://blog.bronto.com/engineering,bronto,http://careers.bronto.com/," java javascript php python ruby"
-buffer,https://overflow.buffer.com/,bufferapp,https://buffer.com/journey/," coffeescript javascript objective-c python r ruby"
-buildkite,https://building.buildkite.com/,buildkite,https://buildkite.com/about," go javascript ruby shell"
-buzzfeed,https://www.buzzfeed.com/techblog,buzzfeed,https://www.buzzfeed.com/about/jobs,"css javascript objective-c perl python swift"
-cerner,http://engineering.cerner.com/,cerner,https://sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=25754&siteid=5095&PageType=searchResults&SearchType=linkquery," javascript ruby"
-chartbeat,https://medium.com/chartbeat-engineering,chartbeat,https://chartbeat.com/careers," c javascript python ruby shell"
-chegg,https://techblog.chegg.com/,cheggeng,http://jobs.chegg.com/,"go html java javascript php python ruby"
-circle,https://engineering.circle.com/,circlefin,https://www.circle.com/en/careers,"javascript objective-c"
-citrusbyte,http://bits.citrusbyte.com/,citrusbyte,http://careers.citrusbyte.com/,"c++ css elixir javascript objective-c python ruby"
-clever,https://engineering.clever.com/,clever,https://clever.com/about/jobs#software-engineer,"css coffeescript go javascript lua makefile python shell"
-msystechnologies,http://www.techblogs.msystechnologies.com,msystechnologiesllc,http://msystechnologies.com/careers," html javascript r ruby shell"
-cloudera,http://blog.cloudera.com/,cloudera,http://www.cloudera.com/content/www/en-us/about-cloudera/careers.html,"c++ java python scala shell"
-codeship,http://blog.codeship.com/category/tech-room/,codeship,https://codeship.com/jobs,"css coffeescript go javascript ruby shell"
-conversant,http://engineering.conversantmedia.com/opensource/,conversant,http://engineering.conversantmedia.com/joinus/,"html java javascript objective-c plpgsql python"
-coursera,https://building.coursera.org/,coursera,https://www.coursera.org/about/careers," css html java javascript python scala"
-curalate,http://engineering.curalate.com/,curalate,https://www.themuse.com/jobs/c-curalate-jobs,"groovy java javascript objective-c python ruby scala"
-datadog,https://engineering.datadoghq.com/,datadog,https://www.datadoghq.com/jobs-engineering/," c c# go java php python ruby shell"
-domain,http://tech.domain.com.au/category/engineering/,domaingrouposs,http://tech.domain.com.au/careers/,"c# java objective-c powershell python ruby shell"
-dose,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengineering.dose.com%2F,dosemedia,http://about.dose.com/careers," javascript jupyter notebook python ruby shell"
-doximity,https://engineering.doximity.com/,doximity,https://auth.doximity.com/csrf_init?redirect_to=https%3A%2F%2Fwww.doximity.com%2Fabout%2Fjobs%3F_csrf_attempted%3Dyes,"css go html javascript python ruby"
-dropbox,https://blogs.dropbox.com/tech/,dropbox,https://www.dropbox.com/jobs,"c# c++ coffeescript go java javascript objective-c php python"
-ebay,http://www.ebaytechblog.com/,ebay,https://careers.ebayinc.com/join-our-team/start-your-search/," c++ go java javascript python scala swift"
-eharmony,http://www.eharmony.com/engineering/,eHarmony,http://www.eharmony.com/about/careers/,"c++ java javascript scala"
-etsy,https://codeascraft.com/,etsy,https://www.etsy.com/careers," java javascript objective-c php python ruby"
-eventbrite,http://www.eventbrite.com/engineering/,eventbrite,https://app.jobvite.com/CompanyJobs/Careers.aspx?c=qU29VfwK&cs=9vBbVfwW&nl=0," coffeescript javascript python ruby"
-expedia,https://techblog.expedia.com/,expediadotcom,https://twitter.com/expediaeng," css html java javascript ruby"
-facebook,https://m.facebook.com/Engineering,facebook,https://m.facebook.com/careers,"c c++ java javascript ocaml objective-c++"
-facile-it,http://engineering.facile.it,facile-it,http://engineering.facile.it/ita/careers/,"css html php ruby swift"
-flickr,http://code.flickr.net/,flickr,https://www.flickr.com/jobs," c++ javascript makefile perl"
-flipboard,http://engineering.flipboard.com/,flipboard,https://about.flipboard.com/team/engineering-team/," coffeescript go groovy java javascript objective-c python"
-fluencia,http://engineering.curiositymedia.com/,spanishdict,http://www.fluencia.com/about-us/careers/," coffeescript html javascript python ruby"
-flywire,https://engineering.flywire.com/,peertransfer,https://www.flywire.com/careers,"javascript ruby"
-"football radar",https://engineering.footballradar.com/,footballradar,https://engineering.footballradar.com/careers/," javascript php python"
-foursquare,http://engineering.foursquare.com/,foursquare,https://foursquare.com/jobs,"c++ java objective-c python scala"
-freeagent,http://engineering.freeagent.com/,fac,http://www.freeagent.com/company/careers/," css makefile ruby shell"
-"funding circle",https://medium.com/funding-circle/engineering/home,fundingcircle,https://www.fundingcircle.com/us/careers/," css clojure coffeescript java ruby shell"
-"future processing",https://www.future-processing.pl/technical-blog/,futureprocessing,https://www.future-processing.com/careers,"c# css java javascript php shell"
-"game changer",http://tech.gc.com/,gamechanger,https://gc.com/about/careers," go javascript objective-c python"
-giantswarm,https://blog.giantswarm.io/,giantswarm,https://angel.co/giant-swarm/jobs," go makefile python"
-gilt,http://tech.gilt.com/,gilt,http://www.gilt.com/careers/department/technology-product-management/," java javascript scala swift"
-github,http://githubengineering.com/,github,https://github.com/about/jobs," c# coffeescript go javascript ruby"
-gocardless,https://gocardless.com/blog/tagged/engineering,gocardless,https://gocardless.com/about#jobs," go html javascript ruby shell"
-godaddy,https://engineering.godaddy.com/,godaddy,http://careers.godaddy.net/jobs/category/software-engineering," c++ css java javascript php python ruby"
-goodeggs,http://bites.goodeggs.com/,goodeggs,http://careers.goodeggs.com/open-positions/,"coffeescript javascript python shell swift"
-gosquared,https://engineering.gosquared.com/,gosquared,https://www.gosquared.com/careers/,"javascript makefile objective-c php ruby"
-grammarly,http://tech.grammarly.com/blog/index.html,grammarly,https://www.grammarly.com/jobs," clojure go java javascript python ruby shell"
-graze,http://tech.graze.com/,graze,https://www.graze.com/uk/jobs/tech,"c html makefile php python shell"
-greenhouse,https://tech.greenhouse.io/,grnhse,https://www.greenhouse.io/careers?gh_src=xt6m8g,"go javascript php python ruby shell"
-grofers,https://lambda.grofers.com/,grofers,https://grofers.com/careers/,"go javascript perl python ruby scala"
-groupon,https://engineering.groupon.com/,groupon,https://jobs.groupon.com/,"coffeescript java javascript perl ruby scala shell"
-guidebook,http://engineering.guidebook.com/,guidebook,https://guidebook.com/gb/careers/#open-positions," css objective-c swift"
-gusto,http://engineering.gusto.com/,gusto,https://gusto.com/about/careers," javascript ruby"
-hailo,https://sudo.hailoapp.com/,hailocab,https://hailo.workable.com//,"go javascript"
-harrys,http://engineering.harrys.com/,harrystech,https://boards.greenhouse.io/harrys,"java javascript ruby scala swift"
-hashrocket,https://til.hashrocket.com/,hashrocket,https://hashrocket.com/contact-us/jobs," clojure elixir go javascript ruby shell"
-helpshift,https://engineering.helpshift.com/,helpshift,https://www.helpshift.com/about/," css clojure emacs lisp erlang java objective-c ruby"
-heroku,https://engineering.heroku.com/,heroku,https://www.heroku.com/careers,"css erlang go html javascript ruby shell"
-hipo,http://engineering.hipolabs.com/,hipo,http://hipolabs.com/team/," arduino go html objective-c python"
-hobsons,http://engineering.hobsons.com/,hobsons,http://app.jobvite.com/CompanyJobs/Careers.aspx?c=qAv9VfwT&cs=9yDaVfw0,"css go java python ruby"
-homeaway,https://tech.homeaway.com/,homeaway,https://www.homeaway.com/info/about-us/careers-1/career-opportunities.html?location=&category=Software+Engineering," css java javascript r ruby"
-hootsuite,http://code.hootsuite.com/,hootsuite,https://hootsuite.com/about/careers#jobPostings,"javascript php python scala shell swift"
-hoteltonight,http://engineering.hoteltonight.com/,hoteltonight,https://www.hoteltonight.com/about/careers,"coffeescript objective-c ruby shell"
-hotwire,http://techblog.hotwire.com/,hotwiredotcom,http://www.lifeatexpedia.com/career-areas/technology/,"c java kotlin"
-hubspot,http://product.hubspot.com/blog/topic/engineering,hubspot,http://product.hubspot.com/jobs-engineering,"css html java javascript"
-huddle,http://tldr.huddle.com/,huddle,https://talentcommunity.huddle.com/," c# css html java javascript objective-c ruby"
-iheartradio,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftech.iheart.com%2F,iheartradio,http://jobs.iheart.com/," java javascript makefile objective-c python scala"
-imvu,https://engineering.imvu.com/,imvu,http://www.imvu.com/jobs/index/,"c++ erlang go haskell java javascript objective-c ruby shell"
-indeed,http://engineering.indeedblog.com/,indeedeng,http://www.indeed.jobs/," apacheconf go java python"
-instacart,https://tech.instacart.com/,instacart,https://careers.instacart.com/,"go javascript objective-c python r ruby shell"
-instagram,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengineering.instagram.com%2F,instagram,https://www.instagram.com/about/jobs," c c++ java javascript python ruby"
-instructure,http://instructure.github.io/blog/,instructure,https://www.instructure.com/careers," css hcl java javascript objective-c ruby scala typescript"
-intenthq,http://engineering.intenthq.com/,intenthq,https://www.intenthq.com/about-intent/#join-us," css java python ruby scala shell"
-intentmedia,http://intentmedia.com/blog/,intentmedia,http://intentmedia.com/jobs/," clojure elixir java javascript makefile python ruby scala shell"
-intercom,https://blog.intercom.io/category/engineering,intercom,https://www.intercom.io/careers," c# go java javascript objective-c ruby"
-invisionapp,http://engineering.invisionapp.com/,invisionapp,https://www.invisionapp.com/company#jobs," go javascript objective-c python ruby shell"
-isl,https://sudo.isl.co/,istrategylabs,https://isl.co/careers/," arduino css javascript python ruby shell"
-issuu,http://engineering.issuu.com/,issuu,https://issuu.com/careers," c++ erlang javascript ocaml python"
-"jane street",https://blogs.janestreet.com/,janestreet,https://www.janestreet.com/join-jane-street/apply/," c makefile ocaml"
-jet,https://tech.jet.com/,jet,https://jet.com/about-us/working-at-jet/jobs,"f# go raml shell"
-"just eat",http://tech.just-eat.com/,justeat,http://tech.just-eat.com/jobs," c# gcc machine description javascript objective-c ruby swift"
-kapost,http://engineering.kapost.com/,kapost,https://kapost.com/careers/," actionscript css html ruby"
-keepsafe,https://medium.com/keepsafe-engineering,keepsafe,https://jobs.lever.co/keepsafe,"clojure groovy java objective-c python"
-"keyhole software",https://keyholesoftware.com/blog/,in-the-keyhole,https://keyholesoftware.com/contact/careers/," css java javascript typescript"
-"khan academy",http://engineering.khanacademy.org/,khan,https://www.khanacademy.org/careers,"html javascript python shell swift"
-klarna,http://engineering.klarna.com/,klarna,https://www.klarna.com/careers,"erlang go java javascript php python ruby"
-klout,http://engineering.klout.com/,klout,http://jobs.lithium.com/jobs/category/engineering," coffeescript java javascript objective-c scala"
-knewton,https://tech.knewton.com/,knewton,https://www.knewton.com/jobs/," haskell java javascript python ruby shell"
-laterooms,http://engineering.laterooms.com/,lateroomsgroup,https://stackoverflow.com/jobs/companies/laterooms-com," c# coffeescript javascript php shell"
-laurelandwolf,http://engineering.laurelandwolf.com/,laurelandwolf,https://jobs.lever.co/laurelandwolf/," html javascript ruby shell"
-lendinghome,https://tech.lendinghome.com,lendinghome,https://www.lendinghome.com/careers," javascript python ruby shell"
-life360,http://engineering.life360.com/,life360,https://www.life360.com/jobs/,"coffeescript go javascript objective-c php shell"
-line,https://engineering.linecorp.com/en/blog,linecorp,https://engineering.linecorp.com/en/careers,"c++ go java objective-c php perl python ruby"
-linkedin,https://engineering.linkedin.com/blog,linkedin,https://engineering.linkedin.com/jobs,"go groovy html java javascript swift"
-linode,https://engineering.linode.com/,linode,https://www.linode.com/careers#," css html javascript perl python ruby"
-localytics,http://eng.localytics.com/,localytics,https://boards.greenhouse.io/localytics,"c# java javascript objective-c ruby scala"
-loginradius,https://www.loginradius.com/engineering,loginradius,https://www.loginradius.com/careers,"c# css javascript objective-c php python ruby"
-lyft,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Feng.lyft.com%2F,lyft,https://www.lyft.com/jobs,"java python swift"
-lyst,http://developers.lyst.com/,ssaw,https://www.lyst.com/careers," javascript objective-c python"
-mailchimp,http://devs.mailchimp.com/blog/,mailchimp,http://mailchimp.com/about/jobs/," css javascript objective-c php python ruby"
-mayvenn,http://engineering.mayvenn.com/,mayvenn,https://jobs.mayvenn.com/recruit/Portal.na," clojure ruby scala"
-mdsol,http://techblog.mdsol.com/,mdsol,https://www.mdsol.com/en/careers," c# cucumber go java javascript r ruby"
-medallia,http://engineering.medallia.com/blog/,medallia,http://www.medallia.com/careers/," go html java javascript scala shell"
-medium,https://medium.engineering/,medium,https://medium.com/@Medium/engineering-a231458a0976," go javascript"
-"meet me",http://engineering.meetme.com/,meetme,http://www.meetme.com/apps/careers,"c java javascript php python ruby"
-meetup,http://making.meetup.com/,meetup,http://www.meetup.com/jobs/#open-positions," css java javascript makefile python ruby scala"
-meltwater,http://underthehood.meltwater.com/,meltwater,https://www.meltwater.com/about/careers," go html java javascript puppet python ruby shell"
-mercari,http://tech.mercari.com/,mercari,https://gb.wantedly.com/companies/mercariapp-com,"go java php"
-microsoft,http://engineering.microsoft.com/,microsoft,https://careers.microsoft.com/search.aspx," c# c++ java typescript"
-mixlr,http://tech.mixlr.com/,mixlr,http://tech.mixlr.com/jobs/,"c c++ css coffeescript go html javascript objective-c ruby"
-modus,http://moduscreate.com/blog/,moduscreateorg,http://moduscreate.com/careers/," javascript objective-c shell swift"
-monetate,http://engineering.monetate.com/,monetate,http://www.monetate.com/about/careers,"c c++ go html java python scala shell"
-mongodb,https://engineering.mongodb.com/,mongodb,https://www.mongodb.com/careers/positions?office=All%20Offices&department=Engineering,"c# c++ go java php python ruby scala"
-monsanto,http://engineering.monsanto.com/,monsantoco,http://engineering.monsanto.com/contact/," coffeescript html java javascript lua scala shell"
-moz,http://moz.com/devblog/,seomoz,https://moz.com/about/jobs,"c++ elixir java python ruby"
-netflix,https://medium.com/netflix-techblog,netflix,https://jobs.netflix.com/category/4/jobs,"c go html java javascript scala"
-netlify,http://purple.netlify.com/,netlify,https://www.netlify.com/careers/,"go html javascript ruby shell"
-nextdoor,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengblog.nextdoor.com%2F,nextdoor,https://nextdoor.com/jobs/,"c css objective-c puppet python ruby shell"
-noredink,http://tech.noredink.com/,noredink,https://www.noredink.com/jobs," elixir elm javascript python ruby"
-"ny times",http://developers.nytimes.com/,nytimes,http://www.nytimes.com/glogin?URI=http%3A%2F%2Fdevelopers.nytimes.com%2Fcareers%3F_r%3D0," go javascript objective-c protocol buffer python ruby"
-olery,http://developer.olery.com/,olery,http://www.olery.com/jobs/," javascript ruby"
-ooyala,http://engineering.ooyala.com/,ooyala,http://www.ooyala.com/company/careers,"go java javascript ruby scala"
-opendns,https://blog.opendns.com/blog,opendns,https://careers.opendns.com/," c c# css groff javascript php python typescript visual basic"
-"opentable uk",http://tech.opentable.co.uk/,opentable,http://www.opentable.com/careers/,"coffeescript go java javascript puppet ruby scala"
-otobank,http://engineering.otobank.co.jp/,otobank,https://jp.stanby.com/ats/otobank/jobs," coffeescript html javascript php"
-otto-de,https://dev.otto.de/,otto-de,https://www.otto.de/unternehmen/jobs/Fachbereiche/softwareentwicklung.php," clojure java python ruby"
-outbrain,http://techblog.outbrain.com/,outbrain,http://outbrain.mytribehr.com/careers/," go html java javascript php ruby"
-oyster,http://tech.oyster.com/,oysterhotels,http://jobs.oyster.com/,"css python"
-paperlesspost,https://dev.paperlesspost.com/,paperlesspost,https://www.paperlesspost.com/about/jobs," c++ go javascript ruby"
-paypal,https://www.paypal-engineering.com/,paypal,https://www.paypal.com/us/webapps/mpp/jobs," c# c++ html java javascript php ruby scala"
-pinterest,https://engineering.pinterest.com/,pinterest,https://about.pinterest.com/en/careers/engineering,"elixir go java javascript objective-c python"
-pivotal,http://engineering.pivotal.io/,pivotal,https://pivotal.io/careers,"css html java javascript objective-c++ ruby viml"
-plumbee,http://engineering.plumbee.com/,plumbee,https://www.plumbee.com/jobs/,"actionscript clojure java python shell"
-podio,https://medium.com/podio-engineering-blog,podio,https://company.podio.com/jobs,"c# java javascript objective-c php python ruby"
-polyvore,http://engblog.polyvore.com/,polyvore,http://www.polyvore.com/cgi/about.jobs," java javascript perl puppet python"
-postmates,http://engineering.postmates.com/,postmates,https://postmates.com/jobs,"c go javascript objective-c python rust swift"
-prezi,https://engineering.prezi.com/,prezi,https://prezi.com/jobs,"c c++ coffeescript java javascript python shell"
-procore,http://engineering.procore.com/,procore,http://devblog.procore.com/jobs.html," elixir go javascript plpgsql ruby"
-"push technology",https://www.pushtechnology.com/category/development,pushtechnology,https://www.pushtechnology.com/about/careers/," c clojure html java"
-qubit,https://medium.com/qubit-engineering,qubitproducts,http://www.qubit.com/careers,"css go java javascript php"
-quizlet,https://quizlet.com/blog/engineering,quizlet,https://quizlet.com/jobs,"c++ coffeescript java javascript objective-c php ruby"
-quora,http://engineering.quora.com/,quora,https://www.quora.com/careers,"c++ javascript"
-realestate,http://rea.tech/,realestate-com-au,http://careers.realestate.com.au/,"go java javascript objective-c ruby scala shell"
-remind,http://engineering.remind.com/,remind101,https://www.remind.com/careers,"go java javascript python ruby"
-renttherunway,http://dresscode.renttherunway.com/,renttherunway,https://boards.greenhouse.io/renttherunway,"clojure java objective-c python ruby swift"
-reverb,https://product.reverb.com/,reverbdotcom,https://product.reverb.com/work-at-reverb/,"coffeescript go javascript php python ruby shell"
-richrelevance,http://engineering.richrelevance.com/,richrelevance,https://www.richrelevance.com/company/careers/," coffeescript java javascript objective-c scala"
-rightscale,http://eng.rightscale.com/,rightscale,http://rightscale.theresumator.com/,"go javascript ruby shell typescript"
-riotgames,http://engineering.riotgames.com/,riotgames,http://www.riotgames.com/careers/?offices=&depts=1398," java ruby"
-risingstack,https://blog.risingstack.com/,risingstack,https://risingstack.com/," javascript"
-roomkey,https://techblog.roomkey.com/,roomkey,https://stackoverflow.com/jobs/companies/room-key?c=7537KTtDFgNLexna,"clojure html javascript"
-salsify,http://blog.salsify.com/engineering,salsify,http://www.salsify.com/careers#engineering,"javascript php ruby"
-scrunch,https://tech.scrunch.com/blog/,scrunchenterprises,https://scrunch.com/careers/," javascript python shell"
-segment,https://segment.com/blog/categories/engineering/,segmentio,https://segment.com/jobs,"go hcl javascript objective-c"
-semantics3,https://engineering.semantics3.com/,semantics3,https://www.semantics3.com/jobs," asp c# java javascript objective-c php perl python ruby"
-sequra,https://engineering.sequra.es/,sequra,https://www.sequra.es/trabaja-con-nosotros.html,"html php ruby"
-"shape security",http://engineering.shapesecurity.com/,shapesecurity,https://shapesecurity.com/jobs/,"java javascript"
-sharethis,http://engineering.sharethis.com/,sharethis,http://www.sharethis.com/hiring/,"java perl python"
-sharethrough,https://engineering.sharethrough.com/,sharethrough,https://www.sharethrough.com/careers/openings/?category=Engineering,"java javascript objective-c ruby scala shell viml"
-"shop spring",http://engineering.shopspring.com/,shopspring,http://engineering.shopspring.com/,"css go"
-shutl,http://techblog.shutl.com/,shutl,https://shutl.com/uk/jobs,"ruby sqlpl swift"
-shutterstock,http://tech.shutterstock.com/,shutterstock,http://www.shutterstock.com/jobs," javascript php"
-shyp,http://shyp.github.io/,shyp,https://jobs.lever.co/shyp," go javascript"
-simondata,http://engineering.simondata.com/,radico,https://simondata.workable.com/,"java python scala"
-simple,https://www.simple.com/engineering,simpleFinance,https://www.simple.com/careers,"go java javascript python ruby scala"
-skroutz,http://engineering.skroutz.gr/,skroutz,https://skroutz.workable.com/," clojure coffeescript elixir html java javascript php ruby"
-skybettingandgaming,http://engineering.skybettingandgaming.com/,skybet,http://skybetcareers.com/," css coffeescript html javascript php ruby shell"
-slack,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fslack.engineering%2F,slackhq,https://slack.com/jobs/dept/engineering," coffeescript java javascript objective-c python ruby"
-songkick,http://devblog.songkick.com/,songkick,https://www.songkick.com/jobs#job-openings,"go groovy java javascript ruby"
-soundcloud,https://developers.soundcloud.com/blog/,soundcloud,https://soundcloud.com/jobs,"cmake clojure go java javascript python ruby scala shell"
-speedledger,http://engineering.speedledger.com/,speedledger,https://www.speedledger.se/jobb/,"java javascript scala"
-spotify,https://labs.spotify.com/,spotify,https://twitter.com/spotifyjobs," c++ go java javascript objective-c python raml scala shell"
-spreedly,http://engineering.spreedly.com/,spreedly,https://spreedly.com/jobs,"css groff html perl ruby swift"
-"square inc",https://corner.squareup.com/,square,https://squareup.com/careers,"java javascript kotlin objective-c shell swift"
-squarespace,http://engineering.squarespace.com/,squarespace,https://www.squarespace.com/about/careers,"css clojure groff groovy java javascript python shell"
-"staples sparx",http://www.staples-sparx.com/blog/,staples-sparx,http://www.staples-sparx.com/jobs/,"c++ clojure html java shell"
-stitchfix,http://multithreaded.stitchfix.com/,stitchfix,http://multithreaded.stitchfix.com/careers/,"java javascript jupyter notebook python ruby scala shell"
-stormpath,http://stormpath.com/blog,stormpath,https://careers.jobscore.com/jobs2/stormpath,"html java javascript perl python swift"
-strava,http://labs.strava.com,strava,http://blog.strava.com/careers/," c++ css go javascript objective-c protocol buffer shell"
-stripe,https://stripe.com/blog,stripe,https://stripe.com/jobs,"coffeescript go java objective-c php python ruby scala"
-stylefruits,http://blog.stylefruits.tech/index.html,stylefruits,http://www.stylefruits.co.uk/specials/persis,"clojure erlang html"
-stylight,http://tech.stylight.com/,stylight,http://jobs.stylight.com/," c++ html objective-c python swift"
-tapad,https://medium.com/@tapadeng,tapad,https://www.tapad.com/careers/openings,"elixir javascript scala typescript"
-tapjoy,http://eng.tapjoy.com/blog/,tapjoy,http://home.tapjoy.com/info/about-tapjoy/careers/postings/?department=engineering,"c go php ruby shell"
-target,https://target.github.io/,target,https://corporate.target.com/careers/career-areas/technology?ref=sr_shorturl_digitalcareers,"groovy html java javascript objective-c powershell ruby shell"
-tasktop,http://www.tasktop.com/categories/engineering,tasktop,http://www.tasktop.com/careers/job-postings," java javascript ruby"
-"teachers pay teachers",http://engineering.teacherspayteachers.com/,teacherspayteachers,https://boards.greenhouse.io/teacherspayteachers/,"css javascript livescript objective-c php python ruby swift"
-teamwork,http://engineroom.teamwork.com/,teamwork,https://www.teamwork.com/jobs/#technical," coffeescript go javascript shell"
-teespring,http://teespring.engineering/,teespring,https://teespring.com/jobs,"go html ruby shell swift"
-tellapart,https://www.tellapart.com/engineering-blog/,tellapart,https://www.tellapart.com/careers/,"c c++ java python ruby scala shell"
-"the working group",http://blog.twg.ca/category/technical/,twg,https://twg.io/careers," c css javascript php ruby"
+desc,url,github,jobs,languages,active
+500px,https://developers.500px.com/,500px,https://about.500px.com/jobs/,"css java javascript lua objective-c python ruby shell",true
+99designs,https://99designs.co.uk/tech-blog,99designs,https://99designs.co.uk/about/jobs,"go javascript php python ruby",true
+adjust,http://big-elephants.com/,adjust,https://www.adjust.com/jobs/#location=all&category=tech,"c# elixir go java objective-c r ruby",true
+nextroll,https://tech.nextroll.com/,adroll,https://www.nextroll.com/careers,"d erlang rust go java javascript python shell",true
+adzerk,https://www.adzerk.com/tech/,adzerk,https://stackoverflow.com/jobs/companies/adzerk,"c# c++ clojure html java javascript python ruby swift",true
+airbnb,http://airbnb.io/,airbnb,https://www.airbnb.com/careers/departments/engineering,"java javascript python ruby",true
+aircto,https://engineering.aircto.com/,aircto,https://angel.co/launchyard/jobs,"go javascript",true
+allegro,http://allegro.tech/,allegro,http://kariera.allegro.pl/,"go groovy java javascript php python scala",true
+alphasights,http://engineering-blog.alphasights.com/,alphasights,https://www.alphasights.com/careers,"css javascript ruby shell",true
+amplitude,https://amplitude.com/blog/category/engineering/,amplitude,https://amplitude.com/careers,"html java javascript objective-c",true
+aol,https://engineering.aol.com/,aol,http://www.aol-careers.com/,"c java javascript php python",true
+appcues,https://engineering.appcues.com/,appcues,https://stackoverflow.com/jobs/companies/appcues,"elixir javascript ruby",true
+appfolio,http://engineering.appfolio.com/,appfolio,http://www.appfolioinc.com/jobs-openings,"javascript objective-c python ruby",true
+appnexus,http://techblog.appnexus.com/,appnexus,http://www.appnexus.com/en/company/careers,"java javascript objective-c python",true
+artsy,https://artsy.github.io/,artsy,https://www.artsy.net/jobs,"css coffeescript elixir javascript objective-c ruby swift",true
+asana,https://blog.asana.com/category/eng,asana,https://asana.com/jobs#openPositionsList,"erlang java javascript php python ruby typescript",true
+"atlassian dev",https://developer.atlassian.com/index.html,atlassian,https://www.atlassian.com/company/careers/engineering#browseJobSection,"go java javascript puppet ruby",true
+audiense,http://engineering.audiense.com/,audienseco,https://www.audiense.com/about-us/careers/,"css coffeescript javascript perl python",true
+aweber,http://engineering.aweber.com/,aweber,http://www.aweber.jobs/apply,"c erlang groff java javascript objective-c php python ruby",true
+babbel,http://bytes.babbel.com/,babbel,http://jobs.babbel.com/en/,"go javascript python ruby",true
+badoo,https://techblog.badoo.com/,badoo,https://corp.badoo.com/jobs/,"go java javascript lua objective-c php ruby swift",true
+"bazaar voice",http://blog.developer.bazaarvoice.com/,bazaarvoice,http://www.bazaarvoice.com/careers/,"go java javascript objective-c python ruby shell",true
+bellycard,https://tech.bellycard.com/,bellycard,https://tech.bellycard.com/join/,"html java javascript objective-c python ruby shell swift",true
+benchling,http://benchling.engineering/,benchling,https://benchling.com/careers,"c coffeescript go javascript php python ruby",true
+bigcommerce,http://www.bigeng.io/,bigcommerce,https://www.bigcommerce.com/careers/?filter=all&team=engineering#jobs,"css go html javascript php python ruby",true
+bitly,http://word.bitly.com/,bitly,https://bitly.com/pages/careers,"c go javascript python",true
+bitrise,https://tech.bitrise.io/,bitrise-io,https://www.bitrise.io/job,"c# go html ruby shell",true
+bittorrent,http://engineering.bittorrent.com/,bittorrent,http://www.bittorrent.com/company/about/jobs,"c++ html javascript python shell",true
+blablacar,http://blablatech.com/blog/,blablacar,https://www.blablacar.pl/dreamjobs,"go",true
+bloc,http://code.bloc.io/,bloc,https://jobs.lever.co/bloc/,"html javascript objective-c ruby swift",true
+bloomreach,http://engineering.bloomreach.com/,bloomreach,http://bloomreach.com/careers/,"java python",true
+bocoup,http://bocoup.com/weblog/,bocoup,https://bocoup.com/workat,"css html java javascript python",true
+boxever,http://www.boxever.com/tech-blog,boxever,http://www.boxever.com/careers,"clojure java",true
+"braintree payments",https://www.braintreepayments.com/blog/,braintree,https://www.braintreepayments.com/careers,"c# css coffeescript go html java javascript php ruby",true
+bronto,http://blog.bronto.com/engineering,bronto,http://careers.bronto.com/,"java javascript php python ruby",true
+buffer,https://overflow.buffer.com/,bufferapp,https://buffer.com/journey/,"coffeescript javascript objective-c python r ruby",true
+buildkite,https://building.buildkite.com/,buildkite,https://buildkite.com/about,"go javascript ruby shell",true
+buzzfeed,https://www.buzzfeed.com/techblog,buzzfeed,https://www.buzzfeed.com/about/jobs,"css javascript objective-c perl python swift",true
+cerner,http://engineering.cerner.com/,cerner,https://sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=25754&siteid=5095&PageType=searchResults&SearchType=linkquery,"javascript ruby",true
+chartbeat,https://medium.com/chartbeat-engineering,chartbeat,https://chartbeat.com/careers,"c javascript python ruby shell",true
+chegg,https://techblog.chegg.com/,cheggeng,http://jobs.chegg.com/,"go html java javascript php python ruby",true
+circle,https://engineering.circle.com/,circlefin,https://www.circle.com/en/careers,"javascript objective-c",true
+citrusbyte,http://bits.citrusbyte.com/,citrusbyte,http://careers.citrusbyte.com/,"c++ css elixir javascript objective-c python ruby",true
+clever,https://engineering.clever.com/,clever,https://clever.com/about/jobs#software-engineer,"css coffeescript go javascript lua makefile python shell",true
+msystechnologies,http://www.techblogs.msystechnologies.com,msystechnologiesllc,http://msystechnologies.com/careers,"html javascript r ruby shell",true
+cloudera,http://blog.cloudera.com/,cloudera,http://www.cloudera.com/content/www/en-us/about-cloudera/careers.html,"c++ java python scala shell",true
+codeship,http://blog.codeship.com/category/tech-room/,codeship,https://codeship.com/jobs,"css coffeescript go javascript ruby shell",true
+conversant,http://engineering.conversantmedia.com/opensource/,conversant,http://engineering.conversantmedia.com/joinus/,"html java javascript objective-c plpgsql python",true
+coursera,https://building.coursera.org/,coursera,https://www.coursera.org/about/careers,"css html java javascript python scala",true
+curalate,http://engineering.curalate.com/,curalate,https://www.themuse.com/jobs/c-curalate-jobs,"groovy java javascript objective-c python ruby scala",true
+datadog,https://engineering.datadoghq.com/,datadog,https://www.datadoghq.com/jobs-engineering/,"c c# go java php python ruby shell",true
+domain,http://tech.domain.com.au/category/engineering/,domaingrouposs,http://tech.domain.com.au/careers/,"c# java objective-c powershell python ruby shell",true
+dose,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengineering.dose.com%2F,dosemedia,http://about.dose.com/careers,"javascript jupyter notebook python ruby shell",true
+doximity,https://engineering.doximity.com/,doximity,https://auth.doximity.com/csrf_init?redirect_to=https%3A%2F%2Fwww.doximity.com%2Fabout%2Fjobs%3F_csrf_attempted%3Dyes,"css go html javascript python ruby",true
+dropbox,https://blogs.dropbox.com/tech/,dropbox,https://www.dropbox.com/jobs,"c# c++ coffeescript go java javascript objective-c php python",true
+ebay,http://www.ebaytechblog.com/,ebay,https://careers.ebayinc.com/join-our-team/start-your-search/,"c++ go java javascript python scala swift",true
+eharmony,http://www.eharmony.com/engineering/,eHarmony,http://www.eharmony.com/about/careers/,"c++ java javascript scala",true
+etsy,https://codeascraft.com/,etsy,https://www.etsy.com/careers,"java javascript objective-c php python ruby",true
+eventbrite,http://www.eventbrite.com/engineering/,eventbrite,https://app.jobvite.com/CompanyJobs/Careers.aspx?c=qU29VfwK&cs=9vBbVfwW&nl=0,"coffeescript javascript python ruby",true
+expedia,https://techblog.expedia.com/,expediadotcom,https://twitter.com/expediaeng,"css html java javascript ruby",true
+facebook,https://m.facebook.com/Engineering,facebook,https://m.facebook.com/careers,"c c++ java javascript ocaml objective-c++",true
+facile-it,http://engineering.facile.it,facile-it,http://engineering.facile.it/ita/careers/,"css html php ruby swift",true
+flickr,http://code.flickr.net/,flickr,https://www.flickr.com/jobs,"c++ javascript makefile perl",true
+flipboard,http://engineering.flipboard.com/,flipboard,https://about.flipboard.com/team/engineering-team/,"coffeescript go groovy java javascript objective-c python",true
+fluencia,http://engineering.curiositymedia.com/,spanishdict,http://www.fluencia.com/about-us/careers/,"coffeescript html javascript python ruby",true
+flywire,https://engineering.flywire.com/,peertransfer,https://www.flywire.com/careers,"javascript ruby",true
+"football radar",https://engineering.footballradar.com/,footballradar,https://engineering.footballradar.com/careers/,"javascript php python",true
+foursquare,http://engineering.foursquare.com/,foursquare,https://foursquare.com/jobs,"c++ java objective-c python scala",true
+freeagent,http://engineering.freeagent.com/,fac,http://www.freeagent.com/company/careers/,"css makefile ruby shell",true
+"funding circle",https://medium.com/funding-circle/engineering/home,fundingcircle,https://www.fundingcircle.com/us/careers/,"css clojure coffeescript java ruby shell",true
+"future processing",https://www.future-processing.pl/technical-blog/,futureprocessing,https://www.future-processing.com/careers,"c# css java javascript php shell",true
+"game changer",http://tech.gc.com/,gamechanger,https://gc.com/about/careers,"go javascript objective-c python",true
+giantswarm,https://blog.giantswarm.io/,giantswarm,https://angel.co/giant-swarm/jobs,"go makefile python",true
+gilt,http://tech.gilt.com/,gilt,http://www.gilt.com/careers/department/technology-product-management/,"java javascript scala swift",true
+github,http://githubengineering.com/,github,https://github.com/about/jobs,"c# coffeescript go javascript ruby",true
+gocardless,https://gocardless.com/blog/tagged/engineering,gocardless,https://gocardless.com/about#jobs,"go html javascript ruby shell",true
+godaddy,https://engineering.godaddy.com/,godaddy,http://careers.godaddy.net/jobs/category/software-engineering,"c++ css java javascript php python ruby",true
+goodeggs,http://bites.goodeggs.com/,goodeggs,http://careers.goodeggs.com/open-positions/,"coffeescript javascript python shell swift",true
+gosquared,https://engineering.gosquared.com/,gosquared,https://www.gosquared.com/careers/,"javascript makefile objective-c php ruby",true
+grammarly,http://tech.grammarly.com/blog/index.html,grammarly,https://www.grammarly.com/jobs,"clojure go java javascript python ruby shell",true
+graze,http://tech.graze.com/,graze,https://www.graze.com/uk/jobs/tech,"c html makefile php python shell",true
+greenhouse,https://tech.greenhouse.io/,grnhse,https://www.greenhouse.io/careers?gh_src=xt6m8g,"go javascript php python ruby shell",true
+grofers,https://lambda.grofers.com/,grofers,https://grofers.com/careers/,"go javascript perl python ruby scala",true
+groupon,https://engineering.groupon.com/,groupon,https://jobs.groupon.com/,"coffeescript java javascript perl ruby scala shell",true
+guidebook,http://engineering.guidebook.com/,guidebook,https://guidebook.com/gb/careers/#open-positions,"css objective-c swift",true
+gusto,http://engineering.gusto.com/,gusto,https://gusto.com/about/careers,"javascript ruby",true
+hailo,https://sudo.hailoapp.com/,hailocab,https://hailo.workable.com//,"go javascript",true
+harrys,http://engineering.harrys.com/,harrystech,https://boards.greenhouse.io/harrys,"java javascript ruby scala swift",true
+hashrocket,https://til.hashrocket.com/,hashrocket,https://hashrocket.com/contact-us/jobs,"clojure elixir go javascript ruby shell",true
+helpshift,https://engineering.helpshift.com/,helpshift,https://www.helpshift.com/about/,"css clojure emacs lisp erlang java objective-c ruby",true
+heroku,https://engineering.heroku.com/,heroku,https://www.heroku.com/careers,"css erlang go html javascript ruby shell",true
+hipo,http://engineering.hipolabs.com/,hipo,http://hipolabs.com/team/,"arduino go html objective-c python",true
+hobsons,http://engineering.hobsons.com/,hobsons,http://app.jobvite.com/CompanyJobs/Careers.aspx?c=qAv9VfwT&cs=9yDaVfw0,"css go java python ruby",true
+homeaway,https://tech.homeaway.com/,homeaway,https://www.homeaway.com/info/about-us/careers-1/career-opportunities.html?location=&category=Software+Engineering,"css java javascript r ruby",true
+hootsuite,http://code.hootsuite.com/,hootsuite,https://hootsuite.com/about/careers#jobPostings,"javascript php python scala shell swift",true
+hoteltonight,http://engineering.hoteltonight.com/,hoteltonight,https://www.hoteltonight.com/about/careers,"coffeescript objective-c ruby shell",true
+hotwire,http://techblog.hotwire.com/,hotwiredotcom,http://www.lifeatexpedia.com/career-areas/technology/,"c java kotlin",true
+hubspot,http://product.hubspot.com/blog/topic/engineering,hubspot,http://product.hubspot.com/jobs-engineering,"css html java javascript",true
+huddle,http://tldr.huddle.com/,huddle,https://talentcommunity.huddle.com/,"c# css html java javascript objective-c ruby",true
+iheartradio,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftech.iheart.com%2F,iheartradio,http://jobs.iheart.com/,"java javascript makefile objective-c python scala",true
+imvu,https://engineering.imvu.com/,imvu,http://www.imvu.com/jobs/index/,"c++ erlang go haskell java javascript objective-c ruby shell",true
+indeed,http://engineering.indeedblog.com/,indeedeng,http://www.indeed.jobs/,"apacheconf go java python",true
+instacart,https://tech.instacart.com/,instacart,https://careers.instacart.com/,"go javascript objective-c python r ruby shell",true
+instagram,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengineering.instagram.com%2F,instagram,https://www.instagram.com/about/jobs,"c c++ java javascript python ruby",true
+instructure,http://instructure.github.io/blog/,instructure,https://www.instructure.com/careers,"css hcl java javascript objective-c ruby scala typescript",true
+intenthq,http://engineering.intenthq.com/,intenthq,https://www.intenthq.com/about-intent/#join-us,"css java python ruby scala shell",true
+intentmedia,http://intentmedia.com/blog/,intentmedia,http://intentmedia.com/jobs/,"clojure elixir java javascript makefile python ruby scala shell",true
+intercom,https://blog.intercom.io/category/engineering,intercom,https://www.intercom.io/careers,"c# go java javascript objective-c ruby",true
+invisionapp,http://engineering.invisionapp.com/,invisionapp,https://www.invisionapp.com/company#jobs,"go javascript objective-c python ruby shell",true
+isl,https://sudo.isl.co/,istrategylabs,https://isl.co/careers/,"arduino css javascript python ruby shell",true
+issuu,http://engineering.issuu.com/,issuu,https://issuu.com/careers,"c++ erlang javascript ocaml python",true
+"jane street",https://blogs.janestreet.com/,janestreet,https://www.janestreet.com/join-jane-street/apply/,"c makefile ocaml",true
+jet,https://tech.jet.com/,jet,https://jet.com/about-us/working-at-jet/jobs,"f# go raml shell",true
+"just eat",http://tech.just-eat.com/,justeat,http://tech.just-eat.com/jobs,"c# gcc machine description javascript objective-c ruby swift",true
+kapost,http://engineering.kapost.com/,kapost,https://kapost.com/careers/,"actionscript css html ruby",true
+keepsafe,https://medium.com/keepsafe-engineering,keepsafe,https://jobs.lever.co/keepsafe,"clojure groovy java objective-c python",true
+"keyhole software",https://keyholesoftware.com/blog/,in-the-keyhole,https://keyholesoftware.com/contact/careers/,"css java javascript typescript",true
+"khan academy",http://engineering.khanacademy.org/,khan,https://www.khanacademy.org/careers,"html javascript python shell swift",true
+klarna,http://engineering.klarna.com/,klarna,https://www.klarna.com/careers,"erlang go java javascript php python ruby",true
+klout,http://engineering.klout.com/,klout,http://jobs.lithium.com/jobs/category/engineering,"coffeescript java javascript objective-c scala",true
+knewton,https://tech.knewton.com/,knewton,https://www.knewton.com/jobs/,"haskell java javascript python ruby shell",true
+laterooms,http://engineering.laterooms.com/,lateroomsgroup,https://stackoverflow.com/jobs/companies/laterooms-com,"c# coffeescript javascript php shell",true
+laurelandwolf,http://engineering.laurelandwolf.com/,laurelandwolf,https://jobs.lever.co/laurelandwolf/,"html javascript ruby shell",true
+lendinghome,https://tech.lendinghome.com,lendinghome,https://www.lendinghome.com/careers,"javascript python ruby shell",true
+life360,http://engineering.life360.com/,life360,https://www.life360.com/jobs/,"coffeescript go javascript objective-c php shell",true
+line,https://engineering.linecorp.com/en/blog,linecorp,https://engineering.linecorp.com/en/careers,"c++ go java objective-c php perl python ruby",true
+linkedin,https://engineering.linkedin.com/blog,linkedin,https://engineering.linkedin.com/jobs,"go groovy html java javascript swift",true
+linode,https://engineering.linode.com/,linode,https://www.linode.com/careers#,"css html javascript perl python ruby",true
+localytics,http://eng.localytics.com/,localytics,https://boards.greenhouse.io/localytics,"c# java javascript objective-c ruby scala",true
+loginradius,https://www.loginradius.com/engineering,loginradius,https://www.loginradius.com/careers,"c# css javascript objective-c php python ruby",true
+lyft,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Feng.lyft.com%2F,lyft,https://www.lyft.com/jobs,"java python swift",true
+lyst,http://developers.lyst.com/,ssaw,https://www.lyst.com/careers,"javascript objective-c python",true
+mailchimp,http://devs.mailchimp.com/blog/,mailchimp,http://mailchimp.com/about/jobs/,"css javascript objective-c php python ruby",true
+mayvenn,http://engineering.mayvenn.com/,mayvenn,https://jobs.mayvenn.com/recruit/Portal.na,"clojure ruby scala",true
+mdsol,http://techblog.mdsol.com/,mdsol,https://www.mdsol.com/en/careers,"c# cucumber go java javascript r ruby",true
+medallia,http://engineering.medallia.com/blog/,medallia,http://www.medallia.com/careers/,"go html java javascript scala shell",true
+medium,https://medium.engineering/,medium,https://medium.com/@Medium/engineering-a231458a0976,"go javascript",true
+"meet me",http://engineering.meetme.com/,meetme,http://www.meetme.com/apps/careers,"c java javascript php python ruby",true
+meetup,http://making.meetup.com/,meetup,http://www.meetup.com/jobs/#open-positions,"css java javascript makefile python ruby scala",true
+meltwater,http://underthehood.meltwater.com/,meltwater,https://www.meltwater.com/about/careers,"go html java javascript puppet python ruby shell",true
+mercari,http://tech.mercari.com/,mercari,https://gb.wantedly.com/companies/mercariapp-com,"go java php",true
+microsoft,http://engineering.microsoft.com/,microsoft,https://careers.microsoft.com/search.aspx,"c# c++ java typescript",true
+mixlr,http://tech.mixlr.com/,mixlr,http://tech.mixlr.com/jobs/,"c c++ css coffeescript go html javascript objective-c ruby",true
+modus,http://moduscreate.com/blog/,moduscreateorg,http://moduscreate.com/careers/,"javascript objective-c shell swift",true
+monetate,http://engineering.monetate.com/,monetate,http://www.monetate.com/about/careers,"c c++ go html java python scala shell",true
+mongodb,https://engineering.mongodb.com/,mongodb,https://www.mongodb.com/careers/positions?office=All%20Offices&department=Engineering,"c# c++ go java php python ruby scala",true
+monsanto,http://engineering.monsanto.com/,monsantoco,http://engineering.monsanto.com/contact/,"coffeescript html java javascript lua scala shell",true
+moz,http://moz.com/devblog/,seomoz,https://moz.com/about/jobs,"c++ elixir java python ruby",true
+netflix,https://medium.com/netflix-techblog,netflix,https://jobs.netflix.com/category/4/jobs,"c go html java javascript scala",true
+netlify,http://purple.netlify.com/,netlify,https://www.netlify.com/careers/,"go html javascript ruby shell",true
+nextdoor,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengblog.nextdoor.com%2F,nextdoor,https://nextdoor.com/jobs/,"c css objective-c puppet python ruby shell",true
+noredink,http://tech.noredink.com/,noredink,https://www.noredink.com/jobs,"elixir elm javascript python ruby",true
+"ny times",http://developers.nytimes.com/,nytimes,http://www.nytimes.com/glogin?URI=http%3A%2F%2Fdevelopers.nytimes.com%2Fcareers%3F_r%3D0,"go javascript objective-c protocol buffer python ruby",true
+olery,http://developer.olery.com/,olery,http://www.olery.com/jobs/,"javascript ruby",true
+ooyala,http://engineering.ooyala.com/,ooyala,http://www.ooyala.com/company/careers,"go java javascript ruby scala",true
+opendns,https://blog.opendns.com/blog,opendns,https://careers.opendns.com/,"c c# css groff javascript php python typescript visual basic",true
+"opentable uk",http://tech.opentable.co.uk/,opentable,http://www.opentable.com/careers/,"coffeescript go java javascript puppet ruby scala",true
+otobank,http://engineering.otobank.co.jp/,otobank,https://jp.stanby.com/ats/otobank/jobs,"coffeescript html javascript php",true
+otto-de,https://dev.otto.de/,otto-de,https://www.otto.de/unternehmen/jobs/Fachbereiche/softwareentwicklung.php,"clojure java python ruby",true
+outbrain,http://techblog.outbrain.com/,outbrain,http://outbrain.mytribehr.com/careers/,"go html java javascript php ruby",true
+oyster,http://tech.oyster.com/,oysterhotels,http://jobs.oyster.com/,"css python",true
+paperlesspost,https://dev.paperlesspost.com/,paperlesspost,https://www.paperlesspost.com/about/jobs,"c++ go javascript ruby",true
+paypal,https://www.paypal-engineering.com/,paypal,https://www.paypal.com/us/webapps/mpp/jobs,"c# c++ html java javascript php ruby scala",true
+pinterest,https://engineering.pinterest.com/,pinterest,https://about.pinterest.com/en/careers/engineering,"elixir go java javascript objective-c python",true
+pivotal,http://engineering.pivotal.io/,pivotal,https://pivotal.io/careers,"css html java javascript objective-c++ ruby viml",true
+plumbee,http://engineering.plumbee.com/,plumbee,https://www.plumbee.com/jobs/,"actionscript clojure java python shell",true
+podio,https://medium.com/podio-engineering-blog,podio,https://company.podio.com/jobs,"c# java javascript objective-c php python ruby",true
+polyvore,http://engblog.polyvore.com/,polyvore,http://www.polyvore.com/cgi/about.jobs,"java javascript perl puppet python",true
+postmates,http://engineering.postmates.com/,postmates,https://postmates.com/jobs,"c go javascript objective-c python rust swift",true
+prezi,https://engineering.prezi.com/,prezi,https://prezi.com/jobs,"c c++ coffeescript java javascript python shell",true
+procore,http://engineering.procore.com/,procore,http://devblog.procore.com/jobs.html,"elixir go javascript plpgsql ruby",true
+"push technology",https://www.pushtechnology.com/category/development,pushtechnology,https://www.pushtechnology.com/about/careers/,"c clojure html java",true
+qubit,https://medium.com/qubit-engineering,qubitproducts,http://www.qubit.com/careers,"css go java javascript php",true
+quizlet,https://quizlet.com/blog/engineering,quizlet,https://quizlet.com/jobs,"c++ coffeescript java javascript objective-c php ruby",true
+quora,http://engineering.quora.com/,quora,https://www.quora.com/careers,"c++ javascript",true
+realestate,http://rea.tech/,realestate-com-au,http://careers.realestate.com.au/,"go java javascript objective-c ruby scala shell",true
+remind,http://engineering.remind.com/,remind101,https://www.remind.com/careers,"go java javascript python ruby",true
+renttherunway,http://dresscode.renttherunway.com/,renttherunway,https://boards.greenhouse.io/renttherunway,"clojure java objective-c python ruby swift",true
+reverb,https://product.reverb.com/,reverbdotcom,https://product.reverb.com/work-at-reverb/,"coffeescript go javascript php python ruby shell",true
+richrelevance,http://engineering.richrelevance.com/,richrelevance,https://www.richrelevance.com/company/careers/,"coffeescript java javascript objective-c scala",true
+rightscale,http://eng.rightscale.com/,rightscale,http://rightscale.theresumator.com/,"go javascript ruby shell typescript",true
+riotgames,http://engineering.riotgames.com/,riotgames,http://www.riotgames.com/careers/?offices=&depts=1398,"java ruby",true
+risingstack,https://blog.risingstack.com/,risingstack,https://risingstack.com/,"javascript",true
+roomkey,https://techblog.roomkey.com/,roomkey,https://stackoverflow.com/jobs/companies/room-key?c=7537KTtDFgNLexna,"clojure html javascript",true
+salsify,http://blog.salsify.com/engineering,salsify,http://www.salsify.com/careers#engineering,"javascript php ruby",true
+scrunch,https://tech.scrunch.com/blog/,scrunchenterprises,https://scrunch.com/careers/,"javascript python shell",true
+segment,https://segment.com/blog/categories/engineering/,segmentio,https://segment.com/jobs,"go hcl javascript objective-c",true
+semantics3,https://engineering.semantics3.com/,semantics3,https://www.semantics3.com/jobs,"asp c# java javascript objective-c php perl python ruby",true
+sequra,https://engineering.sequra.es/,sequra,https://www.sequra.es/trabaja-con-nosotros.html,"html php ruby",true
+"shape security",http://engineering.shapesecurity.com/,shapesecurity,https://shapesecurity.com/jobs/,"java javascript",true
+sharethis,http://engineering.sharethis.com/,sharethis,http://www.sharethis.com/hiring/,"java perl python",true
+sharethrough,https://engineering.sharethrough.com/,sharethrough,https://www.sharethrough.com/careers/openings/?category=Engineering,"java javascript objective-c ruby scala shell viml",true
+"shop spring",http://engineering.shopspring.com/,shopspring,http://engineering.shopspring.com/,"css go",true
+shutl,http://techblog.shutl.com/,shutl,https://shutl.com/uk/jobs,"ruby sqlpl swift",true
+shutterstock,http://tech.shutterstock.com/,shutterstock,http://www.shutterstock.com/jobs,"javascript php",true
+shyp,http://shyp.github.io/,shyp,https://jobs.lever.co/shyp,"go javascript",true
+simondata,http://engineering.simondata.com/,radico,https://simondata.workable.com/,"java python scala",true
+simple,https://www.simple.com/engineering,simpleFinance,https://www.simple.com/careers,"go java javascript python ruby scala",true
+skroutz,http://engineering.skroutz.gr/,skroutz,https://skroutz.workable.com/,"clojure coffeescript elixir html java javascript php ruby",true
+skybettingandgaming,http://engineering.skybettingandgaming.com/,skybet,http://skybetcareers.com/,"css coffeescript html javascript php ruby shell",true
+slack,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fslack.engineering%2F,slackhq,https://slack.com/jobs/dept/engineering,"coffeescript java javascript objective-c python ruby",true
+songkick,http://devblog.songkick.com/,songkick,https://www.songkick.com/jobs#job-openings,"go groovy java javascript ruby",true
+soundcloud,https://developers.soundcloud.com/blog/,soundcloud,https://soundcloud.com/jobs,"cmake clojure go java javascript python ruby scala shell",true
+speedledger,http://engineering.speedledger.com/,speedledger,https://www.speedledger.se/jobb/,"java javascript scala",true
+spotify,https://labs.spotify.com/,spotify,https://twitter.com/spotifyjobs,"c++ go java javascript objective-c python raml scala shell",true
+spreedly,http://engineering.spreedly.com/,spreedly,https://spreedly.com/jobs,"css groff html perl ruby swift",true
+"square inc",https://corner.squareup.com/,square,https://squareup.com/careers,"java javascript kotlin objective-c shell swift",true
+squarespace,http://engineering.squarespace.com/,squarespace,https://www.squarespace.com/about/careers,"css clojure groff groovy java javascript python shell",true
+"staples sparx",http://www.staples-sparx.com/blog/,staples-sparx,http://www.staples-sparx.com/jobs/,"c++ clojure html java shell",true
+stitchfix,http://multithreaded.stitchfix.com/,stitchfix,http://multithreaded.stitchfix.com/careers/,"java javascript jupyter notebook python ruby scala shell",true
+stormpath,http://stormpath.com/blog,stormpath,https://careers.jobscore.com/jobs2/stormpath,"html java javascript perl python swift",true
+strava,http://labs.strava.com,strava,http://blog.strava.com/careers/,"c++ css go javascript objective-c protocol buffer shell",true
+stripe,https://stripe.com/blog,stripe,https://stripe.com/jobs,"coffeescript go java objective-c php python ruby scala",true
+stylefruits,http://blog.stylefruits.tech/index.html,stylefruits,http://www.stylefruits.co.uk/specials/persis,"clojure erlang html",true
+stylight,http://tech.stylight.com/,stylight,http://jobs.stylight.com/,"c++ html objective-c python swift",true
+tapad,https://medium.com/@tapadeng,tapad,https://www.tapad.com/careers/openings,"elixir javascript scala typescript",true
+tapjoy,http://eng.tapjoy.com/blog/,tapjoy,http://home.tapjoy.com/info/about-tapjoy/careers/postings/?department=engineering,"c go php ruby shell",true
+target,https://target.github.io/,target,https://corporate.target.com/careers/career-areas/technology?ref=sr_shorturl_digitalcareers,"groovy html java javascript objective-c powershell ruby shell",true
+tasktop,http://www.tasktop.com/categories/engineering,tasktop,http://www.tasktop.com/careers/job-postings,"java javascript ruby",true
+"teachers pay teachers",http://engineering.teacherspayteachers.com/,teacherspayteachers,https://boards.greenhouse.io/teacherspayteachers/,"css javascript livescript objective-c php python ruby swift",true
+teamwork,http://engineroom.teamwork.com/,teamwork,https://www.teamwork.com/jobs/#technical,"coffeescript go javascript shell",true
+teespring,http://teespring.engineering/,teespring,https://teespring.com/jobs,"go html ruby shell swift",true
+tellapart,https://www.tellapart.com/engineering-blog/,tellapart,https://www.tellapart.com/careers/,"c c++ java python ruby scala shell",true
+"the working group",http://blog.twg.ca/category/technical/,twg,https://twg.io/careers,"c css javascript php ruby",true
 thetrainline,https://engineering.thetrainline.com/,trainline,http://www.thetrainlinejobs.com/job,javascript
-thumbtack,http://www.thumbtack.com/engineering/,thumbtack,https://www.thumbtack.com/jobs," c css go haskell java javascript php shell"
-ticketmaster,https://tech.ticketmaster.com/,ticketmaster,http://www.ticketmaster.co.uk/careers,"go html java javascript objective-c perl powershell python shell"
-timehop,http://tales.timehop.com/,timehop,http://timehop.com/joinus," go java objective-c ruby shell"
-trackmaven,http://engineroom.trackmaven.com/,trackmaven,https://boards.greenhouse.io/trackmaven," css javascript python shell"
-transferwise,http://tech.transferwise.com/,transferwise,https://transferwise.com/jobs/,"css java javascript objective-c php swift"
-treehouse,https://medium.com/treehouse-engineering,treehouse,https://teamtreehouse.com/jobs," css java kotlin ruby"
-trello,http://tech.trello.com/,trello,https://trello.com/jobs," c coffeescript html java javascript"
-trivago,http://tech.trivago.com/,trivago,http://company.trivago.com/careers/technology/," css go java javascript php python ruby swift"
-truecar,https://www.drivenbycode.com/,truecar,http://careers.true.com," c++ go hcl javascript jupyter notebook puppet python ruby scala shell"
-trulia,http://www.trulia.com/blog/tech/,trulia,http://www.trulia.com/about/careers,"css html java javascript python r ruby"
-tubemogul,https://www.tubemogul.com/engineering/,tubemogul,https://www.tubemogul.com/opportunities/,"html java javascript ruby"
-tumblr,https://engineering.tumblr.com/#_=_,tumblr,https://www.tumblr.com/jobs," html java javascript objective-c php python ruby scala swift"
-twilio,https://www.twilio.com/engineering,twilio,https://www.twilio.com/company/jobs,"c# coffeescript erlang java javascript objective-c php python ruby swift"
+thumbtack,http://www.thumbtack.com/engineering/,thumbtack,https://www.thumbtack.com/jobs,"c css go haskell java javascript php shell",true
+ticketmaster,https://tech.ticketmaster.com/,ticketmaster,http://www.ticketmaster.co.uk/careers,"go html java javascript objective-c perl powershell python shell",true
+timehop,http://tales.timehop.com/,timehop,http://timehop.com/joinus,"go java objective-c ruby shell",true
+trackmaven,http://engineroom.trackmaven.com/,trackmaven,https://boards.greenhouse.io/trackmaven,"css javascript python shell",true
+transferwise,http://tech.transferwise.com/,transferwise,https://transferwise.com/jobs/,"css java javascript objective-c php swift",true
+treehouse,https://medium.com/treehouse-engineering,treehouse,https://teamtreehouse.com/jobs,"css java kotlin ruby",true
+trello,http://tech.trello.com/,trello,https://trello.com/jobs,"c coffeescript html java javascript",true
+trivago,http://tech.trivago.com/,trivago,http://company.trivago.com/careers/technology/,"css go java javascript php python ruby swift",true
+truecar,https://www.drivenbycode.com/,truecar,http://careers.true.com,"c++ go hcl javascript jupyter notebook puppet python ruby scala shell",true
+trulia,http://www.trulia.com/blog/tech/,trulia,http://www.trulia.com/about/careers,"css html java javascript python r ruby",true
+tubemogul,https://www.tubemogul.com/engineering/,tubemogul,https://www.tubemogul.com/opportunities/,"html java javascript ruby",true
+tumblr,https://engineering.tumblr.com/#_=_,tumblr,https://www.tumblr.com/jobs,"html java javascript objective-c php python ruby scala swift",true
+twilio,https://www.twilio.com/engineering,twilio,https://www.twilio.com/company/jobs,"c# coffeescript erlang java javascript objective-c php python ruby swift",true
 "twitch tv",https://medium.com/twitch-engineering,twitchtv,http://engineering.twitch.tv/,javascript
-twitter,https://engineering.twitter.com/,twitter,https://careers.twitter.com/careers,"c c++ html java javascript objective-c scala"
-uber,https://eng.uber.com/,uber,https://www.uber.com/careers/list/?city=all&country=all&keywords=&subteam=all&team=engineering,"c go java javascript python swift"
-underdog,http://engineering.underdog.io/,underdogio,https://underdog.io/candidates/apply,"css java javascript python ruby"
-upday,https://upday.github.io/blog/,upday,http://upday.com/en/jobs," css erlang java javascript ruby"
-usertesting,http://engineering.usertesting.com/,usertesting,https://careers.smartrecruiters.com/UserTesting/," elixir html java javascript objective-c ruby shell"
-vena,https://engineering.vena.io/,venasolutions,http://vena.jazz.co/apply/," java"
-venmo,https://engineering.venmo.com/,venmo,https://venmo.com/jobs," java javascript objective-c python ruby swift"
-viki,http://engineering.viki.com/blog/,viki-org,https://www.viki.com/jobs,"c# go javascript objective-c python ruby"
-vine,http://engineering.vine.co/,vine,https://vine.co/jobs,"c java objective-c python ruby"
-vinted,http://engineering.vinted.com/,vinted,http://engineering.vinted.com/join/," c java objective-c ruby"
-voxer,http://engineering.voxer.com/,voxer,http://voxer.com/careers/,"c java javascript objective-c php ruby shell"
-"walmart labs",https://medium.com/walmartlabs,walmartlabs,https://jobs.walmart.com/us/jobs?page=1&tags=ecommerce," clojure javascript"
-"washington post",https://developer.washingtonpost.com/pb/blog/,washingtonpost,https://sub.washingtonpost.com/hosted/56549408208965c92352902b," java javascript php python shell swift"
-wattpad,http://engineering.wattpad.com/,wattpad,http://www.wattpad.com/life/?jobs,"c++ go objective-c python ruby shell"
-wayfair,http://engineering.wayfair.com/,wayfair,http://www.wayfair.com/careers#dept=engineering,"c c# c++ coffeescript java javascript php perl python ruby shell"
-wealthfront,http://eng.wealthfront.com/,wealthfront,https://www.wealthfront.com/engineering/careers," java javascript"
-webengage,http://engineering.webengage.com/,webengage,http://blog.webengage.com/category/hiring/," css javascript ruby shell"
-wepay,https://wecode.wepay.com/,wepay,https://go.wepay.com/careers,"css java javascript objective-c php python ruby"
-wework,https://engineering.wework.com/,wework,https://www.wework.com/careers,"css coffeescript html javascript ruby shell"
-widen,http://engineering.widen.com/,widen,http://www.widen.com/careers," go groovy java javascript makefile"
-wingify,http://engineering.wingify.com/,wingify,http://wingify.com/careers," c java javascript lua python"
-wix,http://blog.wix.engineering/,wix,http://www.wix.com/jobs/home,"java javascript objective-c scala shell typescript"
-wolox,https://medium.com/@WoloxEngineering/,wolox,http://www.wolox.com.ar/#section-contact," java javascript objective-c ruby shell swift"
-xero,https://developer.xero.com/engineering-blog/,xeroapi,https://www.xero.com/uk/about/careers/," c# coffeescript coldfusion java javascript php"
-yahoo,https://yahooeng.tumblr.com/#_=_,yahoo,https://careers.yahoo.com/gb/,"c c++ html java javascript objective-c ruby scala"
-yammer,http://eng.yammer.com/,yammer,https://careers.microsoft.com/yammer,"java javascript objective-c powershell python ruby"
-yelp,http://engineeringblog.yelp.com/,yelp,https://www.yelp.com/careers,"c++ go java javascript python"
-youtube,https://youtube-eng.googleblog.com/,youtube,https://www.youtube.com/yt/jobs/,"c++"
-zalando,https://tech.zalando.de/blog,zalando,https://tech.zalando.de/jobs/tech/," erlang go java javascript python scala"
-zeemee,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fzeemee.engineering%2F,zeemee,https://www.zeemee.com/we-want-you#engineering,"java javascript ruby"
-zoetrope,https://zoetrope.io/tech-blog,zoetropelabs,https://twitter.com/ZoetropeLabs," c++ javascript makefile php python"
-zomato,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengineering.zomato.com%2F,zomato,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengineering.zomato.com%2F," java javascript objective-c"
-zoosk,https://about.zoosk.com/en/engineering-blog/,zoosk,https://about.zoosk.com/en/careers/,"c# php perl python"
-zulily,https://engineering.zulily.com/,zulily,http://www.zulily.co.uk/careers?dept=technology,"go java javascript python saltstack shell"
-townsquared,https://townsquared.com/blog/engineering/,townsquared,https://townsquared.com/join-our-team/,"css javascript ruby"
-turn,http://www.turn.com/engineering,turn,http://www.turn.com/company/careers,"go java javascript r"
-shopify,https://engineering.shopify.com/,shopify,https://www.shopify.com/careers,"c go javascript liquid objective-c ruby"
-appaloosa,https://medium.com/appaloosa-store-engineering,appaloosa-store,https://www.appaloosa-store.com/about-us,"go java javascript objective-c ruby shell"
-smallimprovements,https://tech.small-improvements.com,smallimprovements,https://www.small-improvements.com/careers,"css groovy html java javascript ruby shell"
-datorama,https://engineering.datorama.com/,datorama,http://datorama.com/join-us/,"java javascript perl python"
-mixmax,https://mixmax.com/blog/tag/engineering,mixmaxhq,https://mixmax.com/careers/,"css html javascript"
-schibsted,http://bytes.schibsted.com/category/software-engineering/,schibsted,http://jobs.schibsted.com/engineering-areas/#engineering,"clojure go html java javascript objective-c php python shell"
-auth0,https://auth0.engineering/,auth0,https://auth0.com/jobs,"c# java javascript typescript"
-ngpvan,https://blog.ngpvan.com/engineering,ngpvan,https://www.ngpvan.com/careers,"c# html java javascript python ruby shell"
-"dia & co",https://making.dia.com/,diaandco,https://www.dia.co/careers,"python ruby"
-dailymotion,https://medium.com/dailymotion/engineering/home,dailymotion,http://jobs.dailymotion.com/en/offers#departments=1,"c coffeescript go html java kotlin javascript objective-c python"
-infinityworks,http://engineering.infinityworks.com/,infinityworksltd,https://www.infinityworks.com/careers.html,"css go java javascript makefile python shell typescript"
-formlabs,https://engineering.formlabs.com,formlabs,https://formlabs.com/company/careers/,"c c++ gettext catalog javascript python shell"
-bitnami,https://engineering.bitnami.com,bitnami,https://jobs.lever.co/bitnami,"javascript shell"
-collaborne,https://medium.com/collaborne-engineering,collaborne,http://www.collaborne.com/careers/,"html java"
-"job and talent",https://jobandtalent.engineering/,jobandtalent,https://www.jobandtalent.com/us/careers#positions,"go java javascript jupyter notebook objective-c scala"
-talis,https://engineering.talis.com/,talis,https://talis-group-limited.workable.com/,"css go html javascript php ruby shell"
-haus,https://engineering.haus.com/,haus-inc,https://haus.com/jobs,"javascript ruby shell"
-lumosity,http://engineering.lumosity.com/,lumoslabs,https://jobs.lever.co/lumosity?by=team,"c++ java javascript ruby scala shell"
-nodesagency,https://engineering.nodesagency.com/,nodesagency,https://www.nodesagency.com/careers/,"css javascript php"
-"telefonica id",https://engineering.telefonica.com/,telefonicaid,https://jobs.telefonica.com/,"java javascript python"
-openx,http://codinginadtech.com/,openx,http://openx.com/open-positions/,"c++ elixir erlang java javascript php python"
-semaphoreci,http://semaphoreci.com/blog/tags/engineering.html,renderedtext,http://renderedtext.com/jobs/,"css elixir ruby viml"
-dotabuff,https://medium.com/dotabuff-engineering,dotabuff,https://dotabuff.workable.com/,"go lua makefile protocol buffer ruby"
-ezhome,https://engineering.ezhome.com/,ezhome,https://www.ezhome.com/careers/positions/,"java javascript"
-tripadvisor,http://engineering.tripadvisor.com/,tripadvisor,https://www.tripadvisor.com/careers/search-jobs?job_category=7,"c++ java javascript objective-c plpgsql perl python"
-altmetric,https://altmetric.engineering/,altmetric,https://www.altmetric.com/jobs/,"coffeescript go javascript php r ruby"
-tinder,http://tech.gotinder.com/,tinder,https://www.gotinder.com/jobs,"javascript"
-wobe,https://eng.wobe.io/,wobe-pte-ltd,https://wobe.io/join/,"java javascript"
-brigade,https://brigade.engineering/,brigade,https://jobs.lever.co/brigade?by=team,"javascript ruby shell"
-discord,https://discord.com/category/engineering,discord,https://discord.com/careers,"rust c++ elixir java javascript objective-c python"
-kickstarter,https://kickstarter.engineering/,kickstarter,https://www.kickstarter.com/jobs#job-openings,"java javascript ruby shell swift"
-randrr,http://engineering.randrr.com/,randrr,http://www.randrr.com/contact,"go javascript python shell"
-vimeo,https://medium.com/vimeo-engineering-blog,vimeo,https://vimeo.com/jobs,"c go java javascript objective-c php python swift"
-skyscanner,http://codevoyagers.com/,skyscanner,http://www.skyscanner.net/jobs/productengineering/,"css javascript php python swift"
-driftrock,http://tech.driftrock.com/,driftrock,https://www.driftrock.com/careers,"javascript ruby"
-textnow,https://engineering.textnow.com/,enflick,http://about.textnow.com/careers/#openings,"c javascript makefile objective-c php python ruby"
-currencyfair,http://tech.currencyfair.com/,currencyfair,https://my.hirehive.io/currencyfair,"css java php"
-nest,https://nest.tech,nestlabs,https://nest.com/careers/?department=Engineering,"java javascript objective-c ruby scala"
-wheniwork,https://wheniwork.engineering/,wheniwork,http://careers.wheniwork.com/,"go html javascript php ruby"
-redbubble,http://artplustech.com/,redbubble,https://careers.redbubble.com/jobs,"elixir javascript makefile ruby scala"
-"verizon digital media",https://eng.verizondigitalmedia.com/,verizondigital,https://careers.smartrecruiters.com/Aol/verizon-digital-media-services,"c c++ clojure go python"
-freeletics,http://freeletics.engineering/,freeletics,https://www.freeletics.com/en/corporate/jobs#engineering,"c coffeescript hcl java javascript objective-c ruby swift"
-smartling,https://tech.smartling.com/,smartling,https://www.smartling.com/about/careers/,"css hcl java javascript objective-c php python ruby"
-duolingo,http://making.duolingo.com/,duolingo,https://www.duolingo.com/jobs,"java javascript objective-c python"
-weebly,https://engineering.weebly.com/,weebly,https://careers.weebly.com/,"javascript objective-c php perl ruby swift"
-cars,https://tech.cars.com/,carsdotcom,https://www.cars.com/careers/,"arduino css go java javascript scala shell"
-carwow,https://medium.com/carwow-product-engineering,carwow,https://www.carwow.co.uk/jobs,"javascript ruby shell"
-hipages,https://medium.com/hipages-engineering,hipages,https://hipagesgroup.com.au/careers/,"javascript shell"
-growella,https://engineering.growella.com/,growella,https://twitter.com/GrowellaEng,"javascript php shell"
-wantedly,https://gb.wantedly.com/feed/s/wantedly_engineers,wantedly,https://gb.wantedly.com/companies/wantedly/projects,"c++ go objective-c ruby swift"
-capriza,https://medium.com/capriza-engineering,capriza,https://www.capriza.com/careers,"c++ javascript"
-fromAtoB,https://eng.fromatob.com/,fromAtoB,https://fromatob.workable.com/,"html javascript ruby rust"
-signavio,https://tech.signavio.com/,signavio,https://www.signavio.com/jobs/,"css java javascript"
-pusher,https://making.pusher.com/,pusher,https://pusher.com/jobs,"c c# go html java javascript php ruby swift"
-channable,https://tech.channable.com/,channable,https://channable.com/company/jobs/,"javascript python scala"
-solutotlv,https://blog.solutotlv.com/,soluto,https://www.solutotlv.com/join-soluto-engineering,"c# javascript objective-c perl ruby shell"
-talkdesk,https://engineering.talkdesk.com/,talkdesk,https://www.talkdesk.com/jobs/engineering/,"coffeescript elixir erlang ruby shell"
-fundapps,https://gsd.fundapps.io/,fundapps,https://www.fundapps.co/about-us/join-our-team,"go html javascript ruby"
-tes,http://engineering.tes.com/,tes,https://engineering.tes.com/profile/,"javascript lua php python typescript"
-hubba,https://medium.com/@HubbaDev/,hubba,https://hq.hubba.com/careers/,"javascript"
-smartrecruiters,https://up.smartrecruiters.com/,smartrecruiters,https://www.smartrecruiters.com/about-us/careers/,"c++ java javascript"
-travix,https://travix.io/,travix-international,https://www.travix.com/jobs/it/,"c# html javascript saltstack shell"
-patreon,https://patreonhq.com/tagged/patreon-engineering,patreon,https://www.patreon.com/careers#/positions,"c++ java javascript objective-c php python ruby shell"
-flexport,https://flexport.engineering/,flexport,https://www.flexport.com/careers,"javascript ruby"
-coinbase,https://engineering.coinbase.com/,coinbase,https://www.coinbase.com/careers,"ruby,javascript,php,java,objective-c"
-algolia,https://stories.algolia.com/,algolia,https://www.algolia.com/careers,"css java javascript php ruby"
-lovoo,https://tech.lovoo.com/,lovoo,https://inside.lovoo.com/jobs/,"go java kotlin objective-c php python"
-autotrader,http://engineering.autotrader.co.uk/,autotraderuk,https://careers.autotrader.co.uk/,"java javascript python ruby typescript"
-snagajob,https://engineering.snagajob.com/,snagajob,http://www.snagajob.com/about/positions/35900,"c# coffeescript java python roff swift"
-helpscout,https://engineering.helpscout.com/,helpscout,https://www.helpscout.net/company/careers/,"css javascript php ruby"
-crowdfire,https://crowdfire.engineering/,codigami,https://www.crowdfireapp.com/careers,"go java objective-c python swift"
-pagerduty,https://engineering.pagerduty.com/,pagerduty,https://www.pagerduty.com/careers/,"elixir go html javascript perl python ruby scala"
-paxos,https://eng.paxos.com/,paxos-bankchain,https://www.paxos.com/careers#jobs,"go javascript python"
-simacan,http://nerds.simacan.com,simacan,https://www.simacan.com/about/,"java javascript python scala shell"
-drivy,https://drivy.engineering/,drivy,https://www.drivy.com/jobs,"java javascript ruby shell"
-handshake,https://joinhandshake.com/engineering-blog/,strydercorp,https://joinhandshake.com/careers/,"go hcl javascript objective-c ruby shell typescript"
-redfin,https://redfin.engineering/,redfin,https://www.redfin.com/about/jobs/departments/engineering,"java javascript python"
-avvo,http://engineering.avvo.com,avvo,https://www.avvo.com/about_avvo/jobs,"elixir go objective-c ruby rust shell"
-zuora,https://community.zuora.com/t5/Engineering-Blog/bg-p/engineering-blog,zuora,https://www.zuora.com/about/careers/#jobs-container,"apex c# html java javascript php ruby"
-classdojo,https://engineering.classdojo.com,classdojo,https://www.classdojo.com/jobs/," go javascript objective-c ruby typescript"
-americanexpress,http://americanexpress.io/,americanexpress,https://jobs.americanexpress.com/tech,"c# java javascript kotlin swift typescript"
-redantler,https://labs.redantler.com/,redantler,https://www.redantler.com/careers,"javascript"
-lever,https://fulcrum.lever.co/,lever,https://www.lever.co/jobs,"coffeescript go java javascript"
-upside,https://engineering.upside.com/,upsidetravel,https://resources.upside.com/team,"objective-c"
-betterment,https://betterment.engineering/,betterment,http://betterment.com/careers,"css java javascript python ruby"
-collectivehealth,https://eng.collectivehealth.com/,collectivehealth,https://collectivehealth.com/jobs/,"objective-c"
-showmax,https://tech.showmax.com/,showmax,https://blog.showmax.com/engineering-careers/,"go jupyter notebook lua python ruby swift"
-olx,https://tech.olx.com/,olx-inc,https://www.joinolx.com/for-engineers,"html nginx objective-c php puppet python ruby"
-contaazul,https://engineering.contaazul.com/,contaazul,contaazul,"go java javascript"
-kitchenstories,https://engineering.kitchenstories.io,kitchenstories,https://kitchenstories.io/en/jobs,"java javascript objective-c python shell swift"
-sortable,http://dev.sortable.com/,sortable,https://sortable.com/engineer-tech-jobs-kitchener-waterloo/,"c clojure go java javascript php python scala"
-adstage,https://medium.com/adstage-engineering/,adstage,https://angel.co/adstage/jobs?utm_source=startup_profile_header,"api blueprint clojure html javascript ruby"
-opsgenie,https://engineering.opsgenie.com/,opsgenie,https://www.opsgenie.com/careers#positions,"go java javascript python ruby"
-condenast,https://technology.condenast.com/,condenast,http://condenast.avature.net/careers/SearchJobs/?3_51_3=%2285%22&jobSort=name&jobSortDirection=ASC,"css go java javascript php typescript"
-frontrowed,https://github.com/frontrowed,frontrowed,https://frontrow.workable.com/,"haskell"
-seedtag,https://medium.com/seedtag-engineering,seedtag,http://www.seedtag.com/en/company/jobs/back_eng/,"c css javascript php ruby typescript"
-contactually,https://labs.contactually.com/,contactually,https://www.contactually.com/company/careers,"javascript python ruby"
-hellofresh,https://engineering.hellofresh.com/,hellofresh,https://www.hellofresh.com/careers/hellotech,"go javascript php ruby"
-grab,http://engineering.grab.com,grab,https://grab.careers/team-engineering/?tm=Engineering,"javascript"
-wanari,http://leaks.wanari.com/,teamwanari,https://www.linkedin.com/company/wanari-ltd-,"scala"
-upgrad,https://engineering.upgrad.com/,upgrad,https://upgrad.com/careers/?iref=Footer_Careers,"javascript python ruby"
-offgridelectric,https://tech.offgrid-electric.com/,offgridelectric,http://offgrid-electric.com/join-us,"ruby"
-intuit,https://medium.com/quickbooks-small-business-and-self-employed,intuit,https://careers.intuit.com/job-category/1/software-engineering,""
-iyzico,https://iyzico.engineering,iyzico,https://www.iyzico.com/en/about-us/career,""
-jellyvision,https://tech.jellyvision.com/,jellyvision,https://www.jellyvision.com/jobs/,""
-reside,https://tech.residebrokerage.com,reside-eng,http://residebrokerage.com/careers,""
-topologyeyewear,https://topologyeyewear.github.io/engineering-blog/,topologyeyewear, https://www.topologyeyewear.com/pages/jobs,"swift"
-rocketmiles,https://medium.com/rocket-travel-engineering,rocketmiles,https://www.rocketmiles.com/jobs,"java"
-giphy,https://engineering.giphy.com/,giphy,https://angel.co/giphy/jobs,""
-udacity,https://engineering.udacity.com/,udacity,http://www.udacity.com/jobs,""
-telia,http://techblog.telia.no/,teliasoneranorge,https://beta.telia.no/karriere,"clojure"
-workday,https://medium.com/@workday_engineering,workday,https://workday.wd5.myworkdayjobs.com/Workday,"ruby"
-bluecore,https://medium.com/bluecore-engineering,triggermail,https://www.bluecore.com/careers/,"python"
-rei,https://engineering.rei.com/,rei,https://rei.jobs/careers/SearchJobs,"java"
-brigad,https://engineering.brigad.co/,brigad,https://www.welcometothejungle.co/companies/brigad/jobs,"javascript"
-kenshoo,https://medium.com/kenshoos-engineering-blog,kenshoo,https://kenshoo.com/about/company/culture/,"java"
-liefery,http://engineering.liefery.com/,liefery,https://lieferycareer.recruitee.com/,"java"
-travelex,https://blog.travelex.io/,travelex,https://www.careers.travelex.com/,"java"
-adyen,https://medium.com/adyen,adyen,https://www.adyen.com/careers/vacancies,"java"
-doordash,https://doordash.engineering/,doordash,https://boards.greenhouse.io/doordash#.WsDj7tPwajg,"python go ruby kotlin"
-lendup,https://www.lendup.com/engineering/,lendup,https://www.lendup.com/careers/positions,"scala python javascript"
-outsystems,https://medium.com/outsystems-engineering/,outsystems,https://www.outsystems.com/company/careers/job-list/Engineering/,"javascript objective-c"
-root-insurance,https://medium.com/root-engineering,root-app,https://eng.joinroot.com/,"ruby objective-c python"
-peopledoc,https://tech.people-doc.com/,peopledoc,https://www.people-doc.com/company/careers,"python ruby"
-dowjones,https://medium.com/dow-jones,dowjones,https://www.dowjones.com/careers/,"javascript"
-thoughtspot,https://www.thoughtspot.com/codex,thoughtspot,https://www.thoughtspot.com/careers/listing,"python"
-blockchain,https://medium.com/blockchain-engineering,blockchain,https://www.blockchain.com/careers/index.html,"java python ruby"
-gojek,https://medium.com/gojekengineering,gojek,https://www.gojek.com/en-id/employee/,"go kotlin"
-gett,https://engineering.gett.com/,gettaxi,https://gett.com/careers/,"go ruby"
-ovotech,https://tech.ovoenergy.com/,ovotech,https://www.ovoenergy.com/careers,"scala"
-fueled,https://medium.com/fueled-engineering,fueled,https://fueled.com/jobs/,"python swift"
-jobteaser,https://medium.com/jobteaser-dev-team,jobteaser,http://corporate.jobteaser.com/carrieres/,"ruby go javascript python"
-depop,https://engineering.depop.com/,depop,https://www.depop.com/about/jobs,"python swift scala"
-nike-s23nyc,https://medium.com/s23nyc-tech,nike-inc,https://jobs.nike.com/category/digital-and-technology-jobs/15675/37648/1,"python kotlin swift"
-fuzz,https://medium.com/fuzz/dev/home,fuzz-productions,https://fuzzproductions.com/jobs,"objective-c swift php"
-mybuilder,https://tech.mybuilder.com/,mybuilder,https://careers.mybuilder.com/,"ruby php javascript"
-okcupid,https://tech.okcupid.com/,okcupid,https://www.okcupid.com/careers,"python go C++ C"
-21Buttons,https://medium.com/21buttons-tech,21Buttons,https://www.21buttons.com/contact,"python kotlin"
-polyconseil,https://tech.polyconseil.fr/,polyconseil,https://www.polyconseil.fr/polyconseil-recrute,"python"
-workframers,https://medium.com/workframers/,workframers,https://workframe.com/jobs,"clojure"
-instabug,https://instabug.com/blog/?term=16&orderby=date&order=desc,instabug,https://instabug.com/jobs,"objective-c"
-envoy,https://envoy.engineering/,envoy,https://envoy.com/jobs/,"objective-c ruby swift"
-kata,https://medium.com/kata-engineering/,kata-ai,https://angel.co/kata-ai/jobs,"typescript"
-verve,https://verve.co/engineering,streetteam,https://verve.co/careers/engineering/,"python"
-tubitv,https://code.tubitv.com/,tubitv,https://tubitv.com/static/careers,"scala"
-enear,https://enear.github.io/,enear,https://www.enear.co/careers,"scala"
-bol,https://techlab.bol.com/,bol,https://careers.bol.com/jobs/?doelgroep[]=13626,"java,python,go,ruby"
-retailmenot,https://medium.com/retailmenot-engineering,retailmenot,https://jobs.lever.co/retailmenot?department=Engineering,"javascript scala"
-grailed,https://medium.com/grailed-engineering,grailed-code,https://www.grailed.com/jobs,"ios swift"
-give,https://give.engineering/,GIVESocialMovement,https://twitter.com/tanin,"scala javascript"
-hubtran,https://engineering.hubtran.com/blog,hubtran,https://engineering.hubtran.com/jobs,"ruby"
-callr,https://blog.callr.tech,thecallr,https://www.callr.com/jobs/,"go javascript"
-tenantbase,https://www.tenantbase.com/tech/,tenantbase,https://www.tenantbase.com/careers/,"python"
-gumgum,https://techblog.gumgum.com/,gumgum,https://jobs.jobvite.com/gumgum/,"python"
-bigpanda,https://medium.com/bigpanda-engineering/bigpandaio,bigpandaio,https://www.bigpanda.io/company/careers/,"scala"
-travelaudience,https://tech.travelaudience.com/,travelaudience,https://careers.travelaudience.com/,"go"
-quickbirdstudios,https://quickbirdstudios.com/blog/,quickbirdstudios,https://quickbirdstudios.com/jobs,"swift kotlin"
-scribd,https://tech.scribd.com/,scribd,https://tech.scribd.com/careers/,"go"
-closeio,https://engineering.close.com/,closeio,https://jobs.close.com/,"python"
-auto1,https://auto1.tech/,auto1,https://www.auto1-group.com/jobs/,"java"
-flosports,https://engineering.flosports.tv/,flocasts,https://www.flosports.tv/careers/,"javascript go"
-monstarlab,https://engineering.monstar-lab.com/,monstar-lab,https://monstar-lab.com/global/about/careers/,"swift go ruby javascript"
-linagora,https://medium.com/linagora-engineering,linagora,https://job.linagora.com/en/jobs/,"java javascript kotlin"
-deliveryhero,https://tech.deliveryhero.com/,deliveryhero,https://www.deliveryhero.com/careers/jobs/#/?department=Tech,"python go java javascript"
-heap,https://heap.io/blog/engineering/,heap,https://heap.io/careers/jobs,"javascript go ruby"
-beat,https://build.thebeat.co/,beatlabs,https://thebeat.co/en/careers/?intl=1,"go javascript"
-lightspeedhq,https://tech.lightspeedhq.com/,lightspeedhq,https://www.lightspeedhq.com/careers/,"go rust"
-bloomberg,https://www.techatbloomberg.com/,bloomberg,https://www.bloomberg.com/company/engineering/,"go python"
-scout24,https://medium.com/scout24-engineering,scout24,https://www.scout24.com/en/career/jobs,"java javascript python"
-styletheory,https://medium.com/style-theory-engineering,styletheory,https://careers.styletheory.co/departments/technology,"scala kotlin"
-hanger,https://hangar.tech/,hangarorg,https://www.hangar.is/careers,"python"
-dream11,https://blog.dream11engineering.com/,dream11,https://jobs.lever.co/dreamsports,"scala"
-hash,https://hashtechteam.medium.com/hashlab,hashlab,https://jobs.lever.co/hash,"go javascript"
-zerodha,https://zerodha.tech/blog/,zerodha,https://zerodha.com/careers/,"python"
-productboard,https://medium.com/productboard-engineering,productboard,https://www.productboard.com/careers/open-positions/,"ruby"
-tableau,https://engineering.tableau.com/,tableau,https://www.tableau.com/about/careers/development,"python typescript"
-cytora,https://medium.com/engineering-at-cytora,cytora,https://cytora.com/careers/,"go python"
-blueground,https://engineering.theblueground.com/,bluegroundltd,https://www.theblueground.com/careers?department=Engineering,"python javascript swift kotlin"
-carta,https://medium.com/building-carta,carta,https://carta.com/careers/,"python javascript"
-hyperscience,https://hyperscience.com/tech-blog/,hyperscience,https://hyperscience.com/careers/open-positions/,"python c++ go clojure"
-brex,https://medium.com/brexeng/,brexhq,https://www.brex.com/careers/#jobsBoard,"elixir kotlin java python"
-frameio,https://medium.com/frame-io-engineering/,frameio,https://careers.frame.io/#open-roles,"elixir go python"
-tines,https://engineering.tines.com/,tines,https://www.tines.com/careers/#open-positions,"javascript"
-fundbox,https://medium.com/fundbox-engineering,fundbox,https://fundbox.com/careers?team=Engineering,"goland python scala javascript"
-lego,https://medium.com/lego-engineering,lego,https://www.lego.com/careers,"scala"
-lifion,https://eng.lifion.com/,lifion,https://tech.adp.com/careers/,"javascript"
-unity-technologies,https://medium.com/unity/technology/home,unity-technologies,https://medium.com/unity/join-us/home,"c++ go csharp python kotlin"
-adobe,https://medium.com/adobetech/tagged/adobe-engineering,adobe,https://www.adobe.com/careers/teams/engineering-and-product.html,"python go javascript"
-backtrace,https://engineering.backtrace.io/,backtrace-labs,https://backtrace.io/careers,"c++ rust"
-boclips,https://medium.com/boclips-engineering-blog,boclips,https://www.boclips.com/careers,"java kotlin typescript javascript"
-canva,https://canvatechblog.com/,canva,https://www.canva.com/careers/engineering/,"java go ruby python"
-remesh,https://remesh.blog/,remesh,https://www.remesh.ai/open-positions,"go python typescript javascript"
-ably,https://ably.com/blog/tag/ably-engineering,ably,https://ably.com/careers#greenhouse-open-roles,"java kotlin swift python"
-faire,https://craft.faire.com/,faire,https://www.faire.com/careers,"kotlin swift typescript"
-worldline,https://blog.worldline.tech/,worldline,https://careers.worldline.com/search-jobs?orgIds=35538&ac=8318528,"typescript javascript kotlin"
-eureka,https://medium.com/eureka-engineering,eure,https://eure.jp/careers/,"go swift javascript"
-lightricks,https://medium.com/@lightricks-tech-blog,lightricks,https://www.lightricks.com/careers,"go swift kotlin ruby"
-scalereal,https://scalereal.com/blogs/,scalereal,https://scalereal.com/careers/,"kotlin ruby javascript"
-pendo,https://developers.pendo.io/blog/,pendo-io,https://www.pendo.io/careers/,"go ruby swift python"
-immuta,https://medium.com/immuta-engineering,immuta,https://www.immuta.com/careers/,"typescript javascript python"
-planetscale,https://planetscale.com/blog/category/engineering,planetscale,https://planetscale.com/careers#openings,"go ruby"
-salesforce,https://engineering.salesforce.com/,salesforce,https://salesforce.wd1.myworkdayjobs.com/External_Career_Site,"python scala typescript javascript"
-volvo,https://medium.com/volvo-cars-engineering,volvo-cars,https://www.volvocars.com/intl/v/careers/highlights,"go javascript"
-zeals,https://medium.com/zeals-tech-blog,zeals-co-ltd,https://zeals.co.jp/recruit/,"go ruby javascript"
-wolt,https://blog.wolt.com/engineering/,woltapp,https://wolt.com/en/jobs/search,"python scala"
-bumble,https://medium.com/bumble-tech,bumble-tech,https://bumble.wd3.myworkdayjobs.com/Bumble_Careers,"kotlin python"
-ravelin,https://syslog.ravelin.com/,unravelin,https://www.ravelin.com/careers,"go javascript typescript python"
-reddit,https://www.reddit.com/r/RedditEng/,reddit,https://www.redditinc.com/careers,"python go ruby"
-mcdonalds,https://medium.com/mcdonalds-technical-blog/,mcdcorp,https://careers.mcdonalds.com/corporate-careers,"java"
-inputoutputhk,https://engineering.iog.io/,input-output-hk,https://apply.workable.com/io-global/,"haskell rust scala"
-tenable,https://medium.com/tenable-techblog,tenable,https://careers.tenable.com/,"go python"
-census,https://census.dev/blog/,sutrolabs,https://www.getcensus.com/careers,"ruby"
+twitter,https://engineering.twitter.com/,twitter,https://careers.twitter.com/careers,"c c++ html java javascript objective-c scala",true
+uber,https://eng.uber.com/,uber,https://www.uber.com/careers/list/?city=all&country=all&keywords=&subteam=all&team=engineering,"c go java javascript python swift",true
+underdog,http://engineering.underdog.io/,underdogio,https://underdog.io/candidates/apply,"css java javascript python ruby",true
+upday,https://upday.github.io/blog/,upday,http://upday.com/en/jobs,"css erlang java javascript ruby",true
+usertesting,http://engineering.usertesting.com/,usertesting,https://careers.smartrecruiters.com/UserTesting/,"elixir html java javascript objective-c ruby shell",true
+vena,https://engineering.vena.io/,venasolutions,http://vena.jazz.co/apply/,"java",true
+venmo,https://engineering.venmo.com/,venmo,https://venmo.com/jobs,"java javascript objective-c python ruby swift",true
+viki,http://engineering.viki.com/blog/,viki-org,https://www.viki.com/jobs,"c# go javascript objective-c python ruby",true
+vine,http://engineering.vine.co/,vine,https://vine.co/jobs,"c java objective-c python ruby",true
+vinted,http://engineering.vinted.com/,vinted,http://engineering.vinted.com/join/,"c java objective-c ruby",true
+voxer,http://engineering.voxer.com/,voxer,http://voxer.com/careers/,"c java javascript objective-c php ruby shell",true
+"walmart labs",https://medium.com/walmartlabs,walmartlabs,https://jobs.walmart.com/us/jobs?page=1&tags=ecommerce,"clojure javascript",true
+"washington post",https://developer.washingtonpost.com/pb/blog/,washingtonpost,https://sub.washingtonpost.com/hosted/56549408208965c92352902b,"java javascript php python shell swift",true
+wattpad,http://engineering.wattpad.com/,wattpad,http://www.wattpad.com/life/?jobs,"c++ go objective-c python ruby shell",true
+wayfair,http://engineering.wayfair.com/,wayfair,http://www.wayfair.com/careers#dept=engineering,"c c# c++ coffeescript java javascript php perl python ruby shell",true
+wealthfront,http://eng.wealthfront.com/,wealthfront,https://www.wealthfront.com/engineering/careers,"java javascript",true
+webengage,http://engineering.webengage.com/,webengage,http://blog.webengage.com/category/hiring/,"css javascript ruby shell",true
+wepay,https://wecode.wepay.com/,wepay,https://go.wepay.com/careers,"css java javascript objective-c php python ruby",true
+wework,https://engineering.wework.com/,wework,https://www.wework.com/careers,"css coffeescript html javascript ruby shell",true
+widen,http://engineering.widen.com/,widen,http://www.widen.com/careers,"go groovy java javascript makefile",true
+wingify,http://engineering.wingify.com/,wingify,http://wingify.com/careers,"c java javascript lua python",true
+wix,http://blog.wix.engineering/,wix,http://www.wix.com/jobs/home,"java javascript objective-c scala shell typescript",true
+wolox,https://medium.com/@WoloxEngineering/,wolox,http://www.wolox.com.ar/#section-contact,"java javascript objective-c ruby shell swift",true
+xero,https://developer.xero.com/engineering-blog/,xeroapi,https://www.xero.com/uk/about/careers/,"c# coffeescript coldfusion java javascript php",true
+yahoo,https://yahooeng.tumblr.com/#_=_,yahoo,https://careers.yahoo.com/gb/,"c c++ html java javascript objective-c ruby scala",true
+yammer,http://eng.yammer.com/,yammer,https://careers.microsoft.com/yammer,"java javascript objective-c powershell python ruby",true
+yelp,http://engineeringblog.yelp.com/,yelp,https://www.yelp.com/careers,"c++ go java javascript python",true
+youtube,https://youtube-eng.googleblog.com/,youtube,https://www.youtube.com/yt/jobs/,"c++",true
+zalando,https://tech.zalando.de/blog,zalando,https://tech.zalando.de/jobs/tech/,"erlang go java javascript python scala",true
+zeemee,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fzeemee.engineering%2F,zeemee,https://www.zeemee.com/we-want-you#engineering,"java javascript ruby",true
+zoetrope,https://zoetrope.io/tech-blog,zoetropelabs,https://twitter.com/ZoetropeLabs,"c++ javascript makefile php python",true
+zomato,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengineering.zomato.com%2F,zomato,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengineering.zomato.com%2F,"java javascript objective-c",true
+zoosk,https://about.zoosk.com/en/engineering-blog/,zoosk,https://about.zoosk.com/en/careers/,"c# php perl python",true
+zulily,https://engineering.zulily.com/,zulily,http://www.zulily.co.uk/careers?dept=technology,"go java javascript python saltstack shell",true
+townsquared,https://townsquared.com/blog/engineering/,townsquared,https://townsquared.com/join-our-team/,"css javascript ruby",true
+turn,http://www.turn.com/engineering,turn,http://www.turn.com/company/careers,"go java javascript r",true
+shopify,https://engineering.shopify.com/,shopify,https://www.shopify.com/careers,"c go javascript liquid objective-c ruby",true
+appaloosa,https://medium.com/appaloosa-store-engineering,appaloosa-store,https://www.appaloosa-store.com/about-us,"go java javascript objective-c ruby shell",true
+smallimprovements,https://tech.small-improvements.com,smallimprovements,https://www.small-improvements.com/careers,"css groovy html java javascript ruby shell",true
+datorama,https://engineering.datorama.com/,datorama,http://datorama.com/join-us/,"java javascript perl python",true
+mixmax,https://mixmax.com/blog/tag/engineering,mixmaxhq,https://mixmax.com/careers/,"css html javascript",true
+schibsted,http://bytes.schibsted.com/category/software-engineering/,schibsted,http://jobs.schibsted.com/engineering-areas/#engineering,"clojure go html java javascript objective-c php python shell",true
+auth0,https://auth0.engineering/,auth0,https://auth0.com/jobs,"c# java javascript typescript",true
+ngpvan,https://blog.ngpvan.com/engineering,ngpvan,https://www.ngpvan.com/careers,"c# html java javascript python ruby shell",true
+"dia & co",https://making.dia.com/,diaandco,https://www.dia.co/careers,"python ruby",true
+dailymotion,https://medium.com/dailymotion/engineering/home,dailymotion,http://jobs.dailymotion.com/en/offers#departments=1,"c coffeescript go html java kotlin javascript objective-c python",true
+infinityworks,http://engineering.infinityworks.com/,infinityworksltd,https://www.infinityworks.com/careers.html,"css go java javascript makefile python shell typescript",true
+formlabs,https://engineering.formlabs.com,formlabs,https://formlabs.com/company/careers/,"c c++ gettext catalog javascript python shell",true
+bitnami,https://engineering.bitnami.com,bitnami,https://jobs.lever.co/bitnami,"javascript shell",true
+collaborne,https://medium.com/collaborne-engineering,collaborne,http://www.collaborne.com/careers/,"html java",true
+"job and talent",https://jobandtalent.engineering/,jobandtalent,https://www.jobandtalent.com/us/careers#positions,"go java javascript jupyter notebook objective-c scala",true
+talis,https://engineering.talis.com/,talis,https://talis-group-limited.workable.com/,"css go html javascript php ruby shell",true
+haus,https://engineering.haus.com/,haus-inc,https://haus.com/jobs,"javascript ruby shell",true
+lumosity,http://engineering.lumosity.com/,lumoslabs,https://jobs.lever.co/lumosity?by=team,"c++ java javascript ruby scala shell",true
+nodesagency,https://engineering.nodesagency.com/,nodesagency,https://www.nodesagency.com/careers/,"css javascript php",true
+"telefonica id",https://engineering.telefonica.com/,telefonicaid,https://jobs.telefonica.com/,"java javascript python",true
+openx,http://codinginadtech.com/,openx,http://openx.com/open-positions/,"c++ elixir erlang java javascript php python",true
+semaphoreci,http://semaphoreci.com/blog/tags/engineering.html,renderedtext,http://renderedtext.com/jobs/,"css elixir ruby viml",true
+dotabuff,https://medium.com/dotabuff-engineering,dotabuff,https://dotabuff.workable.com/,"go lua makefile protocol buffer ruby",true
+ezhome,https://engineering.ezhome.com/,ezhome,https://www.ezhome.com/careers/positions/,"java javascript",true
+tripadvisor,http://engineering.tripadvisor.com/,tripadvisor,https://www.tripadvisor.com/careers/search-jobs?job_category=7,"c++ java javascript objective-c plpgsql perl python",true
+altmetric,https://altmetric.engineering/,altmetric,https://www.altmetric.com/jobs/,"coffeescript go javascript php r ruby",true
+tinder,http://tech.gotinder.com/,tinder,https://www.gotinder.com/jobs,"javascript",true
+wobe,https://eng.wobe.io/,wobe-pte-ltd,https://wobe.io/join/,"java javascript",true
+brigade,https://brigade.engineering/,brigade,https://jobs.lever.co/brigade?by=team,"javascript ruby shell",true
+discord,https://discord.com/category/engineering,discord,https://discord.com/careers,"rust c++ elixir java javascript objective-c python",true
+kickstarter,https://kickstarter.engineering/,kickstarter,https://www.kickstarter.com/jobs#job-openings,"java javascript ruby shell swift",true
+randrr,http://engineering.randrr.com/,randrr,http://www.randrr.com/contact,"go javascript python shell",true
+vimeo,https://medium.com/vimeo-engineering-blog,vimeo,https://vimeo.com/jobs,"c go java javascript objective-c php python swift",true
+skyscanner,http://codevoyagers.com/,skyscanner,http://www.skyscanner.net/jobs/productengineering/,"css javascript php python swift",true
+driftrock,http://tech.driftrock.com/,driftrock,https://www.driftrock.com/careers,"javascript ruby",true
+textnow,https://engineering.textnow.com/,enflick,http://about.textnow.com/careers/#openings,"c javascript makefile objective-c php python ruby",true
+currencyfair,http://tech.currencyfair.com/,currencyfair,https://my.hirehive.io/currencyfair,"css java php",true
+nest,https://nest.tech,nestlabs,https://nest.com/careers/?department=Engineering,"java javascript objective-c ruby scala",true
+wheniwork,https://wheniwork.engineering/,wheniwork,http://careers.wheniwork.com/,"go html javascript php ruby",true
+redbubble,http://artplustech.com/,redbubble,https://careers.redbubble.com/jobs,"elixir javascript makefile ruby scala",true
+"verizon digital media",https://eng.verizondigitalmedia.com/,verizondigital,https://careers.smartrecruiters.com/Aol/verizon-digital-media-services,"c c++ clojure go python",true
+freeletics,http://freeletics.engineering/,freeletics,https://www.freeletics.com/en/corporate/jobs#engineering,"c coffeescript hcl java javascript objective-c ruby swift",true
+smartling,https://tech.smartling.com/,smartling,https://www.smartling.com/about/careers/,"css hcl java javascript objective-c php python ruby",true
+duolingo,http://making.duolingo.com/,duolingo,https://www.duolingo.com/jobs,"java javascript objective-c python",true
+weebly,https://engineering.weebly.com/,weebly,https://careers.weebly.com/,"javascript objective-c php perl ruby swift",true
+cars,https://tech.cars.com/,carsdotcom,https://www.cars.com/careers/,"arduino css go java javascript scala shell",true
+carwow,https://medium.com/carwow-product-engineering,carwow,https://www.carwow.co.uk/jobs,"javascript ruby shell",true
+hipages,https://medium.com/hipages-engineering,hipages,https://hipagesgroup.com.au/careers/,"javascript shell",true
+growella,https://engineering.growella.com/,growella,https://twitter.com/GrowellaEng,"javascript php shell",true
+wantedly,https://gb.wantedly.com/feed/s/wantedly_engineers,wantedly,https://gb.wantedly.com/companies/wantedly/projects,"c++ go objective-c ruby swift",true
+capriza,https://medium.com/capriza-engineering,capriza,https://www.capriza.com/careers,"c++ javascript",true
+fromAtoB,https://eng.fromatob.com/,fromAtoB,https://fromatob.workable.com/,"html javascript ruby rust",true
+signavio,https://tech.signavio.com/,signavio,https://www.signavio.com/jobs/,"css java javascript",true
+pusher,https://making.pusher.com/,pusher,https://pusher.com/jobs,"c c# go html java javascript php ruby swift",true
+channable,https://tech.channable.com/,channable,https://channable.com/company/jobs/,"javascript python scala",true
+solutotlv,https://blog.solutotlv.com/,soluto,https://www.solutotlv.com/join-soluto-engineering,"c# javascript objective-c perl ruby shell",true
+talkdesk,https://engineering.talkdesk.com/,talkdesk,https://www.talkdesk.com/jobs/engineering/,"coffeescript elixir erlang ruby shell",true
+fundapps,https://gsd.fundapps.io/,fundapps,https://www.fundapps.co/about-us/join-our-team,"go html javascript ruby",true
+tes,http://engineering.tes.com/,tes,https://engineering.tes.com/profile/,"javascript lua php python typescript",true
+hubba,https://medium.com/@HubbaDev/,hubba,https://hq.hubba.com/careers/,"javascript",true
+smartrecruiters,https://up.smartrecruiters.com/,smartrecruiters,https://www.smartrecruiters.com/about-us/careers/,"c++ java javascript",true
+travix,https://travix.io/,travix-international,https://www.travix.com/jobs/it/,"c# html javascript saltstack shell",true
+patreon,https://patreonhq.com/tagged/patreon-engineering,patreon,https://www.patreon.com/careers#/positions,"c++ java javascript objective-c php python ruby shell",true
+flexport,https://flexport.engineering/,flexport,https://www.flexport.com/careers,"javascript ruby",true
+coinbase,https://engineering.coinbase.com/,coinbase,https://www.coinbase.com/careers,"ruby,javascript,php,java,objective-c",true
+algolia,https://stories.algolia.com/,algolia,https://www.algolia.com/careers,"css java javascript php ruby",true
+lovoo,https://tech.lovoo.com/,lovoo,https://inside.lovoo.com/jobs/,"go java kotlin objective-c php python",true
+autotrader,http://engineering.autotrader.co.uk/,autotraderuk,https://careers.autotrader.co.uk/,"java javascript python ruby typescript",true
+snagajob,https://engineering.snagajob.com/,snagajob,http://www.snagajob.com/about/positions/35900,"c# coffeescript java python roff swift",true
+helpscout,https://engineering.helpscout.com/,helpscout,https://www.helpscout.net/company/careers/,"css javascript php ruby",true
+crowdfire,https://crowdfire.engineering/,codigami,https://www.crowdfireapp.com/careers,"go java objective-c python swift",true
+pagerduty,https://engineering.pagerduty.com/,pagerduty,https://www.pagerduty.com/careers/,"elixir go html javascript perl python ruby scala",true
+paxos,https://eng.paxos.com/,paxos-bankchain,https://www.paxos.com/careers#jobs,"go javascript python",true
+simacan,http://nerds.simacan.com,simacan,https://www.simacan.com/about/,"java javascript python scala shell",true
+drivy,https://drivy.engineering/,drivy,https://www.drivy.com/jobs,"java javascript ruby shell",true
+handshake,https://joinhandshake.com/engineering-blog/,strydercorp,https://joinhandshake.com/careers/,"go hcl javascript objective-c ruby shell typescript",true
+redfin,https://redfin.engineering/,redfin,https://www.redfin.com/about/jobs/departments/engineering,"java javascript python",true
+avvo,http://engineering.avvo.com,avvo,https://www.avvo.com/about_avvo/jobs,"elixir go objective-c ruby rust shell",true
+zuora,https://community.zuora.com/t5/Engineering-Blog/bg-p/engineering-blog,zuora,https://www.zuora.com/about/careers/#jobs-container,"apex c# html java javascript php ruby",true
+classdojo,https://engineering.classdojo.com,classdojo,https://www.classdojo.com/jobs/,"go javascript objective-c ruby typescript",true
+americanexpress,http://americanexpress.io/,americanexpress,https://jobs.americanexpress.com/tech,"c# java javascript kotlin swift typescript",true
+redantler,https://labs.redantler.com/,redantler,https://www.redantler.com/careers,"javascript",true
+lever,https://fulcrum.lever.co/,lever,https://www.lever.co/jobs,"coffeescript go java javascript",true
+upside,https://engineering.upside.com/,upsidetravel,https://resources.upside.com/team,"objective-c",true
+betterment,https://betterment.engineering/,betterment,http://betterment.com/careers,"css java javascript python ruby",true
+collectivehealth,https://eng.collectivehealth.com/,collectivehealth,https://collectivehealth.com/jobs/,"objective-c",true
+showmax,https://tech.showmax.com/,showmax,https://blog.showmax.com/engineering-careers/,"go jupyter notebook lua python ruby swift",true
+olx,https://tech.olx.com/,olx-inc,https://www.joinolx.com/for-engineers,"html nginx objective-c php puppet python ruby",true
+contaazul,https://engineering.contaazul.com/,contaazul,contaazul,"go java javascript",true
+kitchenstories,https://engineering.kitchenstories.io,kitchenstories,https://kitchenstories.io/en/jobs,"java javascript objective-c python shell swift",true
+sortable,http://dev.sortable.com/,sortable,https://sortable.com/engineer-tech-jobs-kitchener-waterloo/,"c clojure go java javascript php python scala",true
+adstage,https://medium.com/adstage-engineering/,adstage,https://angel.co/adstage/jobs?utm_source=startup_profile_header,"api blueprint clojure html javascript ruby",true
+opsgenie,https://engineering.opsgenie.com/,opsgenie,https://www.opsgenie.com/careers#positions,"go java javascript python ruby",true
+condenast,https://technology.condenast.com/,condenast,http://condenast.avature.net/careers/SearchJobs/?3_51_3=%2285%22&jobSort=name&jobSortDirection=ASC,"css go java javascript php typescript",true
+frontrowed,https://github.com/frontrowed,frontrowed,https://frontrow.workable.com/,"haskell",true
+seedtag,https://medium.com/seedtag-engineering,seedtag,http://www.seedtag.com/en/company/jobs/back_eng/,"c css javascript php ruby typescript",true
+contactually,https://labs.contactually.com/,contactually,https://www.contactually.com/company/careers,"javascript python ruby",true
+hellofresh,https://engineering.hellofresh.com/,hellofresh,https://www.hellofresh.com/careers/hellotech,"go javascript php ruby",true
+grab,http://engineering.grab.com,grab,https://grab.careers/team-engineering/?tm=Engineering,"javascript",true
+wanari,http://leaks.wanari.com/,teamwanari,https://www.linkedin.com/company/wanari-ltd-,"scala",true
+upgrad,https://engineering.upgrad.com/,upgrad,https://upgrad.com/careers/?iref=Footer_Careers,"javascript python ruby",true
+offgridelectric,https://tech.offgrid-electric.com/,offgridelectric,http://offgrid-electric.com/join-us,"ruby",true
+intuit,https://medium.com/quickbooks-small-business-and-self-employed,intuit,https://careers.intuit.com/job-category/1/software-engineering,"",true
+iyzico,https://iyzico.engineering,iyzico,https://www.iyzico.com/en/about-us/career,"",true
+jellyvision,https://tech.jellyvision.com/,jellyvision,https://www.jellyvision.com/jobs/,"",true
+reside,https://tech.residebrokerage.com,reside-eng,http://residebrokerage.com/careers,"",true
+topologyeyewear,https://topologyeyewear.github.io/engineering-blog/,topologyeyewear, https://www.topologyeyewear.com/pages/jobs,"swift",true
+rocketmiles,https://medium.com/rocket-travel-engineering,rocketmiles,https://www.rocketmiles.com/jobs,"java",true
+giphy,https://engineering.giphy.com/,giphy,https://angel.co/giphy/jobs,"",true
+udacity,https://engineering.udacity.com/,udacity,http://www.udacity.com/jobs,"",true
+telia,http://techblog.telia.no/,teliasoneranorge,https://beta.telia.no/karriere,"clojure",true
+workday,https://medium.com/@workday_engineering,workday,https://workday.wd5.myworkdayjobs.com/Workday,"ruby",true
+bluecore,https://medium.com/bluecore-engineering,triggermail,https://www.bluecore.com/careers/,"python",true
+rei,https://engineering.rei.com/,rei,https://rei.jobs/careers/SearchJobs,"java",true
+brigad,https://engineering.brigad.co/,brigad,https://www.welcometothejungle.co/companies/brigad/jobs,"javascript",true
+kenshoo,https://medium.com/kenshoos-engineering-blog,kenshoo,https://kenshoo.com/about/company/culture/,"java",true
+liefery,http://engineering.liefery.com/,liefery,https://lieferycareer.recruitee.com/,"java",true
+travelex,https://blog.travelex.io/,travelex,https://www.careers.travelex.com/,"java",true
+adyen,https://medium.com/adyen,adyen,https://www.adyen.com/careers/vacancies,"java",true
+doordash,https://doordash.engineering/,doordash,https://boards.greenhouse.io/doordash#.WsDj7tPwajg,"python go ruby kotlin",true
+lendup,https://www.lendup.com/engineering/,lendup,https://www.lendup.com/careers/positions,"scala python javascript",true
+outsystems,https://medium.com/outsystems-engineering/,outsystems,https://www.outsystems.com/company/careers/job-list/Engineering/,"javascript objective-c",true
+root-insurance,https://medium.com/root-engineering,root-app,https://eng.joinroot.com/,"ruby objective-c python",true
+peopledoc,https://tech.people-doc.com/,peopledoc,https://www.people-doc.com/company/careers,"python ruby",true
+dowjones,https://medium.com/dow-jones,dowjones,https://www.dowjones.com/careers/,"javascript",true
+thoughtspot,https://www.thoughtspot.com/codex,thoughtspot,https://www.thoughtspot.com/careers/listing,"python",true
+blockchain,https://medium.com/blockchain-engineering,blockchain,https://www.blockchain.com/careers/index.html,"java python ruby",true
+gojek,https://medium.com/gojekengineering,gojek,https://www.gojek.com/en-id/employee/,"go kotlin",true
+gett,https://engineering.gett.com/,gettaxi,https://gett.com/careers/,"go ruby",true
+ovotech,https://tech.ovoenergy.com/,ovotech,https://www.ovoenergy.com/careers,"scala",true
+fueled,https://medium.com/fueled-engineering,fueled,https://fueled.com/jobs/,"python swift",true
+jobteaser,https://medium.com/jobteaser-dev-team,jobteaser,http://corporate.jobteaser.com/carrieres/,"ruby go javascript python",true
+depop,https://engineering.depop.com/,depop,https://www.depop.com/about/jobs,"python swift scala",true
+nike-s23nyc,https://medium.com/s23nyc-tech,nike-inc,https://jobs.nike.com/category/digital-and-technology-jobs/15675/37648/1,"python kotlin swift",true
+fuzz,https://medium.com/fuzz/dev/home,fuzz-productions,https://fuzzproductions.com/jobs,"objective-c swift php",true
+mybuilder,https://tech.mybuilder.com/,mybuilder,https://careers.mybuilder.com/,"ruby php javascript",true
+okcupid,https://tech.okcupid.com/,okcupid,https://www.okcupid.com/careers,"python go C++ C",true
+21Buttons,https://medium.com/21buttons-tech,21Buttons,https://www.21buttons.com/contact,"python kotlin",true
+polyconseil,https://tech.polyconseil.fr/,polyconseil,https://www.polyconseil.fr/polyconseil-recrute,"python",true
+workframers,https://medium.com/workframers/,workframers,https://workframe.com/jobs,"clojure",true
+instabug,https://instabug.com/blog/?term=16&orderby=date&order=desc,instabug,https://instabug.com/jobs,"objective-c",true
+envoy,https://envoy.engineering/,envoy,https://envoy.com/jobs/,"objective-c ruby swift",true
+kata,https://medium.com/kata-engineering/,kata-ai,https://angel.co/kata-ai/jobs,"typescript",true
+verve,https://verve.co/engineering,streetteam,https://verve.co/careers/engineering/,"python",true
+tubitv,https://code.tubitv.com/,tubitv,https://tubitv.com/static/careers,"scala",true
+enear,https://enear.github.io/,enear,https://www.enear.co/careers,"scala",true
+bol,https://techlab.bol.com/,bol,https://careers.bol.com/jobs/?doelgroep[]=13626,"java,python,go,ruby",true
+retailmenot,https://medium.com/retailmenot-engineering,retailmenot,https://jobs.lever.co/retailmenot?department=Engineering,"javascript scala",true
+grailed,https://medium.com/grailed-engineering,grailed-code,https://www.grailed.com/jobs,"ios swift",true
+give,https://give.engineering/,GIVESocialMovement,https://twitter.com/tanin,"scala javascript",true
+hubtran,https://engineering.hubtran.com/blog,hubtran,https://engineering.hubtran.com/jobs,"ruby",true
+callr,https://blog.callr.tech,thecallr,https://www.callr.com/jobs/,"go javascript",true
+tenantbase,https://www.tenantbase.com/tech/,tenantbase,https://www.tenantbase.com/careers/,"python",true
+gumgum,https://techblog.gumgum.com/,gumgum,https://jobs.jobvite.com/gumgum/,"python",true
+bigpanda,https://medium.com/bigpanda-engineering/bigpandaio,bigpandaio,https://www.bigpanda.io/company/careers/,"scala",true
+travelaudience,https://tech.travelaudience.com/,travelaudience,https://careers.travelaudience.com/,"go",true
+quickbirdstudios,https://quickbirdstudios.com/blog/,quickbirdstudios,https://quickbirdstudios.com/jobs,"swift kotlin",true
+scribd,https://tech.scribd.com/,scribd,https://tech.scribd.com/careers/,"go",true
+closeio,https://engineering.close.com/,closeio,https://jobs.close.com/,"python",true
+auto1,https://auto1.tech/,auto1,https://www.auto1-group.com/jobs/,"java",true
+flosports,https://engineering.flosports.tv/,flocasts,https://www.flosports.tv/careers/,"javascript go",true
+monstarlab,https://engineering.monstar-lab.com/,monstar-lab,https://monstar-lab.com/global/about/careers/,"swift go ruby javascript",true
+linagora,https://medium.com/linagora-engineering,linagora,https://job.linagora.com/en/jobs/,"java javascript kotlin",true
+deliveryhero,https://tech.deliveryhero.com/,deliveryhero,https://www.deliveryhero.com/careers/jobs/#/?department=Tech,"python go java javascript",true
+heap,https://heap.io/blog/engineering/,heap,https://heap.io/careers/jobs,"javascript go ruby",true
+beat,https://build.thebeat.co/,beatlabs,https://thebeat.co/en/careers/?intl=1,"go javascript",true
+lightspeedhq,https://tech.lightspeedhq.com/,lightspeedhq,https://www.lightspeedhq.com/careers/,"go rust",true
+bloomberg,https://www.techatbloomberg.com/,bloomberg,https://www.bloomberg.com/company/engineering/,"go python",true
+scout24,https://medium.com/scout24-engineering,scout24,https://www.scout24.com/en/career/jobs,"java javascript python",true
+styletheory,https://medium.com/style-theory-engineering,styletheory,https://careers.styletheory.co/departments/technology,"scala kotlin",true
+hanger,https://hangar.tech/,hangarorg,https://www.hangar.is/careers,"python",true
+dream11,https://blog.dream11engineering.com/,dream11,https://jobs.lever.co/dreamsports,"scala",true
+hash,https://hashtechteam.medium.com/hashlab,hashlab,https://jobs.lever.co/hash,"go javascript",true
+zerodha,https://zerodha.tech/blog/,zerodha,https://zerodha.com/careers/,"python",true
+productboard,https://medium.com/productboard-engineering,productboard,https://www.productboard.com/careers/open-positions/,"ruby",true
+tableau,https://engineering.tableau.com/,tableau,https://www.tableau.com/about/careers/development,"python typescript",true
+cytora,https://medium.com/engineering-at-cytora,cytora,https://cytora.com/careers/,"go python",true
+blueground,https://engineering.theblueground.com/,bluegroundltd,https://www.theblueground.com/careers?department=Engineering,"python javascript swift kotlin",true
+carta,https://medium.com/building-carta,carta,https://carta.com/careers/,"python javascript",true
+hyperscience,https://hyperscience.com/tech-blog/,hyperscience,https://hyperscience.com/careers/open-positions/,"python c++ go clojure",true
+brex,https://medium.com/brexeng/,brexhq,https://www.brex.com/careers/#jobsBoard,"elixir kotlin java python",true
+frameio,https://medium.com/frame-io-engineering/,frameio,https://careers.frame.io/#open-roles,"elixir go python",true
+tines,https://engineering.tines.com/,tines,https://www.tines.com/careers/#open-positions,"javascript",true
+fundbox,https://medium.com/fundbox-engineering,fundbox,https://fundbox.com/careers?team=Engineering,"goland python scala javascript",true
+lego,https://medium.com/lego-engineering,lego,https://www.lego.com/careers,"scala",true
+lifion,https://eng.lifion.com/,lifion,https://tech.adp.com/careers/,"javascript",true
+unity-technologies,https://medium.com/unity/technology/home,unity-technologies,https://medium.com/unity/join-us/home,"c++ go csharp python kotlin",true
+adobe,https://medium.com/adobetech/tagged/adobe-engineering,adobe,https://www.adobe.com/careers/teams/engineering-and-product.html,"python go javascript",true
+backtrace,https://engineering.backtrace.io/,backtrace-labs,https://backtrace.io/careers,"c++ rust",true
+boclips,https://medium.com/boclips-engineering-blog,boclips,https://www.boclips.com/careers,"java kotlin typescript javascript",true
+canva,https://canvatechblog.com/,canva,https://www.canva.com/careers/engineering/,"java go ruby python",true
+remesh,https://remesh.blog/,remesh,https://www.remesh.ai/open-positions,"go python typescript javascript",true
+ably,https://ably.com/blog/tag/ably-engineering,ably,https://ably.com/careers#greenhouse-open-roles,"java kotlin swift python",true
+faire,https://craft.faire.com/,faire,https://www.faire.com/careers,"kotlin swift typescript",true
+worldline,https://blog.worldline.tech/,worldline,https://careers.worldline.com/search-jobs?orgIds=35538&ac=8318528,"typescript javascript kotlin",true
+eureka,https://medium.com/eureka-engineering,eure,https://eure.jp/careers/,"go swift javascript",true
+lightricks,https://medium.com/@lightricks-tech-blog,lightricks,https://www.lightricks.com/careers,"go swift kotlin ruby",true
+scalereal,https://scalereal.com/blogs/,scalereal,https://scalereal.com/careers/,"kotlin ruby javascript",true
+pendo,https://developers.pendo.io/blog/,pendo-io,https://www.pendo.io/careers/,"go ruby swift python",true
+immuta,https://medium.com/immuta-engineering,immuta,https://www.immuta.com/careers/,"typescript javascript python",true
+planetscale,https://planetscale.com/blog/category/engineering,planetscale,https://planetscale.com/careers#openings,"go ruby",true
+salesforce,https://engineering.salesforce.com/,salesforce,https://salesforce.wd1.myworkdayjobs.com/External_Career_Site,"python scala typescript javascript",true
+volvo,https://medium.com/volvo-cars-engineering,volvo-cars,https://www.volvocars.com/intl/v/careers/highlights,"go javascript",true
+zeals,https://medium.com/zeals-tech-blog,zeals-co-ltd,https://zeals.co.jp/recruit/,"go ruby javascript",true
+wolt,https://blog.wolt.com/engineering/,woltapp,https://wolt.com/en/jobs/search,"python scala",true
+bumble,https://medium.com/bumble-tech,bumble-tech,https://bumble.wd3.myworkdayjobs.com/Bumble_Careers,"kotlin python",true
+ravelin,https://syslog.ravelin.com/,unravelin,https://www.ravelin.com/careers,"go javascript typescript python",true
+reddit,https://www.reddit.com/r/RedditEng/,reddit,https://www.redditinc.com/careers,"python go ruby",true
+mcdonalds,https://medium.com/mcdonalds-technical-blog/,mcdcorp,https://careers.mcdonalds.com/corporate-careers,"java",true
+inputoutputhk,https://engineering.iog.io/,input-output-hk,https://apply.workable.com/io-global/,"haskell rust scala",true
+tenable,https://medium.com/tenable-techblog,tenable,https://careers.tenable.com/,"go python",true
+census,https://census.dev/blog/,sutrolabs,https://www.getcensus.com/careers,"ruby",true
