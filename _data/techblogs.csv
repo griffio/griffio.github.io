@@ -17,7 +17,7 @@ artsy,https://artsy.github.io/,artsy,https://www.artsy.net/jobs,"css coffeescrip
 asana,https://blog.asana.com/category/eng,asana,https://asana.com/jobs#openPositionsList,"erlang java javascript php python ruby typescript",true
 "atlassian dev",https://developer.atlassian.com/index.html,atlassian,https://www.atlassian.com/company/careers/engineering#browseJobSection,"go java javascript puppet ruby",true
 audiense,http://engineering.audiense.com/,audienseco,https://www.audiense.com/about-us/careers/,"css coffeescript javascript perl python",true
-aweber,http://engineering.aweber.com/,aweber,http://www.aweber.jobs/apply,"c erlang groff java javascript objective-c php python ruby",true
+aweber,http://engineering.aweber.com/,aweber,http://www.aweber.jobs/apply,"c erlang groff java javascript 225objective-c php python ruby",true
 babbel,http://bytes.babbel.com/,babbel,http://jobs.babbel.com/en/,"go javascript python ruby",true
 badoo,https://techblog.badoo.com/,badoo,https://corp.badoo.com/jobs/,"go java javascript lua objective-c php ruby swift",true
 "bazaar voice",http://blog.developer.bazaarvoice.com/,bazaarvoice,http://www.bazaarvoice.com/careers/,"go java javascript objective-c python ruby shell",true
@@ -223,7 +223,7 @@ teamwork,http://engineroom.teamwork.com/,teamwork,https://www.teamwork.com/jobs/
 teespring,http://teespring.engineering/,teespring,https://teespring.com/jobs,"go html ruby shell swift",true
 tellapart,https://www.tellapart.com/engineering-blog/,tellapart,https://www.tellapart.com/careers/,"c c++ java python ruby scala shell",true
 "the working group",http://blog.twg.ca/category/technical/,twg,https://twg.io/careers,"c css javascript php ruby",true
-thetrainline,https://engineering.thetrainline.com/,trainline,http://www.thetrainlinejobs.com/job,javascript
+thetrainline,https://engineering.thetrainline.com/,trainline,http://www.thetrainlinejobs.com/job,javascript,true
 thumbtack,http://www.thumbtack.com/engineering/,thumbtack,https://www.thumbtack.com/jobs,"c css go haskell java javascript php shell",true
 ticketmaster,https://tech.ticketmaster.com/,ticketmaster,http://www.ticketmaster.co.uk/careers,"go html java javascript objective-c perl powershell python shell",true
 timehop,http://tales.timehop.com/,timehop,http://timehop.com/joinus,"go java objective-c ruby shell",true
@@ -237,7 +237,7 @@ trulia,http://www.trulia.com/blog/tech/,trulia,http://www.trulia.com/about/caree
 tubemogul,https://www.tubemogul.com/engineering/,tubemogul,https://www.tubemogul.com/opportunities/,"html java javascript ruby",true
 tumblr,https://engineering.tumblr.com/#_=_,tumblr,https://www.tumblr.com/jobs,"html java javascript objective-c php python ruby scala swift",true
 twilio,https://www.twilio.com/engineering,twilio,https://www.twilio.com/company/jobs,"c# coffeescript erlang java javascript objective-c php python ruby swift",true
-"twitch tv",https://medium.com/twitch-engineering,twitchtv,http://engineering.twitch.tv/,javascript
+"twitch tv",https://medium.com/twitch-engineering,twitchtv,http://engineering.twitch.tv/,javascript,true
 twitter,https://engineering.twitter.com/,twitter,https://careers.twitter.com/careers,"c c++ html java javascript objective-c scala",true
 uber,https://eng.uber.com/,uber,https://www.uber.com/careers/list/?city=all&country=all&keywords=&subteam=all&team=engineering,"c go java javascript python swift",true
 underdog,http://engineering.underdog.io/,underdogio,https://underdog.io/candidates/apply,"css java javascript python ruby",true
