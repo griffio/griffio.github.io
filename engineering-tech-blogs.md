@@ -16,7 +16,7 @@ title: Corporate Engineering Blogs
 {% assign sorted_techblogs = (site.data.techblogs | sort: 'desc') %}
 {% for techblog in sorted_techblogs %}
 {% assign ghlangs = (techblog.languages | split: ' ') %}
-<div class="DataSpec"><a class="DataSpec-blog" href="{{ techblog.url }}">{{ techblog.desc }}</a>
+<div class="DataSpec" {% unless techblog.active %}style="text-decoration: line-through"{% endunless %}><a class="DataSpec-blog" href="{{ techblog.url }}">{{ techblog.desc }}</a>
 <a class="DataSpec-repo" href="https://github.com/{{ techblog.github }}"><span class="octicon-mark-github small-octicon"></span>/{{ techblog.github }}</a>
 <a class="DataSpec-jobs" href="{{ techblog.jobs }}">Jobs</a> 
 </div>
