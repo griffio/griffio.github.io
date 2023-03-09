@@ -28,7 +28,7 @@ bitly,http://word.bitly.com/,bitly,https://bitly.com/pages/careers,"c go javascr
 bitrise,https://bitrise.io/blog,bitrise-io,https://bitrise.io/careers,"c# go html ruby shell",true
 bittorrent,http://engineering.bittorrent.com/,bittorrent,http://www.bittorrent.com/company/about/jobs,"c++ html javascript python shell",true
 blablacar,http://blablatech.com/blog/,blablacar,https://www.blablacar.pl/dreamjobs,"go",true
-bloc,http://code.bloc.io/,bloc,https://jobs.lever.co/bloc/,"html javascript objective-c ruby swift",true
+bloc,http://code.bloc.io/,bloc,https://jobs.lever.co/bloc/,"html javascript objective-c ruby swift",false
 bloomreach,http://engineering.bloomreach.com/,bloomreach,http://bloomreach.com/careers/,"java python",true
 bocoup,http://bocoup.com/weblog/,bocoup,https://bocoup.com/workat,"css html java javascript python",true
 boxever,http://www.boxever.com/tech-blog,boxever,http://www.boxever.com/careers,"clojure java",true
@@ -39,11 +39,11 @@ buildkite,https://building.buildkite.com/,buildkite,https://buildkite.com/about,
 buzzfeed,https://www.buzzfeed.com/techblog,buzzfeed,https://www.buzzfeed.com/about/jobs,"css javascript objective-c perl python swift",true
 cerner,http://engineering.cerner.com/,cerner,https://sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=25754&siteid=5095&PageType=searchResults&SearchType=linkquery,"javascript ruby",true
 chartbeat,https://medium.com/chartbeat-engineering,chartbeat,https://chartbeat.com/careers,"c javascript python ruby shell",true
-chegg,https://techblog.chegg.com/,cheggeng,http://jobs.chegg.com/,"go html java javascript php python ruby",true
+chegg,https://medium.com/chegg/engineering/home,cheggeng,http://jobs.chegg.com/,"go html java javascript php python ruby",true
 circle,https://engineering.circle.com/,circlefin,https://www.circle.com/en/careers,"javascript objective-c",true
 citrusbyte,http://bits.citrusbyte.com/,citrusbyte,http://careers.citrusbyte.com/,"c++ css elixir javascript objective-c python ruby",true
 clever,https://engineering.clever.com/,clever,https://clever.com/about/jobs#software-engineer,"css coffeescript go javascript lua makefile python shell",true
-msystechnologies,http://www.techblogs.msystechnologies.com,msystechnologiesllc,http://msystechnologies.com/careers,"html javascript r ruby shell",true
+msystechnologies,http://www.techblogs.msystechnologies.com,msystechnologiesllc,http://msystechnologies.com/careers,"html javascript r ruby shell",false
 cloudera,http://blog.cloudera.com/,cloudera,http://www.cloudera.com/content/www/en-us/about-cloudera/careers.html,"c++ java python scala shell",true
 codeship,http://blog.codeship.com/category/tech-room/,codeship,https://codeship.com/jobs,"css coffeescript go javascript ruby shell",true
 conversant,http://engineering.conversantmedia.com/opensource/,conversant,http://engineering.conversantmedia.com/joinus/,"html java javascript objective-c plpgsql python",true
