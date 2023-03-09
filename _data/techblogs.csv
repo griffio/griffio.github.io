@@ -5,7 +5,7 @@ adjust,http://big-elephants.com/,adjust,https://www.adjust.com/jobs/#location=al
 nextroll,https://tech.nextroll.com/,adroll,https://www.nextroll.com/careers,"d erlang rust go java javascript python shell",true
 adzerk,https://www.adzerk.com/tech/,adzerk,https://stackoverflow.com/jobs/companies/adzerk,"c# c++ clojure html java javascript python ruby swift",true
 airbnb,http://airbnb.io/,airbnb,https://www.airbnb.com/careers/departments/engineering,"java javascript python ruby",true
-aircto,https://engineering.aircto.com/,aircto,https://angel.co/launchyard/jobs,"go javascript",true
+aircto,https://engineering.aircto.com/,aircto,https://angel.co/launchyard/jobs,"go javascript",false
 allegro,http://allegro.tech/,allegro,http://kariera.allegro.pl/,"go groovy java javascript php python scala",true
 alphasights,http://engineering-blog.alphasights.com/,alphasights,https://www.alphasights.com/careers,"css javascript ruby shell",true
 amplitude,https://amplitude.com/blog/category/engineering/,amplitude,https://amplitude.com/careers,"html java javascript objective-c",true
@@ -297,7 +297,7 @@ nodesagency,https://engineering.nodesagency.com/,nodesagency,https://www.nodesag
 openx,http://codinginadtech.com/,openx,http://openx.com/open-positions/,"c++ elixir erlang java javascript php python",true
 semaphoreci,http://semaphoreci.com/blog/tags/engineering.html,renderedtext,http://renderedtext.com/jobs/,"css elixir ruby viml",true
 dotabuff,https://medium.com/dotabuff-engineering,dotabuff,https://dotabuff.workable.com/,"go lua makefile protocol buffer ruby",true
-ezhome,https://engineering.ezhome.com/,ezhome,https://www.ezhome.com/careers/positions/,"java javascript",true
+ezhome,https://engineering.ezhome.com/,ezhome,https://www.ezhome.com/careers/positions/,"java javascript",false
 tripadvisor,http://engineering.tripadvisor.com/,tripadvisor,https://www.tripadvisor.com/careers/search-jobs?job_category=7,"c++ java javascript objective-c plpgsql perl python",true
 altmetric,https://altmetric.engineering/,altmetric,https://www.altmetric.com/jobs/,"coffeescript go javascript php r ruby",true
 tinder,http://tech.gotinder.com/,tinder,https://www.gotinder.com/jobs,"javascript",true
