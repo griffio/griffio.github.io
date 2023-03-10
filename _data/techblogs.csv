@@ -3,19 +3,19 @@ desc,url,github,jobs,languages,active
 99designs,https://99designs.co.uk/tech-blog,99designs,https://99designs.co.uk/about/jobs,"go javascript php python ruby",true
 adjust,http://big-elephants.com/,adjust,https://www.adjust.com/jobs/#location=all&category=tech,"c# elixir go java objective-c r ruby",true
 nextroll,https://tech.nextroll.com/,adroll,https://www.nextroll.com/careers,"d erlang rust go java javascript python shell",true
-adzerk,https://www.adzerk.com/tech/,adzerk,https://stackoverflow.com/jobs/companies/adzerk,"c# c++ clojure html java javascript python ruby swift",true
+adzerk,https://www.adzerk.com/tech/,adzerk,https://stackoverflow.com/jobs/companies/adzerk,"c# c++ clojure html java javascript python ruby swift",false
 airbnb,http://airbnb.io/,airbnb,https://www.airbnb.com/careers/departments/engineering,"java javascript python ruby",true
 aircto,https://engineering.aircto.com/,aircto,https://angel.co/launchyard/jobs,"go javascript",false
 allegro,http://allegro.tech/,allegro,http://kariera.allegro.pl/,"go groovy java javascript php python scala",true
 alphasights,https://www.alphasights.com/category/engineering/,alphasights,https://www.alphasights.com/careers,"css javascript ruby shell",true
 amplitude,https://amplitude.com/blog/category/engineering/,amplitude,https://amplitude.com/careers,"html java javascript objective-c",true
-aol,https://engineering.aol.com/,aol,http://www.aol-careers.com/,"c java javascript php python",true
+aol,https://engineering.aol.com/,aol,http://www.aol-careers.com/,"c java javascript php python",false
 appcues,https://engineering.appcues.com/,appcues,https://stackoverflow.com/jobs/companies/appcues,"elixir javascript ruby",true
 appfolio,http://engineering.appfolio.com/,appfolio,http://www.appfolioinc.com/jobs-openings,"javascript objective-c python ruby",true
 appnexus,http://techblog.appnexus.com/,appnexus,http://www.appnexus.com/en/company/careers,"java javascript objective-c python",true
 artsy,https://artsy.github.io/,artsy,https://www.artsy.net/jobs,"css coffeescript elixir javascript objective-c ruby swift",true
 asana,https://blog.asana.com/category/eng,asana,https://asana.com/jobs#openPositionsList,"erlang java javascript php python ruby typescript",true
-"atlassian dev",https://developer.atlassian.com/index.html,atlassian,https://www.atlassian.com/company/careers/engineering#browseJobSection,"go java javascript puppet ruby",true
+atlassian,https://www.atlassian.com/engineering,atlassian,https://www.atlassian.com/company/careers/teams#browseJobSection,"go java javascript puppet ruby",true
 audiense,http://engineering.audiense.com/,audienseco,https://www.audiense.com/about-us/careers/,"css coffeescript javascript perl python",true
 aweber,http://engineering.aweber.com/,aweber,http://www.aweber.jobs/apply,"c erlang groff java javascript 225objective-c php python ruby",true
 babbel,http://bytes.babbel.com/,babbel,http://jobs.babbel.com/en/,"go javascript python ruby",true
@@ -31,7 +31,7 @@ blablacar,http://blablatech.com/blog/,blablacar,https://www.blablacar.pl/dreamjo
 bloc,http://code.bloc.io/,bloc,https://jobs.lever.co/bloc/,"html javascript objective-c ruby swift",false
 bloomreach,http://engineering.bloomreach.com/,bloomreach,http://bloomreach.com/careers/,"java python",true
 bocoup,http://bocoup.com/weblog/,bocoup,https://bocoup.com/workat,"css html java javascript python",true
-boxever,http://www.boxever.com/tech-blog,boxever,http://www.boxever.com/careers,"clojure java",true
+boxever,http://www.boxever.com/tech-blog,boxever,http://www.boxever.com/careers,"clojure java",false
 "braintree payments",https://www.braintreepayments.com/blog/,braintree,https://www.braintreepayments.com/careers,"c# css coffeescript go html java javascript php ruby",true
 bronto,http://blog.bronto.com/engineering,bronto,http://careers.bronto.com/,"java javascript php python ruby",true
 buffer,https://overflow.buffer.com/,bufferapp,https://buffer.com/journey/,"coffeescript javascript objective-c python r ruby",true
