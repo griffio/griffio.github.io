@@ -7,3 +7,6 @@
 [Introducing MRSK](https://www.youtube.com/watch?v=LL1cV2FXZ5I) - 37Signals
 
 [SvelteKit - ViteConf 2022](https://www.youtube.com/watch?v=-OMPfr56kXI) - Rich Harris
+
+[CVE 101: The Unfolding Of A Zero Day Attack](https://www.youtube.com/watch?v=m_lc--KQ1ko) - Theresa Mammarella
+
