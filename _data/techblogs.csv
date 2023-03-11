@@ -66,7 +66,7 @@ flipboard,http://engineering.flipboard.com/,flipboard,https://about.flipboard.co
 fluencia,http://engineering.curiositymedia.com/,spanishdict,http://www.fluencia.com/about-us/careers/,"coffeescript html javascript python ruby",true
 flywire,https://engineering.flywire.com/,peertransfer,https://www.flywire.com/careers,"javascript ruby",true
 "football radar",https://engineering.footballradar.com/,footballradar,https://engineering.footballradar.com/careers/,"javascript php python",true
-foursquare,http://engineering.foursquare.com/,foursquare,https://foursquare.com/jobs,"c++ java objective-c python scala",true
+foursquare,https://location.foursquare.com/developer/blog/,foursquare,https://location.foursquare.com/company/careers/view-all/#engineering,"c++ java objective-c python scala",true
 freeagent,http://engineering.freeagent.com/,fac,http://www.freeagent.com/company/careers/,"css makefile ruby shell",true
 "funding circle",https://medium.com/funding-circle/engineering/home,fundingcircle,https://www.fundingcircle.com/us/careers/,"css clojure coffeescript java ruby shell",true
 "future processing",https://www.future-processing.pl/technical-blog/,futureprocessing,https://www.future-processing.com/careers,"c# css java javascript php shell",true
@@ -78,7 +78,7 @@ gocardless,https://gocardless.com/blog/tagged/engineering,gocardless,https://goc
 godaddy,https://engineering.godaddy.com/,godaddy,http://careers.godaddy.net/jobs/category/software-engineering,"c++ css java javascript php python ruby",true
 goodeggs,http://bites.goodeggs.com/,goodeggs,http://careers.goodeggs.com/open-positions/,"coffeescript javascript python shell swift",true
 gosquared,https://engineering.gosquared.com/,gosquared,https://www.gosquared.com/careers/,"javascript makefile objective-c php ruby",true
-grammarly,http://tech.grammarly.com/blog/index.html,grammarly,https://www.grammarly.com/jobs,"clojure go java javascript python ruby shell",true
+grammarly,https://www.grammarly.com/blog/engineering/,grammarly,https://www.grammarly.com/jobs/openings,"clojure go java javascript python ruby shell",true
 graze,http://tech.graze.com/,graze,https://www.graze.com/uk/jobs/tech,"c html makefile php python shell",true
 greenhouse,https://tech.greenhouse.io/,grnhse,https://www.greenhouse.io/careers?gh_src=xt6m8g,"go javascript php python ruby shell",true
 grofers,https://lambda.grofers.com/,grofers,https://grofers.com/careers/,"go javascript perl python ruby scala",true
@@ -113,7 +113,7 @@ issuu,http://engineering.issuu.com/,issuu,https://issuu.com/careers,"c++ erlang 
 "jane street",https://blogs.janestreet.com/,janestreet,https://www.janestreet.com/join-jane-street/apply/,"c makefile ocaml",true
 jet,https://tech.jet.com/,jet,https://jet.com/about-us/working-at-jet/jobs,"f# go raml shell",true
 "just eat",http://tech.just-eat.com/,justeat,http://tech.just-eat.com/jobs,"c# gcc machine description javascript objective-c ruby swift",true
-kapost,http://engineering.kapost.com/,kapost,https://kapost.com/careers/,"actionscript css html ruby",true
+kapost,http://engineering.kapost.com/,kapost,https://kapost.com/careers/,"actionscript css html ruby",false
 keepsafe,https://medium.com/keepsafe-engineering,keepsafe,https://jobs.lever.co/keepsafe,"clojure groovy java objective-c python",true
 "keyhole software",https://keyholesoftware.com/blog/,in-the-keyhole,https://keyholesoftware.com/contact/careers/,"css java javascript typescript",true
 "khan academy",http://engineering.khanacademy.org/,khan,https://www.khanacademy.org/careers,"html javascript python shell swift",true
@@ -136,7 +136,7 @@ mayvenn,http://engineering.mayvenn.com/,mayvenn,https://jobs.mayvenn.com/recruit
 mdsol,http://techblog.mdsol.com/,mdsol,https://www.mdsol.com/en/careers,"c# cucumber go java javascript r ruby",true
 medallia,http://engineering.medallia.com/blog/,medallia,http://www.medallia.com/careers/,"go html java javascript scala shell",true
 medium,https://medium.engineering/,medium,https://medium.com/@Medium/engineering-a231458a0976,"go javascript",true
-"meet me",http://engineering.meetme.com/,meetme,http://www.meetme.com/apps/careers,"c java javascript php python ruby",true
+"meet me",http://engineering.meetme.com/,meetme,http://www.meetme.com/apps/careers,"c java javascript php python ruby",false
 meetup,http://making.meetup.com/,meetup,http://www.meetup.com/jobs/#open-positions,"css java javascript makefile python ruby scala",true
 meltwater,http://underthehood.meltwater.com/,meltwater,https://www.meltwater.com/about/careers,"go html java javascript puppet python ruby shell",true
 mercari,http://tech.mercari.com/,mercari,https://gb.wantedly.com/companies/mercariapp-com,"go java php",true
