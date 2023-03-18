@@ -79,6 +79,21 @@ import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.channelFlow
 import kotlinx.coroutines.flow.first
 
+suspend fun task1(): String {
+    delay(1000)
+    return "Task 1 completed"
+}
+
+suspend fun task2(): String {
+    delay(12000)
+    return "Task 2 completed"
+}
+
+suspend fun task3(): String {
+    delay(13000)
+    return "Task 3 completed"
+}
+
 suspend fun main() = coroutineScope {
 
     val tasks = listOf(::task3, ::task2, ::task1)
