@@ -111,3 +111,42 @@ suspend fun main() = coroutineScope {
 }
 
 ```
+
+**Example 3** using Flows:
+
+Concurrently `merge` without limit on the number of simultaneously collected flows.
+
+The `first` operator returns the first element emitted by the flow and then cancels flow's collection
+
+``` kotlin
+
+import kotlinx.coroutines.*
+import kotlinx.coroutines.flow.*
+
+suspend fun task1(): String {
+    delay(1000)
+    return "Task 1 completed"
+}
+
+suspend fun task2(): String {
+    delay(12000)
+    return "Task 2 completed"
+}
+
+suspend fun task3(): String {
+    delay(13000)
+    return "Task 3 completed"
+}
+
+@OptIn(FlowPreview::class)
+suspend fun main() = coroutineScope {
+
+    val first =
+        merge(::task3.asFlow(), ::task2.asFlow(), ::task1.asFlow()).first()
+
+    println(first)
+
+    //"Task 1 completed"
+}
+
+```
