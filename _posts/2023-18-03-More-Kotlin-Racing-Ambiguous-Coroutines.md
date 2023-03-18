@@ -26,6 +26,9 @@ The `main` function will complete after the quickest task completes - in this ca
 
 ``` kotlin
 
+import kotlinx.coroutines.*
+import kotlinx.coroutines.selects.select
+
 suspend fun task1(): String {
     delay(1000)
     return "Task 1 completed"
