@@ -9,9 +9,9 @@ runcode: true
 ---
 
 Shows **basic examples** where two or more suspended functions can be executed in parallel, the first result to 
-complete successfully will be used and the rest will be cancelled, ending the coroutine scopr.
+complete successfully will be used and the rest will be cancelled, ending the nearest coroutine scope.
 
-This is, for example, useful when [Happy Eyeballs](https://www.rfc-editor.org/rfc/rfc8305) or other fast fallback algorithm is useful. 
+Useful for [Happy Eyeballs](https://www.rfc-editor.org/rfc/rfc8305) or other fast fallback algorithm is required. 
 
 Example 1 using select:
 
