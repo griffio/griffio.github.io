@@ -143,8 +143,9 @@ suspend fun task3(): String {
 @OptIn(FlowPreview::class)
 suspend fun main() = coroutineScope {
 
-    val first =
-        merge(::task3.asFlow(), ::task2.asFlow(), ::task1.asFlow()).first()
+    val tasks = listOf(::task3, ::task2, ::task1)
+    
+    val first = tasks.map { it.asFlow() }.merge().first()
 
     println(first)
 
