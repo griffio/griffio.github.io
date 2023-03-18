@@ -13,7 +13,7 @@ complete successfully will be used and the rest will be cancelled, ending the ne
 
 Useful for [Happy Eyeballs](https://www.rfc-editor.org/rfc/rfc8305) or other fast fallback algorithm is required. 
 
-Example 1 using select:
+**Example 1** using select:
 
 The main entry suspend point begins with the implicit Default Dispatcher (backed by a shared pool of threads on JVM).
 
