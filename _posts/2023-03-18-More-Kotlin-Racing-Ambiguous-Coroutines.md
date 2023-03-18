@@ -19,11 +19,13 @@ The main entry suspend point begins with the implicit Default Dispatcher (backed
 
 The wrapping `coroutineScope` will wait for child coroutines, completed, cancelled, or when an exception is raised.
 
-`select` waits for the result of multiple suspending functions simultaneously.
-`awaitOn` when a deferred value is resolved this emits the result to the enclosing `select` clause
-`coroutineContext.cancelChildren()` once the `select` has produced a result, all coroutines in the scope are cancelled  
+`select` wait for the result of multiple suspending functions simultaneously.
 
-The `main` function will complete after the quickest task completes - in this case `task1`
+`awaitOn` when a deferred value is resolved this emits the result to the enclosing `select` clause.
+
+`coroutineContext.cancelChildren()` once the `select` has produced a result, all coroutines in the scope are cancelled.  
+
+The `main` function will complete after the quickest task completes - in this case `task1`.
 
 ``` kotlin
 
