@@ -33,6 +33,7 @@ The `main` function will complete after the quickest task completes - in this ca
 
 import kotlinx.coroutines.*
 import kotlinx.coroutines.selects.select
+import kotlin.system.measureTimeMillis
 
 suspend fun task1(): String {
     delay(1000)
@@ -83,6 +84,7 @@ The `first` operator returns the first element emitted by the flow and then canc
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.channelFlow
 import kotlinx.coroutines.flow.first
+import kotlin.system.measureTimeMillis
 
 suspend fun task1(): String {
     delay(1000)
@@ -132,6 +134,7 @@ The `first` operator returns the first element emitted by the flow and then canc
 
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.*
+import kotlin.system.measureTimeMillis
 
 suspend fun task1(): String {
     delay(1000)
