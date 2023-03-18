@@ -5,6 +5,7 @@ category: programming
 tags: kotlin
 published: true
 summary: kotlin coroutines racing ambiguous suspended functions
+runcode: true
 ---
 
 Shows **basic examples** where two or more suspended functions can be executed in parallel, the first result to 
