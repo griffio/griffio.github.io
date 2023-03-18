@@ -11,7 +11,7 @@ runcode: true
 Shows **basic examples** where two or more suspended functions can be executed in parallel, the first result to 
 complete successfully will be used and the rest will be cancelled, ending the nearest coroutine scope.
 
-Useful for [Happy Eyeballs](https://www.rfc-editor.org/rfc/rfc8305) or other fast fallback algorithm is required. 
+Useful for [Happy Eyeballs](https://www.rfc-editor.org/rfc/rfc8305) or another fast fallback algorithm is required. 
 
 ---
 
@@ -23,7 +23,7 @@ The wrapping `coroutineScope` will wait for child coroutines, completed, cancell
 
 Use `select` to wait for the result of multiple suspending functions simultaneously.
 
-The `awaitOn` is called when a deferred value is resolved this emits the result to the enclosing `select` clause.
+The `awaitOn` is called when a deferred value is resolved then emits the result to the enclosing `select` clause.
 
 Call `coroutineContext.cancelChildren()` once the `select` has produced a result, all coroutines in the scope are cancelled.  
 
@@ -53,18 +53,21 @@ suspend fun main() = coroutineScope {
 
     val tasks = listOf(::task3, ::task2, ::task1)
 
-    val first =
-        select {
-            tasks.forEach { task ->
-                async() { task() }.onAwait { it }
+    val ms = measureTimeMillis {
+
+        val first =
+            select {
+                tasks.forEach { task ->
+                    async { task() }.onAwait { it }
+                }
             }
-        }
 
-    coroutineContext.cancelChildren()
+        coroutineContext.cancelChildren()
 
-    println(first)
+        println(first) // "Task 1 completed"
+    }
 
-    //"Task 1 completed"
+    println("in $ms milliseconds)")
 }
 
 ```
@@ -97,19 +100,24 @@ suspend fun task3(): String {
 }
 
 suspend fun main() = coroutineScope {
-
+    
     val tasks = listOf(::task3, ::task2, ::task1)
 
-    val first =
-        channelFlow {
-            tasks.forEach { task ->
-                launch { send(task()) }
-            }
-        }.first()
+    val ms = measureTimeMillis {
 
-    println(first)
+        val first =
+            channelFlow {
+                tasks.forEach { task ->
+                    launch { send(task()) }
+                }
+            }.first()
 
-    //"Task 1 completed"
+        println(first)
+
+        //"Task 1 completed"
+    }
+
+    println("in $ms milliseconds)")
 }
 
 ```
@@ -142,14 +150,19 @@ suspend fun task3(): String {
 
 @OptIn(FlowPreview::class)
 suspend fun main() = coroutineScope {
-
+   
     val tasks = listOf(::task3, ::task2, ::task1)
-    
-    val first = tasks.map { it.asFlow() }.merge().first()
 
-    println(first)
+    val ms = measureTimeMillis {
 
-    //"Task 1 completed"
+        val first = tasks.map { it.asFlow() }.merge().first()
+
+        println(first)
+
+        //"Task 1 completed"
+    }
+
+    println("in $ms milliseconds)")
 }
 
 ```
