@@ -19,11 +19,11 @@ The main entry suspend point begins with the implicit Default Dispatcher (backed
 
 The wrapping `coroutineScope` will wait for child coroutines, completed, cancelled, or when an exception is raised.
 
-`select` wait for the result of multiple suspending functions simultaneously.
+Use `select` to wait for the result of multiple suspending functions simultaneously.
 
-`awaitOn` when a deferred value is resolved this emits the result to the enclosing `select` clause.
+The `awaitOn` is called when a deferred value is resolved this emits the result to the enclosing `select` clause.
 
-`coroutineContext.cancelChildren()` once the `select` has produced a result, all coroutines in the scope are cancelled.  
+Call `coroutineContext.cancelChildren()` once the `select` has produced a result, all coroutines in the scope are cancelled.  
 
 The `main` function will complete after the quickest task completes - in this case `task1`.
 
@@ -59,6 +59,36 @@ suspend fun main() = coroutineScope {
         }
 
     coroutineContext.cancelChildren()
+
+    println(first)
+
+    //"Task 1 completed"
+}
+
+```
+
+**Example 2** using channelFlow:
+
+Where `channelFlow` is a cold flow
+
+The `first` operator returns the first element emitted by the flow and then cancels flow's collection
+
+``` kotlin
+
+import kotlinx.coroutines.*
+import kotlinx.coroutines.flow.channelFlow
+import kotlinx.coroutines.flow.first
+
+suspend fun main() = coroutineScope {
+
+    val tasks = listOf(::task3, ::task2, ::task1)
+
+    val first =
+        channelFlow {
+            tasks.forEach { task ->
+                launch { send(task()) }
+            }
+        }.first()
 
     println(first)
 
