@@ -69,7 +69,7 @@ suspend fun main() = coroutineScope {
 
 ```
 
-**Example 2** using channelFlow:
+**Example 2** using Channels:
 
 Where `channelFlow` is a cold flow
 
