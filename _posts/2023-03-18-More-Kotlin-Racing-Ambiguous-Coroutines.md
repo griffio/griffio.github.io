@@ -21,7 +21,7 @@ The wrapping `coroutineScope` will wait for child coroutines, completed, cancell
 
 **Example 1** using select:
 
-Use `select` to wait for the result of multiple suspending functions simultaneously.
+Use `select` to wait for the result of multiple suspending functions simultaneously. If any fail, then `select` produces the exception.
 
 The `awaitOn` is called when a deferred value is resolved then emits the result to the enclosing `select` clause.
 
