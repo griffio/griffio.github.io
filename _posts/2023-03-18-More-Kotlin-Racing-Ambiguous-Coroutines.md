@@ -170,7 +170,7 @@ suspend fun main() = coroutineScope {
 
 ```
 
-*Example 4* Exceptions:
+**Example 4** Exceptions:
 
 Wrapping with `supervisorScope` adds a [SupervisorJob](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-supervisor-job.html) to the Coroutine Context,
 allowing any Exception to be handled by the User.
