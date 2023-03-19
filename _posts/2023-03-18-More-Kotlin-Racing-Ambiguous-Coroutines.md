@@ -177,7 +177,7 @@ allowing any Exception thrown by an `async` job to be handled by the User.
 
 The first job that fails, `select` produces the corresponding exception as the result.
 
-Unless cancelled, any jobs will continue to run.
+Unless cancelled, the remaining jobs will continue to run and prevent the coroutine scope from completing.
 
 ``` kotlin
 
