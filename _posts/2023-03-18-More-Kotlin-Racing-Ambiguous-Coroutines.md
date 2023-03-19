@@ -169,3 +169,59 @@ suspend fun main() = coroutineScope {
 }
 
 ```
+
+*Example 4* Exceptions:
+
+Wrapping with `supervisorScope` adds a [SupervisorJob](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-supervisor-job.html) to the Coroutine Context,
+allowing any Exception to be handled by the User.
+
+The first job that fails, `select` produces the corresponding exception as the result.
+
+Unless cancelled, any jobs will continue to run.
+
+``` kotlin
+
+import kotlinx.coroutines.*
+import kotlinx.coroutines.selects.select
+import kotlin.system.measureTimeMillis
+
+suspend fun task1(): String {
+    delay(1000)
+    error("Task 1 failed")
+}
+
+suspend fun task2(): String {
+    delay(12000)
+    return "Task 2 completed"
+}
+
+suspend fun task3(): String {
+    delay(13000)
+    return "Task 3 completed"
+}
+
+suspend fun main() = supervisorScope {
+
+    val tasks = listOf(::task3, ::task2, ::task1)
+
+    val ms = measureTimeMillis {
+        try {
+            val first =
+                select {
+                    tasks.forEach { task ->
+                        async() { task() }.onAwait { it }
+                    }
+                }
+            println(first)
+        } catch (e: Exception) {
+            println(e.message)
+            // "Task 1 failed"
+        } finally {
+            coroutineContext.cancelChildren()
+        }
+    }
+
+    println("in $ms milliseconds)")
+}
+
+```
