@@ -75,9 +75,9 @@ suspend fun main() = coroutineScope {
 
 **Example 2** using Channels:
 
-Where `channelFlow` is a cold flow
+Where `channelFlow` is a cold flow.
 
-The `first` operator returns the first element emitted by the flow and then cancels flow's collection
+The `first` operator returns the first element emitted by the flow and then cancels flow's collection.
 
 ``` kotlin
 
@@ -126,9 +126,9 @@ suspend fun main() = coroutineScope {
 
 **Example 3** using Flows:
 
-Concurrently `merge` without limit on the number of simultaneously collected flows.
+Similar to `channelFlow`, concurrently `merge` without limit on the number of simultaneously collected flows.
 
-The `first` operator returns the first element emitted by the flow and then cancels flow's collection
+The `first` operator returns the first element emitted by the flow and then cancels flow's collection.
 
 ``` kotlin
 
