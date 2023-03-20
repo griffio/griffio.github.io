@@ -17,7 +17,7 @@ Useful for [Happy Eyeballs](https://www.rfc-editor.org/rfc/rfc8305) or another f
 
 The main entry point `suspend` begins with an implicit [Default Dispatcher](https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html#dispatchers-and-threads) (backed by a shared pool of threads on JVM).
 
-The wrapping `coroutineScope` will wait for child coroutines, completed, cancelled, or when an exception is raised.
+Wrapping with `coroutineScope` will wait for child coroutines until completed or cancelled (when an exception is raised all children in the scope are cancelled).
 
 **Example 1** using select:
 
