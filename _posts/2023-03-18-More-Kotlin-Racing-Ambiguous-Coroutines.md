@@ -128,7 +128,7 @@ suspend fun main() = coroutineScope {
 
 Similar to `channelFlow`, concurrently `merge` without limit on the number of simultaneously collected flows.
 
-The `first` operator returns the first element emitted by the flow and then cancels flow's collection.
+The `first` operator returns the first element emitted by the flow and then cancels flow's collection
 
 ``` kotlin
 
@@ -224,4 +224,62 @@ suspend fun main() = supervisorScope {
     println("in $ms milliseconds)")
 }
 
+```
+
+**Example 5** Happy Eyeballs:
+
+Pseudocode for returning the quickest resolved ip address for fastly.com, there is a mix of ip4 and ip6 addresses.
+A real example would attempt to connect with a socket. 
+The ordering of ip addresses is expected to be interleaved by family type.
+Each suspend function is decorated with a staggered 250ms delay using [onEach](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/on-each.html) by order of input.
+The first ip in the list is started without delay, subsequent ips are delayed (e.g. 250ms, 500ms ...) before starting.
+Once again, the flows `merge` concurrently starting after their respective delay, the first ip to "resolve" is returned
+and the rest of the tasks are cancelled.
+
+``` kotlin
+import kotlinx.coroutines.*
+import kotlinx.coroutines.flow.*
+import kotlin.time.Duration
+import kotlin.time.Duration.Companion.milliseconds
+import kotlin.system.measureTimeMillis
+
+suspend fun ip4a(): String {
+    delay(1200)
+    return "151.101.1.57"
+}
+
+suspend fun ip6a(): String {
+    delay(1100)
+    return "2a04:4e42:400::313"
+}
+
+suspend fun ip4b(): String {
+    delay(100)
+    return "151.101.193.57"
+}
+
+suspend fun ip6b(): String {
+    delay(100)
+    return "2a04:4e42:600::313"
+}
+
+suspend fun main(): Unit = coroutineScope {
+    val ms = measureTimeMillis {
+        val fastly = listOf(::ip6a, ::ip4a, ::ip6b, ::ip4b)
+        val result = happyEyeballs(fastly, 250.milliseconds)
+        println(result)
+        // 2a04:4e42:600::313
+    }
+    println("in $ms milliseconds)")
+}
+
+@OptIn(FlowPreview::class)
+suspend fun <T> happyEyeballs(tasks: List<suspend () -> T>, delay: Duration): T = coroutineScope {
+    val flows = tasks.mapIndexed { ix, it ->
+        it.asFlow().onEach {
+            delay(delay * ix)
+        }
+    }
+    flows.merge().first()
+}
 ```
