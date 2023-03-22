@@ -238,7 +238,7 @@ A real example would attempt to connect with a socket.
 
 The ordering of ip addresses is expected to be interleaved by family type.
 
-Each suspend function is decorated with a staggered 250ms delay using [onEach](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/on-each.html) by order of input.
+Each suspend function is decorated with a staggered 250ms connection delay using [onEach](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/on-each.html) by order of input.
 The first ip in the list is started without delay, subsequent ips are delayed (e.g. 250ms, 500ms ...) before starting.
 
 Once again, the flows `merge` concurrently starting after their respective delay, the first ip to "resolve" is returned
