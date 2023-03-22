@@ -234,7 +234,7 @@ or IPv6) may be blocked, broken, or sub-optimal on a network, clients that attem
 establishing a connection more quickly reducing the overall client delay.
 
 Pseudocode for the Happy Eyeballs algorithm of racing connections returning the quickest resolved ip address for e.g. fastly.com.
-A real example would attempt to connect with a socket and 
+A real example would attempt to connect with a socket and close any sockets that are not used. 
 
 The ordering of ip addresses is expected to be interleaved by family type.
 
