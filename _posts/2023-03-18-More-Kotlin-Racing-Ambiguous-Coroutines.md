@@ -282,10 +282,10 @@ suspend fun main(): Unit = coroutineScope {
 }
 
 @OptIn(FlowPreview::class)
-suspend fun <T> happyEyeballs(tasks: List<suspend () -> T>, delay: Duration): T = coroutineScope {
+suspend fun <T> happyEyeballs(tasks: List<suspend () -> T>, delayBy: Duration): T = coroutineScope {
     val flows = tasks.mapIndexed { ix, it ->
         it.asFlow().onEach {
-            delay(delay * ix)
+            delay(delayBy * ix)
         }
     }
     flows.merge().first()
