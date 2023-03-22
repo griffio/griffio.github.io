@@ -234,12 +234,14 @@ or IPv6) may be blocked, broken, or sub-optimal on a network, clients that attem
 establishing a connection more quickly reducing the overall client delay.
 
 Pseudocode for the Happy Eyeballs algorithm of racing connections returning the quickest resolved ip address for e.g. fastly.com.
-A real example would attempt to connect with a socket. 
+A real example would attempt to connect with a socket and 
 
 The ordering of ip addresses is expected to be interleaved by family type.
 
 Each suspend function is decorated with a staggered 250ms connection delay using [onEach](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/on-each.html) by order of input.
 The first ip in the list is started without delay, subsequent ips are delayed (e.g. 250ms, 500ms ...) before starting.
+
+*What is missing* from this naive example - tasks should wait up until delay *or* run immediately if the previous task fails. 
 
 Once again, the flows `merge` concurrently starting after their respective delay, the first ip to "resolve" is returned
 and the rest of the tasks are cancelled.
