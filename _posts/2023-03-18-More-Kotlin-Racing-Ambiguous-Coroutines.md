@@ -77,7 +77,7 @@ suspend fun main() = coroutineScope {
 
 Where `channelFlow` is a cold flow.
 
-The `first` operator returns the first element emitted by the flow and then cancels flow's collection.
+The `first` operator returns the first value or exception emitted by the flow and then cancels flow's collection.
 
 ``` kotlin
 
