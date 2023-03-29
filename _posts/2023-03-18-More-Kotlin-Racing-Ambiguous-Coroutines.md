@@ -243,6 +243,7 @@ The first ip in the list is started without delay, subsequent ips are delayed (e
 
 *What is missing* from this naive example - tasks should be staggered by a delay *or* run immediately if the previous task fails.
 The exception handling required is yet to be discovered as this is quite tricky.
+(see https://gist.github.com/griffio/073e5f440971e7e19dbc3e2011c9ec07 for a possible implementation)
 
 Once again, the flows `merge` concurrently starting after their respective delay, the first ip to "resolve" is returned
 and the rest of the tasks are cancelled.
