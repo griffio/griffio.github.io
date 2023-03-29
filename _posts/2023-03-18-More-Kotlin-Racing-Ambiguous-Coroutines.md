@@ -241,7 +241,8 @@ The ordering of ip addresses is expected to be interleaved by family type.
 Each suspend function is decorated with a staggered 250ms connection delay using [onEach](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/on-each.html) by order of input.
 The first ip in the list is started without delay, subsequent ips are delayed (e.g. 250ms, 500ms ...) before starting.
 
-*What is missing* from this naive example - tasks should wait up until delay *or* run immediately if the previous task fails. 
+*What is missing* from this naive example - tasks should be staggered by a delay *or* run immediately if the previous task fails.
+The exception handling required is yet to be discovered as this is quite tricky.
 
 Once again, the flows `merge` concurrently starting after their respective delay, the first ip to "resolve" is returned
 and the rest of the tasks are cancelled.
