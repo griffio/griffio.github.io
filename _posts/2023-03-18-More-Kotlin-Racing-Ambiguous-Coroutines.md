@@ -296,7 +296,7 @@ suspend fun <T> happyEyeballs(tasks: List<suspend () -> T>, delayBy: Duration): 
 }
 ```
 
-Example using `channelFlow` with exception handling to run upto 5 tasks.
+**Example 6** using `channelFlow` with exception handling to run upto 5 tasks.
 The first task is started immediately, the second task is started after waiting for the delay or if the first fails.
 The second task fails and the third is started immediately and so on.
 The third task completes before the fifth task starts.
