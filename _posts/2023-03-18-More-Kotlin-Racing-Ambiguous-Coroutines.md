@@ -242,8 +242,8 @@ Each suspend function is decorated with a staggered 250ms connection delay using
 The first ip in the list is started without delay, subsequent ips are delayed (e.g. 250ms, 500ms ...) before starting.
 
 *What is missing* from this naive example - tasks should be staggered by a delay *or* run immediately if the previous task fails.
-The exception handling required is yet to be discovered as this is quite tricky.
-(see [gist.github.com/griffio/073e5f440971e7e19dbc3e2011c9ec07](https://gist.github.com/griffio/073e5f440971e7e19dbc3e2011c9ec07) for a possible implementation)
+The exception handling required is quite tricky.
+(see [gist.github.com/griffio/073e5f440971e7e19dbc3e2011c9ec07](https://gist.github.com/griffio/073e5f440971e7e19dbc3e2011c9ec07) for possible implementations)
 
 Once again, the flows `merge` concurrently starting after their respective delay, the first ip to "resolve" is returned
 and the rest of the tasks are cancelled.
@@ -295,3 +295,116 @@ suspend fun <T> happyEyeballs(tasks: List<suspend () -> T>, delayBy: Duration): 
     flows.merge().first()
 }
 ```
+
+Example using `channelFlow` with exception handling to run upto 5 tasks.
+The first task is started immediately, the second task is started after waiting for the delay or if the first fails.
+The second task fails and the third is started immediately and so on.
+The third task completes before the fifth task starts.
+
+``` kotlin
+
+import kotlinx.coroutines.*
+import kotlinx.coroutines.channels.Channel
+import kotlinx.coroutines.flow.*
+import kotlin.random.Random
+import kotlin.time.Duration
+import kotlin.time.Duration.Companion.milliseconds
+import kotlin.time.Duration.Companion.seconds
+
+suspend fun task1(): String {
+    println("<start>.task1")
+    //error("fail: task1")
+    delay(10.seconds)
+    println("<finish>.task1")
+    return "success: task1"
+}
+
+suspend fun task2(): String {
+    println("<start>.task2")
+    delay(1.seconds)
+    error("fail: task2")
+    return "success: task2"
+}
+
+suspend fun task3(): String {
+    println("<start>.task3")
+    //error("fail: task3")
+    delay(3.seconds)
+    println("<finish>.task3")
+    return "success: task3"
+}
+
+suspend fun task4(): String {
+    println("<start>.task4")
+    //  error("fail: task4")
+    delay(2.seconds)
+    println("<finish>.task4")
+    return "success: task4"
+}
+
+suspend fun task5(): String {
+    println("<start>.task5")
+    delay(2.seconds)
+    println("<finish>.task5")
+    return "success: task5"
+}
+
+// wait for delay or error to be signaled first 
+suspend fun delayOrFail(channel: Channel<Unit>, delayBy: Duration) = channelFlow {
+    launch { send(delayTask(delayBy)) }
+    launch { send(failedTask(channel)) }
+}.first()
+
+//Another way using select
+@OptIn(ExperimentalCoroutinesApi::class)
+suspend fun delayOrFailAlt(failedTask: Channel<Unit>, delayBy: Duration) {
+    select {
+        failedTask.onReceive {}
+        onTimeout(delayBy) {}
+    }
+}
+
+suspend fun <T> failedTask(failed: Channel<T>) {
+    failed.receive()
+}
+
+suspend fun delayTask(delayBy: Duration) {
+    delay(delayBy)
+}
+
+suspend fun <T> happyEyeBalls(tasks: List<suspend () -> T>, delayedBy: Duration): Flow<T> = channelFlow {
+    val failedTask = Channel<Unit>(1)
+
+    // start the first task immediately
+    launch {
+        try {
+            send(tasks.first()())
+        } catch (e: Exception) {
+            failedTask.trySend(Unit) // it failed, send message to channel
+        }
+    }
+    // start remaining tasks only after either waiting for delay or failed channel element is received
+    tasks.drop(1).forEach { task ->
+        delayOrFail(failedTask, delayedBy) // wait for delay or failed signal to continue next task
+        launch {
+            try {
+                send(task())
+            } catch (e: Exception) {
+                failedTask.trySend(Unit) // task failed, send message to channel - next task will start
+            }
+        }
+    }
+}
+
+suspend fun main(): Unit = coroutineScope {
+
+    val tasks = listOf(::task1, ::task2, ::task3, ::task4, ::task5)
+    
+    // the first task to succeed - the others are cancelled
+    val winner = happyEyeBalls(tasks, 2.seconds).first()
+
+    println(winner) // task3 is quickest - task5 doesn't start
+}    
+
+```
+
