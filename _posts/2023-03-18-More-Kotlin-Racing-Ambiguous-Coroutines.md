@@ -4,7 +4,7 @@ title: "More Kotlin (Racing Ambiguous Coroutines)"
 category: programming
 tags: kotlin
 published: true
-summary: kotlin coroutines racing ambiguous suspended functions
+description: kotlin coroutines racing ambiguous suspended functions
 runcode: true
 ---
 
