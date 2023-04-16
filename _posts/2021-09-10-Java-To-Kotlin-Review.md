@@ -4,7 +4,7 @@ title: "Java to Kotlin A Refactoring Guidebook Review"
 category: engineering
 tags: review
 published: true
-summary: "Review of Java to Kotlin Refactoring Guidebook"
+description: "Review of Java to Kotlin Refactoring Guidebook by Duncan McGregor & Nat Pryce"
 ---
 
 [Java to Kotlin](https://www.oreilly.com/library/view/java-to-kotlin/9781492082262/)
