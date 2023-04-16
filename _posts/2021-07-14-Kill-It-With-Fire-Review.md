@@ -4,7 +4,7 @@ title: "Kill It With Fire Review"
 category: engineering
 tags: review
 published: true
-summary: review of Kill It With Fire
+description: Book review of Kill It With Fire by Marianne Bellotti
 ---
 
 ![Kill It With Fire](/public/kitwf.jpg)
