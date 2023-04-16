@@ -4,7 +4,7 @@ title: "Atomic Kotlin Review"
 category: kotlin
 tags: review
 published: true
-summary: review of Atomic Kotlin
+description: Book review of Atomic Kotlin by Bruce Eckel & Svetlana Isakova
 ---
 
 ![Atomic Kotlin](/public/atomic_kotlin.jpg)
