@@ -13,20 +13,20 @@ The libraries that you will see are typically described as `Object Relational Ma
 
 Another approach is called `Active Record` where persistence is part of an Objects behaviour.
 
-A translation layer called an *Object Relational Mapper* is responsible to load and store your Application's Entity model as a representation of the relational schema.
+A translation layer called an `Object Relational Mapper` is responsible to load and store your Application's Entity model as a representation of the relational schema.
 There exists a so-called [impedance mismatch](https://agiledata.org/essays/impedanceMismatch.html) where, for example, Kotlin has Maps, Sets and Ordered/UnOrdered Collections
 but no concept of Tables, Columns and Rows. What can be surprising is that all the rows in the database could be pulled across to keep
 the semantics of, for example, a Set or ordered collection in the Application.
 
 Persisting to the Rdbms involves traversing a given instance of an Entity model and detecting dirty objects that need inserting,
-updating in the correct order. The job of the Orm is to manage this entangled state back to coherence on the database side. 
+updating in the correct order. The job of the `Orm` is to manage this entangled state back to coherence on the database side. 
 
 Associations are represented in Object-Oriented models and can be bidirectional, the Rdbms uses the constraint of foreign keys on the relationship owner side.
-Working with an Orm library is often finding a balance between modelling the Entity's lazy-loading, eager-fetching and caching strategy.
-If you have a clear enough vision of the Object graph and its associations that you are modelling, this can make Orm the easier choice, to manage
-through declarative Annotations or Dsl; the Sql is generated from this configuration.
+Working with an `Orm` library is often finding a balance between modelling the Entity's lazy-loading, eager-fetching and caching strategy.
+If you have a clear enough vision of the Object graph and its associations that you are modelling, this can make an `Orm` the easier choice, to manage
+through declarative Annotations or Dsl - the Sql is generated at runtime from this configuration.
 
-*Row Mappers* focus on making Sql persistence with the Rdbms Driver more ergonomic - Entity relationships (Foreign Key associations) are often 
+A `Sql Row Mapper` focuses on making Sql persistence with the Rdbms Driver more ergonomic - Entity relationships (Foreign Key associations) are often 
 managed manually. Simplicity is often the primary motivation by using the Sql dialect directly. Duplication is favoured over abstraction.
 
 ---
@@ -67,6 +67,7 @@ Summary
 * Supports many-to-one, many-to-many references
 * Supports Lazy loading and eager loading
 * No direct Merge or Upsert support 
+* Returns id after insert
 
 ---
 
@@ -82,6 +83,7 @@ Summary
 * Kotlin Native not supported 
 * Supports many-to-one, many-to-many references
 * No direct Merge or Upsert support
+* Returns id after insert
 
 ---
 
@@ -89,11 +91,21 @@ Summary
 
 Summary
 
+* Kotysa is a light `Object Relational Mapper` with type-safe Sql Dsl for Jvm and Android
+* Postgres MySQL MariaDB SQLite H2 Oracle SQL Server
+* Jdbc and R2dbc supported
+* No Annotations
+* No Code generation
+* No associations
+* No direct Merge or Upsert support
+* Returns id after insert
 ---
 
 **Ktorm** [kotlin-orm/ktorm: A lightweight Orm framework for Kotlin with strong-typed Sql Dsl and sequence Api.](https://github.com/kotlin-orm/ktorm)
 
 Summary
+
+
 
 ---
 
