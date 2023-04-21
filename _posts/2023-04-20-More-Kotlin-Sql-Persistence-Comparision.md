@@ -39,14 +39,14 @@ Choosing one library over another should consider some of the following question
 * Consider Hibernate/Jpa if it suits your Entity model and the Application owns the database schema
   * Persistence by reachability reduces boilerplate code and duplication
   * [database first vs Jpa first](https://www.jpa-buddy.com/blog/db-first-vs-jpa-first/)
-* Android only support where SqlLite expected
-  * SqlDelight or Google's [Room](https://developer.android.com/reference/androidx/room/package-summary)
-* Library dependencies are compatible with your application transitive dependencies - Bill of Materials
-  * For example, to support Json fields with [Jackson](https://github.com/FasterXML/jackson) 
+* Require only Android support where SqlLite is expected
+  * See SqlDelight or Google's [Room](https://developer.android.com/reference/androidx/room/package-summary)
+* Are the library dependencies are compatible with your applications transitive dependencies - Bill of Materials
+  * For example, to support Json fields, [Jackson](https://github.com/FasterXML/jackson) is often used 
 * Libraries that are strongly typed Sql via Dsl - what is the fidelity required to support your Sql dialect?
-  * Jooq's Dsl has high fidelity Sql support compared to the other Kotlin Sql Dsl
+  * Jooq's Dsl has high fidelity Sql support compared to the other Kotlin Dsl libraries
   * Look for support of Merge or Upsert statements, requirement for this should be identified early 
-  * Does inserting records use `returning` to avoid reloading the new record to fetch the Identifier?
+  * Does inserting records use `returning` to avoid reloading new records to fetch the Identifier?
 * Are you likely to change database vendors and need Sql to be generated for different dialects?
   * Changing database vendors is less common in practice and results in over abstracting/hiding of Sql when there is no need
 * Typically, libraries use `Jdbc` or support async reactive (non-blocking) drivers [R2dbc](https://r2dbc.io/)
@@ -112,8 +112,15 @@ Summary
 **Ktorm** [kotlin-orm/ktorm: A lightweight Orm framework for Kotlin with strong-typed Sql Dsl and sequence Api.](https://github.com/kotlin-orm/ktorm)
 
 Summary
-
-
+* Postgres MySQL SQLite Oracle SQL Server
+* Jdbc and R2dbc supported https://github.com/kotlin-orm/ktorm-r2dbc
+* Ktorm is a lightweight Orm Framework for Kotlin directly based on pure Jdbc
+* No third-party dependencies
+* No annotations
+* Code generation possible - https://github.com/kotlin-orm/ktorm-ksp
+* Some associations with foreign key - possible to extend 
+* Upsert supported in Dialects
+* Returns id after insert
 
 ---
 
@@ -121,11 +128,9 @@ Summary
 
 Summary
 
-Android and standalone Kotlin persistence initially for SqlLite some alpha support for Postgres, MySql
-
-Kotlin code generation, schema first development from Sql statements
-
-Intentional that database column naming is preserved in Kotlin code 
+* Android and standalone Kotlin persistence initially for SqlLite some alpha support for Postgres, MySql
+* Kotlin code generation, schema first development from Sql statements
+* Intentional that database column naming is used in Kotlin code 
 
 ---
 
