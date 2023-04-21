@@ -32,10 +32,10 @@ It's much easier to work around problems in legacy schema where you have complet
 
 ---
 
-Typically, libraries use `Jdbc` or support async reactive (non-blocking) drivers [R2dbc](https://r2dbc.io/)
-
 Choosing one library over another should consider some of the following questions:
 
+* Does the Application create the schema or does the schema exist already?
+  * SqlDelight advocates for schema first design and code generation derived from Sql files 
 * Consider Hibernate/Jpa if it suits your Entity model and the Application owns the database schema
   * Persistence by reachability reduces boilerplate code and duplication
   * [database first vs Jpa first](https://www.jpa-buddy.com/blog/db-first-vs-jpa-first/)
@@ -48,6 +48,8 @@ Choosing one library over another should consider some of the following question
   * Does inserting records use `returning` to avoid reloading the new record to fetch the Identifier?
 * Are you likely to change database vendors and need Sql to be generated for different dialects?
   * Changing database vendors is less common in practice and results in over abstracting/hiding of Sql when there is no need
+* Typically, libraries use `Jdbc` or support async reactive (non-blocking) drivers [R2dbc](https://r2dbc.io/)
+  * If you want coroutine support see [jasync-sql](https://github.com/jasync-sql/jasync-sql) for a Kotlin async driver 
 
 **Designed for Kotlin**
 
