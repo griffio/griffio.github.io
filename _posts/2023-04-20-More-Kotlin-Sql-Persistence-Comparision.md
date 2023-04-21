@@ -112,12 +112,12 @@ Summary
 **Ktorm** [kotlin-orm/ktorm: A lightweight Orm framework for Kotlin with strong-typed Sql Dsl and sequence Api.](https://github.com/kotlin-orm/ktorm)
 
 Summary
-* Postgres MySQL SQLite Oracle SQL Server
-* Jdbc and R2dbc supported https://github.com/kotlin-orm/ktorm-r2dbc
 * Ktorm is a lightweight Orm Framework for Kotlin directly based on pure Jdbc
+* Postgres MySQL SQLite Oracle SQL Server
+* Jdbc and R2dbc supported [ktorm-r2dbc](https://github.com/kotlin-orm/ktorm-r2dbc)
 * No third-party dependencies
 * No annotations
-* Code generation possible - https://github.com/kotlin-orm/ktorm-ksp
+* Code generation possible [ktorm-ksp](https://github.com/kotlin-orm/ktorm-ksp)
 * Some associations with foreign key - possible to extend 
 * Upsert supported in Dialects
 * Returns id after insert
