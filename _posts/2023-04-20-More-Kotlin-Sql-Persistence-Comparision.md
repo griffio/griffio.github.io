@@ -42,8 +42,9 @@ Choosing one library over another should consider some of the following question
 * Android only support where SqlLite expected
   * SqlDelight or Google's [Room](https://developer.android.com/reference/androidx/room/package-summary)
 * Library dependencies are compatible with your application transitive dependencies - Bill of Materials
-  * For example Json [Jackson](https://github.com/FasterXML/jackson) 
-* Libraries strongly typed Sql via Dsl - what is the fidelity required to your Sql dialect?
+  * For example, to support Json fields with [Jackson](https://github.com/FasterXML/jackson) 
+* Libraries that are strongly typed Sql via Dsl - what is the fidelity required to support your Sql dialect?
+  * Jooq's Dsl has high fidelity Sql support compared to the other Kotlin Sql Dsl
   * Look for support of Merge or Upsert statements, requirement for this should be identified early 
   * Does inserting records use `returning` to avoid reloading the new record to fetch the Identifier?
 * Are you likely to change database vendors and need Sql to be generated for different dialects?
@@ -105,6 +106,7 @@ Summary
 * No associations
 * No direct Merge or Upsert support
 * Returns id after insert
+
 ---
 
 **Ktorm** [kotlin-orm/ktorm: A lightweight Orm framework for Kotlin with strong-typed Sql Dsl and sequence Api.](https://github.com/kotlin-orm/ktorm)
