@@ -41,7 +41,7 @@ Choosing one library over another should consider some of the following question
   * [database first vs Jpa first](https://www.jpa-buddy.com/blog/db-first-vs-jpa-first/)
 * Require only Android support where SqlLite is expected
   * See SqlDelight or Google's [Room](https://developer.android.com/reference/androidx/room/package-summary)
-* Are the library dependencies are compatible with your applications transitive dependencies - Bill of Materials
+* Are the library dependencies compatible with your applications third-party transitive dependencies - Bill of Materials
   * For example, to support Json fields, [Jackson](https://github.com/FasterXML/jackson) is often used 
 * Libraries that are strongly typed Sql via Dsl - what is the fidelity required to support your Sql dialect?
   * Jooq's Dsl has high fidelity Sql support compared to the other Kotlin Dsl libraries
