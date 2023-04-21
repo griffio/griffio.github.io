@@ -13,7 +13,7 @@ The libraries that you will see are typically described as `Object Relational Ma
 
 Another approach is called `Active Record` where persistence is part of an Objects behaviour.
 
-A translation layer called an `Object Relational Mapper` is responsible to load and store your Application's Entity model as a representation of the relational schema.
+An `Object Relational Mapper` translation layer is responsible to load and store your Application's Entity model as a representation of the relational schema.
 There exists a so-called [impedance mismatch](https://agiledata.org/essays/impedanceMismatch.html) where, for example, Kotlin has Maps, Sets and Ordered/UnOrdered Collections
 but no concept of Tables, Columns and Rows. What can be surprising is that all the rows in the database could be pulled across to keep
 the semantics of, for example, a Set or ordered collection in the Application.
@@ -28,10 +28,11 @@ through declarative Annotations or Dsl - the Sql is generated at runtime from th
 
 A `Sql Row Mapper` focuses on making Sql persistence with the Rdbms Driver more ergonomic - Entity relationships (Foreign Key associations) are often 
 managed manually. Simplicity is often the primary motivation by using the Sql dialect directly. Duplication is favoured over abstraction.
+It's much easier to work around problems in legacy schema where you have complete control of the Sql.
 
 ---
 
-Typically, libraries use `Jdbc` or support async reactive (non blocking) drivers https://r2dbc.io/
+Typically, libraries use `Jdbc` or support async reactive (non-blocking) drivers [R2dbc](https://r2dbc.io/)
 
 Choosing one library over another should consider some of the following questions:
 
@@ -39,12 +40,12 @@ Choosing one library over another should consider some of the following question
   * Persistence by reachability reduces boilerplate code and duplication
   * [database first vs Jpa first](https://www.jpa-buddy.com/blog/db-first-vs-jpa-first/)
 * Android only support where SqlLite expected
-  * SqlDelight or Google's Room
+  * SqlDelight or Google's [Room](https://developer.android.com/reference/androidx/room/package-summary)
 * Library dependencies are compatible with your application transitive dependencies - Bill of Materials
   * For example Json [Jackson](https://github.com/FasterXML/jackson) 
 * Libraries strongly typed Sql via Dsl - what is the fidelity required to your Sql dialect?
   * Look for support of Merge or Upsert statements, requirement for this should be identified early 
-  * Does inserting records use `returning` to access the new record Identifier?
+  * Does inserting records use `returning` to avoid reloading the new record to fetch the Identifier?
 * Are you likely to change database vendors and need Sql to be generated for different dialects?
   * Changing database vendors is less common in practice and results in over abstracting/hiding of Sql when there is no need
 
@@ -71,7 +72,7 @@ Summary
 
 ---
 
-**Komapper** [komapper/komapper:- Kotlin Or, for Jdbc and R2dbc](https://github.com/komapper/komapper)
+**Komapper** [komapper/komapper: Kotlin Or, for Jdbc and R2dbc](https://github.com/komapper/komapper)
 
 Summary
 
@@ -87,7 +88,7 @@ Summary
 
 ---
 
-**Kotysa** [ufoss-org/kotysa:- The idiomatic way to write type-safe Sql in Kotlin](https://github.com/ufoss-org/kotysa/)
+**Kotysa** [ufoss-org/kotysa: The idiomatic way to write type-safe Sql in Kotlin](https://github.com/ufoss-org/kotysa/)
 
 Summary
 
@@ -109,7 +110,7 @@ Summary
 
 ---
 
-**SqlDelight** [cashapp/sqldelight:- Generates typesafe Kotlin APIs from Sql](https://github.com/cashapp/sqldelight)
+**SqlDelight** [cashapp/sqldelight: Generates typesafe Kotlin APIs from Sql](https://github.com/cashapp/sqldelight)
 
 Summary
 
