@@ -55,6 +55,9 @@ Choosing one library over another should consider some of the following question
 
 The following libraries are Kotlin centric even though they may use Java libraries like Jdbc, logging, Jackson
 
+Other Kotlin libraries not covered here but worth comparing are [Zeko-SQL-Builder](https://github.com/darkredz/Zeko-SQL-Builder) and
+[Zeko-Data-Mapper](https://github.com/darkredz/Zeko-Data-Mapper). These are in less active development.
+
 ---
 
 **Exposed** [JetBrains/Exposed: Kotlin Sql Framework](https://github.com/JetBrains/Exposed)
