@@ -9,7 +9,7 @@ description: kotlin sql persistence comparison of libraries
 
 *Database persistence using Sql from Kotlin*
 
-The libraries that you will see are typically described as `Object Relational Mapper` or as a `Sql Row Mapper`.
+The libraries that you will see are typically described as a light weight `Object Relational Mapper` or as a `Sql Row Mapper`.
 
 Another approach is called `Active Record` where persistence is part of an Objects behaviour.
 
