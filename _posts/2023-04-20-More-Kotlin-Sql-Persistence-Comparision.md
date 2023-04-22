@@ -58,7 +58,7 @@ Choosing one library over another should consider some of the following question
 
 The following libraries are Kotlin centric even though they may use Java libraries like Jdbc, logging, Jackson
 
-Other Kotlin libraries not covered here but worth comparing are [Zeko-SQL-Builder](https://github.com/darkredz/Zeko-SQL-Builder) and
+Other Kotlin libraries not covered here but worth comparing are [Zeko-Sql-Builder](https://github.com/darkredz/Zeko-SQL-Builder) and
 [Zeko-Data-Mapper](https://github.com/darkredz/Zeko-Data-Mapper). These are in less active development.
 
 ---
@@ -68,7 +68,7 @@ Other Kotlin libraries not covered here but worth comparing are [Zeko-SQL-Builde
 Summary
 
 * Exposed is a self-described light weight `Object Relational Mapper` library with Sql Dsl and Crud Dao Api
-* Postgres MySQL MariaDB SQLite H2 Oracle SQL Server
+* Postgres MySql MariaDB Sqlite H2 Oracle Sql Server
 * Jdbc only
 * No Annotations
 * No Code generation
@@ -85,7 +85,7 @@ Summary
 Summary
 
 * Komapper is an `Object Relational Mapper` library with Sql Dsl for JVM server side 
-* Postgres MySQL MariaDB H2 Oracle SQL Server
+* Postgres MySql MariaDB H2 Oracle Sql Server
 * Jdbc and R2dbc supported
 * Annotations
 * Code generation at compile-time
@@ -101,7 +101,7 @@ Summary
 Summary
 
 * Kotysa is a light `Object Relational Mapper` with type-safe Sql Dsl for Jvm and Android
-* Postgres MySQL MariaDB SQLite H2 Oracle SQL Server
+* Postgres MySql MariaDB Sqlite H2 Oracle Sql Server
 * Jdbc and R2dbc supported
 * No Annotations
 * No Code generation
@@ -115,7 +115,7 @@ Summary
 
 Summary
 * Ktorm is a lightweight Orm Framework for Kotlin directly based on pure Jdbc
-* Postgres MySQL SQLite Oracle SQL Server
+* Postgres MySql Sqlite Oracle Sql Server
 * Jdbc and R2dbc supported [ktorm-r2dbc](https://github.com/kotlin-orm/ktorm-r2dbc)
 * No third-party dependencies
 * No annotations
@@ -129,9 +129,9 @@ Summary
 **SqlDelight** [cashapp/sqldelight: Generates typesafe Kotlin APIs from Sql](https://github.com/cashapp/sqldelight)
 
 Summary
-* SQLDelight generates typesafe Kotlin APIs from your SQL statements
+* SqlDelight generates typesafe Kotlin APIs from your Sql statements
 * Check that all your Dml and Ddl are supported
-* SQLite (Postgres MySQL HSQL in development)
+* Sqlite (Postgres MySql HSql in development)
 * Jdbc and R2dbc supported
 * Schema first development from Sql statements
 * No annotations
@@ -155,7 +155,12 @@ I have intentionally left out traditional Java frameworks [Spring Data Jpa](http
 
 Summary
 
-Jdbc style `Sql Row Mapper`. It is more difficult to model Entity relationships here, so decide if `many-to-one` etc. are important associations you need.
+* Postgres MySql Sqlite Oracle Sql Server
+* Jdbc supported
+* Annotations supported
+* No Entity associations
+* Returns id after insert
+* Kotlin extensions
 
 ---
 
@@ -163,14 +168,25 @@ Jdbc style `Sql Row Mapper`. It is more difficult to model Entity relationships 
 
 Summary
 
-Type safe Sql access
-Code Generation
-Kotlin extensions
+* Derby, DuckDb, Firebird, HSqlDb, Ignite, MariaDb, MySql PostgreSql, SqLite, Trino, YugabyteDb plus many more commercial Dbs 
+* Code Generation
+* Jdbc supported
+* Annotations supported
+* Entity associations created adhoc
+* Upsert supported in Dialects
+* Returns id after insert
+* Kotlin extensions
 
 ---
 
 **MyBatis** [mybatis/mybatis-3: MyBatis Sql mapper framework for Java](https://github.com/mybatis/mybatis-3)
 
 Summary
+
+* Postgres MySql Sqlite Oracle Sql Server
+* Code Generation
+* Jdbc supported
+* Entity associations
+* Kotlin extensions
 
 ---
