@@ -63,7 +63,7 @@ Other Kotlin libraries not covered here but worth comparing are [Zeko-Sql-Builde
 
 ---
 
-**Exposed** [JetBrains/Exposed: Kotlin Sql Framework](https://github.com/JetBrains/Exposed)
+**Exposed** [Kotlin Sql Framework](https://github.com/JetBrains/Exposed)
 
 Summary
 
@@ -80,7 +80,7 @@ Summary
 
 ---
 
-**Komapper** [komapper/komapper: Kotlin Or, for Jdbc and R2dbc](https://github.com/komapper/komapper)
+**Komapper** [Kotlin Orm for Jdbc and R2dbc](https://github.com/komapper/komapper)
 
 Summary
 
@@ -96,7 +96,7 @@ Summary
 
 ---
 
-**Kotysa** [ufoss-org/kotysa: The idiomatic way to write type-safe Sql in Kotlin](https://github.com/ufoss-org/kotysa/)
+**Kotysa** [The idiomatic way to write type-safe Sql in Kotlin](https://github.com/ufoss-org/kotysa/)
 
 Summary
 
@@ -111,7 +111,7 @@ Summary
 
 ---
 
-**Ktorm** [kotlin-orm/ktorm: A lightweight Orm framework for Kotlin with strong-typed Sql Dsl and sequence Api.](https://github.com/kotlin-orm/ktorm)
+**Ktorm** [A lightweight Orm framework for Kotlin with strong-typed Sql Dsl and sequence Api.](https://github.com/kotlin-orm/ktorm)
 
 Summary
 * Ktorm is a lightweight Orm Framework for Kotlin directly based on pure Jdbc
@@ -126,7 +126,7 @@ Summary
 
 ---
 
-**SqlDelight** [cashapp/sqldelight: Generates typesafe Kotlin APIs from Sql](https://github.com/cashapp/sqldelight)
+**SqlDelight** [Generates typesafe Kotlin APIs from Sql](https://github.com/cashapp/sqldelight)
 
 Summary
 * SqlDelight generates typesafe Kotlin APIs from your Sql statements
@@ -151,7 +151,7 @@ I have intentionally left out traditional Java frameworks [Spring Data Jpa](http
 
 ---
 
-**Jdbi** [jdbi/jdbi: designed to provide convenient tabular data access in Java; including templated Sql, parameterized and strongly typed queries, and Streams integration](https://github.com/jdbi/jdbi)
+**Jdbi** [Designed to provide convenient tabular data access in Java; including templated Sql, parameterized and strongly typed queries, and Streams integration](https://github.com/jdbi/jdbi)
 
 Summary
 
@@ -164,7 +164,7 @@ Summary
 
 ---
 
-**JOOQ** [jOOQ/jOOQ: The best way to write Sql in Java](https://github.com/jOOQ/jOOQ)
+**JOOQ** [The best way to write Sql in Java](https://github.com/jOOQ/jOOQ)
 
 Summary
 
@@ -179,7 +179,7 @@ Summary
 
 ---
 
-**MyBatis** [mybatis/mybatis-3: MyBatis Sql mapper framework for Java](https://github.com/mybatis/mybatis-3)
+**MyBatis** [MyBatis Sql mapper framework for Java](https://github.com/mybatis/mybatis-3)
 
 Summary
 
