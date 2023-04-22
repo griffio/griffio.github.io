@@ -133,7 +133,6 @@ Summary
 * Check that all your Dml and Ddl are supported
 * SQLite (Postgres MySQL HSQL in development)
 * Jdbc and R2dbc supported
-* Android and standalone Kotlin persistence initially for SqlLite some alpha support for Postgres, MySql
 * Schema first development from Sql statements
 * No annotations
 * Kotlin code generation
