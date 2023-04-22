@@ -16,7 +16,7 @@ Another approach is called `Active Record` where persistence is part of an Objec
 An `Object Relational Mapper` translation layer is responsible to load and store your Application's Entity model as a representation of the relational schema.
 There exists a so-called [impedance mismatch](https://agiledata.org/essays/impedanceMismatch.html) where, for example, Kotlin has Maps, Sets and Ordered/UnOrdered Collections
 but no concept of Tables, Columns and Rows. What can be surprising is that all the rows in the database could be pulled across to keep
-the semantics of, for example, a Set or ordered collection in the Application.
+the semantics of, for example, a Set or ordered collection in the Application. How does a Relational Database handle Object Orientated Polymorphism?
 
 Persisting to the Rdbms involves traversing a given instance of an Entity model and detecting dirty objects that need inserting,
 updating in the correct order. The job of the `Orm` is to manage this entangled state back to coherence on the database side. 
@@ -51,6 +51,8 @@ Choosing one library over another should consider some of the following question
   * Changing database vendors is less common in practice and results in over abstracting/hiding of Sql when there is no need
 * Typically, libraries use `Jdbc` or support async reactive (non-blocking) drivers [R2dbc](https://r2dbc.io/)
   * If you want coroutine support see [jasync-sql](https://github.com/jasync-sql/jasync-sql) for a Kotlin async driver 
+
+---
 
 **Designed for Kotlin**
 
@@ -127,10 +129,18 @@ Summary
 **SqlDelight** [cashapp/sqldelight: Generates typesafe Kotlin APIs from Sql](https://github.com/cashapp/sqldelight)
 
 Summary
-
+* SQLDelight generates typesafe Kotlin APIs from your SQL statements
+* Check that all your Dml and Ddl are supported
+* SQLite (Postgres MySQL HSQL in development)
+* Jdbc and R2dbc supported
 * Android and standalone Kotlin persistence initially for SqlLite some alpha support for Postgres, MySql
-* Kotlin code generation, schema first development from Sql statements
-* Intentional that database column naming is used in Kotlin code 
+* Schema first development from Sql statements
+* No annotations
+* Kotlin code generation
+* Database column naming is replicated in Kotlin code
+* No Entity associations
+* Upsert supported in Dialects
+* Returns id after insert
 
 ---
 
