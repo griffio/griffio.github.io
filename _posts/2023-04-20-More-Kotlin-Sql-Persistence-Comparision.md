@@ -189,5 +189,5 @@ Summary
 * Jdbc supported
 * Annotations supported
 * Entity associations
-* Kotlin extensions
+* Kotlin mapper extensions
 
