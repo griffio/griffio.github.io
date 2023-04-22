@@ -179,14 +179,15 @@ Summary
 
 ---
 
-**MyBatis** [MyBatis Sql mapper framework for Java](https://github.com/mybatis/mybatis-3)
+**MyBatis** [Sql mapper framework for Java](https://github.com/mybatis/mybatis-3)
 
 Summary
 
 * Postgres MySql Sqlite Oracle Sql Server
-* Code Generation
+* Code Generation possible https://mybatis.org/generator/
+* Dynamic SQL
 * Jdbc supported
+* Annotations supported
 * Entity associations
 * Kotlin extensions
 
----
