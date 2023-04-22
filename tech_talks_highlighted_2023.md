@@ -10,3 +10,4 @@
 
 [CVE 101: The Unfolding Of A Zero Day Attack](https://www.youtube.com/watch?v=m_lc--KQ1ko) - Theresa Mammarella
 
+[Frameworks, the web, and the edge](https://www.youtube.com/watch?v=uXCipjbcQfM) - Rich Harris
