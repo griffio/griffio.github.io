@@ -176,7 +176,7 @@ Summary
 * Jdbc supported
 * Annotations supported
 * Entity associations created adhoc
-* Upsert supported in Dialects
+* Upsert supported by Sql dialect
 * Returns id after insert
 * Kotlin extensions
 
@@ -194,4 +194,5 @@ Summary
 * Jdbc supported
 * Annotations supported
 * Entity associations
+* Upsert supported by Sql dialect
 * Kotlin mapper extensions
