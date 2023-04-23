@@ -51,7 +51,7 @@ Choosing one library over another should consider some of the following question
   * Changing database vendors is less common in practice and results in over abstracting/hiding of Sql when there is no need
 * Typically, libraries use `Jdbc` or support async reactive (non-blocking) drivers [R2dbc](https://r2dbc.io/)
   * If you want coroutine support see [jasync-sql](https://github.com/jasync-sql/jasync-sql) for a Kotlin async driver 
-* Incremental database migrations support for schema changes
+* Can the library use ncremental database migrations support for schema changes?
   * [liquibase](https://www.liquibase.org/) or [flywaydb](https://flywaydb.org/)
   * Using R2dbc may require special support
 ---
