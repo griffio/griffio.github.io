@@ -186,11 +186,12 @@ Summary
 
 Summary
 
+* MyBatis eliminates most JDBC code and manual setting of parameters and retrieval of results
 * Postgres MySql Sqlite Oracle Sql Server
 * Code Generation [possible](https://mybatis.org/generator/)
+* Uses Xml
 * Dynamic SQL
 * Jdbc supported
 * Annotations supported
 * Entity associations
 * Kotlin mapper extensions
-
