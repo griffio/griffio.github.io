@@ -155,10 +155,12 @@ I have intentionally left out traditional Java frameworks [Spring Data Jpa](http
 
 Summary
 
+* Jdbi is built on top of Jdbc. If your database has a Jdbc driver, you can use Jdbi with it.
 * Postgres MySql Sqlite Oracle Sql Server
 * Jdbc supported
 * Annotations supported
 * No Entity associations
+* Upsert supported in Sql
 * Returns id after insert
 * Kotlin extensions
 
@@ -168,6 +170,7 @@ Summary
 
 Summary
 
+* jOOQ generates Java code from your database and lets you build type safe Sql queries through its fluent Api
 * Derby, DuckDb, Firebird, HSqlDb, Ignite, MariaDb, MySql PostgreSql, SqLite, Trino, YugabyteDb plus many more commercial Dbs 
 * Code Generation
 * Jdbc supported
