@@ -91,7 +91,7 @@ Summary
 * Code generation at compile-time
 * Kotlin Native not supported 
 * Supports many-to-one, many-to-many references
-* No direct Merge or Upsert support
+* Upsert support with Insert onDuplicateKeyUpdate
 * Returns id after insert
 
 ---
