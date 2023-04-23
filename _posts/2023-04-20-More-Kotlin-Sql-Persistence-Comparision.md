@@ -51,7 +51,9 @@ Choosing one library over another should consider some of the following question
   * Changing database vendors is less common in practice and results in over abstracting/hiding of Sql when there is no need
 * Typically, libraries use `Jdbc` or support async reactive (non-blocking) drivers [R2dbc](https://r2dbc.io/)
   * If you want coroutine support see [jasync-sql](https://github.com/jasync-sql/jasync-sql) for a Kotlin async driver 
-
+* Incremental database migrations support for schema changes
+  * [liquibase](https://www.liquibase.org/) or [flywaydb](https://flywaydb.org/)
+  * Using R2dbc may require special support
 ---
 
 **Designed for Kotlin**
@@ -77,6 +79,7 @@ Summary
 * Supports Lazy loading and eager loading
 * No direct Merge or Upsert support 
 * Returns id after insert
+* No internal support for schema migrations
 
 ---
 
@@ -93,6 +96,7 @@ Summary
 * Supports many-to-one, many-to-many references
 * Upsert support with Insert onDuplicateKeyUpdate
 * Returns id after insert
+* No internal support for schema migrations
 
 ---
 
@@ -108,6 +112,7 @@ Summary
 * No associations
 * No direct Merge or Upsert support
 * Returns id after insert
+* No internal support for schema migrations
 
 ---
 
@@ -123,6 +128,7 @@ Summary
 * Some associations with foreign key - possible to extend 
 * Upsert supported in Dialects
 * Returns id after insert
+* No internal support for schema migrations
 
 ---
 
@@ -140,6 +146,7 @@ Summary
 * No Entity associations
 * Upsert supported in Dialects
 * Returns id after insert
+* Support for schema migrations
 
 ---
 
@@ -163,6 +170,7 @@ Summary
 * Upsert supported in Sql
 * Returns id after insert
 * Kotlin extensions
+* Support for schema migrations
 
 ---
 
@@ -179,6 +187,7 @@ Summary
 * Upsert supported by Sql dialect
 * Returns id after insert
 * Kotlin extensions
+* Support for schema migrations
 
 ---
 
@@ -196,3 +205,4 @@ Summary
 * Entity associations
 * Upsert supported by Sql dialect
 * Kotlin mapper extensions
+* Support for schema migrations
