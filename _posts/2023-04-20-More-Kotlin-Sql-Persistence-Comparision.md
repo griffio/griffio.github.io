@@ -54,6 +54,7 @@ Choosing one library over another should consider some of the following question
 * Can the library use ncremental database migrations support for schema changes?
   * [liquibase](https://www.liquibase.org/) or [flywaydb](https://flywaydb.org/)
   * Using R2dbc may require special support
+  
 ---
 
 **Designed for Kotlin**
