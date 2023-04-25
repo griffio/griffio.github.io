@@ -11,7 +11,7 @@ description: kotlin sql persistence comparison of libraries
 
 The libraries that you will see are typically described as a light weight `Object Relational Mapper` or as a `Sql Row Mapper`.
 
-Another approach is called `Active Record` where persistence is part of an Objects behaviour.
+Another approach is called [Active Record](https://en.wikipedia.org/wiki/Active_record_pattern) where persistence operations are included in the Objects behaviour.
 
 An `Object Relational Mapper` translation layer is responsible to load and store your Application's Entity model as a representation of the relational schema.
 There exists a so-called [impedance mismatch](https://agiledata.org/essays/impedanceMismatch.html) where, for example, Kotlin has Maps, Sets and Ordered/UnOrdered Collections
@@ -51,7 +51,7 @@ Choosing one library over another should consider some of the following question
   * Changing database vendors is less common in practice and results in over abstracting/hiding of Sql when there is no need
 * Typically, libraries use `Jdbc` or support async reactive (non-blocking) drivers [R2dbc](https://r2dbc.io/)
   * If you want coroutine support see [jasync-sql](https://github.com/jasync-sql/jasync-sql) for a Kotlin async driver 
-* Can the library use ncremental database migrations support for schema changes?
+* Can the library use incremental database migrations support for schema changes?
   * [liquibase](https://www.liquibase.org/) or [flywaydb](https://flywaydb.org/)
   * Using R2dbc may require special support
   
@@ -141,6 +141,7 @@ Summary
 * Sqlite (Postgres MySql HSql in development)
 * Jdbc and R2dbc supported
 * Schema first development from Sql statements
+* Compile time checking of Sql
 * No annotations
 * Kotlin code generation
 * Database column naming is replicated in Kotlin code
