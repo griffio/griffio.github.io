@@ -13,3 +13,5 @@
 [Frameworks, the web, and the edge](https://www.youtube.com/watch?v=uXCipjbcQfM) - Rich Harris
 
 [Z Garbage Collector: The Next Generation](https://www.youtube.com/watch?v=OnodHoNYE1Y) - Paul Su
+
+[Pain-Free APIs with Smithy4S](https://www.youtube.com/watch?v=LvCDzDYfgsI) - Jakub Kozłowski
