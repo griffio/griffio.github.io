@@ -11,6 +11,15 @@ description: kotlin sql persistence comparison of libraries
 
 The libraries that you will see are typically described as a light weight `Object Relational Mapper` or as a `Sql Row Mapper`.
 
+* Exposed
+* Komapper
+* Kotysa
+* Ktorm
+* SqlDelight
+* Jdbi
+* JOOQ
+* MyBatis
+
 Another approach is called [Active Record](https://en.wikipedia.org/wiki/Active_record_pattern) where persistence operations are included in the Objects behaviour.
 
 An `Object Relational Mapper` translation layer is responsible to load and store your Application's Entity model as a representation of the relational schema.
