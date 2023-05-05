@@ -47,6 +47,9 @@ Choosing one library over another should consider some of the following question
   * Jooq's Dsl has high fidelity Sql support compared to the other Kotlin Dsl libraries
   * Look for support of Merge or Upsert statements, requirement for this should be identified early 
   * Does inserting records use `returning` to avoid reloading new records to fetch the Identifier?
+* Has support for safely creating dynamic Sql
+  * SqlInjection prevention
+  * Additional criteria e.g Where, Order By 
 * Are you likely to change database vendors and need Sql to be generated for different dialects?
   * Changing database vendors is less common in practice and results in over abstracting/hiding of Sql when there is no need
 * Typically, libraries use `Jdbc` or support async reactive (non-blocking) drivers [R2dbc](https://r2dbc.io/)
