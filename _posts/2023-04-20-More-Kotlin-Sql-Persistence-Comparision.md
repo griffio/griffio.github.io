@@ -9,7 +9,7 @@ description: kotlin sql persistence comparison of libraries
 
 *Database persistence using Sql from Kotlin*
 
-The libraries that you will see are typically described as a light weight `Object Relational Mapper` or as a `Sql Row Mapper`.
+The libraries listed below, you will see, are typically described as a light weight `Object Relational Mapper` or as a `Sql Row Mapper`.
 
 * Exposed
 * Komapper
@@ -59,6 +59,7 @@ Choosing one library over another should consider some of the following question
 * Has support for safely creating dynamic Sql
   * SqlInjection prevention
   * Additional criteria e.g Where, Order By 
+* Are you requiring mapping Json data types supported natively by the Database? 
 * Are you likely to change database vendors and need Sql to be generated for different dialects?
   * Changing database vendors is less common in practice and results in over abstracting/hiding of Sql when there is no need
 * Typically, libraries use `Jdbc` or support async reactive (non-blocking) drivers [R2dbc](https://r2dbc.io/)
