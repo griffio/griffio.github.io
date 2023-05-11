@@ -15,3 +15,5 @@
 [Z Garbage Collector: The Next Generation](https://www.youtube.com/watch?v=OnodHoNYE1Y) - Paul Su
 
 [Pain-Free APIs with Smithy4S](https://www.youtube.com/watch?v=LvCDzDYfgsI) - Jakub Kozłowski
+
+[Design in Practice](https://www.youtube.com/watch?v=fTtnx1AAJ-c) - Rich Hickey
