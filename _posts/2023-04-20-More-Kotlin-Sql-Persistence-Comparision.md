@@ -77,6 +77,8 @@ The following libraries are Kotlin centric even though they may use Java librari
 Other Kotlin libraries not covered here but worth comparing are [Zeko-Sql-Builder](https://github.com/darkredz/Zeko-SQL-Builder) and
 [Zeko-Data-Mapper](https://github.com/darkredz/Zeko-Data-Mapper). These are in less active development.
 
+A recent Kotlin jdbc wrapper to use is [lite-for-jdbc](https://github.com/target/lite-for-jdbc) for common database interactions. 
+
 ---
 
 **Exposed** [Kotlin Sql Framework](https://github.com/JetBrains/Exposed)
