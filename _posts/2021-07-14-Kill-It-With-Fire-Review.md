@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kill It With Fire Review"
+title: "Kill It With Fire Book Review (Marianne Bellotti)"
 category: engineering
 tags: review
 published: true
