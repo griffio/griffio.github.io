@@ -14,14 +14,6 @@
         {% endif %}
     </title>
 
-    <!-- CSS -->
-    <link rel="preload" href="/public/css/octicon.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="/public/css/poole.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="/public/css/hyde.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="/public/css/dataspec-flex.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="/public/css/podcasts-flex.css" as="style" onload="this.rel='stylesheet'">
-    <link rel="preload" href="/public/css/syntax.css" as="style" onload="this.rel='stylesheet'">
-	
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
     <link rel="preload"
@@ -32,10 +24,17 @@
       href="https://fonts.googleapis.com/css?family=Noto+Sans|Tauri"
       media="print" onload="this.media='all'" />	
 	
-    <link rel="stylesheet" href="">
+    <!-- CSS -->
+    <link rel="preload" href="/public/css/octicon.css" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" href="/public/css/poole.css" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" href="/public/css/hyde.css" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" href="/public/css/dataspec-flex.css" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" href="/public/css/podcasts-flex.css" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" href="/public/css/syntax.css" as="style" onload="this.rel='stylesheet'">
+	 
     <!-- Icons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
     <link rel="shortcut icon" href="/public/favicon.ico">
     {% include ga.html %}
-	{% seo %}
+    {% seo %}
 </head>
