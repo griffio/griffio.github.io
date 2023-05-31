@@ -6,9 +6,9 @@
     <div class="content container">
         {{ content }}
     </div>
-    <script src="/javascripts/scale.fix.js"></script>
+    <script src="/javascripts/scale.fix.js" defer></script>
     {% if page.runcode %}
-    <script src="https://unpkg.com/kotlin-playground@1" data-selector=".language-kotlin code"></script>
+    <script src="https://unpkg.com/kotlin-playground@1" data-selector=".language-kotlin code" defer></script>
     {% endif %}
 </body>
 </html>
