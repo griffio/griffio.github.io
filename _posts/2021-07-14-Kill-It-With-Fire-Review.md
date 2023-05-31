@@ -7,7 +7,7 @@ published: true
 description: Book review of Kill It With Fire by Marianne Bellotti
 ---
 
-<img alt="Kill It With Fire Cover" src="/public/kitwf.jpg" width="720" height="513">
+<img alt="Kill It With Fire Cover" src="/public/kitwf.jpg" width="770" height="618">
 
 [Kill It With Fire](https://nostarch.com/kill-it-fire)
 
