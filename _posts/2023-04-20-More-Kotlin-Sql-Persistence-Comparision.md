@@ -79,6 +79,8 @@ Other Kotlin libraries not covered here but worth comparing are [Zeko-Sql-Builde
 
 A recent Kotlin jdbc wrapper to use is [lite-for-jdbc](https://github.com/target/lite-for-jdbc) for common database interactions. 
 
+The Golang project https://github.com/kyleconroy/sqlc includes code generation from the schema for Kotlin jdbc clients. 
+
 ---
 
 **Exposed** [Kotlin Sql Framework](https://github.com/JetBrains/Exposed)
