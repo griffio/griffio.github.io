@@ -45,7 +45,7 @@ Create new opportunities when the profiles are too rigid.
 
 **Reach out** to people for interview who may not be initially confident or think they have enough relevent experience.
 
-Typically job descriptions get over stuffed and are more aspirational than realistic.
+Typically job descriptions get over stuffed and are more aspirational than realistic - worse contain nonsense word salads "agile squads of cross-functional teams".
 
 Don't include "fullstack ninja rock-star" style terminolgy. Check against [joblint](https://www.npmjs.com/package/joblint).
 
