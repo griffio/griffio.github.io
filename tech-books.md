@@ -43,7 +43,8 @@ title: "Software Development Books"
   - Development methodologies for the coming Open Source revolution    
 
 ### 2000s
-
+- [Patterns of Enterprise Application Architecture](https://martinfowler.com/books/eaa.html)
+  - Martin Fowler digests commerical OOP software patterns in Java and Csharp e.g Active Record that inspired Ruby on Rails
 - [Agile Software Development, Principles, Patterns, and Practices](https://openlibrary.org/books/OL9297484M/Agile_Software_Development_Principles_Patterns_and_Practices)
   - Awareness of best practices when using Class based OOP languages like Java
 - [Effective_Java](https://openlibrary.org/works/OL6223299W/Effective_Java)
