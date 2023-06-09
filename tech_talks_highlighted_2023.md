@@ -17,3 +17,6 @@
 [Pain-Free APIs with Smithy4S](https://www.youtube.com/watch?v=LvCDzDYfgsI) - Jakub Kozłowski
 
 [Design in Practice](https://www.youtube.com/watch?v=fTtnx1AAJ-c) - Rich Hickey
+
+[Stop Obsessing About Primitives](https://www.youtube.com/watch?v=hcx6DUjU24A) - Ted Young
+
