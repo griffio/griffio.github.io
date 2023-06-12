@@ -69,8 +69,6 @@ To improve better tech interviews - **we deserve better tech companies**.
 
 [what expect when you apply](https://www.linkedin.com/pulse/what-expect-when-you-apply-honeycomb-honeycomb-io/)
 
-[interview guide](https://gun.io/company-interview-guide/)
-
 [algorithms introduces bias](https://hbr.org/2019/05/all-the-ways-hiring-algorithms-can-introduce-bias)
 
 [clef interview process](https://github.com/clef/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
@@ -85,7 +83,7 @@ To improve better tech interviews - **we deserve better tech companies**.
 
 [stackoverflow 2016 survey](http://stackoverflow.com/research/developer-survey-2016#developer-profile-education)
 
-https://blog.alinelerner.com/ive-been-an-engineer-and-a-recruiter-hiring-is-broken-heres-why-and-heres-what-it-should-be-like-instead/
+[hiring is broken heres why and heres what it should be like instead](https://blog.alinelerner.com/ive-been-an-engineer-and-a-recruiter-hiring-is-broken-heres-why-and-heres-what-it-should-be-like-instead/)
 
 [1] Apply by API, [Plaid](https://plaid.com/careers/#careers-openings) receive job applications as calls to their careers endpoint 
 
