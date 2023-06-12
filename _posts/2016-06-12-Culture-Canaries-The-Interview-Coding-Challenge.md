@@ -19,7 +19,7 @@ Let us turn it around and look at "home-alone" code challenges as a cultural ind
 
 If the code challenge is just viewed as a CAPTURE[1], it's your job to prove you are more than just [dark matter](http://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx) of unknown provenance.
 
-[Some](https://triplebyte.com/manifesto) believe in a data driven process so that interviewees can be algorithmically processed.
+[Some](https://hired.com/employers) believe in a data driven process so that interviewees can be algorithmically processed.
 
 **Like a thundering herd**, eventually one will succeed and thus validate an arduous hiring process. See! Our process works. Only the strong survived.
 
@@ -43,11 +43,11 @@ Do the profiles of existing team members pass the interview process?
 
 Create new opportunities when the profiles are too rigid. 
 
-**Reach out** to people for interview who may not be initially confident or think they have enough relevent experience.
+**Reach out** to people for interview who may not be initially confident or think they have enough relevant experience.
 
-Typically job descriptions get over stuffed and are more aspirational than realistic - worse contain nonsense word salads "agile squads of cross-functional teams".
+Typically, job descriptions get over stuffed and are more aspirational than realistic - worse contain nonsense word salads "agile squads of cross-functional teams".
 
-Don't include "fullstack ninja rock-star" style terminolgy. Check against [joblint](https://www.npmjs.com/package/joblint).
+Don't include "fullstack ninja rock-star" style terminology where [language in your job post influences the gender of your hires](https://textio.com/blog/language-in-your-job-post-predicts-the-gender-of-your-hire/13034792944).
 
 State in the job description that for example, people with more than half of the requirements are welcome to apply.
 
@@ -57,37 +57,35 @@ Interviews are like an on-boarding process for employees who are in another time
 
 The **hot doughnuts light** for hiring should always be on. Companies can add all their job specs into GitHub, rather than the corporate careers portal, for a quick open source win. When someone who has enough interest stops by, interview them.
 
-[Blind hiring](https://www.compose.io/articles/how-compose-uses-interviewed-com-and-slack-to-automate-blind-hiring/) is also a problem if the company is also blind to what it is asking for; these are the things we know that **we don’t know** or what **we do not like to know**.
+[Blind hiring](https://resources.workable.com/tutorial/blind-hiring) is also a problem if the company is also blind to what it is asking for; these are the things we know that **we don’t know** or what **we do not like to know**.
 
 If companies treat people without empathy during recruitment what does it say about working there?
 
 Just like canaries exposed to harmful gases, the code challenge can provide a useful warning for interviewees to exit stage left immediately.
 
-We don’t need better tech interviews - **we deserve better tech companies**.
+To improve better tech interviews - **we deserve better tech companies**.
 
 ### Resources
 
-[clef interview process](https://github.com/clef/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
+https://www.linkedin.com/pulse/what-expect-when-you-apply-honeycomb-honeycomb-io/
 
-[npm recruiting process](https://github.com/npm/policies/blob/master/recruiting-process.md)
+https://gun.io/company-interview-guide/
+
+https://hbr.org/2019/05/all-the-ways-hiring-algorithms-can-introduce-bias
+
+[clef interview process](https://github.com/clef/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
 
 [finding an engineering job at slack](https://slack.engineering/a-walkthrough-guide-to-finding-an-engineering-job-at-slack-dc07dd7b0144)
 
-[interview at ride](https://github.com/ride/interview-prep)
-
 [hiring process at corgibytes](http://corgibytes.com/hiring-process/)
 
-[work can be happy](https://stories.workcanbehappy.com/)
-
 [what happens when you stop relying on resumes](http://blog.alinelerner.com/what-happens-when-you-stop-relying-on-resumes/)
-
-[automate blind hiring](https://www.compose.io/articles/how-compose-uses-interviewed-com-and-slack-to-automate-blind-hiring/)
-
-[triplebyte manifesto](https://triplebyte.com/manifesto)
 
 [dark matter developers the unseen 99](http://www.hanselman.com/blog/darkmatterdeveloperstheunseen99.aspx)
 
 [stackoverflow 2016 survey](http://stackoverflow.com/research/developer-survey-2016#developer-profile-education)
+
+https://blog.alinelerner.com/ive-been-an-engineer-and-a-recruiter-hiring-is-broken-heres-why-and-heres-what-it-should-be-like-instead/
 
 [1] Apply by API, [Plaid](https://plaid.com/careers/#careers-openings) receive job applications as calls to their careers endpoint 
 
