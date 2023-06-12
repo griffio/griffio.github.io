@@ -67,11 +67,11 @@ To improve better tech interviews - **we deserve better tech companies**.
 
 ### Resources
 
-https://www.linkedin.com/pulse/what-expect-when-you-apply-honeycomb-honeycomb-io/
+[what expect when you apply](https://www.linkedin.com/pulse/what-expect-when-you-apply-honeycomb-honeycomb-io/)
 
-https://gun.io/company-interview-guide/
+[interview guide](https://gun.io/company-interview-guide/)
 
-https://hbr.org/2019/05/all-the-ways-hiring-algorithms-can-introduce-bias
+[algorithms introduces bias](https://hbr.org/2019/05/all-the-ways-hiring-algorithms-can-introduce-bias)
 
 [clef interview process](https://github.com/clef/handbook/blob/master/Operations%20Documents/Interview%20Process.md)
 
