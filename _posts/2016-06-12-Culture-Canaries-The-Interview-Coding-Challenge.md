@@ -45,7 +45,7 @@ Create new opportunities when the profiles are too rigid.
 
 **Reach out** to people for interview who may not be initially confident or think they have enough relevant experience.
 
-Typically, job descriptions get over stuffed and are more aspirational than realistic - worse contain nonsense word salads "agile squads of cross-functional teams".
+Typically, job descriptions get over stuffed and are more aspirational than realistic - worse contain nonsense word salads "agile squads of cross-functional teams" and even create the opposite impression than intended - rigidity.
 
 Don't include "fullstack ninja rock-star" style terminology where [language in your job post influences the gender of your hires](https://textio.com/blog/language-in-your-job-post-predicts-the-gender-of-your-hire/13034792944).
 
