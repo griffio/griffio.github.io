@@ -11,7 +11,7 @@ summary: the interview coding challenge
 
 <cite>https://en.wiktionary.org/wiki/canary_in_a_coal_mine</cite>
 
-**Writing or talking** about code during the interview process, a step of the ["Joel Test"](http://www.joelonsoftware.com/articles/fog0000000043.html), is considered good practice. There are many descriptive accounts of job search ordeals involving some code assignment task to be completed under our own time and initiative.
+**Writing or talking** about [code](https://aphyr.com/posts/353-rewriting-the-technical-interview) during the interview process, a step of the ["Joel Test"](http://www.joelonsoftware.com/articles/fog0000000043.html), is considered good practice. There are many descriptive accounts of job search ordeals involving some code assignment task to be completed under our own time and initiative.
 
 Let us turn it around and look at "home-alone" code challenges as a cultural indicator for the companies internal organisation and preconceptions.
 
