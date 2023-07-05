@@ -20,3 +20,5 @@
 
 [Stop Obsessing About Primitives](https://www.youtube.com/watch?v=hcx6DUjU24A) - Ted Young
 
+[The Cost Of JavaScript - 2023](https://www.youtube.com/watch?v=ZKH3DLT4BKw) - Addy Osmani
+
