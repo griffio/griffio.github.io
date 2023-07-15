@@ -145,7 +145,7 @@ mixlr,http://tech.mixlr.com/,mixlr,http://tech.mixlr.com/jobs/,"c c++ css coffee
 modus,http://moduscreate.com/blog/,moduscreateorg,http://moduscreate.com/careers/,"javascript objective-c shell swift",true
 monetate,http://engineering.monetate.com/,monetate,http://www.monetate.com/about/careers,"c c++ go html java python scala shell",true
 mongodb,https://engineering.mongodb.com/,mongodb,https://www.mongodb.com/careers/positions?office=All%20Offices&department=Engineering,"c# c++ go java php python ruby scala",true
-monsanto,http://engineering.monsanto.com/,monsantoco,http://engineering.monsanto.com/contact/,"coffeescript html java javascript lua scala shell",true
+monsanto,http://engineering.monsanto.com/,monsantoco,http://engineering.monsanto.com/contact/,"coffeescript html java javascript lua scala shell",false
 moz,http://moz.com/devblog/,seomoz,https://moz.com/about/jobs,"c++ elixir java python ruby",true
 netflix,https://medium.com/netflix-techblog,netflix,https://jobs.netflix.com/category/4/jobs,"c go html java javascript scala",true
 netlify,http://purple.netlify.com/,netlify,https://www.netlify.com/careers/,"go html javascript ruby shell",true
@@ -246,7 +246,7 @@ usertesting,http://engineering.usertesting.com/,usertesting,https://careers.smar
 vena,https://engineering.vena.io/,venasolutions,http://vena.jazz.co/apply/,"java",true
 venmo,https://engineering.venmo.com/,venmo,https://venmo.com/jobs,"java javascript objective-c python ruby swift",true
 viki,http://engineering.viki.com/blog/,viki-org,https://www.viki.com/jobs,"c# go javascript objective-c python ruby",true
-vine,http://engineering.vine.co/,vine,https://vine.co/jobs,"c java objective-c python ruby",true
+vine,http://engineering.vine.co/,vine,https://vine.co/jobs,"c java objective-c python ruby",false
 vinted,http://engineering.vinted.com/,vinted,http://engineering.vinted.com/join/,"c java objective-c ruby",true
 voxer,http://engineering.voxer.com/,voxer,http://voxer.com/careers/,"c java javascript objective-c php ruby shell",true
 "walmart labs",https://medium.com/walmartglobaltech,walmartlabs,https://tech.walmart.com/content/walmart-global-tech/en_us/careers.html,"clojure javascript",true
@@ -263,7 +263,7 @@ wix,http://blog.wix.engineering/,wix,http://www.wix.com/jobs/home,"java javascri
 wolox,https://medium.com/@WoloxEngineering/,wolox,http://www.wolox.com.ar/#section-contact,"java javascript objective-c ruby shell swift",true
 xero,https://developer.xero.com/engineering-blog/,xeroapi,https://www.xero.com/uk/about/careers/,"c# coffeescript coldfusion java javascript php",true
 yahoo,https://yahooeng.tumblr.com/#_=_,yahoo,https://careers.yahoo.com/gb/,"c c++ html java javascript objective-c ruby scala",true
-yammer,http://eng.yammer.com/,yammer,https://careers.microsoft.com/yammer,"java javascript objective-c powershell python ruby",true
+yammer,http://eng.yammer.com/,yammer,https://careers.microsoft.com/yammer,"java javascript objective-c powershell python ruby",false
 yelp,http://engineeringblog.yelp.com/,yelp,https://www.yelp.com/careers,"c++ go java javascript python",true
 youtube,https://youtube-eng.googleblog.com/,youtube,https://www.youtube.com/yt/jobs/,"c++",true
 zalando,https://tech.zalando.de/blog,zalando,https://tech.zalando.de/jobs/tech/,"erlang go java javascript python scala",true
@@ -322,11 +322,11 @@ weebly,https://engineering.weebly.com/,weebly,https://careers.weebly.com/,"javas
 cars,https://tech.cars.com/,carsdotcom,https://www.cars.com/careers/,"arduino css go java javascript scala shell",true
 carwow,https://medium.com/carwow-product-engineering,carwow,https://www.carwow.co.uk/jobs,"javascript ruby shell",true
 hipages,https://medium.com/hipages-engineering,hipages,https://hipagesgroup.com.au/careers/,"javascript shell",true
-growella,https://engineering.growella.com/,growella,https://twitter.com/GrowellaEng,"javascript php shell",true
+growella,https://engineering.growella.com/,growella,https://twitter.com/GrowellaEng,"javascript php shell",false
 wantedly,https://gb.wantedly.com/feed/s/wantedly_engineers,wantedly,https://gb.wantedly.com/companies/wantedly/projects,"c++ go objective-c ruby swift",true
 capriza,https://medium.com/capriza-engineering,capriza,https://www.capriza.com/careers,"c++ javascript",true
-fromAtoB,https://eng.fromatob.com/,fromAtoB,https://fromatob.workable.com/,"html javascript ruby rust",true
-signavio,https://tech.signavio.com/,signavio,https://www.signavio.com/jobs/,"css java javascript",true
+fromAtoB,https://eng.fromatob.com/,fromAtoB,https://fromatob.workable.com/,"html javascript ruby rust",false
+signavio,https://tech.signavio.com/,signavio,https://www.signavio.com/jobs/,"css java javascript",false
 pusher,https://making.pusher.com/,pusher,https://pusher.com/jobs,"c c# go html java javascript php ruby swift",true
 channable,https://tech.channable.com/,channable,https://channable.com/company/jobs/,"javascript python scala",true
 solutotlv,https://blog.solutotlv.com/,soluto,https://www.solutotlv.com/join-soluto-engineering,"c# javascript objective-c perl ruby shell",true
@@ -340,7 +340,7 @@ patreon,https://patreonhq.com/tagged/patreon-engineering,patreon,https://www.pat
 flexport,https://flexport.engineering/,flexport,https://www.flexport.com/careers,"javascript ruby",true
 coinbase,https://engineering.coinbase.com/,coinbase,https://www.coinbase.com/careers,"ruby,javascript,php,java,objective-c",true
 algolia,https://stories.algolia.com/,algolia,https://www.algolia.com/careers,"css java javascript php ruby",true
-lovoo,https://tech.lovoo.com/,lovoo,https://inside.lovoo.com/jobs/,"go java kotlin objective-c php python",true
+lovoo,https://tech.lovoo.com/,lovoo,https://inside.lovoo.com/jobs/,"go java kotlin objective-c php python",false
 autotrader,http://engineering.autotrader.co.uk/,autotraderuk,https://careers.autotrader.co.uk/,"java javascript python ruby typescript",true
 snagajob,https://engineering.snagajob.com/,snagajob,http://www.snagajob.com/about/positions/35900,"c# coffeescript java python roff swift",true
 helpscout,https://engineering.helpscout.com/,helpscout,https://www.helpscout.net/company/careers/,"css javascript php ruby",true
