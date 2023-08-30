@@ -338,3 +338,4 @@ https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-tha
 
 https://thebluejester.medium.com/this-return-to-the-office-rhetoric-needs-to-end-f48580c78d05
 
+https://philsturgeon.com/remote-working-climate/
