@@ -22,3 +22,4 @@
 
 [The Cost Of JavaScript - 2023](https://www.youtube.com/watch?v=ZKH3DLT4BKw) - Addy Osmani
 
+[Making Hard Things Easy](https://www.youtube.com/watch?v=30YWsGDr8mA) - Julia Evans
