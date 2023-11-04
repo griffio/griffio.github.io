@@ -410,3 +410,4 @@ suspend fun main(): Unit = coroutineScope {
 
 ```
 
+See the repo for example [kotlin-coroutine-racing](https://github.com/griffio/kotlin-coroutine-racing)
