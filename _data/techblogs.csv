@@ -203,7 +203,7 @@ slack,https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fslack.engin
 songkick,http://devblog.songkick.com/,songkick,https://www.songkick.com/jobs#job-openings,"go groovy java javascript ruby",true
 soundcloud,https://developers.soundcloud.com/blog/,soundcloud,https://soundcloud.com/jobs,"cmake clojure go java javascript python ruby scala shell",true
 speedledger,http://engineering.speedledger.com/,speedledger,https://www.speedledger.se/jobb/,"java javascript scala",true
-spotify,https://labs.spotify.com/,spotify,https://twitter.com/spotifyjobs,"c++ go java javascript objective-c python raml scala shell",true
+spotify,https://engineering.atspotify.com/,spotify,https://engineering.atspotify.com/jobs/,"c++ go java javascript objective-c python raml scala shell",true
 spreedly,http://engineering.spreedly.com/,spreedly,https://spreedly.com/jobs,"css groff html perl ruby swift",true
 "square inc",https://corner.squareup.com/,square,https://squareup.com/careers,"java javascript kotlin objective-c shell swift",true
 squarespace,http://engineering.squarespace.com/,squarespace,https://www.squarespace.com/about/careers,"css clojure groff groovy java javascript python shell",true
