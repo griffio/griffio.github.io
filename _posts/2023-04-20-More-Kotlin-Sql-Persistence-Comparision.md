@@ -163,6 +163,7 @@ Summary
 * Kotlin code generation
 * Database column naming is replicated in Kotlin code
 * No Entity associations
+* No type safe use of dynamic Sql (e.g change orderBy, criteria)
 * Upsert supported in Dialects
 * Returns id after insert
 * Support for schema migrations
