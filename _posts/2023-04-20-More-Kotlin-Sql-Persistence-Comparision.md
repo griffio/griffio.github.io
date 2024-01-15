@@ -154,7 +154,7 @@ Summary
 
 Summary
 * SqlDelight generates typesafe Kotlin APIs from your Sql statements
-* Check that all your Dml and Ddl are supported
+* Limited support for vendor Sql - check that all your Dml and Ddl are supported
 * Sqlite (Postgres MySql HSql in development)
 * Jdbc and R2dbc supported
 * Schema first development from Sql statements
@@ -166,7 +166,7 @@ Summary
 * No type safe use of dynamic Sql (e.g change orderBy, criteria)
 * Upsert supported in Dialects
 * Returns id after insert
-* Support for schema migrations
+* Support for schema migrations - some Ddl not supported yet
 
 ---
 
