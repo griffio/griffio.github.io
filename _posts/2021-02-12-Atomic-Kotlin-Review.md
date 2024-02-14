@@ -19,9 +19,13 @@ Bruce Eckel (Thinking in Java)
 
 Svetlana Isakova (Kotlin in Action)
 
-**As a Lean Pub** released book the process doesn't allow for the creating of indices, however it is structured with a summary in the Table of Contents
+**As a Lean Pub** released book the process doesn't allow for the creating of indices, however it is structured with a summary in the Table of Contents.
 
-The booked is aimed at both novices and experienced programmers as Kotlin cherry-picks from newer languages and supports historical OOP features
+The booked is aimed at both novices and experienced programmers as Kotlin cherry-picks from newer languages and supports historical OOP features.
+
+The book breaks these topics down into seven sections ending with Kotlin's Power Tools.
+
+For developers already experienced with Java and its frameworks/libraries, who are looking to switch to Kotlin, this book may not provide the most direct answers.
 
 **Why Kotlin?**
 
