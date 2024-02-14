@@ -25,3 +25,5 @@
 [Making Hard Things Easy](https://www.youtube.com/watch?v=30YWsGDr8mA) - Julia Evans
 
 [The Magnitude 9.1 Meltdown at Fukushima - Monktoberfest 2023](https://www.youtube.com/watch?v=3mhLT3boo6A) - Nickolas Means
+
+[How Not to Build a Video Game](https://www.youtube.com/watch?v=m8SmXOTM8Ec) - Christoph Nakazawa
