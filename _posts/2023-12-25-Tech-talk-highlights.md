@@ -36,3 +36,5 @@ summary: highlighted tech talks 2023
 [The Magnitude 9.1 Meltdown at Fukushima - Monktoberfest 2023](https://www.youtube.com/watch?v=3mhLT3boo6A) - Nickolas Means
 
 [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ) - FasterThanLime
+
+[How Not to Build a Video Game](https://www.youtube.com/watch?v=m8SmXOTM8Ec) - Christoph Nakazawa
