@@ -103,4 +103,6 @@ title: "Software Development Books"
 - [Building Secure & Reliable Systems](https://www.oreilly.com/library/view/building-secure-and/9781492083115/)
   - Best Practices for Designing, Implementing and Maintaining Systems
 - [Code: The Hidden Language of Computer Hardware and Software, 2nd Edition](https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
-  - The classic guide to how computers work, updated with new chapters and interactive graphics 
+  - The classic guide to how computers work, updated with new chapters and interactive graphics
+- [Security Engineering — Third Edition](https://www.wiley.com/en-gb/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642817)
+  - Definitive guide to information systems security, see https://www.cl.cam.ac.uk/~rja14/book.html for lecture series
