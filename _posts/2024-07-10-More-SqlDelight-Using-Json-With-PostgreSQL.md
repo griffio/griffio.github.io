@@ -7,11 +7,13 @@ published: false
 summary: sqldelight postgresql json
 ---
 
+Support for JSON/JSOB data type in SqlDelight `2.1.0-SNAPSHOT`
+
 Repository
 
 https://github.com/griffio/sqldelight-postgres-json/blob/master/README.md
 
-Setup schema
+Schema
 
 ```sql
 CREATE TABLE Recipes (
@@ -22,13 +24,17 @@ CREATE TABLE Recipes (
 );
 ```
 
+See storage parameters https://www.postgresql.org/docs/16/sql-createindex.html#SQL-CREATEINDEX-STORAGE-PARAMETERS
+
 ```sql
 CREATE INDEX gin_recipe ON Recipes USING GIN (recipe);
 ```
 
 Queries
 
-```
+See operators https://www.postgresql.org/docs/current/functions-json.html
+
+```sql
 get:
 SELECT *
 FROM Recipes
