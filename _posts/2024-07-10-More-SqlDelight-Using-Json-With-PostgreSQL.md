@@ -103,7 +103,8 @@ val pizza = sample.recipeQueries.add(
 """.trimIndent()
 ).executeAsOne().also(::println)
 
-sample.recipeQueries.getRecipe("""{"recipe_name": "Basic Fruit Salad"}""").executeAsOne().also(::println)
+sample.recipeQueries.getRecipe("""{"recipe_name": "Basic Fruit Salad"}""")
+.executeAsOne().also(::println)
 
 sample.recipeQueries.contains("ingredients").executeAsList().also(::println)
 
