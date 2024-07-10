@@ -28,7 +28,8 @@ CREATE TABLE Recipes (
 );
 ```
 
-See storage parameters https://www.postgresql.org/docs/16/sql-createindex.html#SQL-CREATEINDEX-STORAGE-PARAMETERS
+See storage parameters [https://www.postgresql.org/docs/current/sql-createindex.html#SQL-CREATEINDEX-STORAGE-PARAMETERS
+](https://www.postgresql.org/docs/current/sql-createindex.html#SQL-CREATEINDEX-STORAGE-PARAMETERS)
 
 ```sql
 CREATE INDEX gin_recipe ON Recipes USING GIN (recipe);
@@ -36,7 +37,7 @@ CREATE INDEX gin_recipe ON Recipes USING GIN (recipe);
 
 **Queries**
 
-See operators https://www.postgresql.org/docs/current/functions-json.html
+See operators [https://www.postgresql.org/docs/current/functions-json.html](https://www.postgresql.org/docs/current/functions-json.html)
 
 ```sql
 get:
