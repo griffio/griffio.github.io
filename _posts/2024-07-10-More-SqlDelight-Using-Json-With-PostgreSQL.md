@@ -3,17 +3,19 @@ layout: post
 title: More SqlDelight using JSON with PostgreSQL
 category: blog
 tags: sqldelight postgresql 
-published: false
+published: true
 summary: sqldelight postgresql json
 ---
 
-Support for JSON/JSOB data type in SqlDelight `2.1.0-SNAPSHOT`
+## Latest support for JSON/JSOB data type in SqlDelight `2.1.0-SNAPSHOT`
 
-Repository
+### Example
+
+**Repository**
 
 https://github.com/griffio/sqldelight-postgres-json/blob/master/README.md
 
-Schema
+**Schema**
 
 ```sql
 CREATE TABLE Recipes (
@@ -30,7 +32,7 @@ See storage parameters https://www.postgresql.org/docs/16/sql-createindex.html#S
 CREATE INDEX gin_recipe ON Recipes USING GIN (recipe);
 ```
 
-Queries
+**Queries**
 
 See operators https://www.postgresql.org/docs/current/functions-json.html
 
@@ -67,4 +69,39 @@ UPDATE Recipes SET recipe = recipe #- ? WHERE id = ?;
 contains:
 SELECT *
 FROM Recipes WHERE recipe ?? ?; -- ? operator is escaped with extra ? in jdbc
+```
+
+**Application**
+
+```kotlin
+
+val pizza = sample.recipeQueries.add(
+  """
+  {
+    "recipe_name": "Give a slice of Pizza",
+    "ingredients": [
+      {
+        "pizza": {
+          "amounts": [
+            {
+              "amount": 1,
+              "unit": "slice"
+            }
+          ]
+        }
+      }
+    ],
+    "steps": [
+      {
+        "step": "Cut out an equal slice from the whole pizza."
+      }
+    ]
+  }
+""".trimIndent()
+).executeAsOne().also(::println)
+
+sample.recipeQueries.getRecipe("""{"recipe_name": "Basic Fruit Salad"}""").executeAsOne().also(::println)
+
+sample.recipeQueries.contains("ingredients").executeAsList().also(::println)
+
 ```
