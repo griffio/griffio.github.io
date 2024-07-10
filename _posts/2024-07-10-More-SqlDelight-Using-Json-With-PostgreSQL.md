@@ -13,6 +13,8 @@ summary: sqldelight postgresql json
 
 ### Example
 
+Store and retrieve complex JSON objects in your database.
+
 **Repository**
 
 [https://github.com/griffio/sqldelight-postgres-json/blob/master/README.md](https://github.com/griffio/sqldelight-postgres-json/blob/master/README.md)
@@ -28,6 +30,8 @@ CREATE TABLE Recipes (
 );
 ```
 
+GIN (Generalized Inverted Index) indexes are specifically designed for searching within JSONB data. SqlDelight allows you to create GIN indexes on your JSONB columns, dramatically improving query performance.
+
 See storage parameters [https://www.postgresql.org/docs/current/sql-createindex.html#SQL-CREATEINDEX-STORAGE-PARAMETERS
 ](https://www.postgresql.org/docs/current/sql-createindex.html#SQL-CREATEINDEX-STORAGE-PARAMETERS)
 
@@ -38,6 +42,32 @@ CREATE INDEX gin_recipe ON Recipes USING GIN (recipe);
 **Queries**
 
 See operators [https://www.postgresql.org/docs/current/functions-json.html](https://www.postgresql.org/docs/current/functions-json.html)
+
+```
+jsonb @> jsonb → boolean
+
+jsonb <@ jsonb → boolean
+
+jsonb ? text → boolean
+
+jsonb ?| text[] → boolean
+
+jsonb ?& text[] → boolean
+
+jsonb || jsonb → jsonb
+
+jsonb - text → jsonb
+
+jsonb - text[] → jsonb
+
+jsonb - integer → jsonb
+
+jsonb #- text[] → jsonb
+
+jsonb @? jsonpath → boolean
+
+jsonb @@ jsonpath → boolean
+```
 
 ```sql
 get:
