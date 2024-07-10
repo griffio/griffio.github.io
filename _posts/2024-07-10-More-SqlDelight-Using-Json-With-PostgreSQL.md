@@ -13,7 +13,7 @@ summary: sqldelight postgresql json
 
 **Repository**
 
-(https://github.com/griffio/sqldelight-postgres-json/blob/master/README.md)
+[https://github.com/griffio/sqldelight-postgres-json/blob/master/README.md](https://github.com/griffio/sqldelight-postgres-json/blob/master/README.md)
 
 **Schema**
 
