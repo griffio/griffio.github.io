@@ -13,7 +13,7 @@ summary: sqldelight postgresql json
 
 ### Example
 
-Store and retrieve complex JSON objects in your database.
+Store and retrieve complex JSON/JSONB objects in your database.
 
 **Repository**
 
@@ -42,6 +42,8 @@ CREATE INDEX gin_recipe ON Recipes USING GIN (recipe);
 **Queries**
 
 See operators [https://www.postgresql.org/docs/current/functions-json.html](https://www.postgresql.org/docs/current/functions-json.html)
+
+JSONB
 
 ```
 jsonb @> jsonb → boolean
