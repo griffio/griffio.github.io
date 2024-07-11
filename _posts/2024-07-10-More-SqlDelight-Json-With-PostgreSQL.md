@@ -28,7 +28,7 @@ CREATE TABLE Recipes (
 );
 ```
 
-GIN (Generalized Inverted Index) indexes are specifically designed for searching within JSONB data. SqlDelight allows you to create GIN indexes on your JSONB columns, dramatically improving query performance.
+>GIN (Generalized Inverted Index) indexes are specifically designed for searching within JSONB data. SqlDelight allows you to create GIN indexes on your JSONB >columns, dramatically improving query performance.
 
 See storage parameters [https://www.postgresql.org/docs/current/sql-createindex.html#SQL-CREATEINDEX-STORAGE-PARAMETERS
 ](https://www.postgresql.org/docs/current/sql-createindex.html#SQL-CREATEINDEX-STORAGE-PARAMETERS)
