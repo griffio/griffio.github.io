@@ -37,9 +37,10 @@ ALTER TABLE pgweb
 ADD COLUMN textsearchable_index_col TSVECTOR
 GENERATED ALWAYS AS (to_tsvector('english', coalesce(title, '') || ' ' || coalesce(body, ''))) STORED;
 ```
+
 Create a GIN index to speed up the search
 
-The [pgtrgm](https://www.postgresql.org/docs/current/pgtrgm.html) module provides GiST and GIN index operator classes that allow you to create an index over a text column for the purpose of very fast similarity searches
+>The [pgtrgm](https://www.postgresql.org/docs/current/pgtrgm.html) module provides GiST and GIN index operator classes that allow you to create an index over a text column for the purpose of very fast similarity searches
 
 ```sql
 CREATE INDEX pgweb_idx ON pgweb USING GIN (to_tsvector('english', title || ' ' || body));
