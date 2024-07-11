@@ -7,11 +7,9 @@ published: true
 summary: sqldelight postgresql json
 ---
 
-[SqlDelight](https://cashapp.github.io/sqldelight/2.0.2/)
+Support for JSON/JSOB data type in [SqlDelight](https://cashapp.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
 
-## Latest support for JSON/JSOB data type in SqlDelight `2.1.0-SNAPSHOT`
-
-### Example
+#### Example
 
 Store and retrieve complex JSON/JSONB objects in your database.
 
