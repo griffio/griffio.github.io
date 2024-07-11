@@ -108,34 +108,35 @@ FROM Recipes WHERE recipe ?? ?; -- ? operator is escaped with extra ? in jdbc
 
 ```kotlin
 
-val pizza = sample.recipeQueries.add(
-  """
-  {
-    "recipe_name": "Give a slice of Pizza",
-    "ingredients": [
-      {
-        "pizza": {
-          "amounts": [
-            {
-              "amount": 1,
-              "unit": "slice"
-            }
-          ]
+  val pizza = sample.recipeQueries.add(
+    """
+    {
+      "recipe_name": "Give a slice of Pizza",
+      "ingredients": [
+        {
+          "pizza": {
+            "amounts": [
+              {
+                "amount": 1,
+                "unit": "slice"
+              }
+            ]
+          }
         }
-      }
-    ],
-    "steps": [
-      {
-        "step": "Cut out an equal slice from the whole pizza."
-      }
-    ]
-  }
-""".trimIndent()
-).executeAsOne().also(::println)
+      ],
+      "steps": [
+        {
+          "step": "Cut out an equal slice from the whole pizza."
+        }
+      ]
+    }
+  """.trimIndent())
+  .executeAsOne().also(::println)
 
-sample.recipeQueries.getRecipe("""{"recipe_name": "Basic Fruit Salad"}""")
-.executeAsOne().also(::println)
+  sample.recipeQueries.getRecipe("""{"recipe_name": "Basic Fruit Salad"}""")
+  .executeAsOne().also(::println)
 
-sample.recipeQueries.contains("ingredients").executeAsList().also(::println)
+  sample.recipeQueries.contains("ingredients")
+  .executeAsList().also(::println)
 
 ```
