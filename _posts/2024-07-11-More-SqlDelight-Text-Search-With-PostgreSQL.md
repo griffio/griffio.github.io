@@ -19,6 +19,64 @@ Add Full Text Search to your database.
 
 **Schema**
 
+```sql
+CREATE EXTENSION IF NOT EXISTS pg_trgm;
+```
+
+```sql
+CREATE TABLE PgWeb (
+id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+title TEXT,
+body TEXT,
+last_mod_date TIMESTAMPTZ
+);
+```
+
+```sql
+ALTER TABLE pgweb
+ADD COLUMN textsearchable_index_col TSVECTOR
+GENERATED ALWAYS AS (to_tsvector('english', coalesce(title, '') || ' ' || coalesce(body, ''))) STORED;
+```
+Create a GIN index to speed up the search
+
+The [pgtrgm](https://www.postgresql.org/docs/current/pgtrgm.html) module provides GiST and GIN index operator classes that allow you to create an index over a text column for the purpose of very fast similarity searches
+
+```sql
+CREATE INDEX pgweb_idx ON pgweb USING GIN (to_tsvector('english', title || ' ' || body));
+CREATE INDEX textsearch_idx ON pgweb USING GIN (textsearchable_index_col);
+CREATE INDEX pgweb_body_trgm ON pgweb USING GIST (body gist_trgm_ops(siglen=16));
+```
+
 **Queries**
+
+```sql
+bodySearchable:
+SELECT title
+FROM pgweb
+WHERE to_tsvector('english', body) @@ to_tsquery('english', ?)
+ORDER BY last_mod_date DESC
+LIMIT 10;
+
+titleBodySearchable:
+SELECT title
+FROM pgweb
+WHERE to_tsvector(title || ' ' || body) @@ to_tsquery(?)
+ORDER BY last_mod_date DESC
+LIMIT 10;
+
+textSearchable:
+SELECT title
+FROM pgweb
+WHERE textsearchable_index_col @@ to_tsquery(?)
+ORDER BY last_mod_date DESC
+LIMIT 10;
+
+regexSearch:
+SELECT title
+FROM pgweb
+WHERE body LIKE '%' || ? || '%'
+ORDER BY last_mod_date DESC
+LIMIT 10;
+```
 
 **Application**
