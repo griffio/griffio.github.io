@@ -80,3 +80,17 @@ LIMIT 10;
 ```
 
 **Application**
+
+```kotlin
+    sample.pgWebQueries.bodySearchable("neutrino & sun")
+        .executeAsList().also(::println)
+
+    sample.pgWebQueries.titleBodySearchable("neutrino | sun")
+        .executeAsList().also(::println)
+
+    sample.pgWebQueries.textSearchable("neutrino | gravity")
+        .executeAsList().also(::println)
+
+    sample.pgWebQueries.regexSearch("atomic")
+        .executeAsList().also(::println)
+```
