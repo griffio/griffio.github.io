@@ -7,7 +7,7 @@ published: true
 summary: sqldelight postgresql text search
 ---
 
-Support for `TSVECTOR` data type in [SqlDelight](https://cashapp.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
+Support for [TSVECTOR](https://www.postgresql.org/docs/current/datatype-textsearch.html) data type in [SqlDelight](https://cashapp.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
 
 #### Example
 
