@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More SqlDelight using JSON with PostgreSQL
+title: More SqlDelight (JSON with PostgreSQL)
 category: blog
 tags: sqldelight postgresql 
 published: true
