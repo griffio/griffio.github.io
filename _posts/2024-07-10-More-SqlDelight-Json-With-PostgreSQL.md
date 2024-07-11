@@ -11,7 +11,7 @@ Support for JSON/JSOB data type in [SqlDelight](https://cashapp.github.io/sqldel
 
 #### Example
 
-Store and retrieve complex JSON/JSONB objects in your database.
+Store and retrieve JSON/JSONB objects in your database.
 
 **Repository**
 
