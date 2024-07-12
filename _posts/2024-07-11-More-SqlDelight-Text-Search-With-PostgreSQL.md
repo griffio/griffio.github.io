@@ -32,7 +32,7 @@ last_mod_date TIMESTAMPTZ
 );
 ```
 
-To keep this column automatically up to date with its source data, use a stored generated column. This example is a concatenation of title and body, using coalesce to ensure that one field will still be indexed when the other is NULL - https://www.postgresql.org/docs/16/textsearch-tables.html#TEXTSEARCH-TABLES-INDEX
+Add a stored generated column to automatically update from the source data. This example is a concatenation of title and body, using coalesce to ensure that one field will still be indexed when the other is NULL - [textsearch-tables](https://www.postgresql.org/docs/16/textsearch-tables.html#TEXTSEARCH-TABLES-INDEX)
 
 ```sql
 ALTER TABLE pgweb
