@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More SqlDelight (Text Search with PostgreSQL)
+title: More SqlDelight (Text Search with PostgreSql)
 category: blog
 tags: sqldelight postgresql 
 published: true
