@@ -11,7 +11,7 @@ Supported PostgreSql regex in [SqlDelight](https://cashapp.github.io/sqldelight/
 
 **Regex**
 
-[Matching, Containing and Path Operators](https://www.postgresql.org/docs/current/functions-matching.html#FUNCTIONS-MATCHING)
+[Matching](https://www.postgresql.org/docs/current/functions-matching.html#FUNCTIONS-MATCHING)
 
 **Schema**
 
@@ -36,6 +36,8 @@ SELECT t
 FROM regexops
 WHERE t ~ ?;
 ```
+
+**Additional**
 
 `~~` is equivalent to LIKE, and `~~*` corresponds to ILIKE. There are also `!~~` and `!~~*`
 operators that represent NOT LIKE and NOT ILIKE
