@@ -11,6 +11,8 @@ Supported PostgreSql regex in [SqlDelight](https://cashapp.github.io/sqldelight/
 
 **Regex**
 
+POSIX regular expressions provide a more powerful means for pattern matching than the `LIKE` and `SIMILAR TO` operators.
+
 [Matching](https://www.postgresql.org/docs/current/functions-matching.html#FUNCTIONS-POSIX-REGEXP)
 
 **Schema**
@@ -45,3 +47,5 @@ WHERE t ~ ?;
 
 `~~` is equivalent to LIKE, and `~~*` corresponds to ILIKE. There are also `!~~` and `!~~*`
 operators that represent NOT LIKE and NOT ILIKE
+
+>`GiST` and `GIN` index operator classes that allow you to create an index over a text column for the purpose of very fast similarity searches. These index types support similarity operators, and additionally support trigram-based index searches for LIKE, ILIKE, ~, ~*
