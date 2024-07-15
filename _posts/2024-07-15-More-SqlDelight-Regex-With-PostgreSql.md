@@ -11,7 +11,7 @@ Supported PostgreSql regex in [SqlDelight](https://cashapp.github.io/sqldelight/
 
 **Regex**
 
-[Matching](https://www.postgresql.org/docs/current/functions-matching.html#FUNCTIONS-MATCHING)
+[Matching](https://www.postgresql.org/docs/current/functions-matching.html#FUNCTIONS-POSIX-REGEXP)
 
 **Schema**
 
