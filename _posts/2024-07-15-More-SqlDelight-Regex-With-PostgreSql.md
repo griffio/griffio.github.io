@@ -13,40 +13,28 @@ Supported PostgreSql regex in [SqlDelight](https://cashapp.github.io/sqldelight/
 
 [Matching, Containing and Path Operators](https://www.postgresql.org/docs/current/functions-matching.html#FUNCTIONS-MATCHING)
 
+**Schema**
+
+```sql
+CREATE TABLE regexops(
+  t TEXT NOT NULL
+);
+```
+
 ```sql
 
-selectJsonObjectOperators:
-SELECT data ->> 'a', datab -> 'b', data #> '{aa}',
-    datab #>> '{bb}', datab - 'b'
-FROM TestJson;
+matchRegExOps:
+SELECT 
+ t ~ ?,
+ t ~* ?, 
+ t !~ ?,
+ t !~* ?
+FROM regexops;
 
-selectJsonArrayIndexOperators:
-SELECT data -> 0, data ->> 1, data ->> 2, datab - 1
-FROM TestJson;
-
-selectJsonBooleanOperators:
-SELECT datab @> datac, datac <@ datab, datab ?? 'b',
-    datab ??| datad, datab ??& datad, datab @@ '$.b[*] > 0'
-FROM TestJson;
-
-selectJsonConcatOperators:
-SELECT datab || datac
-FROM TestJson;
-
-selectJsonbPath:
-SELECT *
-FROM TestJson
-WHERE datab @> ?;
-
-selectJsonPathEquals:
-SELECT *
-FROM TestJson
-WHERE data ->> 'a' = ? AND datab ->> 'b' = ?;
-
-selectJsonbContains:
-SELECT *
-FROM TestJson
-WHERE datab ?? ?;
+matchRegExWhere:
+SELECT t
+FROM regexops
+WHERE t ~ ?;
 ```
 
 `~~` is equivalent to LIKE, and `~~*` corresponds to ILIKE. There are also `!~~` and `!~~*`
