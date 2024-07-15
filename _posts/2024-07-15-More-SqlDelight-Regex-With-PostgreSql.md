@@ -49,3 +49,9 @@ WHERE t ~ ?;
 operators that represent NOT LIKE and NOT ILIKE
 
 >`GiST` and `GIN` index operator classes that allow you to create an index over a text column for the purpose of very fast similarity searches. These index types support similarity operators, and additionally support trigram-based index searches for LIKE, ILIKE, ~, ~*
+
+```sql
+CREATE EXTENSION pg_trgm;
+
+CREATE INDEX trgm_idx ON regexops USING GIST (t gist_trgm_ops);
+```
