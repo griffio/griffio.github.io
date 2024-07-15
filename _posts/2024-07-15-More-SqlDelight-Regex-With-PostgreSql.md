@@ -3,7 +3,7 @@ layout: post
 title: More SqlDelight (Regex with PostgreSql)
 category: blog
 tags: [sqldelight postgresql] 
-published: false
+published: true
 summary: sqldelight postgresql regex
 ---
 
