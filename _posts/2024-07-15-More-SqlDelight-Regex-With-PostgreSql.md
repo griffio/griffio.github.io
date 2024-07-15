@@ -11,12 +11,13 @@ Supported PostgreSql regex in [SqlDelight](https://cashapp.github.io/sqldelight/
 
 **Regex**
 
-[Matching Operators](https://www.postgresql.org/docs/current/functions-matching.html#FUNCTIONS-MATCHING)
+[Matching, Containing and Path Operators](https://www.postgresql.org/docs/current/functions-matching.html#FUNCTIONS-MATCHING)
 
 ```sql
 
 selectJsonObjectOperators:
-SELECT data ->> 'a', datab -> 'b', data #> '{aa}', datab #>> '{bb}', datab - 'b'
+SELECT data ->> 'a', datab -> 'b', data #> '{aa}',
+    datab #>> '{bb}', datab - 'b'
 FROM TestJson;
 
 selectJsonArrayIndexOperators:
@@ -24,16 +25,12 @@ SELECT data -> 0, data ->> 1, data ->> 2, datab - 1
 FROM TestJson;
 
 selectJsonBooleanOperators:
-SELECTdatab @> datac, datac <@ datab, datab ?? 'b',
- datab ??| datad, datab ??& datad, datab @@ '$.b[*] > 0'
+SELECT datab @> datac, datac <@ datab, datab ?? 'b',
+    datab ??| datad, datab ??& datad, datab @@ '$.b[*] > 0'
 FROM TestJson;
 
 selectJsonConcatOperators:
 SELECT datab || datac
-FROM TestJson;
-
-selectJsonPretty:
-SELECT jsonb_pretty(datab)
 FROM TestJson;
 
 selectJsonbPath:
