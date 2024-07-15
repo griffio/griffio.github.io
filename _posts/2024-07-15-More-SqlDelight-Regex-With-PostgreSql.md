@@ -21,6 +21,10 @@ CREATE TABLE regexops(
 );
 ```
 
+**Queries**
+
+`?` is bind argument of type String
+
 ```sql
 
 matchRegExOps:
