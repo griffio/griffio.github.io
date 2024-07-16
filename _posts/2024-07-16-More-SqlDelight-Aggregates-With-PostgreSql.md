@@ -7,16 +7,14 @@ published: true
 summary: sqldelight postgresql aggregates
 ---
 
-**Aggregate Expressions**
- 
-[Aggregate Expressions](https://www.postgresql.org/docs/current/sql-expressions.html#SYNTAX-AGGREGATES) in [SqlDelight](https://cashapp.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
-
-Support for functions `array_agg_stmt` and `string_agg_stmt`
+Support [Aggregate Expressions](https://www.postgresql.org/docs/current/sql-expressions.html#SYNTAX-AGGREGATES) in [SqlDelight](https://cashapp.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
 
 Using an aggregate function reduces multiple inputs to a single output value, such as the sum or average of the inputs.
 An aggregate expression represents the use of an aggregate function across the rows selected by a query.
 
 **Example**
+
+Return rows containing aggregate column produced by functions `array_agg_stmt` and `string_agg_stmt`
 
 [https://github.com/griffio/sqldelight-postgres-aggregate-expressions](https://github.com/griffio/sqldelight-postgres-aggregate-expressions)
 
