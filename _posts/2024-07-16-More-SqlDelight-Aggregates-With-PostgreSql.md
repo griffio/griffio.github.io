@@ -14,7 +14,7 @@ An aggregate expression represents the use of an aggregate function across the r
 
 **Example**
 
-Return rows containing aggregate column produced by functions `array_agg_stmt` and `string_agg_stmt`
+Return rows containing aggregate `tags` column produced by functions `array_agg` and `string_agg`
 
 [https://github.com/griffio/sqldelight-postgres-aggregate-expressions](https://github.com/griffio/sqldelight-postgres-aggregate-expressions)
 
@@ -51,16 +51,55 @@ CREATE TABLE Tags (
 ```sql
 getArticlesWithAuthor:
 SELECT Articles.id, Articles.slug, Articles.title, Articles.description,
-COALESCE (string_agg (DISTINCT Tags.tag, ',' ORDER BY Tags.tag DESC)
-FILTER (WHERE Tags.tag IS NOT NULL)) AS articleTags
+    COALESCE (string_agg (DISTINCT Tags.tag, ',' ORDER BY Tags.tag DESC)
+    FILTER (WHERE Tags.tag IS NOT NULL)) AS articleTags
 FROM Articles
-LEFT JOIN Tags ON Articles.id = Tags.article_id
-JOIN Authors ON Articles.author_id = Authors.id
+    LEFT JOIN Tags ON Articles.id = Tags.article_id
+    JOIN Authors ON Articles.author_id = Authors.id
 GROUP BY Articles.id, Authors.id;
+
+getArticles:
+SELECT
+    Articles.id,
+    Articles.slug,
+    Articles.title,
+    Articles.description,
+    array_agg(DISTINCT Tags.tag) AS tags
+FROM
+    Articles
+    LEFT JOIN Tags ON Articles.id = Tags.article_id
+GROUP BY
+    Articles.id;
 ```
 
 **Application**
 
 ```
     sample.articlesQueries.getArticlesWithAuthor().executeAsList()
+    sample.articlesQueries.getArticles().executeAsList()
+```
+
+The tags are aggregated by a delimiter into the `articleTags` property 
+
+```kotlin
+
+public data class GetArticlesWithAuthor(
+  public val id: Int,
+  public val slug: String?,
+  public val title: String?,
+  public val description: String?,
+  public val articleTags: String,
+)
+```
+
+The tags are aggregated by an array into the `tags` property
+
+```kotlin
+public data class GetArticles(
+  public val id: Int,
+  public val slug: String?,
+  public val title: String?,
+  public val description: String?,
+  public val tags: Array<String?>,
+)
 ```
