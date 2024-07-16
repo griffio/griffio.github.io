@@ -11,9 +11,8 @@ Supported PostgreSql regex in [SqlDelight](https://cashapp.github.io/sqldelight/
 
 **Regex**
 
-POSIX regular expressions provide a more powerful means for pattern matching than the `LIKE` and `SIMILAR TO` operators.
-
-[Matching](https://www.postgresql.org/docs/current/functions-matching.html#FUNCTIONS-POSIX-REGEXP)
+[POSIX regular expressions](https://www.postgresql.org/docs/current/functions-matching.html#FUNCTIONS-POSIX-REGEXP)
+ provide a more powerful means for pattern matching than the `LIKE` and `SIMILAR TO` operators.
 
 **Schema**
 
