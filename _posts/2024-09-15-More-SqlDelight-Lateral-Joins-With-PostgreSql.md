@@ -11,7 +11,7 @@ Initial Support [Lateral Joins](https://www.postgresql.org/docs/current/queries-
 
 **Not supported**: Lateral joins on table expressions e.g json, arrays, sets, generate_series
 
-Sub SELECT queries appearing after the FROM clause can be preceded by the key word LATERAL. This allows them to reference columns provided by the preceding FROM tables.
+Sub SELECT queries appearing after the FROM clause can be preceded by the key word LATERAL. This allows sub queries to reference columns provided by the preceding FROM tables.
 (Without LATERAL, each subquery is evaluated independently and so cannot cross-reference any other FROM table column.)
 
 **Example**
