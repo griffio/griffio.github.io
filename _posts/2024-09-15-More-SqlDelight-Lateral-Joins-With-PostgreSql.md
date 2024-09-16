@@ -14,6 +14,8 @@ Initial Support [Lateral Joins](https://www.postgresql.org/docs/current/queries-
 Sub SELECT queries appearing after the FROM clause can be preceded by the key word LATERAL. This allows sub queries to reference columns provided by the preceding FROM tables.
 (Without LATERAL, each subquery is evaluated independently and so cannot cross-reference any other FROM table column.)
 
+Lateral joins are particularly useful for operations that need to be performed on a per-row basis from the left table, especially when involving limits or aggregations.
+
 **Example**
 
 With lateral joins, the calculations can be defined just once. The lateral join can then reference those calculations in other parts of the query.
