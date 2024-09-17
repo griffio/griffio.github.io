@@ -45,8 +45,8 @@ WHERE t ~ ?;
 **Application**
 
 ```kotlin
-  sample.regexQueries.matchRegExOps("^a", "B.*ma", "a.c", "t.*m").executeAsList() // Booleans
-  sample.regexQueries.matchRegExWhere("te.*ing").executeAsList() // String
+sample.regexQueries.matchRegExOps("^a", "B.*ma", "a.c", "t.*m").executeAsList()// Bools
+sample.regexQueries.matchRegExWhere("te.*ing").executeAsList()// String
 ```
 **Additional**
 
