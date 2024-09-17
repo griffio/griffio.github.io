@@ -42,6 +42,12 @@ FROM regexops
 WHERE t ~ ?;
 ```
 
+**Application**
+
+```kotlin
+  sample.regexQueries.matchRegExWhere("te.*ing").executeAsList() // String
+  sample.regexQueries.matchRegExOps("^a", "B.*ma", "a.c", "t.*m").executeAsList() // Booleans
+```
 **Additional**
 
 `~~` is equivalent to LIKE, and `~~*` corresponds to ILIKE. There are also `!~~` and `!~~*`
