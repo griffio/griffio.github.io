@@ -7,3 +7,5 @@
 [Future Possibilities: Data, Hardware, Software, and People](https://www.youtube.com/watch?v=si9iqF5uTFk) - Grace Hopper
 
 [Beyond The Success Of Kotlin / The Documentary](https://www.youtube.com/watch?v=E8CtE7qTb-Q) - EngX
+
+[Making a Terminal Emulator Really, Really Fast: Ghostty](https://www.youtube.com/watch?v=cPaGkEesw20&t=3015s) - Mitchell Hashimoto
