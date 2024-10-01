@@ -9,3 +9,5 @@
 [Beyond The Success Of Kotlin / The Documentary](https://www.youtube.com/watch?v=E8CtE7qTb-Q) - EngX
 
 [Making a Terminal Emulator Really, Really Fast: Ghostty](https://www.youtube.com/watch?v=cPaGkEesw20&t=3015s) - Mitchell Hashimoto
+
+[Jepsen 15: What Even Are Transactions?](https://www.youtube.com/watch?v=ecZp6cWhDjg) - Kyle Kingsbury
