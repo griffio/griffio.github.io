@@ -7,7 +7,7 @@ published: true
 summary: sqldelight postgresql lateral joins 
 ---
 
-Initial Support [Lateral Joins](https://www.postgresql.org/docs/current/queries-table-expressions.html#QUERIES-LATERAL) in [SqlDelight](https://cashapp.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
+Initial Support [Lateral Joins](https://www.postgresql.org/docs/current/queries-table-expressions.html#QUERIES-LATERAL) in [SqlDelight](https://sqldelight.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
 
 **Not supported in SqlDelight**: Lateral joins on table expressions e.g json, arrays, sets, generate_series
 

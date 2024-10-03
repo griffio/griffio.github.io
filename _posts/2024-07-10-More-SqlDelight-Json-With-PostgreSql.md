@@ -7,7 +7,7 @@ published: true
 summary: sqldelight postgresql json
 ---
 
-Support for [JSON/JSOB](https://www.postgresql.org/docs/current/datatype-json.html) data type in [SqlDelight](https://cashapp.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
+Support for [JSON/JSOB](https://www.postgresql.org/docs/current/datatype-json.html) data type in [SqlDelight](https://sqldelight.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
 
 **Example**
 

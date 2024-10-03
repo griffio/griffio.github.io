@@ -7,7 +7,7 @@ published: true
 summary: sqldelight postgresql regex
 ---
 
-Supported PostgreSql regex in [SqlDelight](https://cashapp.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
+Supported PostgreSql regex in [SqlDelight](https://sqldelight.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
 
 **Regex**
 
