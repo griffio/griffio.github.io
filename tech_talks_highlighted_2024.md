@@ -11,3 +11,5 @@
 [Making a Terminal Emulator Really, Really Fast: Ghostty](https://www.youtube.com/watch?v=cPaGkEesw20&t=3015s) - Mitchell Hashimoto
 
 [Jepsen 15: What Even Are Transactions?](https://www.youtube.com/watch?v=ecZp6cWhDjg) - Kyle Kingsbury
+
+[Bet Against SQL: Queries as Code](https://www.youtube.com/watch?v=dS9jtih4dI4) - James Cowling & Sujay Jayakar
