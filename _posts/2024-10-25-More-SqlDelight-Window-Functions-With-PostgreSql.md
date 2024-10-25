@@ -7,7 +7,7 @@ published: true
 summary: sqldelight postgresql window functions 
 ---
 
-Initial Support for  [Window Function Calls](https://www.postgresql.org/docs/current/sql-expressions.html#SYNTAX-WINDOW-FUNCTIONS) in [SqlDelight](https://sqldelight.github.io/sqldelight/2.0.2/) `2.1.0-SNAPSHOT`
+Initial Support for  [Window Function Calls](https://www.postgresql.org/docs/current/sql-expressions.html#SYNTAX-WINDOW-FUNCTIONS) in [SqlDelight](https://github.com/sqldelight/sqldelight/pull/5163) `2.1.0-SNAPSHOT`
 
 **Not currently supported in SqlDelight grammar is WINDOW clause**
 ```sql
