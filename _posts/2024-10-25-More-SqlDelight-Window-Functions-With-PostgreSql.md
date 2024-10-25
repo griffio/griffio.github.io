@@ -48,18 +48,20 @@ SELECT
   PERCENT_RANK() OVER (ORDER BY points DESC) percent_rank
 FROM scores;
 
+selectAvgByPartition:
 SELECT
   name,
-  avg(points) OVER (
+  AVG(points) OVER (
     PARTITION BY name
     ORDER BY points
     ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW
   ) AS moving_avg
 FROM scores;
 
+selectSumByPartition:
 SELECT
   name,
-  sum(points) OVER (
+  SUM(points) OVER (
     PARTITION BY name
     ORDER BY points
     RANGE BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW
