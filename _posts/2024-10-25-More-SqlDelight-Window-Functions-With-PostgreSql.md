@@ -24,6 +24,14 @@ However, window functions do not cause rows to become grouped into a single outp
 non-window aggregate calls would. Instead, the window function is able to access more than just the
 current row of the query result and how it relates in aggregate to the other rows (e.g. rank, row number)
 
+**Schema**
+```sql
+CREATE TABLE scores (
+  name TEXT NOT NULL,
+  points INTEGER NOT NULL
+);
+```
+
 **Queries**
 
 ```sql
