@@ -18,7 +18,7 @@ WINDOW w AS (PARTITION BY c1 ORDER BY c2);
 
 **Example**
 
-A window function performs a calculation across a set of table rows.
+A [window function](https://www.postgresql.org/docs/current/functions-window.html#FUNCTIONS-WINDOW) performs a calculation across a set of table rows.
 This is comparable to the type of calculation that can be done with an aggregate function.
 However, window functions do not cause rows to become grouped into a single output row like
 non-window aggregate calls would. Instead, the window function is able to access more than just the
