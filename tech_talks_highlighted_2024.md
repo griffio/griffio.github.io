@@ -14,4 +14,4 @@
 
 [Bet Against SQL: Queries as Code](https://www.youtube.com/watch?v=dS9jtih4dI4) - James Cowling & Sujay Jayakar
 
-["Clojure in live sports television"](https://www.youtube.com/watch?v=kIhY4VDa820) - Christoph Neumann
+[Clojure in live sports television](https://www.youtube.com/watch?v=kIhY4VDa820) - Christoph Neumann
