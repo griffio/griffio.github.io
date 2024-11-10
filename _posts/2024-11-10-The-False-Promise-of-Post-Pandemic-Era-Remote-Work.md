@@ -44,7 +44,8 @@ If we're truly meant to work in offices, why are they so consistently poorly des
 - Lighting and acoustics that hinder rather than help
 - Desktop setups inferior to many home offices
 
-This infrastructure failure suggests that even before the pandemic, we weren't really thinking critically about how to optimize work environments. [PeopleWare is over thirty years old](https://www.oreilly.com/library/view/peopleware-productive-projects/9780133440706/)
+This infrastructure failure suggests that even before the pandemic, we weren't really thinking critically about how to optimize work environments - [PeopleWare is over thirty years old](https://www.oreilly.com/library/view/peopleware-productive-projects/9780133440706/)
+>“As long as workers are crowded into noisy, sterile, disruptive space, it’s not worth improving anything but the workplace.” - Excerpt From: Tom DeMarco. Peopleware: Productive Projects and Teams, Third Edition
 
 ## Remote Work: A Skill, Not a Location
 
