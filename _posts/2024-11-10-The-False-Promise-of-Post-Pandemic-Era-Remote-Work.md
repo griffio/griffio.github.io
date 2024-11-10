@@ -7,7 +7,7 @@ published: false
 summary: False Promise of Post Pandemic-Era Remote Work
 ---
 
-**AI Disclaimer - generated using prompts to Claude**
+**AI Disclaimer - generated using prompts to Claude for structure**
 
 # The False Promise of Post Pandemic-Era Remote Work
 
@@ -44,7 +44,7 @@ If we're truly meant to work in offices, why are they so consistently poorly des
 - Lighting and acoustics that hinder rather than help
 - Desktop setups inferior to many home offices
 
-This infrastructure failure suggests that even before the pandemic, we weren't really thinking critically about how to optimize work environments.
+This infrastructure failure suggests that even before the pandemic, we weren't really thinking critically about how to optimize work environments. [PeopleWare is over thirty years old](https://www.oreilly.com/library/view/peopleware-productive-projects/9780133440706/)
 
 ## Remote Work: A Skill, Not a Location
 
