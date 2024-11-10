@@ -7,7 +7,7 @@ published: false
 summary: False Promise of Post Pandemic-Era Remote Work
 ---
 
-**AI Disclaimer - generated with help from Claude**
+**AI Disclaimer - generated using prompts to Claude**
 
 # The False Promise of Post Pandemic-Era Remote Work
 
@@ -18,7 +18,7 @@ The narrative around remote work has become muddled since the pandemic, with a p
 There's a strange attempt to frame office attendance as a moral imperative. This argument falls apart when you consider:
 - Office work is not manufacturing or essential services
 - The same executives demanding returns are happy to outsource actual production to exploitative conditions
-- The laptop you're mandated to bring to the office was likely assembled in conditions we'd never accept for ourselves
+- The battery components in your EV or laptop was sourced in conditions we'd never accept for ourselves
 - The moral argument conveniently ignores the environmental impact of commuting
 
 This selective morality reveals that return-to-office mandates are less about ethics and more about control and real estate investments.
