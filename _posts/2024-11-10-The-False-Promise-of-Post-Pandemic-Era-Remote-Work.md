@@ -29,7 +29,7 @@ The push for office returns represents a form of race-to-bottom thinking:
 - Companies compete to show who can be "most present"
 - Workers are pressured to demonstrate commitment through attendance rather than output
 - Real innovation in work practices is sacrificed for performative collaboration
-- Other people tolorate worse and longer commutes
+- Other people tolerate worse and longer commutes
 
 ## The Failure Default
 
