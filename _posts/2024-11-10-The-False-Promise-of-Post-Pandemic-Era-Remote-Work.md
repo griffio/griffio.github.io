@@ -55,7 +55,7 @@ Effective remote work requires specific skills that many organizations haven't i
 - Self-direction and time management
 - Digital collaboration fluency
 - Boundary setting and work-life integration
-- Calling out when in person communication is the most effective
+- Calling out opportunties where in person communication is the most effective
 
 The rush back to offices often masks a failure to develop these crucial capabilities.
 
@@ -76,7 +76,7 @@ Progress requires moving beyond simplistic office-versus-remote debates to focus
 - Implementing systems that support both synchronous and asynchronous collaboration
 - Async working is neither underrated or overrated it allows us to be precisley somewhere else
 - Acknowledging that some work isn't bound to location
-- It's not a zero sum game - for periods of a working life-span, people need the commute/work office location
+- It's not a zero sum game
 
 The moral panic about office returns reveals more about organizational failures than worker productivity. True innovation in work practices requires honest examination of our assumptions and biases about where and how work happens best.
 
