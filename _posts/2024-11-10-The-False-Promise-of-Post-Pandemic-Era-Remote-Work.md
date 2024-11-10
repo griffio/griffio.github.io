@@ -18,7 +18,7 @@ The narrative around remote work has become muddled since the pandemic, with a p
 There's a strange attempt to frame office attendance as a moral imperative. This argument falls apart when you consider:
 - Office work is not manufacturing or essential services
 - The same executives demanding returns are happy to outsource actual production to exploitative conditions
-- The battery components in your EV or laptop was sourced in conditions we'd never accept for ourselves
+- The battery components in your EV or laptop are sourced in conditions we'd never accept for ourselves
 - The moral argument conveniently ignores the environmental impact of commuting
 
 This selective morality reveals that return-to-office mandates are less about ethics and more about control and real estate investments.
@@ -29,7 +29,6 @@ The push for office returns represents a form of race-to-bottom thinking:
 - Companies compete to show who can be "most present"
 - Workers are pressured to demonstrate commitment through attendance rather than output
 - Real innovation in work practices is sacrificed for performative collaboration
-- The same organizations demanding returns often rely on global supply chains with questionable labor practices
 
 ## The Failure Default
 
@@ -62,7 +61,7 @@ The rush back to offices often masks a failure to develop these crucial capabili
 
 The pandemic exposed how much of office culture was about presenteeism rather than productivity. Many organizations simply moved this dysfunction online, resulting in:
 - Constant Slack availability requirements
-- Back-to-back Zoom meetings
+- Ridgid ceremonial meetings
 - Always-online status pressure
 - Exhausting digital performance metrics
 
