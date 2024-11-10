@@ -73,7 +73,7 @@ Progress requires moving beyond simplistic office-versus-remote debates to focus
 - Creating purpose-built spaces for different types of work
 - Implementing systems that support both synchronous and asynchronous collaboration
 - Acknowledging that some work isn't bound to location
-- It's not a zero sum game - some people need to or like the commute/work office location
+- It's not a zero sum game - for periods of a working life-span, people need the commute/work office location
 
 The moral panic about office returns reveals more about organizational failures than worker productivity. True innovation in work practices requires honest examination of our assumptions and biases about where and how work happens best.
 
