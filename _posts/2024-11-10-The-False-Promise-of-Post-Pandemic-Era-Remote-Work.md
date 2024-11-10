@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remote First Culture
+title: False Promise of Post Pandemic Remote Work
 category: remote
 tags: remote
 published: true
@@ -9,7 +9,7 @@ summary: False Promise of Post Pandemic-Era Remote Work
 
 **AI Disclaimer - generated using prompts to Claude for structure**
 
-# The False Promise of Post Pandemic-Era Remote Work
+# The False Promise of Post Pandemic Remote Work
 
 The narrative around remote work has become muddled since the pandemic, with a peculiar moral panic about returning to offices that ignores both reality and hypocrisy.
 
