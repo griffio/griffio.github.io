@@ -81,3 +81,7 @@ Progress requires moving beyond simplistic office-versus-remote debates to focus
 The moral panic about office returns reveals more about organizational failures than worker productivity. True innovation in work practices requires honest examination of our assumptions and biases about where and how work happens best.
 
 **Environment Drives Culture - Culture Drives Brand**.
+
+Previously noted since 2015
+[Remote-First-Culture](https://griffio.github.io/remote/2016/02/03/Remote-First-Culture/)
+[Remote-First](https://griffio.github.io/remote/2015/06/12/Remote-First/)
