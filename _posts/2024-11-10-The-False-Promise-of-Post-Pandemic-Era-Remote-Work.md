@@ -77,6 +77,7 @@ Progress requires moving beyond simplistic office-versus-remote debates to focus
 - Async working is neither underrated or overrated it allows us to be precisley somewhere else
 - Acknowledging that some work isn't bound to location
 - It's not a zero sum game
+- Kick starting a race to the top where good practices are copied
 
 The moral panic about office returns reveals more about organizational failures than worker productivity. True innovation in work practices requires honest examination of our assumptions and biases about where and how work happens best.
 
