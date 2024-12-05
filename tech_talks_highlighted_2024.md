@@ -15,3 +15,5 @@
 [Bet Against SQL: Queries as Code](https://www.youtube.com/watch?v=dS9jtih4dI4) - James Cowling & Sujay Jayakar
 
 [Clojure in live sports television](https://www.youtube.com/watch?v=kIhY4VDa820) - Christoph Neumann
+
+[The Return of Procedural Programming](https://www.youtube.com/watch?v=vQPHtAxOZZw) - Richard Feldman
