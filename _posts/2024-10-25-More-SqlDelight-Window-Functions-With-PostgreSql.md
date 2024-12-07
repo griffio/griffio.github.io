@@ -24,7 +24,7 @@ However, window functions do not cause rows to become grouped into a single outp
 non-window aggregate calls would. Instead, the window function is able to access more than just the
 current row of the query result and how it relates in aggregate to the other rows (e.g. rank, row number)
 
-[https://github.com/griffio/sqldelight-postgres-window-functions](https://github.com/griffio/sqldelight-postgres-window-function)
+[https://github.com/griffio/sqldelight-postgres-window-functions](https://github.com/griffio/sqldelight-postgres-window-functions)
 
 **Schema**
 ```sql
@@ -70,7 +70,4 @@ SELECT
     EXCLUDE CURRENT ROW 
   ) AS running_total
 FROM scores;
-
 ```
-
-
