@@ -17,3 +17,5 @@
 [Clojure in live sports television](https://www.youtube.com/watch?v=kIhY4VDa820) - Christoph Neumann
 
 [The Return of Procedural Programming](https://www.youtube.com/watch?v=vQPHtAxOZZw) - Richard Feldman
+
+[Revamping and Extending Kotlin's Type System](https://www.youtube.com/watch?v=3uNpmhHwkuQ) - Ross Tate
