@@ -19,3 +19,5 @@
 [The Return of Procedural Programming](https://www.youtube.com/watch?v=vQPHtAxOZZw) - Richard Feldman
 
 [Revamping and Extending Kotlin's Type System](https://www.youtube.com/watch?v=3uNpmhHwkuQ) - Ross Tate
+
+[Translating Java to Kotlin at Scale](https://www.youtube.com/watch?v=zfnOjAYdWrc) - Eve Matthaey
