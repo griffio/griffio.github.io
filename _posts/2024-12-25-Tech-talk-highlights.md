@@ -3,7 +3,7 @@ layout: post
 title: Tech talk highlights 2024
 category: blog
 tags: techtalks 
-published: true
+published: false
 summary: highlighted tech talks 2024
 ---
 
