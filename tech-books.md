@@ -13,6 +13,8 @@ title: "Software Development Books"
 ### 1970s
 - [Algorithms + Data Structures = Programs](https://openlibrary.org/books/OL5191055M/Algorithms_data_structures_programs)
   - Pascal
+- [Design and Analysis of Computer Algorithms](https://openlibrary.org/books/OL5044127M/The_design_and_analysis_of_computer_algorithms)
+  - More Pascal 
 
 ### 1980s
 
