@@ -42,7 +42,7 @@ Look in our `gradle/build-conventions` directory, where we define our shared bui
 1. **Modularity**: Each exercise project remains self-contained
 2. **Consistency**: Build conventions ensure uniform configuration across exercises
 3. **Maintainability**: Changes to build logic happen in one place
-4. **Flexibility**: Easy to override conventions when needed
+4. **Flexibility**: Easy to override conventions at use-site with additional plugins
 
 ## Example Structure
 
