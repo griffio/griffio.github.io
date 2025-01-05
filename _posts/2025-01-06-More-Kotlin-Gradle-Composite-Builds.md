@@ -19,14 +19,10 @@ see official documentation
 
 Let's explore a practical example of how to structure coding exercise projects without the need for an explicit top-level build file.
 
-see repo for working example
-
-* [https://github.com/griffio/exercises_build_convention]()
-
 ## The Power of Convention Plugins
 
-In our example repository, we're using a convention-first approach for managing multiple coding exercise projects.
-Instead of maintaining a monolithic build file, each exercise stands independently with its own build configuration, while sharing common build logic through convention plugins.
+In our example [repository](https://github.com/griffio/exercises_build_convention), we're using a convention-first approach for managing multiple coding exercise projects.
+Instead of maintaining a monolithic top-down build file, each exercise stands independently with its own build configuration, while sharing common build logic through convention plugins.
 
 ## How It Works
 
