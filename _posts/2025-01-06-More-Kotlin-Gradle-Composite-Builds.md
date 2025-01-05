@@ -32,7 +32,7 @@ Instead of maintaining a monolithic build file, each exercise stands independent
 
 Look in our `gradle/build-conventions` directory, where we define our shared build logic. The key convention plugin `griffio.exercise-conventions.gradle.kts` provides:
 
-- JDK 17 toolchain configuration
+- JDK toolchain configuration
 - Standardized source directory layout
 - Common Kotlin/Java compilation settings
 - Unified application setup
