@@ -11,13 +11,17 @@ summary: gradle composite builds
 
 Gradle composite builds offer a powerful way to organize and modularize your build logic 
 
-see documentation
+see official documentation
 
 * [Composite builds](https://docs.gradle.org/current/userguide/composite_builds.html)
 
 * [Sample sharing convention plugins with build logic](https://docs.gradle.org/current/samples/sample_sharing_convention_plugins_with_build_logic.html)
 
 Let's explore a practical example of how to structure coding exercise projects without the need for an explicit top-level build file.
+
+Repo
+
+* [https://github.com/griffio/exercises_build_convention]()
 
 ## The Power of Convention Plugins
 
