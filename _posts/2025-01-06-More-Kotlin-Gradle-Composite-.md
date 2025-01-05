@@ -19,7 +19,7 @@ see official documentation
 
 Let's explore a practical example of how to structure coding exercise projects without the need for an explicit top-level build file.
 
-Repo
+see repo for working example
 
 * [https://github.com/griffio/exercises_build_convention]()
 
@@ -69,5 +69,6 @@ Each exercise simply needs to apply the convention:
 ```kotlin
 plugins {
     id("griffio.exercise-conventions")
+    id("griffio.something-custom")
 }
 ```
