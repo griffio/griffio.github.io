@@ -25,13 +25,14 @@ In our example [repository](https://github.com/griffio/exercises_build_conventio
 Instead of maintaining a monolithic top-down build file, each exercise stands independently with its own build configuration, while sharing common build logic through convention plugins.
 
 ## How It Works
-
 Look in our `gradle/build-conventions` directory, where we define our shared build logic. The key convention plugin `griffio.exercise-conventions.gradle.kts` provides:
 
 - JDK toolchain configuration
 - Standardized source directory layout
 - Common Kotlin/Java compilation settings
 - Unified application setup
+
+To support writing Kotlin convention plugins, `kotlin-dsl` uses an embedded Kotlin version for plugin backwards compatibility
 
 ## Benefits of This Approach
 
