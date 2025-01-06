@@ -22,7 +22,7 @@ Let's explore a practical example of how to structure coding exercise projects w
 ## The Power of Convention Plugins
 
 In our example [repository](https://github.com/griffio/exercises_build_convention), we're using a convention-first approach for managing multiple coding exercise projects.
-Instead of maintaining a monolithic top-down build file, each exercise stands independently with its own build configuration, while sharing common build logic through convention plugins.
+Instead of maintaining a monolithic top-down build file, each exercise stands independently with its own build configuration, while sharing common build logic through convention plugins, where different exercises may need extra dependencies e.g for Json
 
 ## How It Works
 Look in our `gradle/build-conventions` directory, where we define our shared build logic. The key convention plugin `griffio.exercise-conventions.gradle.kts` provides:
