@@ -3,13 +3,13 @@ layout: post
 title: More Kotlin (Gradle Composite Builds)
 category: blog
 tags: kotlin gradle 
-published: false
+published: true
 summary: gradle composite builds
 ---
 
 # Simplifying Exercise Projects with Gradle Composite Builds
 
-Gradle composite builds offer a powerful way to organize and modularize your build logic 
+Gradle composite builds are a good starting place to organize and modularize your build logic 
 
 see official documentation
 
