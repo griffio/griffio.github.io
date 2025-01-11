@@ -30,3 +30,5 @@ summary: highlighted tech talks 2024
 [Revamping and Extending Kotlin's Type System](https://www.youtube.com/watch?v=3uNpmhHwkuQ) - Ross Tate
 
 [Translating Java to Kotlin at Scale](https://www.youtube.com/watch?v=zfnOjAYdWrc) - Eve Matthaey
+
+[The Ai-Assisted Developer Workflow: Build Faster and Smarter Today](https://www.youtube.com/watch?v=SpKtpW9TGF0) - Addy Osmani
