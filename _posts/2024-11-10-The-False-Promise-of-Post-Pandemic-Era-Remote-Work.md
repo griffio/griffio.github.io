@@ -71,12 +71,14 @@ The pandemic exposed how much of office culture was about presenteeism rather th
 
 Progress requires moving beyond simplistic office-versus-remote debates to focus on:
 - Measuring actual outcomes rather than presence
+- People in their early career benefit from being co-located
 - Developing genuine distributed work capabilities
 - Creating purpose-built spaces for different types of work
 - Implementing systems that support both synchronous and asynchronous collaboration
 - Async working is neither underrated or overrated it allows us to be precisley somewhere else
 - Acknowledging that some work isn't bound to location
-- It's not a zero sum game
+- Acknowledging that some work is bound to location
+- It's not a zero sum game but a net gain when workers are in their most productive location 
 - Kick starting a race to the top where good practices are copied
 
 The moral panic about office returns reveals more about organizational failures than worker productivity. True innovation in work practices requires honest examination of our assumptions and biases about where and how work happens best.
