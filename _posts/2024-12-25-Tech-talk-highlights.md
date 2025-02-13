@@ -34,3 +34,5 @@ summary: highlighted tech talks 2024
 [The Ai-Assisted Developer Workflow: Build Faster and Smarter Today](https://www.youtube.com/watch?v=SpKtpW9TGF0) - Addy Osmani
 
 [Pkl: Safe & Maintainable Config for Apps & Infrastructure](https://www.youtube.com/watch?v=yUmA5bA50H0) - James Ward
+
+[Virtual Machinations: Leveraging the Linguistic Bytecode of Large Language Models](https://www.youtube.com/watch?v=ySKS719R6fc) - Erik Meijer
