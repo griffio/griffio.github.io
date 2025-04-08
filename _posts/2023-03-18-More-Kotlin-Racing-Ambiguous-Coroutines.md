@@ -8,11 +8,12 @@ description: kotlin coroutines racing ambiguous suspended functions
 runcode: true
 ---
 
-Shows **basic examples** where two or more suspended functions can be executed in parallel, the first result to 
+Shows **basic and more advanced examples** where two or more suspended functions can be executed in parallel, the first result to 
 complete successfully will be used and the rest will be cancelled, ending the nearest coroutine scope.
 
 Useful for [Happy Eyeballs](https://www.rfc-editor.org/rfc/rfc8305) or another fast fallback algorithm is required. 
 
+See the repo for final examples [kotlin-coroutine-racing](https://github.com/griffio/kotlin-coroutine-racing)
 ---
 
 The main entry point `suspend` begins with an implicit [Default Dispatcher](https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html#dispatchers-and-threads) (backed by a shared pool of threads on JVM).
