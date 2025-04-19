@@ -52,6 +52,8 @@ noted from The Practices of Extreme Programming - Agile Software Development (Ro
 
 We can still have the goal that nothing can compensate for knowing what you are producing is being reviewed and collaborated on in real time. The key is to learn what to code as well as when and why.
 
+The benefit to productivity where, avoiding the ordeal of Pull Request reviews, the developers working together have the authority to merge changes immediatley.
+
 **Two wrongs don't make a right** where a Pair can still come up with a defective solution. 
 
 Some kind of Peer Programming intervention enables the quickest way to stop defective code from making it into production.
