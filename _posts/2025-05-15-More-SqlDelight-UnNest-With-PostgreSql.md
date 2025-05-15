@@ -9,7 +9,11 @@ summary: sqldelight postgresql unnest table function
 
 Initial Support for  [UnNest](https://www.postgresql.org/docs/17/queries-table-expressions.html#QUERIES-TABLEFUNCTIONS) in [SqlDelight](https://github.com/sqldelight/sqldelight/pull/5673) `2.1.0-SNAPSHOT`
 
-NOTE: Only `unnest` table function is supported 
+NOTE: Only `unnest` table function is supported
+
+* UNNEST function that takes one array
+* UNNEST table row function that takes one or more array
+* UNNEST bulk insert, delete and update using arrays
 
 **Example**
 
