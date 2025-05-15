@@ -9,6 +9,8 @@ summary: sqldelight postgresql unnest table function
 
 Initial Support for  [UnNest](https://www.postgresql.org/docs/17/queries-table-expressions.html#QUERIES-TABLEFUNCTIONS) in [SqlDelight](https://github.com/sqldelight/sqldelight/pull/5673) `2.1.0-SNAPSHOT`
 
+NOTE: Only `unnest` table function is supported 
+
 **Example**
 
 [https://github.com/griffio/sqldelight-postgres-unnest](https://github.com/griffio/sqldelight-postgres-unnest)
@@ -65,9 +67,9 @@ WHERE (name, age) IN (
 selectLocations:
 SELECT DISTINCT b.*
 FROM Business b
-JOIN LATERAL UNNEST(b.zipcodes) AS loc(zipcode) ON loc.zipcode ILIKE '%' || :query || '%';
+JOIN LATERAL UNNEST(b.zipcodes) AS loc(zipcode) ON loc.zipcode ILIKE '%' || :query::TEXT || '%';
 --Same as above can also be written without explict join
 --SELECT DISTINCT b.*
---FROM Business b, UNNEST(b.zipcodes) AS loc(zipcode) WHERE loc.zipcode ILIKE '%' || :query || '%';
+--FROM Business b, UNNEST(b.zipcodes) AS loc(zipcode) WHERE loc.zipcode ILIKE '%' || :query::TEXT || '%';
 
 ```
