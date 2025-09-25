@@ -9,7 +9,7 @@ summary: sqldelight postgresql support for triggers and trigger functions
 
 Initial support for  [CREATE TRIGGER](https://www.postgresql.org/docs/current/sql-createtrigger.html)) in [SqlDelight](https://github.com/sqldelight/sqldelight/pull/5932) `2.2.0-SNAPSHOT`
 
-Limited support for [Pg/PlSql] to implement basic trigger functions
+Limited support for [Pg/PlSql](https://www.postgresql.org/docs/current/plpgsql-trigger.html) to implement basic trigger functions e.g `IF ELSEIF ELSE` conditionals and trigger variables `TG_OP`.
 
 **Example**
 
@@ -35,7 +35,8 @@ RETURNS TRIGGER LANGUAGE PLPGSQL AS
 $$
 BEGIN
     IF new.balance <> old.balance THEN
-       INSERT INTO accounts_audit(account_id, balance, changed_on) VALUES (old.id, old.balance, NOW());
+       INSERT INTO accounts_audit(account_id, balance, changed_on)
+       VALUES (old.id, old.balance, NOW());
     END IF;
     RETURN new;
 END;
