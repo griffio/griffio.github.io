@@ -7,7 +7,7 @@ published: true
 summary: sqldelight postgresql support for triggers and trigger functions 
 ---
 
-Initial support for  [CREATE TRIGGER](https://www.postgresql.org/docs/current/sql-createtrigger.html)) in [SqlDelight](https://github.com/sqldelight/sqldelight/pull/5932) `2.2.0-SNAPSHOT`
+Initial support for  [CREATE TRIGGER](https://www.postgresql.org/docs/current/sql-createtrigger.html) in [SqlDelight](https://github.com/sqldelight/sqldelight/pull/5932) `2.2.0-SNAPSHOT`
 
 Limited support for [Pg/PlSql](https://www.postgresql.org/docs/current/plpgsql-trigger.html) to implement basic trigger functions e.g `IF ELSEIF ELSE` conditionals and trigger variables `TG_OP`.
 
