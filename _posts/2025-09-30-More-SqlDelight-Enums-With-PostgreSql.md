@@ -7,6 +7,8 @@ published: true
 summary: sqldelight postgresql support for enums 
 ---
 
+Initial support for Enums in [SqlDelight](https://github.com/sqldelight/sqldelight) `2.2.0-SNAPSHOT`
+
 These are mapped as String type, there is no compiler support yet for generating as Kotlin Enum classes. Currently type safety outside the database is lost.
 
 It is recommend to use [SqlDelight enum type adapters](https://sqldelight.github.io/sqldelight/2.1.0/jvm_postgresql/types/#enums) instead as these are type safe, there maybe some performance reasons for using native enums or using them as ranges.
