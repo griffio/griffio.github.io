@@ -15,7 +15,7 @@ Using functions `json_agg` , `jsonb_agg` , `json_object_agg` , `jsonb_object_agg
 SELECT json_agg(data) FILTER (WHERE (data->>'in_stock')::BOOLEAN) FROM SomeTable;
 
 SELECT jsonb_agg(data->'color') FILTER (WHERE data ?? 'color') AS colors
-FROM SomeTable;
+FROM SomeTable; -- The exists `?` operator is escaped with `?` for Jdbc
 
 SELECT jsonb_object_agg(key, value ORDER BY key DESC) FILTER (WHERE key IS NOT NULL)
 FROM SomeTable;
