@@ -9,7 +9,7 @@ summary: sqldelight postgresql support for temporal ranges
 
 Support for Temporal Ranges in [SqlDelight](https://github.com/sqldelight/sqldelight/pull/5297) `2.2.0`
 
-see [](https://www.postgresql.org/docs/current/rangetypes.html#RANGETYPES-CONSTRAINT)
+see [https://www.postgresql.org/docs/current/rangetypes.html#RANGETYPES-CONSTRAINT](https://www.postgresql.org/docs/current/rangetypes.html#RANGETYPES-CONSTRAINT)
 
 **Example**
 
