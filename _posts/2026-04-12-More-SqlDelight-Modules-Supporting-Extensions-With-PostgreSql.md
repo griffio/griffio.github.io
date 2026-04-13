@@ -100,11 +100,9 @@ sqldelight {
  
 A module is a way to extend a dialect with extra grammar for new types and syntax.
 
-It can be as simple as a new type resolver implementation to declare functions but also more complicated type resolution of grammar rules.
+It can be as simple as a new type resolver implementation to declare additional functions but also more complicated type resolution of grammar rules.
 
 The module can be used from a local gradle module or released as a jar dependency.
-
-A module could be as simple as adding some missing functions that you need to a new TypeResolver implementation. 
 
 Modules are chained together by delegation, so that, if one module cannot resolve a function it calls the previous module in the chain (without any knowledge of that module).
 
