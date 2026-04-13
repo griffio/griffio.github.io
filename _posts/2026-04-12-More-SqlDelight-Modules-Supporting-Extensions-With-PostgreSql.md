@@ -58,9 +58,11 @@ sqldelight {
 }
 ```
  
-A module is a way to extend a dialect with extra grammar for types and resolvers for functions etc.
+A module is a way to extend a dialect with extra grammar for new types and syntax.
 
-The module is a released as jar file that is developed in a similar way to a dialect.
+It can be as simple as a new type resolver implementation to declare functions but also more complicated type resolution of grammar rules.
+
+The module can be used from a local gradle module or released as a jar dependency.
 
 A module could be as simple as adding some missing functions that you need to a new TypeResolver implementation. 
 
