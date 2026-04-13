@@ -38,6 +38,46 @@ These are currently experimental:
 
 Note: limited PostGis support already exists in the core PostgreSql Dialect, this could be moved to a module in the future to make maintenance easier.
 
+
+A single query file can use types, functions from more than one module extension
+
+e.g VectorChord and bm25 extensions are in different modules
+
+```sql
+CREATE EXTENSION IF NOT EXISTS vchord CASCADE;
+CREATE EXTENSION IF NOT EXISTS pg_tokenizer CASCADE;  -- for tokenizer
+CREATE EXTENSION IF NOT EXISTS vchord_bm25 CASCADE;   -- for bm25 ranking
+
+SET search_path TO 'tokenizer_catalog, bm25_catalog';
+
+SELECT create_tokenizer('bert', 'model = "bert_base_uncased"');
+SELECT create_tokenizer('tocken', 'model = "wiki_tocken"');
+
+CREATE TABLE Documents (
+    id BIGINT GENERATED ALWAYS AS IDENTITY,
+    passage TEXT,
+    embedding BM25VECTOR
+);
+
+CREATE INDEX documents_embedding_bm25 ON Documents USING bm25 (embedding bm25_ops);
+
+CREATE TABLE items (
+    id BIGSERIAL PRIMARY KEY,
+    embedding VECTOR(3),
+    bits BIT(3)
+);
+
+CREATE INDEX idx_embedding_hnsw ON items USING hnsw (embedding vector_l2_ops);
+
+CREATE INDEX idx_embedding_ivfflat ON items USING ivfflat (embedding vector_l2_ops) WITH (lists = 100);
+
+CREATE INDEX idx_embedding_vchordrq ON items USING vchordrq (embedding vector_l2_ops)
+WITH (options = '
+ [build.internal]
+ lists = [1000]
+');
+```
+
 **How do modules work?**
 
 The SqlDelight gradle plugin block can take zero or more module definitions.
