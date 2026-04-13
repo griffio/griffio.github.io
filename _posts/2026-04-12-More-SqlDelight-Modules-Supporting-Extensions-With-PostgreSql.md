@@ -7,7 +7,7 @@ published: true
 summary: sqldelight postgresql module support for extensions 
 ---
 
-** Support Postgresql extensions with SqlDelight Modules. **
+**Support Postgresql extensions with SqlDelight Modules**
 
 Going beyond the SqlDelight PostgreSql dialect that currently supports varied but ultimately limited features, it is possible
 to use the module mechanism to implement popular PostgreSql extensions.
@@ -19,27 +19,27 @@ Consumers are encouraged to clone the repo modules below for easier maintenance.
  
 These are currently experimental:
 
-PgCrypto (https://github.com/griffio/sqldelight-pgcrypto-module-app)
+[PgCrypto](https://github.com/griffio/sqldelight-pgcrypto-module-app)
 
-PgSearch (ParadeDb) (https://github.com/griffio/sqldelight-pgsearch-module-app)
+[PgSearch (ParadeDb)](https://github.com/griffio/sqldelight-pgsearch-module-app)
  
-PgTextSearch (https://github.com/griffio/sqldelight-pgtextsearch-module-app)
+[PgTextSearch](https://github.com/griffio/sqldelight-pgtextsearch-module-app)
  
-PgRoonga (https://github.com/griffio/sqldelight-pgroonga-module-app)
+[PgRoonga](https://github.com/griffio/sqldelight-pgroonga-module-app)
 
-PgVector (https://github.com/griffio/sqldelight-pgvector-module-app)
+[PgVector](https://github.com/griffio/sqldelight-pgvector-module-app)
  
-TimeScaleDb (https://github.com/griffio/sqldelight-timescaledb-module)
+[TimeScaleDb](https://github.com/griffio/sqldelight-timescaledb-module)
  
-VectorChord (https://github.com/griffio/sqldelight-vectorchord-module-app) 
+[VectorChord](https://github.com/griffio/sqldelight-vectorchord-module-app) 
 
-VectorChord BM25 (https://github.com/griffio/sqldelight-bm25-module-app)
+[VectorChord BM25](https://github.com/griffio/sqldelight-bm25-module-app)
 
-** How do modules work? **
+**How do modules work?**
 
 The SqlDelight gradle plugin block can take zero or more module definitions.
 
-```
+``` kotlin
 sqldelight {
     databases {
         create("Sample") {
@@ -48,8 +48,8 @@ sqldelight {
             migrationOutputFileFormat = ".sql"
             packageName.set("griffio.queries")
             dialect(libs.sqldelight.postgresql.dialect)
-            module("io.github.griffio:sqldelight-bm25:0.0.2") // Parser rules are chained to allow ...
-            module("io.github.griffio:sqldelight-vectorchord:0.0.2") // ... more than one module
+            module("io.github.griffio:sqldelight-bm25:0.0.2")
+            module("io.github.griffio:sqldelight-vectorchord:0.0.2")
         }
     }
 }
@@ -71,5 +71,5 @@ Creating a grammar that adds new types, overrides some extension rules index_met
 
 Careful structuring is required to maintain the chain of modules that must work without knowledge of the other modules.
 
-(https://github.com/griffio/sqldelight-pgvector-module-app/blob/5acc9c67e794c081d7d016e2084ab5bbc238f431/pgvector-module/src/main/kotlin/griffio/PgVectorModule.kt#L39)
+[PgVectorModule chain](https://github.com/griffio/sqldelight-pgvector-module-app/blob/5acc9c67e794c081d7d016e2084ab5bbc238f431/pgvector-module/src/main/kotlin/griffio/PgVectorModule.kt#L39)
 
