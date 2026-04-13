@@ -9,12 +9,11 @@ summary: sqldelight postgresql module support for extensions
 
 **Support Postgresql extensions with SqlDelight Modules**
 
-Going beyond the SqlDelight PostgreSql dialect that currently supports varied but ultimately limited features, it is possible
-to use the module mechanism to implement popular PostgreSql extensions.
-
-Limited PostGis support already exists in the core PostgreSql Dialect, this could be moved to a module in the future to make maintenance easier.
+Extending the SqlDelight PostgreSql dialect, currently supports varied but limited core features, is possible
+using the module mechanism to implement popular PostgreSql extensions.
  
-This allows consumers to maintain and develop their own custom functions and types without dumping everything in one codebase that is not released frequently.
+This allows consumers to maintain and develop their own custom functions and types without dumping everything in one dialect codebase when that is not released frequently.
+
 Consumers are encouraged to clone the repo modules below for easier maintenance. 
  
 These are currently experimental:
@@ -34,6 +33,8 @@ These are currently experimental:
 [VectorChord](https://github.com/griffio/sqldelight-vectorchord-module-app) 
 
 [VectorChord BM25](https://github.com/griffio/sqldelight-bm25-module-app)
+
+Note: limited PostGis support already exists in the core PostgreSql Dialect, this could be moved to a module in the future to make maintenance easier.
 
 **How do modules work?**
 
