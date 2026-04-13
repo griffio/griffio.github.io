@@ -39,7 +39,7 @@ These are currently experimental:
 Note: limited PostGis support already exists in the core PostgreSql Dialect, this could be moved to a module in the future to make maintenance easier.
 
 
-A single query file can use types, functions from more than one module extension
+A single query file can use types, functions from more than one module extension compiled together.
 
 e.g VectorChord and bm25 extensions are in different modules
 
