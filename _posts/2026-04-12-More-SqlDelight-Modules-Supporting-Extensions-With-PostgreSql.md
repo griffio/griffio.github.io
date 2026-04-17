@@ -110,9 +110,11 @@ When implementing grammar in a new module, overriding parent rules must be perfo
 
 For example, 
 
-Creating a grammar that adds new types, overrides some extension rules index_method and storage_parameters.
+Creating a grammar that adds new types, overrides some extension rules, such as, `index_method` and `storage_parameters`.
 
 Careful structuring is required to maintain the chain of modules that must work without knowledge of the other modules.
+
+See this example:
 
 [PgVectorModule chain](https://github.com/griffio/sqldelight-pgvector-module-app/blob/5acc9c67e794c081d7d016e2084ab5bbc238f431/pgvector-module/src/main/kotlin/griffio/PgVectorModule.kt#L39)
 
