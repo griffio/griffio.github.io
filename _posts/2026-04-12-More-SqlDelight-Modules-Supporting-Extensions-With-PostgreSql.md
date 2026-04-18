@@ -9,10 +9,9 @@ summary: sqldelight postgresql module support for extensions
 
 **Support Postgresql extensions with SqlDelight Modules**
 
-Extending the SqlDelight PostgreSql dialect, currently supports varied but limited core features, is possible
-using the module mechanism to implement popular PostgreSql extensions.
- 
-You maybe using SqlDelight already and need it to support some extra functions and types from an extension.
+You maybe using SqlDelight already and need a dialect to support some extra functions and types.
+
+Extending the existing SqlDelight PostgreSql dialect is possible using a custom `module` to implement popular PostgreSql extensions.
  
 This allows consumers to maintain and develop their own custom functions and types without dumping everything in one dialect codebase when that is not released frequently.
 
