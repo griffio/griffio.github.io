@@ -162,7 +162,7 @@ outbrain,http://techblog.outbrain.com/,outbrain,http://outbrain.mytribehr.com/ca
 oyster,http://tech.oyster.com/,oysterhotels,http://jobs.oyster.com/,"css python",true
 paperlesspost,https://dev.paperlesspost.com/,paperlesspost,https://www.paperlesspost.com/about/jobs,"c++ go javascript ruby",true
 paypal,https://www.paypal-engineering.com/,paypal,https://www.paypal.com/us/webapps/mpp/jobs,"c# c++ html java javascript php ruby scala",true
-pinterest,https://engineering.pinterest.com/,pinterest,https://about.pinterest.com/en/careers/engineering,"elixir go java javascript objective-c python",true
+pinterest,https://medium.com/pinterest-engineering,pinterest,https://engineering.pinterest.com/,"elixir go java javascript objective-c python",true
 pivotal,http://engineering.pivotal.io/,pivotal,https://pivotal.io/careers,"css html java javascript objective-c++ ruby viml",true
 plumbee,http://engineering.plumbee.com/,plumbee,https://www.plumbee.com/jobs/,"actionscript clojure java python shell",true
 podio,https://medium.com/podio-engineering-blog,podio,https://company.podio.com/jobs,"c# java javascript objective-c php python ruby",true
