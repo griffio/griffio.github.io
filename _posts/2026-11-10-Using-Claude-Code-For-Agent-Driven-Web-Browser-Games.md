@@ -73,6 +73,9 @@ function truck(supply) {
 
 The wheels are collected into `parts` so the game can spin them, and the front ones can steer. The same code-built models are then voxelised into MagicaVoxel `.vox` files, which the game loads at runtime and which can be edited by hand and re-exported.
 
+![supply-truck](public/supply-truck.png)
+
+
 ## Planning and milestones
 
 For anything beyond the simplest game, I let Claude write a plan first. It will often ask me to make some choices. Then I start the first milestone, and there can be more than half a dozen.
