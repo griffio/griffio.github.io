@@ -73,8 +73,7 @@ function truck(supply) {
 
 The wheels are collected into `parts` so the game can spin them, and the front ones can steer. The same code-built models are then voxelised into MagicaVoxel `.vox` files, which the game loads at runtime and which can be edited by hand and re-exported.
 
-![supply-truck](public/supply-truck.png)
-
+![supply-truck](/public/supply-truck.png)
 
 ## Planning and milestones
 
@@ -101,6 +100,8 @@ Verification:- the image below is a spectrogram of the game's own audio, recorde
 Sea and sky:- A JONSWAP spectrum drives three FFT cascades in compute shaders, with foam, glitter and wakes that persist and advect; a Hillaire atmosphere with clouds; a real horizon with the earth's curvature, so distant ships appear mast-first. The sea's grid is drawn only in the arc the camera can see.
 ![Sea and Sky](https://github.com/griffio/dreadnought-game/blob/master/docs/screenshots/sea-golden-hour.jpg?raw=true)
 Once the first version or important milestones completed, my next prompt is: *Review the code and fix any bugs or optimisations*. Claude doesn't write perfect code, so I run several reviews and bug sweeps as the game progresses.
+
+Another example where Claude thinks it's doing something real, Fable 5.1's safeguard stopped the response for `[general_harms]` *Design AI aircraft control architecture*
 
 ## Using LLMs inside a game
 
