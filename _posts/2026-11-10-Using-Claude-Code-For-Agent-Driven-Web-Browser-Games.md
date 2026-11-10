@@ -3,7 +3,7 @@ layout: post
 title: Using Claude Code for agent driven Web Browser games
 category: blog
 tags: [claude games] 
-published: false
+published: true
 summary: Claude Code agent web browser games webgpu 
 ---
 
