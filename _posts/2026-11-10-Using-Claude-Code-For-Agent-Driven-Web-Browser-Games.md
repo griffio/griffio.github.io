@@ -9,7 +9,7 @@ summary: Claude Code agent web browser games webgpu
 
 # Building Browser Games with Claude Code
 
-Over the past few weeks I've been building web browser games of varying complexity with Claude Code, plus a handful of other LLM services for images and audio. The results so far are in these repos:
+Over the past few weeks I've been building web browser games of varying complexity with Claude Code just driving it with suggestions and asking questions, plus a handful of other LLM services for images and audio. The results so far are in these repos:
 
 These vary complexity but most are created from an initial LLM generated plan, rather than `one-shotted` from a single prompt:
 
@@ -35,7 +35,7 @@ I can swap WebGPU for canvas for 2D graphics, or WebGL if I'm targeting older br
 
 Claude can render 2D or 3D, but can't produce models such as Blender produces, something like https://www.meshy.ai/ would have be put into the development cycle. It can't generate 3D model files directly in same way that LLMs can't current produce binary files, they produce text such as code. Instead, it needs a library that builds sprites or 3D models, such as voxels. It knows how to call an API to create a plane, a tank or a prop like a house. It can also write its own graphics library, and I can then prompt it to generate code that creates the model I want.
 
-In pixel-ops-games, for example, each unit is built in code from a handful of helpers: `box(width, height, depth, material, x, y, z, parent)` places a named-material box, and `wheel`, `ring` and `mesh` do the rest. Claude writes models as lists of these calls, with comments describing what each part is. This is an abridged excerpt of how it builds the cargo truck (`supply` switches between the plain truck and the supply truck with its curtains rolled up over the load):
+In pixel-ops-games, for example, Claude came up with an idea where each unit is built in code from a handful of helpers: `box(width, height, depth, material, x, y, z, parent)` places a named-material box, and `wheel`, `ring` and `mesh` do the rest. Claude writes models as lists of these calls, with comments describing what each part is. This is an abridged excerpt of how it builds the cargo truck (`supply` switches between the plain truck and the supply truck with its curtains rolled up over the load):
 
 ```js
 // Reference look: 6x6 cargo truck in tri-colour camo. Square cab with a split windscreen, grille, mirrors on arms,
