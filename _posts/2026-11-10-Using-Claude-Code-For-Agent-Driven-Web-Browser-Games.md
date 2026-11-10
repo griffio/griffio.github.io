@@ -90,7 +90,7 @@ I can also give Claude API keys for other models:
 
 On the high-thinking models, Claude loves to build simulations and tests to check the game engine works. As a game grows, those tests take longer, because they run headless games to check balance.
 
-Once the first version or important milestones completed, my next prompt is: *"Review the code and fix any bugs or optimisations."*. Claude doesn't write perfect code, so I run several reviews and bug sweeps as the game progresses.
+Once the first version or important milestones completed, my next prompt is: *Review the code and fix any bugs or optimisations*. Claude doesn't write perfect code, so I run several reviews and bug sweeps as the game progresses.
 
 ## Using LLMs inside a game
 
