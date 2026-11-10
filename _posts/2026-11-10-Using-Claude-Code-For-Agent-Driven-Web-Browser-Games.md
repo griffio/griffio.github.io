@@ -33,7 +33,7 @@ I can swap WebGPU for canvas for 2D graphics, or WebGL if I'm targeting older br
 
 ## Graphics
 
-Claude can render 2D or 3D, but nothing like what Blender produces. It can't generate 3D model files directly. Instead, it needs a library that builds sprites or 3D models, such as voxels. It knows how to call an API to create a plane, a tank or a prop like a house. It can also write its own graphics library, and I can then prompt it to generate code that creates the model I want.
+Claude can render 2D or 3D, but can't produce models such as Blender produces, something like https://www.meshy.ai/ would have be put into the development cycle. It can't generate 3D model files directly in same way that LLMs can't current produce binary files, they produce text such as code. Instead, it needs a library that builds sprites or 3D models, such as voxels. It knows how to call an API to create a plane, a tank or a prop like a house. It can also write its own graphics library, and I can then prompt it to generate code that creates the model I want.
 
 In pixel-ops-games, for example, each unit is built in code from a handful of helpers: `box(width, height, depth, material, x, y, z, parent)` places a named-material box, and `wheel`, `ring` and `mesh` do the rest. Claude writes models as lists of these calls, with comments describing what each part is. This is an abridged excerpt of how it builds the cargo truck (`supply` switches between the plain truck and the supply truck with its curtains rolled up over the load):
 
