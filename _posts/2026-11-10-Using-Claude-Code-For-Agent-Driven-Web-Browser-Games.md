@@ -93,11 +93,10 @@ On the high-thinking models, Claude loves to build simulations and tests to chec
 Using Claude Fable results in the model taking it's job very seriously:
 
 Verification:- the image below is a spectrogram of the game's own audio, recorded while driving through the gears. The overlaid lines are the V8 orders expected from the game's RPM, and the recorded harmonics follow them through each pull, shift and lift-off. The tyre squeal and burnout show up in the 1–2 kHz band.
-![Engin Audio](https://github.com/griffio/redline-city-sandbox/blob/main/docs/screenshots/engine-audio.jpg
-)
+![Engin Audio](https://github.com/griffio/redline-city-sandbox/blob/main/docs/screenshots/engine-audio.jpg?raw=true)
 
 Sea and sky:- A JONSWAP spectrum drives three FFT cascades in compute shaders, with foam, glitter and wakes that persist and advect; a Hillaire atmosphere with clouds; a real horizon with the earth's curvature, so distant ships appear mast-first. The sea's grid is drawn only in the arc the camera can see.
-![Sea and Sky](https://github.com/griffio/dreadnought-game/blob/master/docs/screenshots/sea-golden-hour.jpg)
+![Sea and Sky](https://github.com/griffio/dreadnought-game/blob/master/docs/screenshots/sea-golden-hour.jpg?raw=true)
 Once the first version or important milestones completed, my next prompt is: *Review the code and fix any bugs or optimisations*. Claude doesn't write perfect code, so I run several reviews and bug sweeps as the game progresses.
 
 ## Using LLMs inside a game
