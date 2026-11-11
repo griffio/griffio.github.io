@@ -79,6 +79,12 @@ The wheels are collected into `parts` so the game can spin them, and the front o
 
 For anything beyond the simplest game, I let Claude write a plan first. It will often ask me to make some choices. Then I start the first milestone, and there can be more than half a dozen.
 
+Claude can make the game as complicated as you want, be it a naval simulation and will model the physics in great detail.
+
+A game is better the more specific you make it, as the LLM is an expert on any subject, rather than a generic shooter try to add layers of gameplay.
+
+As you are not coding it yourself, there are few limitations, only refining to your taste.
+
 ## Adding images and audio
 
 I can also give Claude API keys for other models:
