@@ -83,6 +83,8 @@ Claude can make the game as complicated as you want, be it a naval simulation an
 
 A game is better the more specific you make it, as the LLM is an expert on any subject, rather than a generic shooter try to add layers of gameplay.
 
+For example, add a naval shell camera. Ride a salvo to its splash and make adjustments for the next strike.
+
 As you are not coding it yourself, there are few limitations, only refining to your taste.
 
 ## Adding images and audio
