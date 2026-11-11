@@ -81,6 +81,10 @@ For anything beyond the simplest game, I let Claude write a plan first. It will 
 
 Claude can make the game as complicated as you want, be it a naval simulation and will model the physics in great detail.
 
+```
+Honest fire control. Rangefinder error that grows with the square of the range and keeps a bias no averaging removes; a plot that settles and decays when the target turns; dispersion per shell and per salvo; wind and Coriolis; an auto-spotter that applies the fall of shot; armour-piercing and high-explosive rounds.
+```
+
 A game is better the more specific you make it, as the LLM is an expert on any subject, rather than a generic shooter try to add layers of gameplay.
 
 For example, add a naval shell camera. Ride a salvo to its splash and make adjustments for the next strike.
