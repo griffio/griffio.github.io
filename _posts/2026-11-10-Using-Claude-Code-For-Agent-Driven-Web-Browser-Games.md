@@ -89,6 +89,8 @@ A game is better the more specific you make it, as the LLM is an expert on any s
 
 For example, add a naval shell camera. Ride a salvo to its splash and make adjustments for the next strike.
 
+The LLM is quick to fix any inconsistencies, one example in pixel ops where the vehicle wheels sunk into the road terrain, showing the model a screenshot fixed it in moments. 
+
 As you are not coding it yourself, there are few limitations, only refining to your taste.
 
 ## Adding images and audio
@@ -122,4 +124,4 @@ In pixel-ops-games, an LLM acts as a commander for each CPU side, not as a playe
 ## Key Lessons
 
 You are not writing the code anymore and the LLM is relentless, be more ambitious in what your game will do, keep feeding the model ideas and suggestions to correct anything wrong.
-One of it's common phrases in response to a question is `Rather than guess...`. The model will create ways to test the code and profile the game on devices it can't run on such as a tablet or phone.
+One of its common phrases in response to a question is `Rather than guess...`. The model will create ways to test the code and profile the game on devices it can't run on such as a tablet or phone.
