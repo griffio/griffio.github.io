@@ -29,7 +29,7 @@ I begin with a general prompt to Claude Opus at `xhigh` effort, something like:
 
 > Create a Web Browser game using WebGPU targeting Desktop with keyboard and mouse, iPad with touch and game controller support. Don't use any third party dependencies.
 
-I can swap WebGPU for canvas for 2D graphics, or WebGL if I'm targeting older browsers. The second part is the actual game idea, which can be as simple or as adventurous as I like. With experience, I've found a complex game can take over a week to grow from its basic premise to something with real depth. With *extra thinking* LLMs, you can also add blunt encouragements like *Really impress me* or *Make this game really polished*, Claude will just keep going, because that's in the nature of generative AI.
+I can swap WebGPU for canvas for 2D graphics, or WebGL if I'm targeting older browsers. The second part is the actual game idea, which can be as simple or as adventurous as I like. With experience, I've found a complex game can take over a week to grow from its basic premise to something with real depth. With *extra thinking* LLMs, you can also add encouragements like *Really impress me* or *Make this game really polished*, Claude will just keep going. Whether the initial game is better is something I judge by playing it.
 
 ## Graphics
 Claude can render 2D and 3D game objects, but it doesn’t produce finished model files the way Blender does. For that kind of asset you would need a separate service such as [Meshy](https://www.meshy.ai/).
