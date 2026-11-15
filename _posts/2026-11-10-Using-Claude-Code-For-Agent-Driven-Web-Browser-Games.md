@@ -36,7 +36,7 @@ Claude can render 2D and 3D game objects, but it doesn’t produce finished mode
 
 The reason is that LLMs (Claude) generates text. Code, JSON and text-based formats like SVG or glTF are natural output for it. Binary formats such as .vox or .glb depend on exact byte layouts, offsets and length fields, so one wrong byte can make the whole file invalid. A model can sometimes manage a tiny file, but it isn’t reliable at any real size.
 
-The workaround is to have Claude write a program that generates the binary instead of writing the bytes itself. In Pixel Ops, Claude wrote a small set of helpers (box, wheel, ring, mesh) and builds each unit as a list of calls to them, with comments describing each part. A separate export step voxelises the result into MagicaVoxel .vox files, which the game loads at runtime. Because the models are code, Claude can also revise them by editing that code.
+The workaround is to have Claude write a program that generates the binary instead of writing the bytes itself.
 
 In [Pixel Ops](https://github.com/griffio/pixel-ops-games/blob/master/src/core/models.js), for example, Claude came up with an idea where each unit is built in code from a handful of helpers: `box(width, height, depth, material, x, y, z, parent)` places a named-material box, and `wheel`, `ring` and `mesh` do the rest. Claude writes models as lists of these calls, with comments describing what each part is. This is an abridged excerpt of how it builds the cargo truck (`supply` switches between the plain truck and the supply truck with its curtains rolled up over the load):
 
