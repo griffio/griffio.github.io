@@ -106,7 +106,7 @@ I can also give Claude API keys for other models:
 
 On the high-thinking models, Claude loves to build simulations and tests to check the game engine works. As a game grows, those tests take longer, because they run headless games to check balance.
 
-Using Claude Fable results in the model taking it's job very seriously:
+Using Claude Fable results in the model taking its job very seriously:
 
 Verification:- the image below is a spectrogram of the game's own audio, recorded while driving through the gears. The overlaid lines are the V8 orders expected from the game's RPM, and the recorded harmonics follow them through each pull, shift and lift-off. The tyre squeal and burnout show up in the 1–2 kHz band.
 ![Engin Audio](https://github.com/griffio/redline-city-sandbox/blob/main/docs/screenshots/engine-audio.jpg?raw=true)
