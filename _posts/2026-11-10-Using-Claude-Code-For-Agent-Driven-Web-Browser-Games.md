@@ -32,7 +32,7 @@ I begin with a general prompt to Claude Opus at `xhigh` effort, something like:
 I can swap WebGPU for canvas for 2D graphics, or WebGL if I'm targeting older browsers. The second part is the actual game idea, which can be as simple or as adventurous as I like. With experience, I've found a complex game can take over a week to grow from its basic premise to something with real depth. With *extra thinking* LLMs, you can also add blunt encouragements like *Really impress me* or *Make this game really polished*, Claude will just keep going, because that's in the nature of generative AI.
 
 ## Graphics
-Claude can render 2D and 3D game objects, but it doesn’t produce finished model files the way Blender does. For that kind of asset you would need a separate service such as (Meshy)[meshy.ai].
+Claude can render 2D and 3D game objects, but it doesn’t produce finished model files the way Blender does. For that kind of asset you would need a separate service such as [Meshy](https://www.meshy.ai/).
 
 The reason is that LLMs (Claude) generates text. Code, JSON and text-based formats like SVG or glTF are natural output for it. Binary formats such as .vox or .glb depend on exact byte layouts, offsets and length fields, so one wrong byte can make the whole file invalid. A model can sometimes manage a tiny file, but it isn’t reliable at any real size.
 
@@ -88,13 +88,14 @@ Claude can make the game as complicated as you want, be it a naval simulation an
 Honest fire control. Rangefinder error that grows with the square of the range and keeps a bias no averaging removes; a plot that settles and decays when the target turns; dispersion per shell and per salvo; wind and Coriolis; an auto-spotter that applies the fall of shot; armour-piercing and high-explosive rounds.
 ```
 
-A game is better the more specific you make it, as the LLM is an expert on any subject, rather than a generic shooter try to add layers of gameplay.
+Claude knows a lot about many domains, which is why domain-specific requests work well. Its output still needs checking, though.
+A game is better the more specific you make it, like modeling Naval gunfire, rather than a generic shooter try to add layers of gameplay.
 
 For example, add a naval shell camera. Ride a salvo to its splash and make adjustments for the next strike.
 
 The LLM is quick to fix any inconsistencies, one example in pixel ops where the vehicle wheels sunk into the road terrain, showing the model a screenshot fixed it in moments. 
 
-As you are not coding it yourself, there are few limitations, only refining to your taste.
+Not writing the code myself removes the time taken and limitations of my own coding skill. The remaining limits are my ideas, my taste of the result, and the time spent on testing and review.
 
 ## Adding images and audio
 
